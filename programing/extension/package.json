@@ -1,0 +1,155 @@
+{
+  "name": "viet-translate",
+  "displayName": "🇻🇳 Việt Translate - English to Vietnamese",
+  "description": "Dịch tiếng Anh sang tiếng Việt ngay trong VSCode. Hỗ trợ phát âm giọng nói để học tiếng Anh hiệu quả!",
+  "version": "1.0.0",
+  "publisher": "hieulevan",
+  "icon": "images/icon.png",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Other",
+    "Education"
+  ],
+  "keywords": [
+    "translate",
+    "vietnamese",
+    "english",
+    "dịch",
+    "tiếng việt",
+    "toeic",
+    "language"
+  ],
+  "activationEvents": [
+    "onStartupFinished"
+  ],
+  "main": "./out/extension.js",
+  "contributes": {
+    "commands": [
+      {
+        "command": "vietTranslate.translateSelection",
+        "title": "🇻🇳 Dịch sang Tiếng Việt",
+        "category": "Việt Translate"
+      },
+      {
+        "command": "vietTranslate.translateParagraph",
+        "title": "📄 Dịch Cả Đoạn Văn",
+        "category": "Việt Translate"
+      },
+      {
+        "command": "vietTranslate.translateAndSpeak",
+        "title": "🔊 Dịch + Phát Âm (Speak)",
+        "category": "Việt Translate"
+      },
+      {
+        "command": "vietTranslate.speakSelection",
+        "title": "🔊 Phát Âm Tiếng Anh",
+        "category": "Việt Translate"
+      },
+      {
+        "command": "vietTranslate.toggleHover",
+        "title": "👆 Bật/Tắt Dịch Khi Hover",
+        "category": "Việt Translate"
+      },
+      {
+        "command": "vietTranslate.openPanel",
+        "title": "📖 Mở Bảng Dịch",
+        "category": "Việt Translate"
+      }
+    ],
+    "menus": {
+      "editor/context": [
+        {
+          "command": "vietTranslate.translateSelection",
+          "group": "vietTranslate@1",
+          "when": "editorHasSelection"
+        },
+        {
+          "command": "vietTranslate.translateParagraph",
+          "group": "vietTranslate@2"
+        },
+        {
+          "command": "vietTranslate.translateAndSpeak",
+          "group": "vietTranslate@3",
+          "when": "editorHasSelection"
+        },
+        {
+          "command": "vietTranslate.speakSelection",
+          "group": "vietTranslate@4",
+          "when": "editorHasSelection"
+        }
+      ]
+    },
+    "keybindings": [
+      {
+        "command": "vietTranslate.translateSelection",
+        "key": "ctrl+shift+t",
+        "mac": "cmd+shift+t",
+        "when": "editorTextFocus"
+      },
+      {
+        "command": "vietTranslate.translateParagraph",
+        "key": "ctrl+shift+a",
+        "mac": "cmd+shift+a",
+        "when": "editorTextFocus"
+      },
+      {
+        "command": "vietTranslate.translateAndSpeak",
+        "key": "ctrl+shift+s",
+        "mac": "cmd+shift+s",
+        "when": "editorTextFocus"
+      },
+      {
+        "command": "vietTranslate.speakSelection",
+        "key": "ctrl+shift+p",
+        "mac": "cmd+shift+p",
+        "when": "editorTextFocus && editorHasSelection"
+      }
+    ],
+    "configuration": {
+      "title": "Việt Translate",
+      "properties": {
+        "vietTranslate.enableHover": {
+          "type": "boolean",
+          "default": true,
+          "description": "Bật dịch tự động khi di chuột (hover) qua từ"
+        },
+        "vietTranslate.showPhonetic": {
+          "type": "boolean",
+          "default": true,
+          "description": "Hiển thị phiên âm IPA của từ tiếng Anh"
+        },
+        "vietTranslate.autoSpeak": {
+          "type": "boolean",
+          "default": false,
+          "description": "Tự động phát âm khi dịch"
+        },
+        "vietTranslate.speakRate": {
+          "type": "number",
+          "default": 0.9,
+          "minimum": 0.1,
+          "maximum": 2,
+          "description": "Tốc độ phát âm (0.1 = chậm, 2.0 = nhanh)"
+        },
+        "vietTranslate.maxHoverLength": {
+          "type": "number",
+          "default": 5,
+          "description": "Số từ tối đa để dịch khi hover (1-10)"
+        }
+      }
+    }
+  },
+  "scripts": {
+    "vscode:prepublish": "npm run compile",
+    "compile": "tsc -p ./",
+    "watch": "tsc -watch -p ./",
+    "package": "vsce package --no-dependencies"
+  },
+  "devDependencies": {
+    "@types/node": "^18.19.130",
+    "@types/vscode": "^1.74.0",
+    "@vscode/vsce": "^2.15.0",
+    "typescript": "^5.9.3"
+  }
+}

@@ -1,0 +1,25 @@
+# Chương 2: Khái quát về hoạt động chiến lược marketing
+## Chủ đề 1: Công việc quản trị Marketing
+---
+
+### 📝 Slide 1
+Xin chào các bạn Hôm nay chúng ta tiếp tục tìm hiểu chương hai: Hoạch định chiến lược Marketing.
+
+### 📝 Slide 2
+Trong chương này, tôi sẽ giới thiệu đến các bạn những kiến thức khái quát về hoạch định chiến lược Marketing nhằm mục đích giúp các bạn hiểu được các bước trong quá trình quản trị Marketing và ý nghĩa của chúng đối với nhà quản trị Marketing, ghi nhớ các khái niệm chiến lược Marketing cũng như phân biệt được các đặc điểm riêng biệt của các chiến lược Marketing. 3
+
+### 📝 Slide 4
+Chương hai bao gồm hai chủ đề với hai nội dung chính là: Công việc quản trị marketing và Chiến lược Marketing.
+
+### 📝 Slide 5
+Mở đầu là chủ đề một: Công việc quản trị Marketing
+
+### 📝 Slide 6
+Trước hết các bạn cần hiểu quá trình quản trị Marketing bao gồm những hoạt động nào và diễn ra theo trình tự nào. Quản trị Marketing là một quá trình diễn ra trong 03 hoạt động theo thứ tự sau: hoạch định các hoạt động marketing, hướng dẫn thực hiện kế hoạch và kiểm soát kế hoạch này. 7 8 Đầu tiên là cần phải xác định sứ mệnh công ti. Tiếp đến là doanh nghiệp cần thiết lập mục tiêu cho mình. Sau đó, các nhà quản trị sẽ thiết kế các danh mục đầu tư. Cuối cùng là việc lập kế hoạch chiến lược. Việc hoạch định quản trị không chỉ dành cho lĩnh vực Marketing mà còn cho tất cả các lĩnh vực khác như sản xuất, nhân sự, tài chính và các lĩnh vực khác.
+
+### 📝 Slide 9
+Xác định sứ mệnh công ti là bước đầu tiên trong các bước lập kế hoạch chiến lược công ti. Một tổ chức tồn tại để hoàn thành một nhiệm vụ nào đó và mục đích của nó nên được phát biểu rõ ràng. Một sứ mệnh rõ ràng thường bắt đầu bằng những câu hỏi sau đây: Chúng ta kinh doanh cái gì? Khách hàng của chúng ta là ai? Giá trị mang lại cho người tiêu dùng là gì? Những câu hỏi này tuy đơn giản nhưng là câu hỏi khó mà công ti phải trả lời. Các công ti thành công luôn đặt ra những câu hỏi và trả lời chúng một cách cẩn thận và đầy đủ. Chẳng hạn, một số công ti xác định sứ mệnh của họ về phương diện sản phẩm hay kĩ thuật sẽ xác định: “Chúng tôi sản xuất và bán hàng nội thất” hay “Chúng tôi là công ti chế biến hàng thủy sản”. Tuy nhiên sứ mệnh nên hướng về thị trường nhằm thỏa mãn nhu cầu cơ bản của khách hàng. Sản phẩm và công nghệ cuối cùng cũng lạc hậu nhưng 10 11 nhu cầu của thị trường thì tồn tại mãi mãi. Ví dụ: sứ mệnh của website eBay không đơn giản là tổ chức sàn đấu giá thương mại trực tuyến mà cụ thể hơn là “cung cấp một sàn giao dịch toàn cầu nơi đó mọi người có thể thực sự mua bán mọi thứ”. Bản tuyên bố sứ mệnh cần lưu ý rằng ý nghĩa và động cơ phải rõ rệt. Trong tuyên bố về sứ mệnh, nên nhấn mạnh điểm mạnh của công ti trên thị trường và không nên phát biểu về mục tiêu đạt nhiều doanh thu hay lợi nhuận. Lợi nhuận chỉ là phần thưởng cho việc tạo ra giá trị cho khách hàng. Ví dụ, mục tiêu của Microsoft là giúp mọi người nhận ra tiềm năng của họ “Your potential, our passion” (Tiềm năng của bạn là đam mê của chúng tôi). Khi đặt mục tiêu, công ti nên biến sứ mệnh của mình thành các mục tiêu cụ thể cho từng cấp độ quản trị. Mỗi nhà quản trị nên có một số mục tiêu và chịu trách nhiệm cho việc đạt được những mục tiêu đó. Từ sứ mệnh chung của công ti mà hình thành nên các nhóm mục tiêu phân theo cấp bậc. Ví dụ: Techcombank với sứ mệnh to lớn là “ngân hàng cung cấp dịch vụ tài chính tốt nhất”, Techcombank đã đặt ra cho mình ba mục tiêu: ∙ Một là “trở thành đối tác tài chính được lựa chọn và đáng tin cậy nhất của khách hàng”; ∙ Hai là “tạo dựng cho cán bộ công nhân viên một môi trường làm việc tốt nhất”; ∙ Ba là “mang lại cho cổ đông những lợi ích hấp dẫn, lâu dài”. Với sứ mệnh và mục tiêu của công ti đã được xác định, nhà quản trị bắt đầu tiến hành thiết kế các danh mục đầu tư. Thiết kế danh mục đầu tư bao gồm hai bước là: phân tích danh mục đầu tư và phát triển chiến lược tăng trưởng hay thu nhỏ. Trong bước này, công ti phải phân tích danh mục đầu tư hiện tại và quyết định mục nào nên được tiếp tục đầu tư và mục nào nên dừng lại. Danh mục đầu tư tốt nhất là những gì phù hợp với mặt mạnh của công ti và cơ hội trên thị trường. Sau đó công ti cần định hướng danh mục tương lai bằng việc phát triển các chiến lược tăng trưởng hay thu nhỏ. Marketing có trách nhiệm chính là đạt được lợi nhuận tăng trưởng cho công ti. Nhà quản trị Marketing cần xác định, đánh giá và chọn lựa cơ hội đặt ra chiến lược để nắm bắt cơ hội và đạt được mục tiêu mong muốn. Cả ba bước trên đều có vai trò hết sức quan trọng và mục đích của chúng là giúp nhà quản trị thực hiện bước cuối cùng là lập kế hoạch chiến lược. Nội dung của chủ đề: công việc quản trị Marketing đến đây là hết, Xin chào tạm biệt và hẹn gặp lại! BÀI GIẢNG DẠNG VĂN BẢN (SCRIPT) Môn học: Marketing căn bản
+
+---
+### 💡 GÓC THỰC CHIẾN (Áp dụng cho Founder)
+*   **Chiến lược Tập trung (Niche Market):** Là startup nhỏ, bạn KHÔNG THỂ đánh trực diện với ông lớn. Hãy dùng chiến lược tập trung: Chỉ phục vụ chuyên biệt cho "Các quán cafe thú cưng" hoặc "Quán nhậu vỉa hè quy mô vừa". Làm trùm ở 1 ngách nhỏ, dễ thở hơn là làm lính lác ở biển lớn.
