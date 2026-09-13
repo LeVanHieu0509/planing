@@ -35,16 +35,17 @@ CHÊNH THẬT:                   ~2,200,000   (không phải 13tr)
 | 📈 **Đầu tư**     | Binance (DCA)                | 4,000,000      | 1-2 ngày    | Từ T08/2026                   |
 | 📈 **Đầu tư**     | OKX - vốn trade              | 2,600,000      | 1-2 ngày    | Từ T08/2026                   |
 | 📈 **Đầu tư**     | OKX - vốn chạy bot           | 5,400,000      | 1-2 ngày    | Nạp 04/09/2026                |
-| 🏦 **Tiết kiệm**  | Hụi / đóng phường (T08)      | 4,000,000      | Theo kỳ hụi | ⚠️ CẦN XÁC NHẬN - xem mục 3   |
 | 🤝 **Phải thu**   | Cho Diễm mượn                | 1,000,000      | **T12/2026**| Đã hẹn ngày thu               |
-|                   | **TỔNG TÀI SẢN**             | **50,407,650** |             |                               |
+|                   | **TỔNG TÀI SẢN**             | **46,407,650** |             | Không gồm quỹ mẹ - xem ghi chú dưới |
+
+> 📌 **"Hụi/đóng phường" 4tr (T08) đã chốt 13/09/2026: thuộc [QUY_ME_500TR.md](./QUY_ME_500TR.md)**,
+> không phải hụi thật, không lấy lại được → **không tính vào tài sản của anh nữa** (đã bỏ khỏi bảng trên).
 
 ### Cơ cấu tài sản
 
 ```
-Tiền mặt:              33.4tr   ███████████████░░░░░  66%
-Crypto/Bot (rủi ro):   12.0tr   █████░░░░░░░░░░░░░░░  24%   ← ĐANG CÓ TRẦN
-Hụi:                    4.0tr   ██░░░░░░░░░░░░░░░░░░   8%
+Tiền mặt:              33.4tr   ██████████████░░░░░░  72%
+Crypto/Bot (rủi ro):   12.0tr   █████░░░░░░░░░░░░░░░  26%   ← ĐANG CÓ TRẦN
 Phải thu:               1.0tr   ░░░░░░░░░░░░░░░░░░░░   2%
 ```
 
@@ -105,22 +106,12 @@ Nếu có sự cố (ốm, hỏng laptop, mất việc) mà tiền đang kẹt t
 
 ---
 
-## ❓ KHOẢN CẦN XÁC NHẬN: "Hụi / đóng phường" 4tr (T08)
+## ✅ ĐÃ CHỐT: "Hụi / đóng phường" 4tr (T08) = quỹ mẹ
 
-Đang có mâu thuẫn giữa 2 file:
-
-```
-MONTHLY_TRACKER T08:  "Hụi (đóng phường): 4,000,000"  → xếp vào ĐẦU TƯ
-T09_GIAO_DICH:        "Nạp tiền phường là gửi về quê, không phải hụi" → là CHI
-```
-
-**Anh chốt giúp em 1 trong 2:**
-
-- [ ] **Là hụi thật** (có kỳ hốt, lấy lại được tiền) → giữ ở mục Đầu tư, ghi rõ kỳ hốt khi nào
-- [ ] **Là gửi về quê** (cho gia đình, không lấy lại) → chuyển sang mục Chi tiêu, tổng tài sản giảm còn ~46.4tr
-
-> Từ T09 đã thống nhất: **"đóng phường" = gửi về quê = CHI cố định 2tr/tháng đến 2030.**
-> Chỉ cần làm rõ riêng khoản 4tr của T08.
+Trước đây có mâu thuẫn giữa 2 file (MONTHLY_TRACKER xếp vào Đầu tư, T09_GIAO_DICH ghi là gửi quê).
+**Đã chốt 13/09/2026:** đây là khoản gửi quê, thuộc [QUY_ME_500TR.md](./QUY_ME_500TR.md) - quỹ tiết
+kiệm 500tr cho mẹ, chạy đến T08/2036. Không phải hụi thật, không lấy lại, không tính vào tài sản
+cá nhân của anh. Đã bỏ khỏi bảng tổng tài sản phía trên.
 
 ---
 
@@ -128,7 +119,7 @@ T09_GIAO_DICH:        "Nạp tiền phường là gửi về quê, không phải
 
 | Ngày    | Khoản         | Số tiền   | Loại       | Ghi chú                        |
 | ------- | ------------- | --------- | ---------- | ------------------------------ |
-| T08/26  | Hụi/phường    | 4,000,000 | ⚠️ Chờ xác nhận |                           |
+| T08/26  | Hụi/phường    | 4,000,000 | Quỹ mẹ     | ✅ Chốt: thuộc quỹ mẹ 500tr, không lấy lại |
 | T08/26  | Binance       | 4,000,000 | DCA        | Đúng nguyên tắc "chỉ DCA"      |
 | T08/26  | OKX trade     | 2,600,000 | Trade      | Lệch nguyên tắc "không trade"  |
 | T08/26  | Cho Diễm mượn | 1,000,000 | Phải thu   | Thu lại **T12/2026**           |
@@ -156,9 +147,11 @@ T09_GIAO_DICH:        "Nạp tiền phường là gửi về quê, không phải
 | File                                               | Vai trò                    |
 | -------------------------------------------------- | -------------------------- |
 | [TAI_CHINH_2026_2028.md](./TAI_CHINH_2026_2028.md) | Kế hoạch tài chính tổng    |
+| [QUY_ME_500TR.md](./QUY_ME_500TR.md)               | Quỹ tiết kiệm cho mẹ       |
 | [MONTHLY_TRACKER.md](./MONTHLY_TRACKER.md)         | Chốt sổ từng tháng         |
 | [../../MASTER_PLAN.md](../../MASTER_PLAN.md)       | Mục tiêu dài hạn           |
 
 ---
 
-_Cập nhật: 13/09/2026 (V1 - Tách bạch Tiền mặt / Đầu tư / Phải thu. Chốt trần đầu tư 50tr. Bot OKX = dự án cá nhân, không phải thu nhập.)_
+_Cập nhật: 13/09/2026 (V2 - Chốt hụi 4tr T08 thuộc quỹ mẹ 500tr, bỏ khỏi bảng tài sản (còn 46.4tr).
+Giữ nguyên: tách bạch Tiền mặt/Đầu tư/Phải thu, trần đầu tư 50tr, Bot OKX = dự án cá nhân.)_

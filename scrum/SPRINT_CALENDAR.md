@@ -19,7 +19,7 @@
 | M2  | Tiền mặt **chạm 70tr** = đủ học phí Thạc sĩ                | MONTHLY_TRACKER T12           |
 | M3  | Gym 4 buổi/tuần đều + đo InBody mỗi tháng                  | 3 lần đo InBody               |
 | M4  | Nắm rõ yêu cầu tuyển sinh Thạc sĩ UIT                      | Có file checklist hồ sơ       |
-| M5  | Gửi quê 2tr/tháng - không sót tháng nào                    | 3/3 tháng                     |
+| M5  | Quỹ mẹ 2tr/tháng - không sót tháng nào (chạy đến 2036)     | 3/3 tháng                     |
 
 ### Q1/2027 (T01 → T03) - _"Chuẩn bị hồ sơ"_
 
@@ -110,4 +110,5 @@
 
 ---
 
-_Cập nhật: 13/09/2026 (V8 - Reset từ S1 = 14/09/2026. Thêm bảng Mốc Quý để sprint bám vào mục tiêu dài hạn. Đích: đăng ký Thạc sĩ UIT T07/2027.)_
+_Cập nhật: 13/09/2026 (V9 - Đồng bộ mốc M5 sang quỹ mẹ 500tr/2036. Giữ nguyên: reset từ S1 =
+14/09/2026, bảng Mốc Quý, đích đăng ký Thạc sĩ UIT T07/2027.)_

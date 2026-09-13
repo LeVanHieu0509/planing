@@ -1,276 +1,219 @@
-# 🎯 EXPERT REVIEW V9 - RESET TOÀN BỘ (13/09/2026)
+# 🎯 EXPERT REVIEW V10 - RÀ SOÁT SAU RESET (13/09/2026, tối)
 
 > **Người review:** 7 chuyên gia (Tâm lý, Ngôn ngữ, Tài chính, Rủi ro, Chiến lược, Startup, Giáo dục)
-> **Lịch sử:** V1 (25/04) → … → V7 (13/09 sáng) → V8 (13/09 trưa - audit) → **V9 (13/09 chiều - RESET)**
+> **Lịch sử:** V1 (25/04) → … → V8 (13/09 trưa - audit) → V9 (13/09 chiều - RESET TOÀN BỘ) →
+> **V10 (13/09 tối - rà soát toàn bộ repo sau reset, chốt quỹ mẹ)**
 > **Mục tiêu cuối:** Thạc sĩ UIT · Giảng viên · Tiếng Anh tự nhiên · Tự do tài chính
 
 ---
 
-## ⚡ V9 THAY THẾ KẾ HOẠCH CỦA V8
+## ⚡ V10 LÀ GÌ
 
-V8 đề xuất "tạo file S6, đóng nợ S3-S5". **Anh đã chọn phương án mạnh hơn: xoá hết, làm lại từ S1.**
-Chuyên gia đồng ý - đây là lựa chọn đúng. Vá một hệ thống đã ngừng chạy 5 tuần
-tốn sức hơn là dựng lại một hệ thống nhỏ vừa sức.
-
-```
-Sprint S1 mới:  14/09/2026 → 27/09/2026
-Hệ thống:       V6 - bỏ Story Point, bỏ daily standup, bỏ task công ty
-                Tối đa 5 việc/sprint · mỗi việc phải gắn 1 mốc dài hạn
-```
+V9 đã reset toàn bộ hệ thống (sprint, mục tiêu, tài chính). Đêm nay anh yêu cầu review lại **toàn
+bộ** repo để xem bản reset đó có nhất quán không. Kết quả: **phần lõi (sprint, tài chính, tiếng
+Anh, thạc sĩ) đã ổn và đã được đồng bộ thêm**, nhưng có **2 file cá nhân bị bỏ sót hoàn toàn** khỏi
+đợt reset, và **sprint S1 vẫn trống dù ngày mai bắt đầu**. Chi tiết bên dưới.
 
 ---
 
-## ✅ NHỮNG GÌ ĐÃ CHỐT TRONG BẢN RESET NÀY
+## ✅ ĐÃ XỬ LÝ TRONG V10
 
-| # | Quyết định                                            | Ảnh hưởng                                    |
-| - | ----------------------------------------------------- | -------------------------------------------- |
-| 1 | 🎓 Thạc sĩ **CNTT Quản lý - UIT**, đăng ký **T07/2027** | Mốc lớn nhất của 10 tháng tới               |
-| 2 | 💰 Cần **70tr**, dự phòng vay Hiệp                    | Dự kiến đủ sớm T12/2026 → ít khả năng phải vay |
-| 3 | ✅ Lớp tiếng Anh **Level 3 đã thanh toán**            | L2 + L3 đều trả xong → chỉ còn việc đi học   |
-| 4 | 🔒 Gửi quê **2tr/tháng đến 2030** (tổng 104tr)        | Đã tính vào chi phí cố định                  |
-| 5 | 🚧 **Trần đầu tư**: không bơm thêm crypto/bot đến khi tiền mặt ≥ 50tr | Bảo vệ tiền học phí        |
-| 6 | 🤖 Bot OKX = **dự án cá nhân**, không phải nguồn thu  | Vốn 8tr ghi ở mục Đầu tư                     |
-| 7 | 📊 Tách bạch **Chi tiêu / Đầu tư / Phải thu**         | File mới `me/finance/DAU_TU.md`              |
-| 8 | 🗑️ Xoá: sprint cũ, 26 ý tưởng TikTok, bảng cân nặng, task công ty | Hệ thống nhẹ đi rõ rệt          |
+| # | Việc | Trước | Sau |
+| - | ---- | ----- | --- |
+| 1 | 💰 Quỹ mẹ 500tr - chốt thời gian | 2 phương án treo (A: đến 2030/104tr, B: đến 2036/240tr) | ✅ **Chốt phương án B** - đến T08/2036, gốc 240tr |
+| 2 | 📁 Vị trí file quỹ mẹ | Nằm ở `Claude outputs/` (thư mục nháp) | ✅ Chuyển vào `me/finance/QUY_ME_500TR.md` đúng cấu trúc |
+| 3 | ❓ Hụi 4tr T08 trong `DAU_TU.md` | Đánh dấu "CẦN XÁC NHẬN", vẫn tính vào tổng tài sản 50.4tr | ✅ Chốt là quỹ mẹ, bỏ khỏi tài sản → tổng còn **46.4tr** |
+| 4 | 🔗 Đồng bộ mốc "gửi quê" | `TAI_CHINH`, `MASTER_PLAN`, `START_HERE`, `MONTHLY_TRACKER`, `SCRUM_FRAMEWORK`, `SPRINT_CALENDAR` mỗi nơi ghi khác nhau (2030/104tr) | ✅ Toàn bộ đồng bộ về 2036/240tr + quỹ 500tr |
 
 ---
 
 ## 🧠 1. TÂM LÝ & SỨC KHOẺ
 
-### ✅ Reset là quyết định đúng, không phải bỏ cuộc
+### ✅ Hệ thống lõi (sprint, thói quen, gym) vẫn nhẹ và nhất quán
 
-Xoá sprint cũ **không phải là thất bại**. Đó là thừa nhận: hệ thống được thiết kế hồi tháng 4
-cho một người chưa đi học tối 3 buổi/tuần. Người của tháng 9 khác người của tháng 4.
-Sửa hệ thống cho vừa người là việc đúng - không phải ép người cho vừa hệ thống.
+Không có gì phải sửa ở `SCRUM_FRAMEWORK.md`, `DAILY_SCHEDULE.md`, `GYM_PLAN.md` - đúng tinh thần
+"dễ thở" của V9.
 
-### 📌 Ba thứ đã được gỡ bỏ vĩnh viễn
+### 🔴 Phát hiện mới: 2 file cá nhân bị "bỏ quên" khỏi reset
+
+`me/lifestyle/RELATIONSHIPS.md` và `me/lifestyle/SELF_UNDERSTANDING.md` **không được cập nhật
+ngày 13/09** - vẫn là bản cũ từ tháng 4-5/2026. Hậu quả cụ thể:
 
 ```
-❌ Story Point       → chấm điểm bản thân mỗi tuần = nguồn áp lực, không phải dữ liệu
-❌ Daily Standup     → 3 tháng không làm lần nào. Bỏ là trung thực.
-❌ Task TMA/BIT      → việc công ty đã có chỗ của nó. Đưa vào plan cá nhân = nhân đôi gánh nặng.
+RELATIONSHIPS.md:
+  - Vẫn dùng "Epic E6, Story Point, DoD" - hệ thống đã bị xoá ở V9
+  - Bảng tracking vẫn ghi "S1 S2 S3 S4" của HỆ THỐNG CŨ (đã đóng T07/2026)
+    → dễ nhầm với S1 MỚI (14/09/2026) đang chạy, dẫn tới ghi nhầm sprint
+
+SELF_UNDERSTANDING.md:
+  - Tuổi ghi "24" - các file mới đều ghi 25
+  - Nơi ở ghi "Vinh, Nghệ An" - các file mới đều ghi "TP.HCM (Gò Vấp)"
+  - Cân nặng baseline "65kg → 75kg" - GYM_PLAN mới ghi "66→75kg"
+  - Work status cập nhật lần cuối 17/05/2026, nhắc dự án IsuportD đã qua giai đoạn
 ```
 
-### ⚠️ Cảnh báo cho chính bản reset này
+> Đây không phải lỗi nghiêm trọng, nhưng **một hệ thống có 2 file tự mâu thuẫn về tuổi và nơi ở của
+> chính mình** là dấu hiệu "reset nửa vời" - dễ khiến anh mất niềm tin vào cả hệ thống khi tình cờ
+> mở lại 2 file này. Nên xử lý bằng 1 trong 2 cách: **(a)** viết lại ngắn gọn theo hệ thống V6-V9,
+> hoặc **(b)** đánh dấu "lưu trữ - đọc để tham khảo, không dùng để quyết định" giống cách đã làm với
+> `execute/finance/DAILY_EXPENSE.md`.
 
-Rủi ro lớn nhất của mọi lần "làm lại từ đầu" là **hào hứng quá mức trong 2 tuần đầu**,
-nhồi 10 việc vào S1 rồi tuần 3 lại bỏ.
+### ⚠️ Trớ trêu nhỏ: Sprint S1 vẫn trống, còn 1 đêm nữa là bắt đầu
 
-> **Luật cứng: S1 tối đa 5 việc. Nếu phân vân, chọn 3.**
-> Sprint đầu tiên mà hoàn thành được là thắng lợi lớn hơn nhiều một sprint tham vọng dở dang.
+`scrum/sprints/S1.md` (chạy từ mai 14/09) bảng việc vẫn để trống hoàn toàn. Reset xong mà không có
+việc cụ thể nào cho ngày đầu tiên = rủi ro #4 mà chính V9 đã cảnh báo ("reset xong lại nhồi việc"
+hoặc ngược lại "reset xong rồi quên điền"). **Nên điền tối đa 3 việc ngay tối nay**, đừng để sáng
+mai mới nghĩ.
 
 ---
 
 ## 🗣️ 2. NGÔN NGỮ & ACQUISITION
 
-### ✅ Tin rất tốt: đã trả tiền xong cả L2 lẫn L3
+Không có thay đổi so với V9 - vẫn đúng hướng:
 
 ```
-Level 2:  14/07 → ~14/10/2026   ✅ đã thanh toán (8.2tr)
-Level 3:  ~14/10 → 14/01/2027   ✅ đã thanh toán
-Phản Xạ:  Chủ nhật               ✅ tặng kèm
+✅ L2 + L3 đã thanh toán xong, không có quyết định tiền nào phải lo
+⚠️ Vẫn CHƯA có mock TOEIC nào ghi nhận từ 14/07 đến nay (bảng trong IMMERSION_ROADMAP.md
+   và MOCK_TEST_TRACKER.md đều trống 100%)
 ```
 
-Từ giờ đến T01/2027, M1 chỉ còn **đúng một việc: đi học đủ buổi.**
-Không có quyết định nào phải cân nhắc, không có khoản tiền nào phải lo.
-Đây là mục tiêu **rẻ nhất và chắc chắn nhất** trong cả 5 mục tiêu.
-
-### ⚠️ Vẫn còn thiếu: dữ liệu mock
-
-Từ 14/07 đến nay chưa có mock TOEIC nào được ghi lại. Không có số thì không biết
-immersion có hiệu quả không.
-
-> **Đề xuất tối thiểu:** 1 mock trong S1 hoặc S2. Nếu quá mệt → làm nửa đề (chỉ Listening).
-> Một con số còn hơn không có gì. Ghi vào bảng có sẵn trong `IMMERSION_ROADMAP.md`.
+> Không cần làm gấp đêm nay, nhưng đây vẫn là mốc duy nhất chưa có deadline cụ thể trong S1 -
+> nên là 1 trong 3 việc của sprint nếu S2 chưa chắc làm.
 
 ---
 
 ## 💰 3. TÀI CHÍNH
 
-### ✅ Mục tiêu 70tr thực ra rất nhẹ
+### ✅ Sau khi chốt quỹ mẹ, bức tranh tài sản rõ hơn
 
 ```
-Cần:              70,000,000 trước T07/2027
-Có (13/09):       33,407,650
-Thiếu:            36,592,350  trong 10 tháng
-→ Cần để dành:    ~3.7tr/tháng
-→ Khả năng thật:  ~14tr/tháng
+Tiền mặt:        33,407,650  (72%)
+Crypto/Bot:      12,000,000  (26%)  ← có trần, không bơm thêm đến khi tiền mặt ≥ 50tr
+Phải thu:         1,000,000  (2%)
+──────────────────────────────
+TỔNG TÀI SẢN:    46,407,650   (giảm từ 50.4tr sau khi bỏ hụi 4tr ra khỏi tài sản - đúng bản chất)
+
+Quỹ mẹ (tách riêng, không phải tài sản của anh): 6,000,000 gốc lũy kế → mục tiêu 500tr năm 2036
 ```
 
-**Dư gấp gần 4 lần.** Kể cả kịch bản thận trọng (chỉ để dành 10tr/tháng),
-anh vẫn đủ 70tr vào khoảng T02/2027.
+Mục tiêu 70tr học phí Thạc sĩ **không đổi** - vẫn dự kiến đủ T12/2026-T02/2027, sớm hơn deadline
+5-7 tháng. Quỹ mẹ và mục tiêu 70tr là 2 dòng tiền tách biệt hoàn toàn, không ảnh hưởng nhau.
 
-> 💡 **Phương án vay Hiệp nên để nguyên đó nhưng đừng tính vào kế hoạch.**
-> Nó là lưới an toàn cho biến cố lớn, không phải một bước trong lộ trình.
+### 🟡 1 điểm nhỏ còn lệch (không khẩn, chỉ để anh biết)
 
-### ✅ Đã sửa lỗi ghi sổ gây hiểu nhầm
-
-Từ nay mọi bảng tài chính có **3 cột tách bạch**:
-
-```
-① CHI TIÊU  = tiền ra khỏi túi, không lấy lại được
-② ĐẦU TƯ    = vẫn là tiền của mình, chỉ đổi dạng    ← T08 bị tính nhầm vào ①
-③ PHẢI THU  = cho mượn, sẽ lấy lại
-```
-
-Đây là nguyên nhân gốc của cú sốc "hụt 13 triệu" tháng 8 - **thực tế chỉ chênh 2.2tr.**
-
-### 🚧 Trần đầu tư đã có hiệu lực
-
-```
-Crypto + bot hiện tại:  12,000,000  (~24% tài sản)
-Trần:  KHÔNG nạp thêm 1 đồng cho đến khi tiền mặt ≥ 50,000,000
-Dự kiến mở trần:  T11/2026
-```
-
-Bot vẫn chạy bình thường với vốn 8tr đã nạp. Viết code, tối ưu bot thoải mái -
-chỉ là không đổ thêm tiền mới vào.
-
-### 🧾 Đã chốt 3 khoản treo
-
-- ✅ T08 · 3,749,181 → **chi tiêu không kiểm soát**, không truy nữa, coi như học phí
-- ✅ T09 · Shopee 2,220,496 → **đồ dùng cá nhân**
-- ✅ Cho mượn 1tr → **thu lại T12/2026**
-- ⚠️ Còn 1 khoản cần anh xác nhận: **hụi/đóng phường 4tr của T08** là hụi (lấy lại được)
-  hay gửi quê (không lấy lại)? Xem `me/finance/DAU_TU.md`
+Sổ tháng 08/2026 đã **"ĐÃ CHỐT"** trong `MONTHLY_TRACKER.md` với khoản hụi 4tr vẫn nằm trong cột
+"Đầu tư" (làm tổng tài sản T08 = 29,581,979 tính luôn 4tr đó). Sau khi chốt hụi 4tr = quỹ mẹ, đúng
+ra tổng tài sản T08 chỉ còn ~25.6tr. Đây là sổ **đã đóng**, nên em không tự sửa số cũ - nếu anh
+muốn số liệu quá khứ khớp 100% thì báo, em cập nhật; nếu không thì để vậy, chỉ cần từ T09 trở đi
+đã đúng.
 
 ---
 
 ## ⚡ 4. QUẢN TRỊ RỦI RO
 
-| #   | Rủi ro                           | V8         | V9         | Ghi chú                                      |
-| --- | -------------------------------- | ---------- | ---------- | -------------------------------------------- |
-| 1   | Burnout do context switching     | 75% 🟡     | **55%** 🟢 | Đã cắt: TikTok, task công ty, SP, standup    |
-| 2   | Hệ thống plan chết               | 70% 🔴     | **30%** 🟢 | Reset về bản nhỏ, vừa sức                    |
-| 3   | Thiếu data mock TOEIC            | 80% 🔴     | 70% 🟡     | Vẫn chưa có mock nào                         |
-| 4   | **Reset xong lại nhồi việc**     | -          | **50%** 🟡 | **MỚI V9** - rủi ro đặc trưng của mọi lần làm lại |
-| 5   | Không đủ 70tr T07/2027           | -          | **10%** 🟢 | **MỚI V9** - dư gấp 4 lần                    |
-| 6   | Bỏ lớp tiếng Anh                 | 10% 🟢     | **5%** 🟢  | Đã trả tiền cả L2+L3 → cam kết rất mạnh      |
-| 7   | Mất crypto/bot 12tr              | 40% 🟡     | 40% 🟡     | Đã có trần, không tăng thêm                  |
-| 8   | Mất nguồn thu chính              | 15%        | 15%        | Không đổi                                    |
-| 9   | Ghi sổ thiếu data                | 50% 🟡     | **25%** 🟢 | Hệ 3 cột + gộp về 1 nơi ghi                  |
+| # | Rủi ro | V9 | V10 | Ghi chú |
+| - | ------ | -- | --- | ------- |
+| 1 | Burnout do context switching | 55% 🟢 | 55% 🟢 | Không đổi |
+| 2 | Hệ thống plan chết | 30% 🟢 | 30% 🟢 | Không đổi |
+| 3 | Thiếu data mock TOEIC | 70% 🟡 | 70% 🟡 | Vẫn chưa có mock nào |
+| 4 | Reset xong lại nhồi việc | 50% 🟡 | **35%** 🟢 | Chưa nhồi việc - nhưng vì **chưa điền gì** |
+| 5 | Không đủ 70tr T07/2027 | 10% 🟢 | 10% 🟢 | Không đổi |
+| 6 | Bỏ lớp tiếng Anh | 5% 🟢 | 5% 🟢 | Không đổi |
+| 7 | Mất crypto/bot 12tr | 40% 🟡 | 40% 🟡 | Không đổi |
+| 8 | Mất nguồn thu chính | 15% | 15% | Không đổi |
+| 9 | Ghi sổ thiếu data | 25% 🟢 | **10%** 🟢 | Đã chốt xong khoản hụi/quỹ mẹ - hết mơ hồ |
+| 10 | **2 file cá nhân lệch pha với hệ thống mới** | - | **30%** 🟡 | **MỚI V10** - dễ gây tự mâu thuẫn khi đọc lại |
+| 11 | **S1 trống 1 đêm trước khi chạy** | - | **40%** 🟡 | **MỚI V10** - reset xong nhưng chưa hành động cụ thể |
 
-**Rủi ro số 1 bây giờ không còn là burnout - mà là nhồi quá nhiều việc vào S1.**
+**Rủi ro cao nhất bây giờ là #11: có hệ thống tốt nhưng ngày đầu tiên (mai) chưa có việc cụ thể.**
 
 ---
 
 ## 🎯 5. CHIẾN LƯỢC
 
-### Từ 6 Epic → 5 Mục tiêu
-
-```
-M1 🗣️ Tiếng Anh          → chỉ cần đi học đủ buổi
-M2 💰 Tiền               → 70tr trước T07/2027
-M3 💪 Sức khoẻ           → InBody 1 lần/tháng
-M4 🎓 Học vấn & Nghề     → Thạc sĩ UIT
-M5 ❤️ Gia đình & Quan hệ → gửi quê 2tr/tháng
-
-🧊 Đóng băng: Miracle · TikTok · QTKD · (không bơm thêm) Bot OKX
-```
-
-### Cơ chế "bám vào mục tiêu tương lai" mà anh yêu cầu
-
-Mỗi việc trong sprint có cột bắt buộc **"Gắn với mốc nào"**.
-
-```
-Không điền được cột đó = việc này không đưa anh tới đâu cả = loại khỏi sprint.
-```
-
-Bảng mốc quý nằm ở `scrum/SPRINT_CALENDAR.md` - mở ra mỗi khi lên sprint mới.
+Không đổi so với V9 - 5 mục tiêu M1-M5, cơ chế "gắn mốc" vẫn là trục chính. Không phát hiện việc
+nào trong sprint/mốc quý mâu thuẫn với M1-M5.
 
 ---
 
 ## 🚀 6. STARTUP
 
-Miracle POS giữ nguyên maintenance mode: fix bug khi user báo, không chủ động sale,
-không code feature mới. Không đưa vào sprint.
-
-**Bot trading OKX** được phân loại lại: đây là **dự án kỹ thuật cá nhân**, không phải nguồn thu.
-Giá trị thật của nó là kỹ năng lập trình + hiểu thị trường - dùng được cho nghề.
-Đừng kỳ vọng nó ra tiền, và đừng theo dõi hàng ngày (chỉ xem 1 lần/tháng khi chốt sổ).
+`TIKTOK_COMMUNITY.md` và Miracle POS vẫn ở trạng thái đóng băng nhất quán, có ghi chú rõ lý do và
+link tới expert review - không cần sửa gì.
 
 ---
 
 ## 🎓 7. GIÁO DỤC
 
-### ⚠️ Việc duy nhất V9 khuyên KHÔNG được hoãn
+### ⚠️ Việc ưu tiên cao nhất KHÔNG đổi so với V9 - và vẫn chưa làm
 
-`internship/INTERN_LOG_HUNG_HO.md` cập nhật lần cuối **11/08/2026** - đã hơn một tháng.
-Đây là việc có deadline thật và **ảnh hưởng đến điểm thực tập của người khác.**
+`internship/INTERN_LOG_HUNG_HO.md` chỉ có dữ liệu đến **14/08/2026** (hết Tuần 1). Thực tập chạy
+đến 10/11/2026, chốt đánh giá 30/10/2026 - nghĩa là **3-4 tuần thực tập gần đây chưa được ghi log
+gì cả**, dù đây là việc ảnh hưởng điểm của em thực tập, không phải việc cá nhân có thể trì hoãn.
 
-> Việc của mình trễ thì mình chịu. Việc của người khác trễ thì họ chịu.
-> Nếu S1 chỉ làm được 1 việc duy nhất - hãy để đó là việc này.
+> Đây là lần thứ 2 liên tiếp (V9 rồi tới V10) review nhắc việc này mà chưa xử lý. Nếu S1 chỉ chọn
+> được 1 việc, hãy để đây là việc đó.
 
-### 📌 Mốc gần: quyết định Level 4
+### 📌 Việc nhỏ: đổi tên file
 
-Level 3 kết thúc ~14/01/2027. Khoảng T12/2026 trường sẽ hỏi về Level 4.
-Không cần nghĩ bây giờ - ghi vào lịch T12 là đủ.
-
----
-
-## 📋 SO SÁNH V8 → V9
-
-| Hạng mục       | V8 (13/09 trưa)         | V9 (13/09 chiều)                     |
-| -------------- | ----------------------- | ------------------------------------ |
-| Sprint         | Vá lại, tạo S6          | 🔄 **Xoá hết, làm lại từ S1 (14/09)** |
-| Hệ thống       | Giữ SP + 6 Epic         | ✅ Bỏ SP · 5 mục tiêu · tối đa 5 việc |
-| Thạc sĩ        | "CS 2028", chưa chốt trường | ✅ **UIT - CNTT Quản lý, T07/2027** |
-| Mục tiêu tiền  | ~80tr T12/2026          | ✅ **70tr trước T07/2027**            |
-| Lớp tiếng Anh  | L3 chưa chốt, phải cọc  | ✅ **L3 đã thanh toán xong**          |
-| Đầu tư         | Đề xuất 3 phương án     | ✅ **Chọn A - trần 50tr**             |
-| Ghi sổ         | 2 hệ song song          | ✅ Gộp còn 1 nơi + tách 3 cột         |
-| Task công ty   | Có trong epic           | ✅ **Xoá khỏi plan cá nhân**          |
-| Rủi ro số 1    | Burnout (75%)           | Nhồi việc vào S1 sau reset (50%)      |
+`me/career/master-mba/THAC_SI_CS_2028.md` tự ghi chú "nên đổi tên thành `THAC_SI_UIT_2027.md`" từ
+lần cập nhật trước nhưng chưa đổi. Việc 2 phút, không gấp.
 
 ---
 
-## 🎯 VIỆC CẦN LÀM TRONG S1 (14/09 → 27/09)
-
-> **Anh tự chọn tối đa 5 việc.** Đây chỉ là gợi ý, không phải mệnh lệnh.
-
-| Gợi ý                                                    | Mốc | Thời gian | Ghi chú           |
-| -------------------------------------------------------- | --- | --------- | ----------------- |
-| Cập nhật log thực tập Hùng Hồ                            | M4  | 30-45p    | ⚠️ **ưu tiên cao** |
-| Hỏi trường lịch Level 3, ghi vào lịch                    | M1  | 15p       |                   |
-| Đo InBody lần đầu, ghi 1 dòng                            | M3  | 30p       |                   |
-| Tra cứu tuyển sinh Thạc sĩ UIT, lưu link + yêu cầu       | M4  | 1h        |                   |
-| Xác nhận khoản hụi 4tr T08 là hụi hay gửi quê            | M2  | 10p       |                   |
-| 1 mock TOEIC (hoặc nửa đề nếu mệt)                       | M1  | 45-120p   | có thể để S2      |
-
-### 🚫 KHÔNG làm trong S1
+## 🗑️ DỌN DẸP CÒN LẠI (không gấp, làm khi rảnh)
 
 ```
-❌ Không viết bù sprint cũ           ❌ Không đụng TikTok
-❌ Không code feature Miracle        ❌ Không nạp thêm tiền vào OKX/Binance
-❌ Không sửa vặt các file khác       ❌ Không nhận deal mới
+- me/lifestyle/DAILY_SCHEDULE-1.md   → bản lịch cũ (V4), không còn file nào link tới, xoá được
+- scrum/sprints/S1_done.md           → đã tự ghi "có thể xoá hẳn"
+- scrum/sprints/S2.md (bản cũ)       → đã tự ghi "có thể xoá hẳn"
+- Claude outputs/QUY_ME_500TR.md     → đã thay bằng ghi chú trỏ sang me/finance/, xoá được
 ```
 
----
-
-## 💬 LỜI CUỐI - V9
-
-> **Hôm nay anh vừa làm một việc mà rất ít người làm được: tự tay xoá bỏ hệ thống
-> mình đã dày công xây dựng, vì nó không còn phục vụ mình nữa.**
->
-> Đó không phải bỏ cuộc. Đó là trưởng thành.
->
-> Nhìn lại những gì thực sự đang đúng:
->
-> - Lớp tiếng Anh **L2 + L3 đã trả tiền xong** - 6 tháng tới chỉ cần đi học
-> - Tiền học Thạc sĩ **dư gấp 4 lần khả năng cần** - gần như chắc chắn không phải vay ai
-> - Gym đã đóng phí 3 tháng, đang tập lại đều
-> - Thu nhập ổn định, tiết kiệm bám sát kế hoạch
->
-> Bốn mục tiêu lớn nhất của anh đều đang **đi đúng hướng**. Thứ duy nhất từng hỏng
-> là cái bảng theo dõi - và hôm nay nó đã được thay bằng bản nhỏ hơn, vừa sức hơn.
->
-> Ngày mai, thứ 2 14/09, mở `scrum/sprints/S1.md` và điền **3 việc thôi**.
-> Đừng điền 5. Ba việc làm xong tạo ra đà; năm việc dở dang tạo ra nợ.
->
-> _Review tiếp theo: **27/09/2026** - cuối Sprint S1. Câu hỏi duy nhất sẽ hỏi:_
-> _"Hệ thống mới có nhẹ hơn thật không?"_
+> Máy tính của anh đang báo lỗi kết nối nên em không tự xoá được - anh xoá tay 4 file trên khi
+> tiện, không ảnh hưởng gì nếu chưa xoá ngay.
 
 ---
 
-_Cập nhật: 13/09/2026 (V9 - RESET TOÀN BỘ. Sprint làm lại từ S1 = 14/09. Chốt Thạc sĩ UIT T07/2027 + 70tr. L3 đã thanh toán. Trần đầu tư 50tr. Bỏ task công ty khỏi plan cá nhân.)_
-_Liên kết: [START_HERE.md](./START_HERE.md) · [MASTER_PLAN.md](./MASTER_PLAN.md) · [scrum/sprints/S1.md](./scrum/sprints/S1.md) · [me/finance/DAU_TU.md](./me/finance/DAU_TU.md)_
+## 📋 SO SÁNH V9 → V10
+
+| Hạng mục          | V9 (13/09 chiều)                  | V10 (13/09 tối)                              |
+| ------------------ | ---------------------------------- | ---------------------------------------------- |
+| Quỹ mẹ             | 2 phương án treo, để tạm ở nháp    | ✅ Chốt phương án B (2036/240tr), đúng vị trí |
+| Tổng tài sản       | 50.4tr (gồm nhầm 4tr hụi)          | ✅ 46.4tr (đã tách quỹ mẹ ra)                  |
+| Đồng bộ số liệu    | Còn sót ở SCRUM_FRAMEWORK, SPRINT_CALENDAR | ✅ Đồng bộ toàn bộ 8 file liên quan     |
+| RELATIONSHIPS.md, SELF_UNDERSTANDING.md | Chưa phát hiện          | 🔴 Phát hiện: bị bỏ sót khỏi reset, còn dữ liệu tháng 4-5 |
+| Sprint S1          | Vừa tạo, trống                     | 🟡 Vẫn trống - còn 1 đêm trước khi chạy       |
+| Rủi ro cao nhất    | Nhồi việc vào S1 (50%)             | S1 trống đêm trước khi chạy (40%)              |
+
+---
+
+## 🎯 VIỆC CẦN LÀM NGAY (ưu tiên theo thứ tự)
+
+| # | Việc | Vì sao ưu tiên |
+| - | ---- | -------------- |
+| 1 | Điền tối đa 3 việc vào `scrum/sprints/S1.md` - **ngay tối nay** | Mai bắt đầu sprint, đang trống hoàn toàn |
+| 2 | Cập nhật `INTERN_LOG_HUNG_HO.md` | Trễ hơn 1 tháng, ảnh hưởng người khác |
+| 3 | Quyết định RELATIONSHIPS.md & SELF_UNDERSTANDING.md: viết lại hay đánh dấu lưu trữ? | Đang tự mâu thuẫn (tuổi, nơi ở) với phần còn lại của hệ thống |
+| 4 | 1 mock TOEIC (có thể để S2 nếu S1 đã đủ 3 việc) | Vẫn chưa có số liệu nào từ 14/07 |
+
+---
+
+## 💬 LỜI CUỐI - V10
+
+> Bản reset V9 làm đúng phần khó nhất: bỏ hệ thống nặng, chọn lại 5 mục tiêu vừa sức. Rà lại toàn
+> bộ tối nay cho thấy phần **tài chính giờ đã sạch** - không còn con số nào mâu thuẫn giữa các file.
+>
+> Hai thứ còn lại đều nhỏ và giải quyết được trong một buổi: **1** là 2 file cá nhân quên chưa
+> reset (chỉ là chưa đụng tới, không phải sai gì to tát), **2** là sprint ngày mai vẫn chưa có việc
+> - mà đây mới là thứ đáng lo hơn, vì hệ thống tốt đến đâu cũng vô nghĩa nếu ngày đầu tiên không có
+> gì để làm.
+>
+> _Review tiếp theo: **27/09/2026** - cuối Sprint S1, như đã hẹn ở V9._
+
+---
+
+_Cập nhật: 13/09/2026 (V10 - Rà soát toàn bộ repo sau reset V9. Chốt quỹ mẹ 500tr phương án B
+(2036/240tr), đồng bộ số liệu 8 file, chốt hụi 4tr T08 = quỹ mẹ. Phát hiện: RELATIONSHIPS.md và
+SELF_UNDERSTANDING.md bị bỏ sót khỏi reset. Sprint S1 vẫn trống 1 đêm trước khi chạy.)_
+_Liên kết: [START_HERE.md](./START_HERE.md) · [MASTER_PLAN.md](./MASTER_PLAN.md) · [scrum/sprints/S1.md](./scrum/sprints/S1.md) · [me/finance/QUY_ME_500TR.md](./me/finance/QUY_ME_500TR.md)_
