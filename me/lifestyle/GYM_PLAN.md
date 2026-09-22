@@ -1,11 +1,11 @@
-# 💪 GYM PLAN - 66→75KG | 4 BUỔI/TUẦN
+# 💪 GYM PLAN - 66.8→75KG | 4 BUỔI/TUẦN
 
 > **Lịch gym:** T2 tối + T6 tối + T7 sáng + CN
 > **Phòng gym:** Đã đăng ký 3 tháng từ 02/09/2026 (900k)
-> **Mục tiêu:** 75kg, tăng cơ nghiêm túc
+> **Mục tiêu:** 72-75kg · khối cơ (SMM) 35-38kg · % mỡ 7-10% (theo target ghi tay trên phiếu InBody)
 > **Theo dõi:** **Đo InBody 1 lần/tháng** - không cân hàng ngày, không ghi bảng hàng tuần
 > **Gắn với mục tiêu:** M3 - Sức khoẻ
-> **Cập nhật:** 13/09/2026
+> **Cập nhật:** 13/09/2026 (có số liệu InBody 31/07 và 28/08)
 
 ---
 
@@ -152,11 +152,16 @@ TỔNG: ~2,095 kcal | ~198g protein
 > Cân nặng một mình không nói lên điều gì - tăng 2kg có thể là cơ, có thể là mỡ.
 > **Mỗi tháng đo InBody 1 lần, ghi đúng 1 dòng vào bảng dưới. Xong.**
 
-| Ngày đo | Cân nặng | Khối cơ | Khối mỡ | % mỡ | Ghi chú ngắn |
-| ------- | -------- | ------- | ------- | ---- | ------------ |
-|         |          |         |         |      |              |
-|         |          |         |         |      |              |
-|         |          |         |         |      |              |
+**Target theo phiếu đo (ghi tay trên phiếu 31/07):** Cân nặng 72-75kg · Khối cơ (SMM) 35-38kg ·
+% mỡ 7-10%. Cao hơn "Target Weight" máy tự đề xuất (65.8kg) vì đó là công thức chuẩn theo BMI,
+không tính mục tiêu tăng cơ.
+
+| Ngày đo   | Cân nặng | Khối cơ (SMM) | Khối mỡ | % mỡ  | Ghi chú ngắn |
+| --------- | -------- | -------------- | ------- | ----- | -------------------------------------------- |
+| 31/07/26  | 65.4kg   | 30.5kg          | 11.3kg  | 17.2% | InBody Score 77/100 · Vòng eo/hông 0.85 · mỡ nội tạng mức 4 |
+| 28/08/26  | 66.8kg   | 31.4kg          | 11.2kg  | 16.8% | InBody Score 78/100 · ✅ cơ tăng + mỡ giảm - đúng hướng · vòng eo/hông 0.84 |
+|           |          |                 |         |       |                                                |
+|           |          |                 |         |       |                                                |
 
 **Cách đọc kết quả (chỉ cần nhìn 2 con số):**
 
@@ -203,4 +208,7 @@ DẤU HIỆU CẦN NGHỈ:
 
 ---
 
-_Cập nhật: 13/09/2026 (V5 - Đã đăng ký phòng gym 3 tháng từ 02/09. Bỏ bảng cân nặng & tracking hàng tháng, thay bằng đo InBody 1 lần/tháng.)_
+_Cập nhật: 13/09/2026 (V6 - Điền 2 dòng InBody thật: 31/07 (65.4kg, cơ 30.5kg, mỡ 17.2%, score 77)
+và 28/08 (66.8kg, cơ 31.4kg, mỡ 16.8%, score 78) - xu hướng đúng: cơ tăng, mỡ giảm. Thêm target
+ghi tay trên phiếu: 72-75kg / SMM 35-38kg / mỡ 7-10%. Giữ nguyên: đăng ký gym 3 tháng từ 02/09,
+đo InBody 1 lần/tháng.)_

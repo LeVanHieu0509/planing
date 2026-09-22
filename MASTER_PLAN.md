@@ -50,9 +50,10 @@ Trần:      KHÔNG bơm thêm crypto/bot đến khi tiền mặt ≥ 50tr
 ### M3 · 💪 SỨC KHOẺ
 
 ```
-Đích:      75kg · ngủ 23:30-07:00 · gym 4 buổi/tuần
-Hiện tại:  Đã đăng ký phòng gym 3 tháng (02/09/2026)
-Đo lường:  InBody 1 lần/tháng (bỏ cân hàng ngày, bỏ bảng tracking)
+Đích:      72-75kg · % mỡ 7-10% · ngủ 23:30-07:00 · gym 4 buổi/tuần
+Hiện tại:  66.8kg (InBody 28/08/26, % mỡ 16.8%) - cơ tăng, mỡ giảm, đúng hướng
+           Đã đăng ký phòng gym 3 tháng (02/09/2026)
+Đo lường:  InBody 1 lần/tháng (bỏ cân hàng ngày, bỏ bảng tracking) - chi tiết ở GYM_PLAN.md
 ```
 
 ### M4 · 🎓 HỌC VẤN & NGHỀ
@@ -70,8 +71,9 @@ Việc gần:  Tra cứu yêu cầu tuyển sinh UIT (Q4/2026)
 ```
 Đích:      Quỹ mẹ 500tr - gửi quê 2tr/tháng đều đặn đến 2036 (tổng gốc 240tr)
            Giữ kết nối bạn bè · đá banh T4 · cafe cuối tuần
+           Bạn đời: phát triển bản thân trước, dự kiến tìm hiểu nghiêm túc cuối 2026
 Nguyên tắc: M5 không bao giờ được phá giấc ngủ và tiền học phí
-Chi tiết:  me/finance/QUY_ME_500TR.md
+Chi tiết:  me/finance/QUY_ME_500TR.md · me/lifestyle/RELATIONSHIPS.md
 ```
 
 ---
@@ -186,12 +188,16 @@ planing/
 | Tiền                  | [me/finance/TAI_CHINH_2026_2028.md](./me/finance/TAI_CHINH_2026_2028.md)         |
 | Đầu tư                | [me/finance/DAU_TU.md](./me/finance/DAU_TU.md)                                   |
 | Quỹ mẹ 500tr          | [me/finance/QUY_ME_500TR.md](./me/finance/QUY_ME_500TR.md)                       |
+| Bạn đời / gia đình    | [me/lifestyle/RELATIONSHIPS.md](./me/lifestyle/RELATIONSHIPS.md)                 |
 | Thạc sĩ               | [me/career/master-mba/THAC_SI_CS_2028.md](./me/career/master-mba/THAC_SI_CS_2028.md) |
 | Tiếng Anh             | [english/communication/IMMERSION_ROADMAP.md](./english/communication/IMMERSION_ROADMAP.md) |
 | Khi nản               | [expert_review.md](./expert_review.md)                                           |
 
 ---
 
-_Cập nhật: 13/09/2026 (V7 - Chốt quỹ mẹ 500tr đến 2036 (240tr), thay mốc 2030/104tr cũ.
-Giữ nguyên: 5 mục tiêu thay 6 epic, bỏ quản lý việc công ty, Thạc sĩ UIT T07/2027 + 70tr.
+_Cập nhật: 13/09/2026 (V9 - Cập nhật M3 theo số liệu InBody thật (66.8kg, % mỡ 16.8%, 28/08/26),
+target 72-75kg/% mỡ 7-10% theo phiếu đo.
+V8 - Thêm kế hoạch "bạn đời" vào M5 (chi tiết ở RELATIONSHIPS.md viết lại).
+Giữ nguyên: quỹ mẹ 500tr đến 2036 (240tr), 5 mục tiêu thay 6 epic, bỏ quản lý việc công ty,
+Thạc sĩ UIT T07/2027 + 70tr.
 Đồng bộ số tài chính với TAI_CHINH V10.)_

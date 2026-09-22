@@ -1,120 +1,130 @@
-# 💑 RELATIONSHIPS - GIA ĐÌNH NHỎ, BẠN BÈ & NGƯỜI YÊU TƯƠNG LAI (FINAL)
+# ❤️ GIA ĐÌNH & QUAN HỆ (M5)
 
-> **Epic:** E6 - RELATIONSHIPS (P2, 5% weight)
-> **Motto:** "Build bản thân để xứng đáng với 1 gia đình nhỏ hạnh phúc"
-> **Nguyên tắc:** E6 KHÔNG BAO GIỜ được phá core (sleep + TOEIC + work + tài chính)
-
----
-
-## 🎯 MỤC TIÊU 2026
-
-```
-✅ Có thói quen giao tiếp, lắng nghe, quan tâm gia đình & bạn bè
-✅ Có hệ thống on-call & buffer để sau này có ny/gia đình nhỏ
-✅ Mở kênh cơ hội gặp người phù hợp (xinh + tri thức + tôn trọng kỷ luật)
-```
+> **Gắn với mục tiêu:** M5 - Gia đình & Quan hệ (xem [MASTER_PLAN.md](../../MASTER_PLAN.md))
+> **Motto:** "Phát triển bản thân trước, để có nền tảng vững khi bước vào một mối quan hệ"
+> **Nguyên tắc:** M5 KHÔNG BAO GIỜ được phá core (ngủ 23:30 · lớp tiếng Anh · quỹ mẹ · tiết kiệm)
+> **Cập nhật:** 13/09/2026
 
 ---
 
-## 📋 5 STORIES
-
-### E6.1 - GIA ĐÌNH: QUAN TÂM & ĐỒNG HÀNH (1 SP/tuần)
+## 🎯 3 PHẦN CỦA M5
 
 ```
-Task: Gọi điện/nhắn tin cho ba mẹ 1-2 lần/tuần (30-60p)
-Slot: CN sáng hoặc tối
-DoD:
-  ✅ ≥1 lần/tuần call/nói chuyện 30p+ với gia đình
-  ✅ Hỏi 1 câu sức khỏe, 1 câu cảm xúc, 1 câu kế hoạch
-  ✅ Viết 1-3 dòng reflect trong Sprint Review
-```
-
-### E6.2 - BẠN BÈ: GIỮ LIÊN LẠC & QUALITY TIME (1 SP/tuần)
-
-```
-Task: Giữ kết nối 2-3 người bạn thân qua CF/đá bóng/ăn uống
-Slot: T4 đá bóng (18:30-20:00) + 1 buổi/tháng CF offline
-DoD:
-  ✅ ≥1 buổi/tháng quality time offline (không screen)
-  ✅ ≥1 lần/tuần nhắn tin/voice 10-20p với bạn thân
-```
-
-### E6.3 - SKILL "GIA ĐÌNH NHỎ": LẮNG NGHE (1 SP/tuần)
-
-```
-Task: Luyện 2 kỹ năng: (1) Lắng nghe không phán xét (2) Bày tỏ cảm xúc rõ ràng
-Slot: Trong mọi cuộc nói chuyện
-DoD:
-  ✅ ≥1 lần/tuần cuộc nói chuyện có intention: "chỉ tập trung nghe"
-  ✅ Viết 3-5 dòng: mình nghe tốt hay nhảy vào "fix" quá nhanh?
-```
-
-### E6.4 - MỞ RỘNG NETWORK (0-1 SP/tuần, không bắt buộc)
-
-```
-Task: Tham gia kênh tăng cơ hội gặp người phù hợp
-Slot: Tối đa 1 hoạt động/tháng
-Quy tắc app: Chỉ dùng T7/CN trong 20-30p, bio nêu rõ đang cày TOEIC
-DoD: ≥1 hoạt động mới/tháng (nếu có sức)
-```
-
-### E6.5 - RELATIONSHIP READY: ON-CALL & BUFFER (0.5 SP/tuần)
-
-```
-ON-CALL RULES (cho khi có ny):
-  Mức 1: Em cần tâm sự → call 20-30p trong buffer
-  Mức 2: Em ốm/có chuyện → 1 buffer slot (60-120p), lite schedule
-  Mức 3: Khẩn cấp → bỏ học tối, dùng buffer + recovery
-
-TUYỆT ĐỐI KHÔNG HI SINH:
-  ❌ Giấc ngủ 23:00
-  ❌ Ceremonies CN (Review/Retro/Planning)
-  ❌ Tài chính core (gửi quê 2tr/tháng)
+1. GIA ĐÌNH   → Quỹ mẹ 500tr (xem me/finance/QUY_ME_500TR.md) + giữ liên lạc thường xuyên
+2. BẠN BÈ     → Giữ kết nối vài người bạn thân, không để công việc cuốn mất hết
+3. BẠN ĐỜI    → Kế hoạch mới chốt 13/09/2026 - chi tiết ở mục dưới
 ```
 
 ---
 
-## ⚡ KHI NÀO THÊM STORY CHO NGƯỜI YÊU?
-
-Chỉ thêm khi đạt **exit criteria trong ≥3 tuần liên tiếp:**
+## 👨‍👩‍👦 1. GIA ĐÌNH
 
 ```
-✅ Ngủ 23:00-06:30 ≥5/7 ngày
-✅ Core TOEIC done ≥5/7 ngày
-✅ CN ceremonies đủ (Review + Retro + Planning)
-```
-
-Khi đó thêm:
-
-- `E6.NY.1: Daily Check-in & Call (10-30p/ngày)`
-- `E6.NY.2: Weekly Date (1-2 slot/tuần)`
-- `E6.NY.3: Support khi em gặp khó (buffer + lite schedule)`
-
-> **Plan không bị phá, chỉ được adjust có ý thức.**
-
----
-
-## 📅 LỊCH NHẸ CHO E6 TRONG TUẦN (HIỆN TẠI)
-
-```
-T2-T3-T5: Giữ nguyên plan (TOEIC + work + gym)
-T4: Đá bóng (18:30-20:00) = Social với đồng nghiệp
-T7: Chiều/Tối: có thể 1 slot bạn bè/gia đình (1-2h, mỗi 2-4 tuần)
-CN: CF Miracle POS (13:30-18:00) = Relationship + bạn (Hiệp, Liêm)
+✅ Quỹ mẹ 2tr/tháng đến 2036 (500tr) - khoản KHÔNG BAO GIỜ cắt, xem QUY_ME_500TR.md
+✅ Gọi điện/nhắn tin cho ba mẹ 1-2 lần/tuần (CN sáng hoặc tối, 30-60p)
+   → Hỏi 1 câu sức khoẻ, 1 câu cảm xúc, 1 câu kế hoạch - không cần dài
 ```
 
 ---
 
-## 📊 TRACKING
+## 🤝 2. BẠN BÈ
 
-| Sprint | Gia đình (call) | Bạn bè (CF/đá) | Lắng nghe | Network | Reflect |
-| ------ | --------------- | -------------- | --------- | ------- | ------- |
-| S1     | [ ]             | [ ]            | [ ]       | [ ]     | [ ]     |
-| S2     | [ ]             | [ ]            | [ ]       | [ ]     | [ ]     |
-| S3     | [ ]             | [ ]            | [ ]       | [ ]     | [ ]     |
-| S4     | [ ]             | [ ]            | [ ]       | [ ]     | [ ]     |
+```
+✅ Đá banh T4 tối (18:30-20:30) - giữ liên lạc với nhóm bạn qua đây
+✅ 1 buổi/tháng cà phê offline với bạn thân (không màn hình)
+✅ Nhắn tin/voice ngắn 10-20p/tuần với 2-3 người bạn thân
+```
+
+> Không chấm điểm, không SP - chỉ cần **đều đặn hơn là nhiều**.
 
 ---
 
-_Cập nhật: 25/04/2026 (V3)_
-_File gốc chi tiết: [../../plan/RELATIONSHIPS_2026.md](../../plan/RELATIONSHIPS_2026.md)_
+## 💑 3. BẠN ĐỜI - KẾ HOẠCH CHỐT 13/09/2026
+
+### Vì sao chưa bắt đầu ngay bây giờ
+
+```
+Nguyên tắc: PHÁT TRIỂN BẢN THÂN TRƯỚC - không phải để "xứng đáng", mà vì:
+  1. Vóc dáng & da đang trong quá trình cải thiện (gym từ đầu năm, chữa da từ T09/2026)
+  2. Cần tài chính tối thiểu ổn định - đủ để một mình duy trì được ngay cả khi
+     bước vào hôn nhân, không phụ thuộc "có đôi mới đủ sống"
+  3. T07/2027 bắt đầu Thạc sĩ - muốn vào giai đoạn đó với nền tảng vững, không phải
+     vừa học vừa lo tài chính hay ngoại hình
+```
+
+### Thời điểm dự kiến bắt đầu tìm hiểu nghiêm túc
+
+```
+CUỐI NĂM 2026 - khi vóc dáng (gym) và da mặt (đang điều trị) đã cải thiện rõ rệt.
+Không phải mốc cứng - nếu cơ hội tốt đến sớm hơn một cách tự nhiên, không cần chờ đủ mốc.
+```
+
+### Tiêu chí lựa chọn (ghi lại để không quên khi đang trong giai đoạn tìm hiểu)
+
+```
+Khu vực ưu tiên:  Miền Trung, dải Nghệ An → Hà Tĩnh → Quảng Trị → Quảng Ngãi → Đà Nẵng,
+                  mở rộng từ Nha Trang trở ra và từ Nghệ An trở vào.
+                  (Lý do: cùng vùng miền dễ hợp gu sống, khó gặp người Nghệ An ngay tại
+                  TP.HCM nên mở rộng ra cả dải miền Trung)
+Nghề nghiệp:      Ưu tiên giáo viên hoặc bác sĩ - nghề ổn định, phù hợp cho hạnh phúc lâu dài
+                  và hợp với giai đoạn anh đi học Thạc sĩ + giảng dạy sau này (2027+)
+Điều kiện cần đủ trước khi nghiêm túc:
+                  ✅ Vóc dáng & da cải thiện rõ (không cần hoàn hảo)
+                  ✅ Tài chính tối thiểu ổn định (xem M2 - liên quan mục tiêu 70tr & quỹ mẹ)
+```
+
+### Nguyên tắc trong lúc tìm hiểu (mở app hẹn hò, gặp gỡ...)
+
+```
+✅ Chỉ dành thời gian T7/CN, 20-30p/ngày - không để cuốn vào giữa tuần
+✅ Bio/giới thiệu nói rõ đang tập trung học tiếng Anh + chuẩn bị Thạc sĩ - lọc đúng người nghiêm túc
+❌ Không để việc tìm hiểu ai đó làm trễ giờ ngủ 23:30 hay bỏ buổi lớp tiếng Anh
+```
+
+---
+
+## 📞 ON-CALL RULES - KHI ĐÃ CÓ NGƯỜI YÊU
+
+> Chuẩn bị sẵn nguyên tắc để không bị cuốn mất core khi mối quan hệ bắt đầu.
+
+```
+Mức 1: Người ấy cần tâm sự       → gọi 20-30p, trong buổi tối rảnh
+Mức 2: Người ấy ốm / có chuyện   → 1 buổi linh hoạt (60-120p), lịch nhẹ hôm đó
+Mức 3: Khẩn cấp                 → có thể bỏ 1 buổi tối, dùng thời gian đó lo việc gấp
+
+TUYỆT ĐỐI KHÔNG HI SINH VÌ BẤT KỲ MỐI QUAN HỆ NÀO:
+  ❌ Giấc ngủ 23:30
+  ❌ Lớp tiếng Anh T3+T5+CN (đã trả tiền L2+L3)
+  ❌ Quỹ mẹ 2tr/tháng
+  ❌ Kế hoạch tiết kiệm 70tr học phí Thạc sĩ
+```
+
+> "Plan không bị phá, chỉ được điều chỉnh có ý thức."
+
+---
+
+## 📊 TRACKING (reset theo Sprint mới, từ S1 = 14/09/2026)
+
+| Sprint | Gia đình (call) | Bạn bè (CF/đá banh) | Ghi chú |
+| ------ | ---------------- | --------------------- | ------- |
+| S1     | [ ]              | [ ]                    |         |
+| S2     | [ ]              | [ ]                    |         |
+| S3     | [ ]              | [ ]                    |         |
+
+---
+
+## 🔗 LIÊN KẾT
+
+| File                                                        | Vai trò                      |
+| ------------------------------------------------------------ | ------------------------------ |
+| [SELF_UNDERSTANDING.md](./SELF_UNDERSTANDING.md)             | Hiểu bản thân, nguyên tắc gốc  |
+| [../finance/QUY_ME_500TR.md](../finance/QUY_ME_500TR.md)     | Quỹ mẹ 500tr                   |
+| [../../MASTER_PLAN.md](../../MASTER_PLAN.md)                 | M5 trong 5 mục tiêu lớn        |
+| [../../scrum/SPRINT_CALENDAR.md](../../scrum/SPRINT_CALENDAR.md) | Mốc quý M5                 |
+
+---
+
+_Cập nhật: 13/09/2026 (V4 - Viết lại toàn bộ theo hệ thống mới, bỏ Epic E6/Story Point. Thêm kế
+hoạch "Bạn đời" chốt 13/09/2026: ưu tiên phát triển bản thân trước, dự kiến tìm hiểu nghiêm túc
+cuối 2026, khu vực miền Trung (Nghệ An-Đà Nẵng, Nha Trang trở ra), ưu tiên nghề giáo viên/bác sĩ.
+Reset bảng tracking theo Sprint S1 mới.)_
