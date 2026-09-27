@@ -10,106 +10,130 @@
 
 ```
 Tuổi 23, quê Hà Tĩnh, xa nhà vào Sài Gòn làm giáo viên.
+Tên đầy đủ: Thanh Huyền | Instagram: happymeizy | Sinh nhật: 9/5/2003
 
-→ Đây là mẫu con gái miền Trung điển hình:
+→ Mẫu con gái miền Trung — nhưng PHỨC TẠP HƠN BÌNH THƯỜNG:
   • Chịu thương chịu khó, sống tình cảm nhưng KHÔNG dễ mở lòng với người lạ
   • Coi trọng SỰ AN TOÀN hơn sự lãng mạn — nhất là khi đang ở xa nhà, một mình
   • Đánh giá đàn ông qua HÀNH ĐỘNG + SỰ ỔN ĐỊNH, không phải lời nói hoa mỹ
   • Kín đáo, ít bộc lộ cảm xúc sớm — nhưng khi đã tin thì rất trung thành
   • Nghề giáo viên → tính cách chu đáo, quan sát kỹ, thích sự ngăn nắp có kế hoạch
+
+→ LỚP SÂU HƠN (phát hiện từ Facebook posts 2021):
+  • Từng bị cuốn vào "chạy đua điểm số" → bỏ lỡ thanh xuân → TIẾC NUỐI
+    → Tức là cô ấy có xu hướng HY SINH trải nghiệm vì trách nhiệm
+    → Nhưng bên trong khao khát được SỐNG THẬT SỰ, không chỉ làm việc
+  • Viết văn sâu sắc, giàu cảm xúc → người có nội tâm phong phú, không nông cạn
+  • Coi trọng TÌNH BẠN và KỶ NIỆM rất cao — "buồn hay vui đều có các cậu bên cạnh"
+  • Có khả năng tiếng Anh (viết post tiếng Anh 2021) → trân trọng người học nghiêm túc
+  • Người hoài niệm — cô ấy sống với cảm xúc, nhớ rất lâu những khoảnh khắc đẹp
+
+→ POST TIẾNG ANH 10/2021 — 3 câu chuyện bạn bè:
+  1. Được bạn nhắc bài khi cô hỏi → tình bạn thêm bền
+     → Trân trọng người giúp đỡ mình trong lúc khó
+  2. Từng nói xấu bạn, đến giờ vẫn hối hận: "if only I could take those back"
+     → QUAN TRỌNG: cô ấy có lương tâm cao, dễ cảm thấy tội lỗi khi làm tổn thương người khác
+     → Không phải người lạnh lùng — là người sống với cảm xúc, nhớ lỗi lầm lâu
+  3. Gặp bạn thân trong lớp, từ từ trở nên thân thiết
+     → Cô ấy không forced connection — tình cảm phải phát triển tự nhiên
+     → Đây là cách cô ấy yêu thích: organic, từng bước, không vội vàng
+
+→ BÍ THƯ CHI BỘ SINH VIÊN (phát hiện từ comment Thuan Kemist 23/2/2025):
+  "Em chúc mừng đồng chí Bí thơ hotgirl :))"
+  → Cô ấy KHÔNG chỉ là thành viên thông thường — cô ấy là BÍ THƯ Chi bộ Sinh viên
+  → Đây là VAI TRÒ LÃNH ĐẠO được bầu → cô ấy có uy tín, được tập thể tin tưởng
+  → Tính cách: tổ chức tốt, có trách nhiệm, nghiêm túc với các vai trò được giao
+  → Kỳ bầu cử NK2025-2027 → cô ấy giữ vai trò này gần đến khi tốt nghiệp T6-T7/2026
+
+→ THAM GIA TỪ THIỆN (post 22/3/2024):
+  Chia sẻ dự án "Sữa Kun Cho Em - Cùng Em Cao Lớn" → lan tỏa thiện nguyện cho trẻ vùng cao
+  → Cô ấy có TÂM XÃ HỘI, quan tâm đến cộng đồng — không chỉ sống cho bản thân
+  → Đây là dạng người coi trọng GIÁ TRỊ và Ý NGHĨA trong cuộc sống
+
+→ ỨNG DỤNG VÀO TÌNH HUỐNG HIỆN TẠI:
+  Cô ấy từng bỏ lỡ thanh xuân vì quá thận trọng/trách nhiệm
+  → Nếu bạn tạo ra những khoảnh khắc đáng nhớ, cô ấy sẽ GHI NHỚ RẤT SÂU
+  → Buổi gặp T7 không cần hoành tráng — cần TẠO CẢM XÚC THẬT
+  → Câu chuyện về kỷ niệm, hoài niệm, ước mơ = chủ đề CÔ ẤY YÊU THÍCH
+  → Cô ấy KHÔNG thích bị dồn ép (đã thấy qua "ngộp") → confirm lại: cần hành trình organic
+  → Khi cô ấy tin tưởng, cô ấy sẽ TỰ NGUYỆN mở lòng — không cần push
 ```
 
 ---
 
-## 2. Phân tích hành vi qua tin nhắn (Ngày 1-7)
+## 1b. Timeline cảm xúc & Lịch sử tình cảm (2021-2026)
 
-| Hành vi cô ấy                                    | Ý nghĩa tâm lý                                         | Mức tín hiệu |
-| ------------------------------------------------- | -------------------------------------------------------- | ------------- |
-| "Em cũng ít vô đây, nào thấy thì em rep anh"     | Đặt ranh giới lịch sự, không để bạn kỳ vọng rep nhanh   | 🟡 Trung lập  |
-| Thả tim vào tin nhắn bạn spam                     | Thiện chí, không phiền, ghi nhận sự chủ động của bạn     | 🟢 Tích cực   |
-| "Nhma em hong bíc anh có phải gu em hong nữa"     | **Test thái độ** — xem bạn phản ứng thế nào khi bị thử  | 🟡 Thử thách  |
-| Hỏi chiều cao ("Anh cao mét bao nhiêu dị")        | Chuyển từ thử thách → **tò mò thật sự**, kiểm tra ngoại hình | 🟢 Tích cực |
-| "Chắc hơn em 1 cái đầu xoài đó"                  | Flirty nhẹ, hình dung đứng cạnh bạn → đang "vẽ bức tranh đôi" | 🟢🟢 Rất tích cực |
-| "Em cũng thích người bự con hơn em í"             | **Đèn xanh rõ ràng** — xác nhận bạn đúng gu, mở lòng    | 🟢🟢🟢 Cực tốt |
-| Né kèo trà sữa sát giờ ("Xíu em đi chơi với bạn í") | **Phản xạ đề phòng** — mới 3 ngày, chưa đủ tin để gặp riêng | 🟡 Bình thường |
-| Rep "Uki nò" lúc 23:12 sau khi đi chơi về        | Đi chơi về mệt vẫn mở app rep → bạn đang ở trong đầu cô ấy | 🟢🟢 Rất tích cực |
-| "Hello anh nha" (sáng 23/09, sau 2 ngày im lặng) | Chủ động bắt nhịp lại ngay → không có dấu hiệu mất hứng | 🟢🟢 Rất tích cực |
-| "Mấy đứa cũng ngoan vừa vừa ấy" + emoji 😄       | Chia sẻ chuyện công việc thoải mái, không gượng          | 🟢 Tích cực   |
-| "Sợ chớ kk" (phản ứng khi bị trêu "dịu dàng")   | Trêu lại tự nhiên → bắt đầu thoải mái đùa giỡn          | 🟢🟢 Rất tích cực |
-| "Uki nè" (14:02, sau khi được dặn ngủ trưa)      | Đón nhận sự quan tâm nhẹ nhàng, không phiền              | 🟢 Tích cực   |
-| "Ùa anh học thạc sĩ ha" (khi biết chuẩn bị hồ sơ) | Tò mò thật sự, chủ động hỏi sâu hơn về bạn            | 🟢🟢 Rất tích cực |
-| "Trời này bật máy lạnh chắc cóng quá"            | Đồng cảm + chia sẻ cảm giác đời thường → đang nới lỏng   | 🟢 Tích cực   |
-| Thả ❤️ vào tin "Hahaa lạnh này ngủ đúng đã luôn nha" (của bạn) | Phản ứng tự nhiên, ghi nhận sự đồng cảm — không cần rep nhưng vẫn muốn thể hiện thích | 🟢🟢 Rất tích cực |
-| "Anh giỏi ha"                                     | **Khen trực tiếp** — hiếm khi con gái đề phòng làm vậy   | 🟢🟢🟢 Cực tốt |
-| "Anh muốn đi dạy ha" (hỏi về mentor)             | Chủ động tìm hiểu thêm về bạn → đang quan tâm            | 🟢🟢 Rất tích cực |
-| "Đúng ôi giỏi thì dạy ng lớn ổn hơn nhiụ" (22:48) | Đồng thuận + khen bạn → ủng hộ tự nhiên, không xã giao   | 🟢🟢 Rất tích cực |
-| "Uki nè" lúc ~23h (sau khi được nhắc đi ngủ)    | Đón nhận sự quan tâm, kết thúc ngày đẹp                  | 🟢🟢 Rất tích cực |
+> Chi tiết các sự kiện, quá trình chữa lành và cột mốc mạng xã hội, vui lòng xem tại: [HUYEN_TIMELINE.md](./HUYEN_TIMELINE.md)
 
 ---
 
-## 3. Bản đồ cảm xúc của cô ấy theo thời gian
+## 1d. Phân tích qua Instagram (Highlight "My happiness 😌")
 
-```
-Ngày 1-2:  😐 → 🙂   Tò mò nhẹ, "xem anh này thế nào"
-           ├── Rào cản: Cao (người lạ trên app, chưa biết gì)
-           └── Hành vi: Rep ngắn, lịch sự, giữ khoảng cách
+Qua chuỗi story lưu trong Highlight "My happiness 😌" (Khoảng tháng 4 - tháng 8/2026), có thể rút ra những Insight cực kỳ đắt giá về con người thật của Huyền khi đi làm:
 
-Ngày 2-3:  🙂 → 😊   Bắt đầu thích thú, hỏi chiều cao, flirty nhẹ
-           ├── Rào cản: Trung bình (thấy bạn vui vẻ, không creepy)
-           └── Hành vi: Chủ động hỏi, bộc lộ gu ("thích người bự con")
+1. **Thực sự yêu nghề và thương trẻ con:**
+   - Đặt tên Highlight về công việc và học sinh là **"My happiness 😌"**. Đối với cô ấy, việc đi dạy không chỉ là mưu sinh mà là niềm vui thực sự.
+   - Cách gọi học sinh: *"mấy nhỏ", "bầy con ồn ào", "mấy nhóc dthw xỉu"*. Giọng điệu mang đậm tính nữ, đầy sự bao dung và tình cảm như một người mẹ nhỏ.
 
-Ngày 3-4:  😊 → 😳   Hơi ngợp khi bạn rủ gặp gấp, bật chế độ đề phòng
-           ├── Rào cản: Tăng nhẹ (sợ đi quá nhanh)
-           └── Hành vi: Né kèo lịch sự, nhưng vẫn rep "Uki nò" → cửa vẫn mở
+2. **Sự mềm lòng và dễ bị "đốn gục" bởi sự dễ thương:**
+   - Caption: *"Hong thích dạy lớp pre xíu nào nhưng có mấy nhóc dthw xỉu"*.
+   - Tâm lý: Cô ấy có thể thấy mệt mỏi, áp lực với những thứ ồn ào/khó nhằn (lớp pre), nhưng **chỉ cần sự chân thành và dễ thương là cô ấy sẽ mềm lòng ngay lập tức**. Đây là điểm yếu tâm lý của Huyền. Đừng đối xử với cô ấy bằng sự khô khan hay quá lý trí, hãy dùng sự "dễ thương", ấm áp.
 
-Ngày 4-5:  😌        Thở phào vì bạn lùi lại lịch sự lần 1 (19/09), không dồn ép
-           ├── Rào cản: Đang hạ dần (bạn chứng minh được sự tôn trọng)
-           └── Hành vi: Chờ đợi — nếu bạn mở lại đúng cách, rào cản sẽ thấp hơn nhiều
+3. **Gần gũi và được học sinh yêu mến (Tính cách "Squishy"):**
+   - Story học sinh nắn tay: *"Sao tay Ms. Huyền giống squishy vậy 😂 😻"*.
+   - Hình ảnh cô giáo không hề xa cách, học sinh cực kỳ thoải mái ôm ấp, đùa giỡn với cô. Huyền ngoài đời là một người rất dễ gần, "mềm mại" (cả nghĩa đen lẫn bóng), tạo cảm giác an toàn cho người khác.
+   - Khi đi làm thường để mặt mộc hoặc trang điểm rất nhẹ, đeo kính cận, nụ cười rất hiền.
 
-Ngày 7:    😊 → 😄   Mở lại tương tác (23/09) — cô ấy rep tích cực cả ngày
-           ├── Sáng: "Hello anh nha" → thoải mái, không đề phòng
-           ├── Ngày: chat công việc, trêu nhẹ ("Sợ chớ kk"), rep trong giờ nghỉ tiết
-           ├── Tối: khen "Anh giỏi ha" khi biết học TA chuẩn bị Thạc sĩ
-           ├── Tối: tự trêu "mấy đứa nhóc kiên nhẫn như em là anh chịu thua" → chủ động flirty
-           ├── Rào cản: HẠ RÕ RỆT — cô ấy không còn đề phòng, bắt đầu trêu ngược
-           └── Hành vi cuối ngày: "Uki nè" → ngủ ngon → kết thúc đẹp
+## 1e. Phân tích Style cá nhân & Tâm lý (Qua loạt ảnh Tin nổi bật cá nhân)
 
-Ngày 8+:   ⏳        Chờ Trung thu (25/09) → dùng bánh làm cớ chốt kèo cà phê
-(tiếp theo)├── Rào cản: Thấp — sẵn sàng hơn nhiều so với tuần trước
-           └── Mục tiêu: chốt kèo gặp mặt T7 chiều hoặc CN (27-28/09 hoặc 04-05/10)
-```
+1. **Nguyên tắc "Có qua có lại" (Reciprocity) trong tình cảm:**
+   - Story 18w trước (chụp với mèo): *"Nếu ai đó làm mình hạnh phúc 1 chút thì mình sẽ tìm mọi cách để làm họ hạnh phúc hơn 😉"*.
+   - **ĐÂY LÀ CHÌA KHÓA VÀNG:** Cô ấy là kiểu người "Giver" (Người cho đi) khi đã nhận được sự chân thành. Cô ấy không ích kỷ hay đòi hỏi. Nếu anh (Hieu) đối xử tốt, tinh tế và làm cô ấy vui, cô ấy sẽ tự động tìm cách đáp lại tình cảm đó gấp nhiều lần. 
+
+2. **Phong cách Thời trang & Makeup (Style & Vibe):**
+   > Chi tiết về gu thời trang "nàng thơ", cách trang điểm và tips chọn địa điểm hẹn hò phù hợp với giao diện của cô ấy, xem tại: [HUYEN_STYLE.md](./HUYEN_STYLE.md)
+
+4. **Tính cách qua Caption (Vui vẻ & Đôi khi mâu thuẫn):**
+   - Rất dí dỏm, thích thả thính làm nũng (*"Xinh không thì bảo 👊🏻"*).
+   - **Tự nhận mình là người "Overthinking"** (Post T11/2023). Đây là điểm cực kỳ quan trọng. Phụ nữ overthinking thường suy diễn, để ý tiểu tiết và dễ tự làm mình buồn nếu đối phương vô tâm. Đòi hỏi Hieu phải là người rõ ràng, nhất quán, không gửi "mixed signals" (tín hiệu mập mờ).
+   - Được bạn bè xác nhận ngoại hình giống "mấy chị gái trên Douyin" (Tiktok Trung Quốc).
+
+## 1f. Giai đoạn tổn thương & Bài học cốt lõi (Giai đoạn giữa năm 2025)
+
+Qua loạt story 62w-73w trước (Khoảng tháng 5 - tháng 7/2025), khớp hoàn toàn với thời điểm post "khao khát dịu dàng" (tháng 3/2025), đây là giai đoạn Huyền đang tự chữa lành sau một biến cố tình cảm lớn. Những story này phơi bày **điều cô ấy thực sự cần ở một người đàn ông**:
+
+1. **Sự chân thành & Trân trọng là tối thượng:**
+   - *"T. hãy dành sự chân thành cho người chân thành, dành sự thật lòng cho người biết trân trọng.."* (Story con mèo).
+   - Cô ấy từng trao đi sự chân thành nhưng không được trân trọng. Bài học rút ra: Đừng dùng kỹ thuật tán tỉnh hay sự mập mờ với Huyền. Chỉ có sự chân thành, nói được làm được mới giữ chân được cô ấy.
+
+2. **Quy tắc "Ưu tiên số 1" (Không khoan nhượng):**
+   - *"I'm not your free time or your second choice. Prioritize me, or leave me alone."* (Story váy trắng công chúa).
+   - Đây là **ranh giới thép**. Cô ấy có vẻ ngoài mỏng manh nhưng bên trong rất quyết liệt. Nếu Hieu bận rộn mà tỏ ra thờ ơ, coi cô ấy là lựa chọn thứ hai, hoặc "lúc rảnh mới nhắn", cô ấy sẽ lập tức rời đi. Sự ổn định và kế hoạch của Hieu (gym, học Thạc sĩ) là tốt, nhưng Hieu phải cho Huyền thấy **cô ấy nằm trong mức ưu tiên cao** của Hieu.
+
+3. **Nội tâm yếu đuối giấu sau vẻ bình thản:**
+   - *"Cô ấy im lặng sau khi trải qua một đống chuyện tồi tệ / trông có vẻ bình thản nhưng thật ra đã khóc rất nhiều khi chỉ có một mình"*.
+   - **Tự thú nhận sự yếu đuối:** Tháng 4/2025, cô ấy viết: *"Sản phẩm này mong manh dễ vỡ, xin vui lòng nhẹ nhàng nâng niu 😌"*. Đây là thông điệp trực tiếp nhất: Cô ấy cần một người đàn ông đủ tinh tế, điềm đạm và **dịu dàng** để bảo vệ mình. Sự lạnh lùng hay "cô giáo nghiêm" đôi khi chỉ là vỏ bọc. Đừng thấy cô ấy "Uki nè" mà nghĩ cô ấy luôn ổn. 
+
+4. **Sự ảnh hưởng của Mẹ:**
+   - *"Mẹ nói: Sau này... con mất hết thiện cảm với một ai đó mà con từng rất trân trọng"*.
+   - Khi buồn, người cô ấy lắng nghe lời khuyên là Mẹ. Khẳng định lại: Gia đình, đặc biệt là Mẹ, có sức ảnh hưởng cực lớn đến định hướng và quyết định tình cảm của Huyền.
+
+**👉 Ứng dụng để hẹn hò:** 
+- **Tuyệt đối không chơi trò "kéo-đẩy" (Push-pull) độc hại.** Đừng cố tình bơ tin nhắn để tạo sự bí ẩn. Sự ưu tiên (Priority) và chân thành (Sincerity) là thứ cô ấy cần.
+- **Khi đi hẹn hò:** Chắc chắn cô ấy sẽ mặc váy/áo nữ tính, trang điểm xinh xắn. Khi gặp, **hãy khen ngay lập tức** nhưng khen một cách tinh tế.
+- **Nuôi dưỡng tình cảm:** Hãy làm những hành động nhỏ để "làm cô ấy hạnh phúc 1 chút". Cô ấy sẽ ghi nhận và chủ động làm anh vui ngược lại.
 
 ---
 
-## 4. Tâm lý "Cô gái miền Trung xa nhà" — Hiểu để không đạp trúng mìn
+## 1c. Mạng lưới bạn bè & gia đình quan trọng
 
-```
-🔑 ĐIỀU CÔ ẤY CẦN (nhưng sẽ không nói ra):
+> Đã chuyển sang: [HUYEN_TIMELINE.md](./HUYEN_TIMELINE.md)
 
-  1. CẢM GIÁC AN TOÀN — Quan trọng nhất
-     → Xa nhà, một mình ở Sài Gòn, thu nhập 8-10tr
-     → Cô ấy không cần người "cho cảm giác lãng mạn" mà cần người
-        cho cảm giác "yên tâm, ổn định, tin được"
-     → Cách ghi điểm: Nhất quán trong lời nói & hành động. Hẹn gì làm đó.
-        Không nói quá, không hứa hão.
+---
 
-  2. SỰ TÔN TRỌNG — Không dồn ép, không đòi hỏi
-     → Con gái miền Trung rất nhạy với việc bị "vượt rào" quá nhanh
-     → Bạn lùi lại khi kèo bị né = GHI ĐIỂM CỰC LỚN trong mắt cô ấy
-     → Cách ghi điểm: Tiếp tục giữ thế "thoải mái, không sốt sắng"
+## 2. Phân tích hành vi qua tin nhắn (Dating App & Messenger)
 
-  3. SỰ CHU ĐÁO NHỎ — Hành động hơn lời nói
-     → Cô ấy là giáo viên → quen quan sát, để ý chi tiết nhỏ
-     → Một câu nhớ điều cô ấy từng kể > 10 câu thả thính công thức
-     → Cách ghi điểm: Nhắc lại 1 chi tiết nhỏ cô ấy từng chia sẻ
-        (VD: "Hôm trước em bảo hay đi chơi với bạn, có hay đi quán nào quen không?")
-
-  4. CUỘC SỐNG ỔN ĐỊNH & CÓ MỤC TIÊU
-     → Con gái miền Trung đánh giá cao đàn ông có kế hoạch, biết lo xa
-     → Bạn có gym, có lớp tiếng Anh, có kế hoạch Thạc sĩ = profile cực mạnh
-     → Cách ghi điểm: KHÔNG cần khoe, chỉ cần để lộ tự nhiên qua câu chuyện
-        (VD: "Hôm nay đi gym xong mệt quá" hoặc "Tối nay có lớp tiếng Anh nè")
-```
+> Chi tiết phân tích từng tin nhắn, bản đồ cảm xúc và giải mã các cuộc trò chuyện gần nhất, vui lòng xem tại: [HUYEN_DATING_APP.md](./HUYEN_DATING_APP.md)
 
 ---
 
@@ -158,6 +182,8 @@ Ngày 8+:   ⏳        Chờ Trung thu (25/09) → dùng bánh làm cớ chốt 
 
   4. HÀI HƯỚC TỰ NHIÊN — Không copy template, nói đúng giọng mình
      (Con gái miền Trung thích người thật thà, dí dỏm hơn là "smooth boy" giả tạo)
+     → Bonus: Cô ấy tự nhận bản thân "chưa choáy lắm" (26/4/2025: "hứa sẽ choáy hơn")
+     → Người dịu dàng, hài hước nhẹ nhàng sẽ phù hợp hơn kiểu quá outgoing/bold
 
   5. QUAN TÂM ĐÚNG MỨC — Hỏi thăm công việc, sức khỏe nhẹ nhàng
      (VD: "Hôm nay dạy mấy tiết rồi, có mệt không nè?" — đúng ngữ cảnh giáo viên)
@@ -226,14 +252,50 @@ Dấu hiệu cô ấy chỉ coi bạn là BẠN:
 
 ## 🔗 LIÊN KẾT
 
-| File                                              | Vai trò                        |
-| ------------------------------------------------- | ------------------------------ |
-| [HUYEN_JOURNEY.md](./HUYEN_JOURNEY.md)            | Hành trình tổng thể, lộ trình  |
-| [../RELATIONSHIPS.md](../RELATIONSHIPS.md)        | Nguyên tắc gốc, tiêu chí      |
-| [../SELF_UNDERSTANDING.md](../SELF_UNDERSTANDING.md) | Profile bản thân             |
+| File                                                 | Vai trò                       |
+| ---------------------------------------------------- | ----------------------------- |
+| [HUYEN_JOURNEY.md](./HUYEN_JOURNEY.md)               | Hành trình tổng thể, lộ trình |
+| [../RELATIONSHIPS.md](../RELATIONSHIPS.md)           | Nguyên tắc gốc, tiêu chí      |
+| [../SELF_UNDERSTANDING.md](../SELF_UNDERSTANDING.md) | Profile bản thân              |
+
+## 1g. Khía cạnh Gen Z: Tinh nghịch, Năng động & Bạn bè (Giai đoạn Sinh viên 2024)
+
+Qua các highlight cũ hơn (100w - 132w trước, khoảng năm 2024 khi còn học Đại học Sài Gòn), ta thấy một khía cạnh rất khác của Huyền:
+1. **Rất "lầy lội" và dí dỏm:** 
+   - Sẵn sàng đeo kính đen tạo dáng "cool ngầu" trong lớp học (caption trêu đùa *"Nokia 3110c hân hạnh tài trợ"*), hoặc quay clip nhảy nhót cùng bạn thân ở siêu thị.
+   - Cô ấy không phải lúc nào cũng "deep" hay u buồn. Khi ở cạnh đúng người (bạn thân), cô ấy rất bung xõa, vui vẻ và nghịch ngợm đúng chất Gen Z.
+2. **Hòa đồng, hướng ngoại nhẹ:**
+   - Hay đi chơi cùng nhóm bạn, tham gia các hoạt động (mặc đồng phục thắt khăn quàng đỏ chụp cùng nhóm). Khớp với thông tin cô ấy từng hoạt động trong Chi bộ Sinh viên.
+3. **Mặt mộc và Kính cận là chân ái:**
+   - Trừ những lúc đi tiệc hay lên đồ "sống ảo", bình thường đi học hay đi siêu thị với bạn, Huyền mặc áo thun cực kỳ đơn giản và luôn đeo kính cận. Đây là hình ảnh "cô gái nhà bên" rất thân thiện.
+
+**👉 Ứng dụng để hẹn hò:** 
+- Nếu nhắn tin, hãy dùng nhiều meme, sticker hài hước, hoặc cách nói chuyện Gen Z (như cô ấy hay dùng "dthw", "chu cheee", "elm"). Đừng nói chuyện quá nghiêm túc như đi họp.
+- Buổi hẹn hò không nhất thiết phải ở nhà hàng sang trọng. Một buổi đi siêu thị mua đồ ăn vặt, dạo phố, chụp ảnh photobooth lầy lội cũng có thể khiến cô ấy cực kỳ vui.
+
+## 1h. Sở thích "Wholesome" & Vai trò của Hội bạn thân (Cuối 2024 - Đầu 2025)
+
+Qua các highlight từ 84w - 108w trước, ta có thể phác họa rõ hơn về lối sống và sở thích hẹn hò của Huyền:
+
+1. **Sở thích "Chữa lành" (Healing) & Yêu thiên nhiên:**
+   - Ảnh đi rừng thông/hồ (108w trước) với caption *"Hiu ling 🍃🏕️"*. Cô ấy rất thích những chuyến đi về với thiên nhiên, không khí lạnh (như Đà Lạt), cắm trại. 
+   - Gu thời trang đi du lịch rất trẻ trung, đáng yêu (chân váy xếp ly, balo nhỏ).
+
+2. **Hẹn hò kiểu "Gái ngoan" (Wholesome dating):**
+   - Thay vì đi bar hay pub ồn ào, nơi cô ấy gọi là "Hẹn hò" với bạn thân lại là **Nhà sách** (84w trước). 
+   - Điều này khẳng định Huyền có lối sống rất lành mạnh, thích những nơi yên tĩnh, có văn hóa, nhẹ nhàng.
+
+3. **Tầm quan trọng của Bạn thân (Bestie):**
+   - Cô bạn thân `@huynchou___` xuất hiện dày đặc trong các dịp lễ quan trọng (Noel, cận Tết, hẹn hò cuối tuần). 
+   - Khi độc thân, bạn thân là người đồng hành số 1. Nếu anh Hieu bước vào cuộc đời cô ấy, anh không chỉ cưa đổ cô ấy mà còn phải ghi điểm (hoặc ít nhất là không làm mất lòng) cô bạn thân này.
+
+4. **Sự tự nhận thức về sự "Đáng yêu":**
+   - Caption *"Thấy mình cũm đáng iu / Iu cũm đáng 🤞🏻"* (95w trước) cho thấy cô ấy ý thức rất rõ về sự nữ tính, ngọt ngào của mình và mong muốn được yêu thương ("đáng để yêu").
+
+**👉 Ứng dụng để hẹn hò:** 
+- **Địa điểm hẹn hò lý tưởng:** Ngoài đi cà phê hay siêu thị, đưa cô ấy đi **Nhà sách** (như Hải An, Cá Chép) hoặc các khu tổ hợp nghệ thuật nhẹ nhàng, các quán cà phê có nhiều cây xanh, style Đà Lạt sẽ cực kỳ ghi điểm. 
+- **Chủ đề nói chuyện:** Có thể hỏi thăm về cô bạn thân (VD: *"Anh thấy em hay đi chơi với một bạn nữ, hai đứa chơi thân lâu chưa?"*), hoặc bàn về các chuyến đi du lịch chữa lành (Đà Lạt).
 
 ---
 
-_Cập nhật: 23/09/2026 (V3 - Cập nhật bản đồ cảm xúc sau ngày 7 hoàn chỉnh: cô ấy chat
-tích cực cả ngày, khen "Anh giỏi ha" khi biết chuẩn bị Thạc sĩ, chủ động trêu tối.
-Rào cản hạ rõ rệt. Thiện chí tăng lên 9/10. Sẵn sàng tốt cho kèo sau Trung thu.)_
+_Cập nhật: Mới nhất - Sửa lỗi log, cập nhật log thực tế T5 24/09. Bổ sung phân tích Instagram toàn diện (Tính cách Giver, ranh giới ưu tiên, khía cạnh lầy lội Gen Z, và lối sống lành mạnh thích nhà sách/thiên nhiên)._
