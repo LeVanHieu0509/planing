@@ -298,4 +298,50 @@ Qua các highlight từ 84w - 108w trước, ta có thể phác họa rõ hơn v
 
 ---
 
-_Cập nhật: Mới nhất - Sửa lỗi log, cập nhật log thực tế T5 24/09. Bổ sung phân tích Instagram toàn diện (Tính cách Giver, ranh giới ưu tiên, khía cạnh lầy lội Gen Z, và lối sống lành mạnh thích nhà sách/thiên nhiên)._
+## 8. LỘ TRÌNH 4 NẤC THANG HẠNH PHÚC (Vai trò của Hiếu)
+
+> Định hướng dài hạn để Hiếu biết cách dẫn dắt và đáp ứng đúng nhu cầu tâm lý của Huyền, từ lúc mới quen đến lúc thành gia lập thất.
+
+### Nấc thang 1: Hạnh phúc của sự AN TOÀN (Giai đoạn hiện tại)
+Cô ấy từng viết: *"Cả đời chỉ mong có ai đó thương mình... dịu dàng nhất"*. Ở nấc thang này, hạnh phúc đối với cô ấy đơn giản là không phải lo sợ bị lừa dối, không bị chơi đùa tình cảm.
+- **Hành động của Hiếu:** Giữ sự **Nhất quán (Consistency)**. Hôm nay đối xử với cô ấy thế nào thì ngày mai, tháng sau vẫn y như vậy. Khi nói đi học, đi học thật. Khi dặn ngủ sớm, cũng đi ngủ để giữ sức khỏe. Sự vững chãi này sẽ từ từ chữa lành "60% sợ hãi" trong cô ấy, thay thế bằng cảm giác bình yên tuyệt đối.
+
+### Nấc thang 2: Hạnh phúc của SỰ ƯU TIÊN 
+Lớp phòng vệ thép của Huyền là: *"Prioritize me, or leave me alone"*. Hạnh phúc ở nấc thang này là cảm giác mình là người đặc biệt nhất đối với người đàn ông của mình.
+- **Hành động của Hiếu:** Áp dụng quy tắc **"Chất lượng hơn Số lượng"**. Dù bận rộn với Thạc sĩ, TOEIC, Gym, nhưng những lúc ở cạnh cô ấy hãy đặt điện thoại úp xuống bàn, tập trung 100%. Nhớ chi tiết nhỏ (thích sườn xào chua ngọt). Áp dụng quy tắc "On-call Level 2": sẵn sàng gác lại một buổi học/gym để gọi điện lắng nghe khi cô ấy gặp chuyện buồn.
+
+### Nấc thang 3: Hạnh phúc của SỰ ĐỒNG HÀNH & PHÁT TRIỂN
+Lấy cảm hứng từ cặp đôi Hiệp - Quỳnh. Hạnh phúc không chỉ là ôm nhau xem phim, mà là cùng nhau trở thành phiên bản tốt hơn.
+- **Hành động của Hiếu:** Tìm ra **"Lý do tại sao" (The Why)** của cô ấy. Khó khăn tài chính là gì? Cô ấy có muốn lo cho bố mẹ ở Hà Tĩnh không? Đồng hành bằng **Hành động thực tế**: Định hướng cô ấy học lên (MA TESOL), chia sẻ kinh nghiệm tự học, hoặc sau này hỗ trợ tài chính để cô ấy nhẹ gánh đi học.
+
+### Nấc thang 4: Hạnh phúc của GIA ĐÌNH & CỘI NGUỒN
+Huyền sống vô cùng tình cảm, tôn thờ mẹ và luôn hướng về gia đình ở quê.
+- **Hành động của Hiếu:** Yêu thương gia đình cô ấy như cách anh duy trì "Quỹ mẹ 500tr". Phấn đấu trở thành người con rể mà bố mẹ cô ấy ở Hương Sơn tự hào. Những dịp lễ Tết, một hộp quà gửi về quê, một lời hỏi thăm ông bà, em trai cô ấy sẽ mang lại cho Huyền thứ hạnh phúc tột đỉnh. Vũ khí lớn nhất không phải lời ngọt ngào, mà là **Bờ vai vững chãi**.
+
+---
+
+## 9. TẦM NHÌN 5 NĂM (2026 - 2031): BIẾN "VẾT THƯƠNG GIA ĐÌNH" THÀNH "TẤM KHIÊN VỮNG CHÃI"
+
+> **Bối cảnh:** Bố mẹ Hiếu đang ly thân. Bố mẹ Huyền là nhà giáo truyền thống ở Hà Tĩnh. Đây có thể là rào cản định kiến. Kế hoạch này được thiết lập để đánh bay mọi sự nghi ngờ và chứng minh Hiếu là bến đỗ an toàn tuyệt đối.
+
+**Tâm thế cốt lõi (Mindset):**
+Sự ly thân của bố mẹ không phải là điểm yếu. Hãy dùng nó làm điểm tựa niềm tin: *"Vì gia đình anh từng không trọn vẹn, nên anh hiểu cái giá của sự đổ vỡ. Hơn ai hết, anh là người khao khát và biết cách bảo vệ một tổ ấm thực sự."*
+
+### Giai đoạn 1: Khẳng định Giá trị & Lòng tin (2026 - 2027)
+- **Mục tiêu:** Trở thành "Bức tường thành" kỷ luật.
+- **Hành động:** Chinh phục TOEIC 700+, duy trì Gym (75kg), và xây dựng "Quỹ mẹ 500tr". 
+- **Kết quả:** Khi ra mắt, bố mẹ Huyền sẽ không thấy một thanh niên từ gia đình đổ vỡ, mà thấy một Kỹ sư IT chững chạc, ngoại hình sáng, cực kỳ hiếu thảo và kỷ luật.
+
+### Giai đoạn 2: Cú nhảy vọt Vị thế (2027 - 2029)
+- **Mục tiêu:** Dùng học vấn để xóa bỏ hoàn toàn định kiến.
+- **Hành động:** Hiếu lấy bằng **Thạc sĩ Khoa học Máy tính (MSc)**. Đồng thời định hướng/hỗ trợ Huyền học **Thạc sĩ TESOL**.
+- **Kết quả:** Bố mẹ làm giáo dục sẽ cực kỳ tự hào và yên tâm khi con rể là một Thạc sĩ Kỹ thuật, có ý chí vươn lên mãnh liệt, dìu dắt con gái họ cùng thăng tiến. Tấm bằng Thạc sĩ là "giấy chứng nhận" danh giá nhất dập tắt mọi lời soi mói.
+
+### Giai đoạn 3: Kiến tạo Đế chế & Tổ ấm (2029 - 2031)
+- **Mục tiêu:** An cư lạc nghiệp, tiến tới hôn nhân.
+- **Hành động:** Đạt mốc Tech Lead/Manager hoặc thành công dự án riêng, tích lũy tài sản mua nhà tại TP.HCM.
+- **Kết quả:** Đón Huyền về căn nhà tự tay mình xây dựng. Đàng hoàng thưa chuyện với bố mẹ cô ấy bằng sự tự lập và thành quả thực tế.
+
+---
+
+_Cập nhật: 30/09/2026 - Bổ sung "Lộ trình 4 Nấc thang Hạnh phúc" và "Tầm nhìn 5 Năm 2026-2031" làm kim chỉ nam dài hạn cho Hiếu._
