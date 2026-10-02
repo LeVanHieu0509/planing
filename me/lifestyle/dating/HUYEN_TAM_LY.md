@@ -73,28 +73,29 @@ Qua chuỗi story lưu trong Highlight "My happiness 😌" (Khoảng tháng 4 - 
 
 1. **Thực sự yêu nghề và thương trẻ con:**
    - Đặt tên Highlight về công việc và học sinh là **"My happiness 😌"**. Đối với cô ấy, việc đi dạy không chỉ là mưu sinh mà là niềm vui thực sự.
-   - Cách gọi học sinh: *"mấy nhỏ", "bầy con ồn ào", "mấy nhóc dthw xỉu"*. Giọng điệu mang đậm tính nữ, đầy sự bao dung và tình cảm như một người mẹ nhỏ.
+   - Cách gọi học sinh: _"mấy nhỏ", "bầy con ồn ào", "mấy nhóc dthw xỉu"_. Giọng điệu mang đậm tính nữ, đầy sự bao dung và tình cảm như một người mẹ nhỏ.
 
 2. **Sự mềm lòng và dễ bị "đốn gục" bởi sự dễ thương:**
-   - Caption: *"Hong thích dạy lớp pre xíu nào nhưng có mấy nhóc dthw xỉu"*.
+   - Caption: _"Hong thích dạy lớp pre xíu nào nhưng có mấy nhóc dthw xỉu"_.
    - Tâm lý: Cô ấy có thể thấy mệt mỏi, áp lực với những thứ ồn ào/khó nhằn (lớp pre), nhưng **chỉ cần sự chân thành và dễ thương là cô ấy sẽ mềm lòng ngay lập tức**. Đây là điểm yếu tâm lý của Huyền. Đừng đối xử với cô ấy bằng sự khô khan hay quá lý trí, hãy dùng sự "dễ thương", ấm áp.
 
 3. **Gần gũi và được học sinh yêu mến (Tính cách "Squishy"):**
-   - Story học sinh nắn tay: *"Sao tay Ms. Huyền giống squishy vậy 😂 😻"*.
+   - Story học sinh nắn tay: _"Sao tay Ms. Huyền giống squishy vậy 😂 😻"_.
    - Hình ảnh cô giáo không hề xa cách, học sinh cực kỳ thoải mái ôm ấp, đùa giỡn với cô. Huyền ngoài đời là một người rất dễ gần, "mềm mại" (cả nghĩa đen lẫn bóng), tạo cảm giác an toàn cho người khác.
    - Khi đi làm thường để mặt mộc hoặc trang điểm rất nhẹ, đeo kính cận, nụ cười rất hiền.
 
 ## 1e. Phân tích Style cá nhân & Tâm lý (Qua loạt ảnh Tin nổi bật cá nhân)
 
 1. **Nguyên tắc "Có qua có lại" (Reciprocity) trong tình cảm:**
-   - Story 18w trước (chụp với mèo): *"Nếu ai đó làm mình hạnh phúc 1 chút thì mình sẽ tìm mọi cách để làm họ hạnh phúc hơn 😉"*.
-   - **ĐÂY LÀ CHÌA KHÓA VÀNG:** Cô ấy là kiểu người "Giver" (Người cho đi) khi đã nhận được sự chân thành. Cô ấy không ích kỷ hay đòi hỏi. Nếu anh (Hieu) đối xử tốt, tinh tế và làm cô ấy vui, cô ấy sẽ tự động tìm cách đáp lại tình cảm đó gấp nhiều lần. 
+   - Story 18w trước (chụp với mèo): _"Nếu ai đó làm mình hạnh phúc 1 chút thì mình sẽ tìm mọi cách để làm họ hạnh phúc hơn 😉"_.
+   - **ĐÂY LÀ CHÌA KHÓA VÀNG:** Cô ấy là kiểu người "Giver" (Người cho đi) khi đã nhận được sự chân thành. Cô ấy không ích kỷ hay đòi hỏi. Nếu anh (Hieu) đối xử tốt, tinh tế và làm cô ấy vui, cô ấy sẽ tự động tìm cách đáp lại tình cảm đó gấp nhiều lần.
 
 2. **Phong cách Thời trang & Makeup (Style & Vibe):**
+
    > Chi tiết về gu thời trang "nàng thơ", cách trang điểm và tips chọn địa điểm hẹn hò phù hợp với giao diện của cô ấy, xem tại: [HUYEN_STYLE.md](./HUYEN_STYLE.md)
 
-4. **Tính cách qua Caption (Vui vẻ & Đôi khi mâu thuẫn):**
-   - Rất dí dỏm, thích thả thính làm nũng (*"Xinh không thì bảo 👊🏻"*).
+3. **Tính cách qua Caption (Vui vẻ & Đôi khi mâu thuẫn):**
+   - Rất dí dỏm, thích thả thính làm nũng (_"Xinh không thì bảo 👊🏻"_).
    - **Tự nhận mình là người "Overthinking"** (Post T11/2023). Đây là điểm cực kỳ quan trọng. Phụ nữ overthinking thường suy diễn, để ý tiểu tiết và dễ tự làm mình buồn nếu đối phương vô tâm. Đòi hỏi Hieu phải là người rõ ràng, nhất quán, không gửi "mixed signals" (tín hiệu mập mờ).
    - Được bạn bè xác nhận ngoại hình giống "mấy chị gái trên Douyin" (Tiktok Trung Quốc).
 
@@ -103,22 +104,23 @@ Qua chuỗi story lưu trong Highlight "My happiness 😌" (Khoảng tháng 4 - 
 Qua loạt story 62w-73w trước (Khoảng tháng 5 - tháng 7/2025), khớp hoàn toàn với thời điểm post "khao khát dịu dàng" (tháng 3/2025), đây là giai đoạn Huyền đang tự chữa lành sau một biến cố tình cảm lớn. Những story này phơi bày **điều cô ấy thực sự cần ở một người đàn ông**:
 
 1. **Sự chân thành & Trân trọng là tối thượng:**
-   - *"T. hãy dành sự chân thành cho người chân thành, dành sự thật lòng cho người biết trân trọng.."* (Story con mèo).
+   - _"T. hãy dành sự chân thành cho người chân thành, dành sự thật lòng cho người biết trân trọng.."_ (Story con mèo).
    - Cô ấy từng trao đi sự chân thành nhưng không được trân trọng. Bài học rút ra: Đừng dùng kỹ thuật tán tỉnh hay sự mập mờ với Huyền. Chỉ có sự chân thành, nói được làm được mới giữ chân được cô ấy.
 
 2. **Quy tắc "Ưu tiên số 1" (Không khoan nhượng):**
-   - *"I'm not your free time or your second choice. Prioritize me, or leave me alone."* (Story váy trắng công chúa).
+   - _"I'm not your free time or your second choice. Prioritize me, or leave me alone."_ (Story váy trắng công chúa).
    - Đây là **ranh giới thép**. Cô ấy có vẻ ngoài mỏng manh nhưng bên trong rất quyết liệt. Nếu Hieu bận rộn mà tỏ ra thờ ơ, coi cô ấy là lựa chọn thứ hai, hoặc "lúc rảnh mới nhắn", cô ấy sẽ lập tức rời đi. Sự ổn định và kế hoạch của Hieu (gym, học Thạc sĩ) là tốt, nhưng Hieu phải cho Huyền thấy **cô ấy nằm trong mức ưu tiên cao** của Hieu.
 
 3. **Nội tâm yếu đuối giấu sau vẻ bình thản:**
-   - *"Cô ấy im lặng sau khi trải qua một đống chuyện tồi tệ / trông có vẻ bình thản nhưng thật ra đã khóc rất nhiều khi chỉ có một mình"*.
-   - **Tự thú nhận sự yếu đuối:** Tháng 4/2025, cô ấy viết: *"Sản phẩm này mong manh dễ vỡ, xin vui lòng nhẹ nhàng nâng niu 😌"*. Đây là thông điệp trực tiếp nhất: Cô ấy cần một người đàn ông đủ tinh tế, điềm đạm và **dịu dàng** để bảo vệ mình. Sự lạnh lùng hay "cô giáo nghiêm" đôi khi chỉ là vỏ bọc. Đừng thấy cô ấy "Uki nè" mà nghĩ cô ấy luôn ổn. 
+   - _"Cô ấy im lặng sau khi trải qua một đống chuyện tồi tệ / trông có vẻ bình thản nhưng thật ra đã khóc rất nhiều khi chỉ có một mình"_.
+   - **Tự thú nhận sự yếu đuối:** Tháng 4/2025, cô ấy viết: _"Sản phẩm này mong manh dễ vỡ, xin vui lòng nhẹ nhàng nâng niu 😌"_. Đây là thông điệp trực tiếp nhất: Cô ấy cần một người đàn ông đủ tinh tế, điềm đạm và **dịu dàng** để bảo vệ mình. Sự lạnh lùng hay "cô giáo nghiêm" đôi khi chỉ là vỏ bọc. Đừng thấy cô ấy "Uki nè" mà nghĩ cô ấy luôn ổn.
 
 4. **Sự ảnh hưởng của Mẹ:**
-   - *"Mẹ nói: Sau này... con mất hết thiện cảm với một ai đó mà con từng rất trân trọng"*.
+   - _"Mẹ nói: Sau này... con mất hết thiện cảm với một ai đó mà con từng rất trân trọng"_.
    - Khi buồn, người cô ấy lắng nghe lời khuyên là Mẹ. Khẳng định lại: Gia đình, đặc biệt là Mẹ, có sức ảnh hưởng cực lớn đến định hướng và quyết định tình cảm của Huyền.
 
-**👉 Ứng dụng để hẹn hò:** 
+**👉 Ứng dụng để hẹn hò:**
+
 - **Tuyệt đối không chơi trò "kéo-đẩy" (Push-pull) độc hại.** Đừng cố tình bơ tin nhắn để tạo sự bí ẩn. Sự ưu tiên (Priority) và chân thành (Sincerity) là thứ cô ấy cần.
 - **Khi đi hẹn hò:** Chắc chắn cô ấy sẽ mặc váy/áo nữ tính, trang điểm xinh xắn. Khi gặp, **hãy khen ngay lập tức** nhưng khen một cách tinh tế.
 - **Nuôi dưỡng tình cảm:** Hãy làm những hành động nhỏ để "làm cô ấy hạnh phúc 1 chút". Cô ấy sẽ ghi nhận và chủ động làm anh vui ngược lại.
@@ -261,15 +263,17 @@ Dấu hiệu cô ấy chỉ coi bạn là BẠN:
 ## 1g. Khía cạnh Gen Z: Tinh nghịch, Năng động & Bạn bè (Giai đoạn Sinh viên 2024)
 
 Qua các highlight cũ hơn (100w - 132w trước, khoảng năm 2024 khi còn học Đại học Sài Gòn), ta thấy một khía cạnh rất khác của Huyền:
-1. **Rất "lầy lội" và dí dỏm:** 
-   - Sẵn sàng đeo kính đen tạo dáng "cool ngầu" trong lớp học (caption trêu đùa *"Nokia 3110c hân hạnh tài trợ"*), hoặc quay clip nhảy nhót cùng bạn thân ở siêu thị.
+
+1. **Rất "lầy lội" và dí dỏm:**
+   - Sẵn sàng đeo kính đen tạo dáng "cool ngầu" trong lớp học (caption trêu đùa _"Nokia 3110c hân hạnh tài trợ"_), hoặc quay clip nhảy nhót cùng bạn thân ở siêu thị.
    - Cô ấy không phải lúc nào cũng "deep" hay u buồn. Khi ở cạnh đúng người (bạn thân), cô ấy rất bung xõa, vui vẻ và nghịch ngợm đúng chất Gen Z.
 2. **Hòa đồng, hướng ngoại nhẹ:**
    - Hay đi chơi cùng nhóm bạn, tham gia các hoạt động (mặc đồng phục thắt khăn quàng đỏ chụp cùng nhóm). Khớp với thông tin cô ấy từng hoạt động trong Chi bộ Sinh viên.
 3. **Mặt mộc và Kính cận là chân ái:**
    - Trừ những lúc đi tiệc hay lên đồ "sống ảo", bình thường đi học hay đi siêu thị với bạn, Huyền mặc áo thun cực kỳ đơn giản và luôn đeo kính cận. Đây là hình ảnh "cô gái nhà bên" rất thân thiện.
 
-**👉 Ứng dụng để hẹn hò:** 
+**👉 Ứng dụng để hẹn hò:**
+
 - Nếu nhắn tin, hãy dùng nhiều meme, sticker hài hước, hoặc cách nói chuyện Gen Z (như cô ấy hay dùng "dthw", "chu cheee", "elm"). Đừng nói chuyện quá nghiêm túc như đi họp.
 - Buổi hẹn hò không nhất thiết phải ở nhà hàng sang trọng. Một buổi đi siêu thị mua đồ ăn vặt, dạo phố, chụp ảnh photobooth lầy lội cũng có thể khiến cô ấy cực kỳ vui.
 
@@ -278,23 +282,24 @@ Qua các highlight cũ hơn (100w - 132w trước, khoảng năm 2024 khi còn h
 Qua các highlight từ 84w - 108w trước, ta có thể phác họa rõ hơn về lối sống và sở thích hẹn hò của Huyền:
 
 1. **Sở thích "Chữa lành" (Healing) & Yêu thiên nhiên:**
-   - Ảnh đi rừng thông/hồ (108w trước) với caption *"Hiu ling 🍃🏕️"*. Cô ấy rất thích những chuyến đi về với thiên nhiên, không khí lạnh (như Đà Lạt), cắm trại. 
+   - Ảnh đi rừng thông/hồ (108w trước) với caption _"Hiu ling 🍃🏕️"_. Cô ấy rất thích những chuyến đi về với thiên nhiên, không khí lạnh (như Đà Lạt), cắm trại.
    - Gu thời trang đi du lịch rất trẻ trung, đáng yêu (chân váy xếp ly, balo nhỏ).
 
 2. **Hẹn hò kiểu "Gái ngoan" (Wholesome dating):**
-   - Thay vì đi bar hay pub ồn ào, nơi cô ấy gọi là "Hẹn hò" với bạn thân lại là **Nhà sách** (84w trước). 
+   - Thay vì đi bar hay pub ồn ào, nơi cô ấy gọi là "Hẹn hò" với bạn thân lại là **Nhà sách** (84w trước).
    - Điều này khẳng định Huyền có lối sống rất lành mạnh, thích những nơi yên tĩnh, có văn hóa, nhẹ nhàng.
 
 3. **Tầm quan trọng của Bạn thân (Bestie):**
-   - Cô bạn thân `@huynchou___` xuất hiện dày đặc trong các dịp lễ quan trọng (Noel, cận Tết, hẹn hò cuối tuần). 
+   - Cô bạn thân `@huynchou___` xuất hiện dày đặc trong các dịp lễ quan trọng (Noel, cận Tết, hẹn hò cuối tuần).
    - Khi độc thân, bạn thân là người đồng hành số 1. Nếu anh Hieu bước vào cuộc đời cô ấy, anh không chỉ cưa đổ cô ấy mà còn phải ghi điểm (hoặc ít nhất là không làm mất lòng) cô bạn thân này.
 
 4. **Sự tự nhận thức về sự "Đáng yêu":**
-   - Caption *"Thấy mình cũm đáng iu / Iu cũm đáng 🤞🏻"* (95w trước) cho thấy cô ấy ý thức rất rõ về sự nữ tính, ngọt ngào của mình và mong muốn được yêu thương ("đáng để yêu").
+   - Caption _"Thấy mình cũm đáng iu / Iu cũm đáng 🤞🏻"_ (95w trước) cho thấy cô ấy ý thức rất rõ về sự nữ tính, ngọt ngào của mình và mong muốn được yêu thương ("đáng để yêu").
 
-**👉 Ứng dụng để hẹn hò:** 
-- **Địa điểm hẹn hò lý tưởng:** Ngoài đi cà phê hay siêu thị, đưa cô ấy đi **Nhà sách** (như Hải An, Cá Chép) hoặc các khu tổ hợp nghệ thuật nhẹ nhàng, các quán cà phê có nhiều cây xanh, style Đà Lạt sẽ cực kỳ ghi điểm. 
-- **Chủ đề nói chuyện:** Có thể hỏi thăm về cô bạn thân (VD: *"Anh thấy em hay đi chơi với một bạn nữ, hai đứa chơi thân lâu chưa?"*), hoặc bàn về các chuyến đi du lịch chữa lành (Đà Lạt).
+**👉 Ứng dụng để hẹn hò:**
+
+- **Địa điểm hẹn hò lý tưởng:** Ngoài đi cà phê hay siêu thị, đưa cô ấy đi **Nhà sách** (như Hải An, Cá Chép) hoặc các khu tổ hợp nghệ thuật nhẹ nhàng, các quán cà phê có nhiều cây xanh, style Đà Lạt sẽ cực kỳ ghi điểm.
+- **Chủ đề nói chuyện:** Có thể hỏi thăm về cô bạn thân (VD: _"Anh thấy em hay đi chơi với một bạn nữ, hai đứa chơi thân lâu chưa?"_), hoặc bàn về các chuyến đi du lịch chữa lành (Đà Lạt).
 
 ---
 
@@ -303,19 +308,27 @@ Qua các highlight từ 84w - 108w trước, ta có thể phác họa rõ hơn v
 > Định hướng dài hạn để Hiếu biết cách dẫn dắt và đáp ứng đúng nhu cầu tâm lý của Huyền, từ lúc mới quen đến lúc thành gia lập thất.
 
 ### Nấc thang 1: Hạnh phúc của sự AN TOÀN (Giai đoạn hiện tại)
-Cô ấy từng viết: *"Cả đời chỉ mong có ai đó thương mình... dịu dàng nhất"*. Ở nấc thang này, hạnh phúc đối với cô ấy đơn giản là không phải lo sợ bị lừa dối, không bị chơi đùa tình cảm.
+
+Cô ấy từng viết: _"Cả đời chỉ mong có ai đó thương mình... dịu dàng nhất"_. Ở nấc thang này, hạnh phúc đối với cô ấy đơn giản là không phải lo sợ bị lừa dối, không bị chơi đùa tình cảm.
+
 - **Hành động của Hiếu:** Giữ sự **Nhất quán (Consistency)**. Hôm nay đối xử với cô ấy thế nào thì ngày mai, tháng sau vẫn y như vậy. Khi nói đi học, đi học thật. Khi dặn ngủ sớm, cũng đi ngủ để giữ sức khỏe. Sự vững chãi này sẽ từ từ chữa lành "60% sợ hãi" trong cô ấy, thay thế bằng cảm giác bình yên tuyệt đối.
 
-### Nấc thang 2: Hạnh phúc của SỰ ƯU TIÊN 
-Lớp phòng vệ thép của Huyền là: *"Prioritize me, or leave me alone"*. Hạnh phúc ở nấc thang này là cảm giác mình là người đặc biệt nhất đối với người đàn ông của mình.
+### Nấc thang 2: Hạnh phúc của SỰ ƯU TIÊN
+
+Lớp phòng vệ thép của Huyền là: _"Prioritize me, or leave me alone"_. Hạnh phúc ở nấc thang này là cảm giác mình là người đặc biệt nhất đối với người đàn ông của mình.
+
 - **Hành động của Hiếu:** Áp dụng quy tắc **"Chất lượng hơn Số lượng"**. Dù bận rộn với Thạc sĩ, TOEIC, Gym, nhưng những lúc ở cạnh cô ấy hãy đặt điện thoại úp xuống bàn, tập trung 100%. Nhớ chi tiết nhỏ (thích sườn xào chua ngọt). Áp dụng quy tắc "On-call Level 2": sẵn sàng gác lại một buổi học/gym để gọi điện lắng nghe khi cô ấy gặp chuyện buồn.
 
 ### Nấc thang 3: Hạnh phúc của SỰ ĐỒNG HÀNH & PHÁT TRIỂN
+
 Lấy cảm hứng từ cặp đôi Hiệp - Quỳnh. Hạnh phúc không chỉ là ôm nhau xem phim, mà là cùng nhau trở thành phiên bản tốt hơn.
+
 - **Hành động của Hiếu:** Tìm ra **"Lý do tại sao" (The Why)** của cô ấy. Khó khăn tài chính là gì? Cô ấy có muốn lo cho bố mẹ ở Hà Tĩnh không? Đồng hành bằng **Hành động thực tế**: Định hướng cô ấy học lên (MA TESOL), chia sẻ kinh nghiệm tự học, hoặc sau này hỗ trợ tài chính để cô ấy nhẹ gánh đi học.
 
 ### Nấc thang 4: Hạnh phúc của GIA ĐÌNH & CỘI NGUỒN
+
 Huyền sống vô cùng tình cảm, tôn thờ mẹ và luôn hướng về gia đình ở quê.
+
 - **Hành động của Hiếu:** Yêu thương gia đình cô ấy như cách anh duy trì "Quỹ mẹ 500tr". Phấn đấu trở thành người con rể mà bố mẹ cô ấy ở Hương Sơn tự hào. Những dịp lễ Tết, một hộp quà gửi về quê, một lời hỏi thăm ông bà, em trai cô ấy sẽ mang lại cho Huyền thứ hạnh phúc tột đỉnh. Vũ khí lớn nhất không phải lời ngọt ngào, mà là **Bờ vai vững chãi**.
 
 ---
@@ -325,19 +338,22 @@ Huyền sống vô cùng tình cảm, tôn thờ mẹ và luôn hướng về gi
 > **Bối cảnh:** Bố mẹ Hiếu đang ly thân. Bố mẹ Huyền là nhà giáo truyền thống ở Hà Tĩnh. Đây có thể là rào cản định kiến. Kế hoạch này được thiết lập để đánh bay mọi sự nghi ngờ và chứng minh Hiếu là bến đỗ an toàn tuyệt đối.
 
 **Tâm thế cốt lõi (Mindset):**
-Sự ly thân của bố mẹ không phải là điểm yếu. Hãy dùng nó làm điểm tựa niềm tin: *"Vì gia đình anh từng không trọn vẹn, nên anh hiểu cái giá của sự đổ vỡ. Hơn ai hết, anh là người khao khát và biết cách bảo vệ một tổ ấm thực sự."*
+Sự ly thân của bố mẹ không phải là điểm yếu. Hãy dùng nó làm điểm tựa niềm tin: _"Vì gia đình anh từng không trọn vẹn, nên anh hiểu cái giá của sự đổ vỡ. Hơn ai hết, anh là người khao khát và biết cách bảo vệ một tổ ấm thực sự."_
 
 ### Giai đoạn 1: Khẳng định Giá trị & Lòng tin (2026 - 2027)
+
 - **Mục tiêu:** Trở thành "Bức tường thành" kỷ luật.
-- **Hành động:** Chinh phục TOEIC 700+, duy trì Gym (75kg), và xây dựng "Quỹ mẹ 500tr". 
+- **Hành động:** Chinh phục TOEIC 700+, duy trì Gym (75kg), và xây dựng "Quỹ mẹ 500tr".
 - **Kết quả:** Khi ra mắt, bố mẹ Huyền sẽ không thấy một thanh niên từ gia đình đổ vỡ, mà thấy một Kỹ sư IT chững chạc, ngoại hình sáng, cực kỳ hiếu thảo và kỷ luật.
 
 ### Giai đoạn 2: Cú nhảy vọt Vị thế (2027 - 2029)
+
 - **Mục tiêu:** Dùng học vấn để xóa bỏ hoàn toàn định kiến.
 - **Hành động:** Hiếu lấy bằng **Thạc sĩ Khoa học Máy tính (MSc)**. Đồng thời định hướng/hỗ trợ Huyền học **Thạc sĩ TESOL**.
 - **Kết quả:** Bố mẹ làm giáo dục sẽ cực kỳ tự hào và yên tâm khi con rể là một Thạc sĩ Kỹ thuật, có ý chí vươn lên mãnh liệt, dìu dắt con gái họ cùng thăng tiến. Tấm bằng Thạc sĩ là "giấy chứng nhận" danh giá nhất dập tắt mọi lời soi mói.
 
 ### Giai đoạn 3: Kiến tạo Đế chế & Tổ ấm (2029 - 2031)
+
 - **Mục tiêu:** An cư lạc nghiệp, tiến tới hôn nhân.
 - **Hành động:** Đạt mốc Tech Lead/Manager hoặc thành công dự án riêng, tích lũy tài sản mua nhà tại TP.HCM.
 - **Kết quả:** Đón Huyền về căn nhà tự tay mình xây dựng. Đàng hoàng thưa chuyện với bố mẹ cô ấy bằng sự tự lập và thành quả thực tế.

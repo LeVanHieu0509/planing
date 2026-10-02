@@ -9,40 +9,45 @@
 
 ## 📍 BÂY GIỜ BẠN ĐANG Ở ĐÂY
 
-✅ Đã làm được:
-• Tương tác T2, T3 (28-29/09) cực mượt. Đã khai thác được câu chuyện nhớ quê, món mẹ nấu.
-• Tối T3 (29/09): Chốt hội thoại bằng một sự quan tâm trưởng thành (bảo cô ấy đi ngủ sớm). Cô ấy chúc lại "Anh ngủ ngon nha" cực kỳ ngoan ngoãn. Rào cản đã sập hoàn toàn.
+✅ Đã làm được (T5 - 01/10):
+- Tung "Soft Bait" (Video TikTok) thành công, Huyền tương tác lại vui vẻ.
+- Ngỏ ý quan tâm mua thuốc khi cô ấy ốm. Dù bị từ chối do cô ấy ngại, nhưng **HIẾU ĐÃ LÀM CỰC KỲ XUẤT SẮC Ở PHÚT CHÓT**.
+- Thay vì lầy lội, Hiếu đã chủ động đóng cửa hội thoại bằng một câu chốt cực kỳ bản lĩnh: *"Okie nè, take care nhó"*. Huyền đã thả tim câu này, chứng tỏ cô ấy rất nể cách anh tôn trọng ranh giới của ẻm.
 
-🎯 Nước đi kế tiếp:
-• **Thứ Tư (30/09):** 🤫 CHIẾN THUẬT IM LẶNG. Tạm dừng nhắn tin 1 ngày để tạo khoảng không, tránh bị nhàm chán và rơi vào Friendzone tâm sự mỏng.
-• **Thứ Năm (01/10):** Bung mồi chốt kèo Kamela Music Box cho cuối tuần.
+🎯 Nước đi kế tiếp (The Perfect Pull):
+- Pha chốt hạ tối qua của anh là một cú "Pull" (Nhả) điểm 10. Giờ là lúc để cú Pull đó phát huy tác dụng.
+- Khởi động chiến dịch **RADIO SILENCE (Im lặng tuyệt đối)** trong T6 và T7 để tạo không gian cho ẻm nghỉ ngơi, đồng thời tạo ra "Sự vắng mặt có giá trị" khiến ẻm phải tò mò.
 
 ---
 
 ## 🔥 HÀNH ĐỘNG CỤ THỂ TỪNG NGÀY
 
-### T7 20/09 — HÔM NAY
+### T6 02/10 — HÔM NAY (RADIO SILENCE)
 
 ```
-❌ KHÔNG NHẮN GÌ
+❌ KHÔNG NHẮN GÌ, KHÔNG HỎI THĂM BỆNH, KHÔNG REACT STORY.
+(Đã thả tim tin nhắn cuối từ đêm qua rồi thì biến mất luôn).
 
 Việc cần làm cho bản thân:
-  □ Gym sáng (07:30-08:30) — Chân + Vai
-  □ Nghỉ ngơi, làm việc cá nhân
-  □ Cất điện thoại, không mở app hẹn hò
-
-Nếu cô ấy nhắn trước → rep ngắn, vui vẻ, không kéo dài
+  □ Tập trung 100% vào công việc.
+  □ Nghỉ ngơi, củng cố mindset.
 ```
 
-### CN 21/09 — NGÀY MAI
+### T7 03/10 — NGÀY MAI (MAINTAIN SILENCE / TÁI KHỞI ĐỘNG NHẸ NHÀNG)
 
 ```
-❌ KHÔNG NHẮN GÌ
+Sáng/Trưa: TIẾP TỤC IM LẶNG.
+
+Chiều/Tối: 
+- ❌ TUYỆT ĐỐI KHÔNG CALL VIDEO BẤT NGỜ. Phụ nữ đang ốm/mới ốm dậy rất kỵ call video vì họ chưa makeup và đang mệt mỏi. Call lúc này là xâm phạm ranh giới.
+- ✅ CÁCH TÁI KHỞI ĐỘNG:
+  + Cách 1 (Tốt nhất): Chờ ẻm up Story rồi react/reply nhẹ nhàng.
+  + Cách 2: Tầm chiều tối, thả 1 tin nhắn cực ngắn: "Bé bệnh nhân nay khỏe chưa dạ" (Không hỏi dồn, không gợi lại vụ mua thuốc hôm qua).
 
 Việc cần làm cho bản thân:
-  □ Gym (10:30-11:30) — Full body
-  □ Lớp tiếng Anh CN
-  □ Sprint review (21:00)
+  □ Gym
+  □ Học TOEIC
+  □ Đi chơi / thư giãn với bạn bè
 ```
 
 ### T2 22/09
