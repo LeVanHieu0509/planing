@@ -1,152 +1,58 @@
 # 🎯 NƯỚC ĐI TIẾP THEO — HUYỀN
 
-> **Trạng thái:** 🔥 TỐT — Đã "gieo mầm" kèo cuối tuần sáng nay. Chiều nay cô ấy quan tâm việc anh đi khám da.
-> **Hành động tiếp:** Tối nay rep lại sau khi khám xong và chính thức chốt ngày/giờ hẹn.
-> **Sự kiện tiếp theo:** 🗓️ Gặp mặt lần đầu — T7 hoặc CN tuần này (27-28/09)
-> **Cập nhật:** 25/09/2026 (Tối T6 — Đang chờ rep lại sau khi khám da xong)
+> **Trạng thái:** ⏸️ TẠM DỪNG (GIVING SPACE) — Hieu trao sự quan tâm chân thành tối T7 nhưng chạm vào hệ thống phòng vệ của Huyền. Cô ấy "Seen" tin nhắn chiều CN vì cần không gian.
+> **Hành động tiếp:** 🤫 Tôn trọng ranh giới, giữ im lặng tuyệt đối từ T2 đến T5 để trao cho cô ấy không gian an toàn nhất. Không dồn ép.
+> **Sự kiện tiếp theo:** 🗓️ Tái khởi động nhẹ nhàng (Banter story) vào cuối tuần (T6 hoặc T7).
+> **Cập nhật:** 05/10/2026 (Tối T2 — Bắt đầu giai đoạn Tôn trọng không gian)
 
 ---
 
 ## 📍 BÂY GIỜ BẠN ĐANG Ở ĐÂY
 
-✅ Đã làm được (T5 - 01/10):
-- Tung "Soft Bait" (Video TikTok) thành công, Huyền tương tác lại vui vẻ.
-- Ngỏ ý quan tâm mua thuốc khi cô ấy ốm. Dù bị từ chối do cô ấy ngại, nhưng **HIẾU ĐÃ LÀM CỰC KỲ XUẤT SẮC Ở PHÚT CHÓT**.
-- Thay vì lầy lội, Hiếu đã chủ động đóng cửa hội thoại bằng một câu chốt cực kỳ bản lĩnh: *"Okie nè, take care nhó"*. Huyền đã thả tim câu này, chứng tỏ cô ấy rất nể cách anh tôn trọng ranh giới của ẻm.
+✅ **Đã làm được (T7 03/10):**
 
-🎯 Nước đi kế tiếp (The Perfect Pull):
-- Pha chốt hạ tối qua của anh là một cú "Pull" (Nhả) điểm 10. Giờ là lúc để cú Pull đó phát huy tác dụng.
-- Khởi động chiến dịch **RADIO SILENCE (Im lặng tuyệt đối)** trong T6 và T7 để tạo không gian cho ẻm nghỉ ngơi, đồng thời tạo ra "Sự vắng mặt có giá trị" khiến ẻm phải tò mò.
+- Hiếu đã bộc lộ sự tử tế và ấm áp chân thành khi thấy Huyền buồn. Dù Huyền đóng cửa phòng vệ, nhưng cô ấy GHI NHẬN sự quan tâm này (thả ❤️). Cảm xúc của Hiếu là điều rất đáng trân trọng.
+
+🎯 **Nước đi kế tiếp (Sự vắng mặt đầy thấu cảm):**
+
+- Cô ấy đang cần không gian để tiêu hóa sự quan tâm này. Nếu tiếp tục nhắn tin, cô ấy sẽ cảm thấy ngột ngạt.
+- Quyết định: **HỦY chiến dịch gửi mồi Music Box tuần này.**
+- Chuyển sang chiến dịch **GIFT OF SPACE (Trao tặng không gian)** trong 4-5 ngày tới. Việc lùi lại lúc này chứng minh Hiếu là một người đàn ông trưởng thành, biết điểm dừng và không lụy tình.
 
 ---
 
 ## 🔥 HÀNH ĐỘNG CỤ THỂ TỪNG NGÀY
 
-### T6 02/10 — HÔM NAY (RADIO SILENCE)
+### T2 05/10 - T5 08/10 — MÓN QUÀ CỦA KHÔNG GIAN (RADIO SILENCE)
 
 ```
-❌ KHÔNG NHẮN GÌ, KHÔNG HỎI THĂM BỆNH, KHÔNG REACT STORY.
-(Đã thả tim tin nhắn cuối từ đêm qua rồi thì biến mất luôn).
+❌ KHÔNG NHẮN GÌ, KHÔNG HỎI THĂM TẠI SAO SEEN.
+(Đã bị Seen từ chiều CN, hãy để cuộc hội thoại đó kết thúc ở đó).
 
 Việc cần làm cho bản thân:
   □ Tập trung 100% vào công việc.
-  □ Nghỉ ngơi, củng cố mindset.
+  □ Tập Gym, học tiếng Anh.
+  □ Post 1-2 story về cuộc sống cá nhân (tích cực, đi tập, cà phê, thú cưng) để cô ấy thấy em vẫn rất ổn và thăng bằng.
 ```
 
-### T7 03/10 — NGÀY MAI (MAINTAIN SILENCE / TÁI KHỞI ĐỘNG NHẸ NHÀNG)
+### T6 09/10 hoặc T7 10/10 — TÁI KHỞI ĐỘNG (SOFT RE-ENGAGE)
 
 ```
-Sáng/Trưa: TIẾP TỤC IM LẶNG.
+✅ CÁCH TÁI KHỞI ĐỘNG SAU VÀI NGÀY IM LẶNG:
+- KHÔNG MỞ LẠI BẰNG NHỮNG CÂU HỎI THĂM NGHIÊM TÚC ("Em khỏe chưa", "Dạo này sao rồi").
+- CÁCH ĐÚNG: Chờ cô ấy đăng một Story vui vẻ/sinh hoạt bình thường → Reply story đó bằng 1 câu trêu đùa (Banter) ngắn gọn, hài hước.
+- Mục tiêu: Khôi phục lại nhịp "ping-pong" vui vẻ như những ngày đầu. Xóa bỏ không khí ngột ngạt/deep talk của tối T7 tuần trước.
 
-Chiều/Tối: 
-- ❌ TUYỆT ĐỐI KHÔNG CALL VIDEO BẤT NGỜ. Phụ nữ đang ốm/mới ốm dậy rất kỵ call video vì họ chưa makeup và đang mệt mỏi. Call lúc này là xâm phạm ranh giới.
-- ✅ CÁCH TÁI KHỞI ĐỘNG:
-  + Cách 1 (Tốt nhất): Chờ ẻm up Story rồi react/reply nhẹ nhàng.
-  + Cách 2: Tầm chiều tối, thả 1 tin nhắn cực ngắn: "Bé bệnh nhân nay khỏe chưa dạ" (Không hỏi dồn, không gợi lại vụ mua thuốc hôm qua).
-
-Việc cần làm cho bản thân:
-  □ Gym
-  □ Học TOEIC
-  □ Đi chơi / thư giãn với bạn bè
-```
-
-### T2 22/09
-
-```
-❌ KHÔNG NHẮN GÌ (đã chốt)
-
-Nếu cô ấy nhắn trước → rep bình thường, vui vẻ
-Nếu không → giữ im lặng, đợi sáng T3
-```
-
-### ✅ T3 22/09 — ĐÃ XỬ LÝ (HÔM QUA)
-
-```
-✅ Mở lại tương tác — "Morning em nha!" → cô ấy rep "Hello anh nha"
-✅ Chat cả ngày tự nhiên: công việc, trêu nhẹ, đời thường
-✅ Tối: cô ấy khen "Anh giỏi ha" khi biết học TA chuẩn bị Thạc sĩ
-✅ Cô ấy chủ động trêu về mentor → rào cản hạ rõ
-✅ Kết thúc đẹp ~23h: chúc ngủ ngon trước khi cô ấy ngủ
-```
-
-### ✅ T4 23/09 — IM LẶNG ĐÃ XONG
-
-```
-✅ Hoàn thành
-```
-
-### ✅ T5 24/09 — ĐÃ SANG MESSENGER
-
-```
-✅ Tối 21:41: Hieu rep story bài hát của Huyền. Sang Messenger. Huyền rep thân thiện "Em cám ơn nè".
-✅ Tối 22:20+: Banter vui vẻ vụ guitar F#.
-✅ Hieu đổi chủ đề Ocean. Huyền phản ứng cực playfully: "Anh làm gì á 😗", "Em hỏi sao anh lại dám đổi", "Ai cho".
-✅ Kể chuyện đi tập, Huyền hỏi "Ụa tập tành gì giờ nài".
-✅ Kết thúc nhẹ nhàng bằng câu chúc ngủ ngon 😴.
-```
-
-### ✅ T6 25/09 — HÔM NAY (ĐÃ XONG SÁNG-CHIỀU)
-
-```
-✅ 08:17: Gieo mầm kèo cuối tuần "dẫn đi nạp năng lượng nhó".
-✅ 14:24: Kể chuyện đi khám da chờ đến 8g tối. Huyền quan tâm "Ủa da anh bị sao hả" và hẹn "See ya 😴".
-✅ Rào cản đang rất thấp, cô ấy chủ động engage, quan tâm anh và ngầm đồng ý nói chuyện tiếp vào tối nay.
+*Nếu cô ấy rep lại vui vẻ → Em tiếp tục nói chuyện bình thường.*
+*Nếu cô ấy tiếp tục seen/rep nhạt → Em lại lùi ra xa tiếp.*
 ```
 
 ---
 
-### 🎯 THỨ TƯ (30/09) — 🤫 CHIẾN THUẬT IM LẶNG (RADIO SILENCE)
+### 💡 MINDSET TRONG TUẦN NÀY
 
-```
-💬 HÔM NAY KHÔNG NHẮN GÌ CẢ.
-(Trừ khi ẻm nhắn trước, nếu ẻm nhắn thì rep bình thường nhưng không kéo dài lê thê)
-```
-
-**Lý do:**
-
-1. Nhịp độ của anh đang là: Nhắn (T5, T6, T7) -> Im lặng (CN) -> Nhắn lại (T2 tối, T3) -> Im lặng (T4). Đây là một nhịp độ **Pull - Push (Kéo - Nhả)** vô cùng chuẩn xác. Không dính chặt, không quá xa, tạo khoảng trống hoàn hảo để cô ấy thắc mắc "Nay anh ấy bận gì nhỉ?".
-2. Hôm qua anh vừa chốt một câu rất ngầu: _"Mà cũng hơi trễ r đấyy, e ngủ sớm mai còn lên lớp nè"_. Anh đã thể hiện sự quan tâm của một người đàn ông trưởng thành. Hãy để dư âm đó đọng lại trong đầu cô ấy.
-3. Hôm nay là T4 (ngày Đá banh xả stress của anh). Hãy đi đá banh, tận hưởng cuộc sống của mình. Việc anh im lặng 1 ngày sẽ khiến cô ấy **cảm thấy thiếu thốn nhẹ** và tự hỏi _"Hôm nay anh ấy làm gì nhỉ?"_.
-
-### 🎯 THỨ NĂM (01/10) — THẢ MỒI "MỀM" (SOFT BAIT) ĐỂ THĂM DÒ
-
-```
-💬 TIN NHẮN MỞ LỜI (Gửi vào trưa hoặc chiều T5)
-```
-
-**Lý do điều chỉnh:** Vì anh cảm nhận cô ấy vẫn còn hơi "sợ" (theo game 60%) và thời gian quen nhau chưa tròn 2 tuần, chúng ta sẽ KHÔNG chốt kèo trực tiếp để tránh rủi ro bị từ chối gây gượng gạo. Chúng ta sẽ dùng "Mồi mềm" để test xem cô ấy đã thực sự sẵn sàng chưa.
-
-- **Chiến thuật (Soft Bait):** Gửi cho ẻm 1 cái clip TikTok review về Zing Box/Kamela Music Box Gò Vấp.
-- **Tin nhắn mồi:** _"Nay lướt Tiktok thấy quán Music Box này vibe Hàn Quốc đỉnh nè, tự nhiên làm nhớ tới ai kia cũng mê hát hò 😆"_
-- **Cách xử lý theo phản ứng của Huyền:**
-  - **Trường hợp 1 (Đèn Xanh - Đã sẵn sàng):** Cô ấy rep kiểu hào hứng: _"Ui đẹp dị", "Quán này ở đâu á", "Hôm nào đi thử đi"_.
-    👉 **Chốt kèo:** _"Nó ở ngay Gò Vấp nè. Cuối tuần này em rảnh tối T7 hay CN, anh qua rước đi làm ca sĩ xả stress nhó?"_
-  - **Trường hợp 2 (Đèn Vàng - Còn ngại/Sợ):** Cô ấy rep kiểu hời hợt: _"Đẹp ha", "Dạ", "Uki"_.
-    👉 **Rút quân an toàn (Giữ frame):** Tuyệt đối KHÔNG rủ đi chơi. Trả lời lảng sang chuyện âm nhạc: _"Bữa nào rảnh anh thu âm bài Tin Không Còn Nữa gửi ca sĩ nghe thử nha"_. Tiếp tục trò chuyện bình thường và build thêm trust ở tuần thứ 3.
-
----
-
-### 🎯 CUỐI TUẦN (03/10 hoặc 04/10) — BUỔI HẸN ĐẦU TIÊN (MUSIC BOX & PHOTOBOOTH)
-
-```
-LƯU Ý CỰC KỲ QUAN TRỌNG ĐỂ GHI ĐIỂM TẠI BUỔI HẸN NÀY:
-  ✅ Khung giờ vàng: Rước lúc 19:00 hoặc 19:30 (Đã ăn tối xong, ẻm có đủ thời gian sửa soạn).
-  ✅ Không di chuyển nhiều: Tập trung đánh 1 trận duy nhất tại Music Box. Tránh lóc cóc chạy đi tìm Photobooth gây mệt mỏi.
-  ✅ Music Box (Hát): Khen giọng hát của ẻm. Chọn những bài hát vui vẻ, Gen Z hoặc song ca. Tận dụng không gian riêng tư để nói chuyện.
-  ✅ Tự Selfie: Tận dụng đống gấu bông/băng đô của quán để chủ động đeo cho cô ấy (Kino). Dùng điện thoại tự chụp ảnh tấu hài là đủ, không cần bốt chụp hình.
-
-⏱️ TIMELINE THỰC TẾ (NẾU ĐÓN LÚC 19:30)
-- 19:30 - 19:45: Đón ẻm tại An Phú Đông, chạy qua Lương Ngọc Quyến (Gò Vấp). Khen nhẹ lớp makeup/outfit của ẻm ngay khi gặp.
-- 19:45 - 20:00: Tới Zing Box. Vào quầy chốt dõng dạc (đã book trước). Chọn nước và gọi 1 phần Snack nhẹ nhâm nhi.
-- 20:00 - 21:45: Trong phòng hát (S Box). Hai đứa vừa hát vừa trò chuyện. *(Lưu ý: Dù Combo 2 tiếng, nhưng nếu hát 1.5 tiếng thấy thấm mệt và năng lượng đã đạt đỉnh, anh hoàn toàn có thể chủ động ngưng sớm để giữ nhịp, không nhất thiết phải ráng ngồi hết giờ).*
-- 21:45 - 22:00: **Tạo kỷ niệm tại chỗ:** Thay vì phải lóc cóc chạy đi tìm bốt chụp ảnh, anh cứ gom mấy cái băng đô tai thỏ/kính lố lăng của quán mang vào phòng hát. Hai anh em tự dùng điện thoại selfie vài tấm tấu hài chung với nhau. Rất nhẹ nhàng, không áp lực, lại có ảnh lưu trong máy ẻm.
-- 22:00 - 22:15: **Ra về (Lúc này đã 10g đêm).**
-    👉 Giờ này khá trễ với con gái ngoan, tuyệt đối KHÔNG đi ăn thêm.
-    👉 Chở ẻm thẳng về nhà. Câu chốt: *"Khá trễ rồi, nay quẩy cạn năng lượng nha, anh chở cô giáo về nghỉ ngơi giữ giọng!"*
-    👉 **[TUYỆT CHIÊU 100 ĐIỂM]**: Anh mua sẵn **1 vỉ thuốc ho PROSPAN** từ trước (giấu trong túi quần/cốp xe). Lúc tới trước cửa nhà ẻm, trước khi tạm biệt, anh lấy ra dúi vào tay ẻm: *"Cô giáo mầm non nay hát sung quá, ngậm cái này đi mai đi dạy cho đỡ rát cổ nha"*.
-    *(Lý do chiêu này "chí mạng": Huyền là người cực kỳ để ý tiểu tiết (như việc ẻm phải dán mí giả mỗi khi makeup). Một cô gái trân trọng những chi tiết nhỏ bé sẽ lập tức nhận ra và cảm động trước sự chuẩn bị ngầm (đã mua sẵn từ nhà) của anh, thay vì chỉ là sự tiện đường).*
-- 22:30: Về đến nhà, nhắn tin chốt hạ: *"Anh về tới nhà rồi nha. Nay mới phát hiện cô giáo mầm non quậy quá chừng 😆 Ngủ ngon nhó!"*
-```
+- **Đừng giận dữ hay tổn thương vì chữ "Seen":** Hãy thấu cảm rằng đằng sau lớp vỏ bọc lạnh lùng của Huyền là một cô gái nhạy cảm, nhiều nỗi sợ. Cô ấy cần an toàn trước khi cần tình yêu.
+- **Sự kiên nhẫn của người đàn ông:** Cô ấy từ chối tâm sự không phải vì ghét em, mà vì cô ấy chưa quen. Khi em chứng minh được rằng dù cô ấy có xù lông đẩy em ra, em vẫn đứng vững, không nổi đóa, không lụy tình, thì dần dần cô ấy sẽ tin tưởng em.
 
 ---
 
