@@ -46,9 +46,9 @@ def extract_url_content(url: str) -> str:
                     transcript_list = api.fetch(video_id, languages=['vi', 'en'])
                     transcript_text = " ".join([t.text for t in transcript_list])
                     
-                    # Truncate if too long
-                    if len(transcript_text) > 15000:
-                        transcript_text = transcript_text[:15000] + "\n...[Transcript Truncated]"
+                    # Truncate if too long (Removed to get full content)
+                    # if len(transcript_text) > 15000:
+                    #     transcript_text = transcript_text[:15000] + "\n...[Transcript Truncated]"
                 except Exception as e:
                     transcript_text = f"[Could not fetch transcript: {str(e)}]"
                     
