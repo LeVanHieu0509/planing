@@ -6,11 +6,38 @@
 > **Phần thiếu:** mẹ bù vào sau (~181tr nếu chỉ gửi đúng 2tr/tháng)
 > **Đây KHÔNG phải chi tiêu tự do, cũng KHÔNG phải tài sản của anh** - nó là một cam kết riêng,
 > có mục tiêu riêng, theo dõi ở file riêng này.
-> **Cập nhật:** 13/09/2026 (V2 - chốt phương án B, chuyển vào `me/finance/`)
+> **Cập nhật:** 11/10/2026 (V3 - Bổ sung mốc đột phá 100tr: Bắt đầu gửi lãi cho mẹ tiêu xài)
 
 ---
 
-## ✅ ĐÃ CHỐT: PHƯƠNG ÁN B (10 NĂM, ĐẾN 2036)
+## 🎯 CỘT MỐC ĐỘT PHÁ: MỐC 100 TRIỆU ĐẦU TIÊN (BẮT ĐẦU GỬI LÃI CHO MẸ)
+
+> 💡 **Chiến lược chốt ngày 11/10/2026:**
+> Mục tiêu 500tr (10 năm) là chặng đường dài. Nhưng **ngay khi quỹ tích luỹ đạt 100,000,000 VND đầu tiên, anh sẽ bắt đầu rút toàn bộ tiền lãi sinh ra để gửi thẳng cho mẹ tiêu xài định kỳ**, giữ nguyên 100tr tiền gốc làm "cỗ máy in lãi"!
+
+### 🔄 Cơ chế vận hành 2 giai đoạn:
+
+```
+🌱 GIAI ĐOẠN 1: TÍCH LUỸ TẬP TRUNG (0 ➔ 100 TRIỆU)
+- Tiền nạp: 2,000,000 VND/tháng (nâng lên 3 - 3.5M sau khi học xong Thạc sĩ UIT).
+- Cơ chế lãi: Toàn bộ tiền lãi sinh ra được tái tục 100% (lãi mẹ đẻ lãi con) để chạm mốc 100tr nhanh nhất.
+- Thời gian dự kiến: Cuối 2028 - giữa 2029 (khoảng 2.5 - 3 năm, khi Hiếu 27-28 tuổi).
+
+🌸 GIAI ĐOẠN 2: THU HOẠCH HOA LỢI (TỪ 100 TRIỆU TRỞ ĐI)
+- Gốc 100tr: Khóa cố định trong sổ tiết kiệm để sản sinh dòng tiền thụ động an toàn.
+- Tiền lãi sinh ra (~5.5% - 6.0%/năm = ~5,500,000 - 6,000,000 VND/năm ➔ ~450k - 500k/tháng):
+  ➡️ RÚT GỬI THẲNG CHO MẸ để mẹ tự do tiêu vặt, đi chợ, mua sữa, thuốc bổ, cafe ăn sáng mà không hao hụt 1 đồng gốc.
+- Tiền gửi hàng tháng mới: Vẫn tiếp tục nạp vào để tích luỹ chặng 2 (lên 200tr, 300tr... 500tr).
+```
+
+### 💎 Ý nghĩa tài chính & tâm lý:
+1. **Mẹ được hưởng thụ ngay khi còn khoẻ:** Không phải chờ đợi 10 năm xa xôi.
+2. **Mẹ an tâm tiêu xài không tiếc:** Vì đây là "tiền ngân hàng trả lãi", tiền gốc của con trai vẫn nguyên vẹn 100 triệu.
+3. **Mục tiêu hữu hình, động lực mạnh mẽ:** Mốc 100tr ngắn hơn rất nhiều và tạo bước ngoặt tài chính rõ ràng cho gia đình.
+
+---
+
+## ✅ MỤC TIÊU DÀI HẠN: 500 TRIỆU ĐẾN 2036 (PHƯƠNG ÁN B)
 
 ```
 Thời gian gửi:            T09/2026 → T08/2036 (120 tháng)
@@ -19,19 +46,16 @@ Có lãi kép ~5.5%/năm:      ~319,000,000
 Mẹ phải bù thêm:           ~181,000,000   để đạt 500tr
 ```
 
-> Phương án A (đến 2030, 52 tháng, gốc 104tr) đã bị thay thế - đây là mốc "gửi quê đến 2030"
-> cũ trong các file tài chính khác, nay đồng bộ hết về phương án B.
-
 ### Nếu muốn tự anh đạt đủ 500tr (không cần mẹ bù)
 
 | Mức gửi/tháng | Sau 10 năm (có lãi 5.5%) | Đủ 500tr?      |
 | ------------- | ------------------------ | -------------- |
 | 2,000,000     | ~319tr                   | ❌ thiếu 181tr |
 | 2,500,000     | ~399tr                   | ❌ thiếu 101tr |
-| **3,150,000** | **~500tr**               | ✅              |
+| **3,150,000** | **~500tr**               | ✅             |
 
-> Chưa cần quyết bây giờ. Khi thu nhập tăng (sau Thạc sĩ, có giảng dạy)
-> có thể nâng từ 2tr lên 3tr - lúc đó mẹ gần như không phải bù gì.
+> Chưa cần quyết mức 3.15M bây giờ. Khi thu nhập tăng sau Thạc sĩ,
+> có thể nâng từ 2tr lên 3 - 3.5tr để vừa sớm chạm mốc 100tr, vừa tự đạt 500tr.
 
 ---
 
@@ -53,12 +77,12 @@ Mẹ phải bù thêm:           ~181,000,000   để đạt 500tr
 ## 📊 THEO DÕI - GHI 1 DÒNG MỖI THÁNG
 
 | Tháng    | Số tiền gửi | Luỹ kế gốc | Ghi chú                                      |
-| -------- | ----------- | ---------- | --------------------------------------------- |
+| -------- | ----------- | ---------- | -------------------------------------------- |
 | T08/2026 | 4,000,000   | 4,000,000  | Ghi là "hụi/đóng phường" - đã chốt là quỹ mẹ |
-| T09/2026 | 2,000,000   | 6,000,000  | "Nạp tiền phường" 09/9 ✅                     |
-| T10/2026 |             |            |                                                |
-| T11/2026 |             |            |                                                |
-| T12/2026 |             |            |                                                |
+| T09/2026 | 2,000,000   | 6,000,000  | "Nạp tiền phường" 09/9 ✅                    |
+| T10/2026 |             |            |                                              |
+| T11/2026 |             |            |                                              |
+| T12/2026 |             |            |                                              |
 
 **Luỹ kế gốc đến 13/09/2026: 6,000,000 VND**
 
@@ -75,6 +99,7 @@ Mẹ phải bù thêm:           ~181,000,000   để đạt 500tr
 4. Không tính vào mục tiêu 70tr học phí Thạc sĩ (2 quỹ hoàn toàn tách biệt)
 5. Nếu có tháng dư nhiều → có thể gửi thêm, nhưng không bao giờ gửi ít hơn 2tr
 6. Chạy đến T08/2036 (120 tháng) - không phải 2030 nữa
+7. MỐC 100TR ĐỘT PHÁ: Bắt đầu trích toàn bộ tiền lãi gửi mẹ tiêu xài định kỳ, giữ nguyên 100tr gốc
 ```
 
 ---
@@ -94,11 +119,11 @@ Khoản này khác. Và nó cũng là khoản dễ bị cắt nhất khi khó kh
 ## 🔗 LIÊN KẾT
 
 | File                                               | Vai trò                          |
-| --------------------------------------------------- | --------------------------------- |
-| [TAI_CHINH_2026_2028.md](./TAI_CHINH_2026_2028.md) | Kế hoạch tài chính tổng           |
-| [DAU_TU.md](./DAU_TU.md)                           | Đầu tư cho bản thân (tách riêng)  |
-| [MONTHLY_TRACKER.md](./MONTHLY_TRACKER.md)         | Chốt sổ hàng tháng                |
-| [../../MASTER_PLAN.md](../../MASTER_PLAN.md)       | M5 - Gia đình & Quan hệ           |
+| -------------------------------------------------- | -------------------------------- |
+| [TAI_CHINH_2026_2028.md](./TAI_CHINH_2026_2028.md) | Kế hoạch tài chính tổng          |
+| [DAU_TU.md](./DAU_TU.md)                           | Đầu tư cho bản thân (tách riêng) |
+| [MONTHLY_TRACKER.md](./MONTHLY_TRACKER.md)         | Chốt sổ hàng tháng               |
+| [../../MASTER_PLAN.md](../../MASTER_PLAN.md)       | M5 - Gia đình & Quan hệ          |
 
 ---
 

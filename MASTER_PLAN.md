@@ -70,6 +70,7 @@ Việc gần:  Tra cứu yêu cầu tuyển sinh UIT (Q4/2026)
 
 ```
 Đích:      Quỹ mẹ 500tr - gửi quê 2tr/tháng đều đặn đến 2036 (tổng gốc 240tr)
+           🎯 Mốc 100tr đầu tiên: bắt đầu rút lãi gửi mẹ tiêu xài định kỳ, gốc giữ nguyên
            Giữ kết nối bạn bè · đá banh T4 · cafe cuối tuần
            Bạn đời: phát triển bản thân trước, dự kiến tìm hiểu nghiêm túc cuối 2026
 Nguyên tắc: M5 không bao giờ được phá giấc ngủ và tiền học phí
