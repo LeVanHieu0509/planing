@@ -120,11 +120,19 @@ TỔNG CHI:                10,340,000
 TIẾT KIỆM:               15,090,000
 ```
 
-> ⚖️ **NGUYÊN TẮC KẾ TOÁN VÀNG (THU HỘ / CHI HỘ TIỀN PHÒNG):**
-> Toàn bộ dòng tiền thu/chi phòng (~10.5M) được tách riêng thành **thu hộ / chi hộ**, tuyệt đối không tính lẫn:
-> 1. Tiền anh em phòng đóng chuyển vào tài khoản: **KHÔNG tính vào thu nhập cá nhân** (tránh ảo thu nhập).
-> 2. Tiền tổng chuyển trả chủ nhà / điện nước: **KHÔNG tính toàn bộ vào chi tiêu cá nhân** (tránh đội chi phí ảo).
-> 3. Hiếu chỉ ghi nhận đúng **1/4 phần thực tế (~2.64M)** vào chi tiêu thuần của bản thân.
+> ⚖️ **NGUYÊN TẮC KẾ TOÁN VÀNG (THU HỘ / CHI HỘ PHÒNG & TIỀN CỦA MẸ):**
+> 
+> 1. **Dòng tiền phòng trọ (~10.5M - Thu hộ / Chi hộ):**
+>    - Tiền anh em phòng đóng chuyển vào tài khoản: **KHÔNG tính vào thu nhập cá nhân** (tránh ảo thu nhập).
+>    - Tiền tổng chuyển trả chủ nhà / điện nước: **KHÔNG tính toàn bộ vào chi tiêu cá nhân** (tránh đội chi phí ảo).
+>    - Hiếu chỉ ghi nhận đúng **1/4 phần thực tế (~2.64M)** vào chi tiêu thuần của bản thân.
+> 
+> 2. **Tiền của mẹ gửi nhờ giữ hộ trong tài khoản (Hiện là 9.5M):**
+>    - Mẹ gửi nhờ giữ hộ trong tài khoản: **TUYỆT ĐỐI KHÔNG tính vào thu nhập**, cũng **KHÔNG tính vào tài sản của Hiếu**.
+>    - Luôn **trừ thẳng số tiền mẹ gửi nhờ ra khỏi số dư ngân hàng** để xác định chính xác số dư tiền mặt thực có.
+>    - Tiền mẹ hỗ trợ (như 2.5M tiền quân sự): Được trừ trực tiếp vào chi phí phát sinh, Hiếu chỉ ghi nhận phần mình tự chi.
+>    - Quỹ tiết kiệm cho mẹ (2tr/tháng): Khoản gửi riêng cố định theo [QUY_ME_500TR.md](./me/finance/QUY_ME_500TR.md), không tính vào tài sản cá nhân của Hiếu.
+
 
 
 ### Lộ trình tiền mặt

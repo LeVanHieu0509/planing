@@ -2,9 +2,11 @@
 
 > **Cách dùng:** Điền vào cuối mỗi tháng (ngày 28-30)
 > **Quy tắc 1 (V6):** Luôn tách **3 cột** — Chi tiêu thuần / Đầu tư / Phải thu. Đầu tư KHÔNG phải chi tiêu.
-> **Quy tắc 2 (Nguyên tắc kế toán Thu hộ / Chi hộ):** Toàn bộ dòng tiền thu/chi phòng (~10.5M) được tách riêng 100% thành **thu hộ / chi hộ**.
-> - Tiền anh em phòng đóng chuyển vào: **KHÔNG tính vào thu nhập cá nhân** (không làm ảo thu nhập).
-> - Tiền nộp trọ & điện nước tổng: **KHÔNG tính toàn bộ vào chi tiêu cá nhân** (không đội chi phí). Hiếu chỉ ghi nhận đúng **1/4 phần thực tế (~2.64M)** vào cột **Chi tiêu thuần**.
+> **Quy tắc 2 (Nguyên tắc kế toán Thu hộ / Chi hộ & Tiền giữ hộ):**
+> - **Tiền phòng (~10.5M):** Thu/chi hộ tách riêng 100%. Tiền anh em chuyển vào KHÔNG tính thu nhập; tiền nộp trọ tổng KHÔNG tính toàn bộ vào chi tiêu. Hiếu chỉ ghi nhận đúng 1/4 (~2.64M) vào Chi tiêu thuần.
+> - **Tiền mẹ gửi giữ hộ (Hiện là 9.5M):** Tuyệt đối KHÔNG tính vào thu nhập và KHÔNG tính vào tiền mặt của Hiếu. Luôn trừ thẳng ra khỏi số dư ngân hàng khi chốt số dư tiền mặt thực có.
+> - **Khoản mẹ hỗ trợ chi phí:** Trừ trực tiếp vào chi phí thực xuất từ túi Hiếu (ví dụ mẹ góp 2.5M tiền nghĩa vụ quân sự).
+> - **Quỹ mẹ 2tr/tháng:** Khoản riêng theo [QUY_ME_500TR.md](./QUY_ME_500TR.md).
 > **Cập nhật:** 11/10/2026
 
 ---
@@ -42,7 +44,9 @@ _\* T10 realtime đến 11/10 (tách chuẩn thu/chi hộ phòng 4 người: thu
   CHỐT SỔ THÁNG ___/2026
 ═══════════════════════════════════════════
 
-SỐ DƯ ĐẦU THÁNG:   ___________
+SỐ DƯ NGÂN HÀNG (GROSS):   ___________
+  Trừ tiền giữ hộ của mẹ:  - _________
+SỐ DƯ TIỀN MẶT THỰC CÓ:    ___________
 
 ① THU NHẬP:
   Lương chính:      ___________
@@ -51,8 +55,9 @@ SỐ DƯ ĐẦU THÁNG:   ___________
   Khác:             ___________
   TỔNG THU:         ___________
 
-  (Thu hộ - KHÔNG tính là thu nhập)
+  (Thu hộ / Giữ hộ - KHÔNG tính là thu nhập)
   Tiền nhà bạn cùng phòng: ___________
+  Tiền mẹ gửi nhờ giữ hộ:  ___________
 
 ② CHI TIÊU THUẦN (tiền ra khỏi túi, không lấy lại được):
   Trọ + điện + mạng:  ___________  ← chỉ ghi 1/4 phần thực chi của Hiếu, KHÔNG ghi cả cục chi hộ

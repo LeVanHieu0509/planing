@@ -42,7 +42,16 @@
 | 02/10        | Bùi Quốc Minh đóng tiền trọ T10           | TCB        | 2,000,000      | Minh chuyển TCB                                                    |
 | 06/10        | Bùi Quốc Minh đóng bổ sung điện nước      | TCB        | 671,762        | Minh chuyển TCB (Tổng Minh đóng: 2,671,762đ)                       |
 | **TỔNG THU HỘ** |                                        |            | **5,817,762**  | **Tiền thu hộ từ Tuấn & Minh để Hiếu đại diện đi đóng phòng**      |
-| **TỔNG TIỀN VÀO THỰC TẾ** | *(Thu thuần + Thu hộ phòng)*  |            | **35,735,710** | *(Chưa gồm 6tr vay Hiệp & 9.5tr tiền mẹ gửi nhờ)*                  |
+
+### 3. Tiền mẹ gửi nhờ giữ hộ (Pass-through / Giữ hộ - KHÔNG tính vào thu nhập)
+
+| Đợt                         | Mô tả                             | Tài khoản  | Số tiền        | Ghi chú                                                            |
+| --------------------------- | --------------------------------- | ---------- | -------------- | ------------------------------------------------------------------ |
+| Đợt 1 (01/10)               | Mẹ chuyển tiền gửi nhờ giữ hộ     | BIDV       | 5,000,000      | MB-TKThe 01/10 mẹ chuyển gửi hộ                                    |
+| Đợt 2 (T10)                 | Mẹ gửi thêm nhờ giữ hộ            | BIDV       | 7,000,000      | Mẹ gửi thêm vào tài khoản                                          |
+| **Tổng tiền mẹ gửi nhờ**    |                                   |            | **12,000,000** | **Tài sản của mẹ, tuyệt đối không tính vào thu nhập của Hiếu**     |
+| *Trừ mẹ góp tiền quân sự*   | Mẹ hỗ trợ 50% tiền nghĩa vụ       | Trích ra   | *-2,500,000*   | Chuyển sang thu thuần để bù đắp chi phí quân sự                    |
+| **TIỀN CỦA MẸ CÒN GIỮ HỘ**  |                                   | **BIDV**   | **9,500,000**  | **Nằm trong BIDV, phải loại trừ 100% khỏi tài sản của Hiếu**       |
 
 ---
 
