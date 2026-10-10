@@ -1,133 +1,190 @@
 # 💳 CHI TIẾT GIAO DỊCH THÁNG 10/2026
 
-> ⏳ **Dữ liệu cập nhật đến ngày 11/10/2026**
-> **Số dư đầu tháng (01/10):** 281,227 VND (Số dư Techcombank)
-> **Số dư Techcombank hiện tại (11/10):** 201,050 VND
-> **Nợ mới phát sinh trong tháng:** 6,000,000 VND (Vay Hiệp mua iPhone)
-> **Trạng thái:** ✅ Đã bổ sung đầy đủ Lương TMA (17.65M) và Lương BIT (7.0M)
+> ⏳ **Dữ liệu cập nhật Realtime đến ngày 11/10/2026 (Khớp 100% BIDV, VCB, TCB & Tiền ví)**
+> - 🏦 **SỐ DƯ CÁC TÀI KHOẢN NGÂN HÀNG & TIỀN MẶT:**
+>   - **BIDV:** **38,785,193 VND** *(Lương TMA về đây, mẹ gửi nhờ giữ hộ)*
+>   - **Vietcombank (9869660694):** **9,213,459 VND** *(Đã sẵn sàng 9,000,000 VND đóng trọ T10)*
+>   - **Techcombank (19074255959012):** **201,050 VND**
+>   - **Tiền mặt trong ví:** **500,000 VND**
+>   - ➡️ **TỔNG TIỀN MẶT HIỆN CÓ:** **48,699,702 VND**
+> - 👵 **TIỀN CỦA MẸ GỬI NHỜ GIỮ HỘ:** **12,000,000 VND**
+>   - *Mẹ góp tiền chạy quân sự:* **-2,500,000 VND**
+>   - ➡️ **Phần tiền của mẹ còn giữ hộ thực tế:** **9,500,000 VND** *(trừ ra, KHÔNG tính vào tài sản của Hiếu)*
+> - 💵 **TIỀN MẶT THỰC TẾ CỦA HIẾU:** `48,699,702 - 9,500,000` = **39,199,702 VND**
+>   - *Đã giữ sẵn tiền đóng trọ T10 (hạn 15/10):* **9,000,000 VND** *(nằm sẵn trong VCB)*
+>   - *Nợ ngắn hạn:* **7,500,000 VND** *(Hiệp 6M + Shopee 1.5M)*
+>   - 🟢 **Tiền mặt ròng tự do (sau trọ + trả sạch mọi nợ):** **22,699,702 VND** *(Sau gửi Quỹ mẹ 2tr còn **20,699,702 VND**)*
 
 ---
 
-## THU NHẬP & CÁC NGUỒN TIỀN VÀO (Tạm tính đến 11/10)
+## THU NHẬP & CÁC NGUỒN TIỀN VÀO (01/10 → 11/10)
 
-| Ngày         | Mô tả                                | Danh mục        | Số tiền        | Ghi chú                                  |
-| ------------ | ------------------------------------ | --------------- | -------------- | ---------------------------------------- |
-| T10          | **Lương TMA**                        | **Lương**       | **17,650,000** | Lương TMA nhận tháng 10                  |
-| T10          | **Lương BIT**                        | **Lương**       | **7,000,000**  | Lương BIT nhận tháng 10                  |
-| 02/10        | Tuấn đóng tiền phòng                 | Thu tiền nhà    | 100,000        | NGUYEN NGOC TUAN Chuyen tien             |
-| 02/10        | Minh đóng tiền trọ T10               | Thu tiền nhà    | 2,000,000      | BUI QUOC MINH chuyen tien                |
-| 05/10        | Lãi tài khoản (Sinh lời tự động T9)  | Lãi             | 2,795          | Techcombank trả                          |
-| 06/10        | Minh đóng bổ sung tiền nhà/điện nước | Thu tiền nhà    | 671,762        | BUI QUOC MINH chuyen tien                |
-| 06/10        | Eric chuyển khoản nhanh (Zalo)       | Khác            | 440,000        | QR - Eric                                |
-| T10          | Mẹ góp tiền chạy quân sự             | Gia đình hỗ trợ | 2,500,000      | Mẹ hỗ trợ 50% tiền chạy nghĩa vụ quân sự |
-| **TỔNG THU** | _(Thu thuần + gia đình hỗ trợ)_      |                 | **30,364,557** | _(Chưa tính khoản vay nợ Hiệp 6tr)_      |
-| _T10_        | _Vay Hiệp mua iPhone_                | _Vay mượn_      | _6,000,000_    | _Dòng tiền vay đắp vào mua iPhone 17tr_  |
-| **TỔNG VÀO** | _(Tính cả dòng tiền vay Hiệp)_       |                 | **36,364,557** |                                          |
+### 1. Thu nhập thực tế thuần của Hiếu
 
-> ⚠️ **Các khoản thu phòng dự kiến còn lại trong tháng:**
->
-> - Phát đóng tiền trọ T10
-> - Tiền nhà Tuấn đóng phần chính
+| Ngày         | Mô tả                                      | Nguồn / TK | Danh mục         | Số tiền        | Ghi chú                                                            |
+| ------------ | ------------------------------------------ | ---------- | ---------------- | -------------- | ------------------------------------------------------------------ |
+| 05/10        | **Lương TMA Solutions**                    | BIDV       | **Lương**        | **17,634,153** | BLKPAY-144150-0510 (Chuẩn sao kê BIDV)                             |
+| T10          | **Lương BIT**                              | Ngoài TCB  | **Lương**        | **7,000,000**  | Lương BIT tháng 10                                                 |
+| 08/10        | Nguyễn Thanh Trí chuyển khoản              | VCB        | Tiền vào khác    | 2,190,000      | QR - NGUYEN THANH TRI chuyển vào VCB                               |
+| 06/10        | Eric chuyển khoản nhanh (Zalo)             | TCB        | Khác             | 440,000        | QR - Eric                                                          |
+| 01/10        | Nhận chuyển khoản `THAN PHU...`            | BIDV       | Khác             | 100,000        | 8817685171 THAN PHU chuyển                                         |
+| 03/10        | Nhận chuyển khoản nhỏ                      | BIDV       | Khác             | 51,000         | TKThe: 052353864886                                                |
+| 05/10        | Lãi tài khoản (Sinh lời tự động T9)        | TCB        | Lãi              | 2,795          | Techcombank trả                                                    |
+| T10          | **Mẹ góp tiền chạy quân sự**               | Trích tiền gửi nhờ | Gia đình hỗ trợ | 2,500,000 | Mẹ hỗ trợ 50% tiền quân sự (trừ vào 12tr mẹ gửi nhờ)              |
+| **TỔNG THU THUẦN** |                                      |            |                  | **29,917,948** | **Thu nhập & hỗ trợ thực tế của bản thân Hiếu**                    |
 
----
+### 2. Thu hộ tiền phòng từ anh em (Pass-through - KHÔNG tính vào thu nhập)
 
-## NỢ PHẢI TRẢ (Vay mượn trong tháng) ⚠️
-
-| Người cho vay | Mô tả               | Số tiền       | Trạng thái  | Ghi chú                                                   |
-| ------------- | ------------------- | ------------- | ----------- | --------------------------------------------------------- |
-| **Hiệp**      | Vay Hiệp mua iPhone | 6,000,000     | ⏳ Chưa trả | Nợ phát sinh T10 - trích từ lương TMA/BIT để trả dứt điểm |
-| **TỔNG NỢ**   |                     | **6,000,000** |             |                                                           |
+| Ngày         | Thành viên đóng                           | Nguồn / TK | Số tiền        | Ghi chú                                                            |
+| ------------ | ------------------------------------------| ---------- | -------------- | ------------------------------------------------------------------ |
+| 05/10        | Nguyễn Ngọc Tuấn chuyển trọ T10           | BIDV       | 3,046,000      | 8817685171 NGUYEN N chuyển                                         |
+| 02/10        | Nguyễn Ngọc Tuấn chuyển bổ sung           | TCB        | 100,000        | Tuấn chuyển lẻ TCB (Tổng Tuấn đóng: 3,146,000đ)                     |
+| 02/10        | Bùi Quốc Minh đóng tiền trọ T10           | TCB        | 2,000,000      | Minh chuyển TCB                                                    |
+| 06/10        | Bùi Quốc Minh đóng bổ sung điện nước      | TCB        | 671,762        | Minh chuyển TCB (Tổng Minh đóng: 2,671,762đ)                       |
+| **TỔNG THU HỘ** |                                        |            | **5,817,762**  | **Tiền thu hộ từ Tuấn & Minh để Hiếu đại diện đi đóng phòng**      |
+| **TỔNG TIỀN VÀO THỰC TẾ** | *(Thu thuần + Thu hộ phòng)*  |            | **35,735,710** | *(Chưa gồm 6tr vay Hiệp & 9.5tr tiền mẹ gửi nhờ)*                  |
 
 ---
 
-## CHI TIÊU (Tạm tính đến 11/10)
+## DÒNG TIỀN LUÂN CHUYỂN NỘI BỘ (05/10)
 
-### Mua sắm lớn & Nghĩa vụ phát sinh (Đặc biệt T10)
+| Ngày     | Từ tài khoản | Sang tài khoản | Số tiền        | Ghi chú                                                            |
+| -------- | ------------ | -------------- | -------------- | ------------------------------------------------------------------ |
+| 05/10    | BIDV         | Vietcombank    | 12,000,000     | BIDV trừ 23:07:38 (SMB-TkThe: 9869660...) ➡️ VCB nhận +12tr sáng 06/10|
 
-| Ngày     | Mô tả                 | Số tiền        | Ghi chú                                               |
-| -------- | --------------------- | -------------- | ----------------------------------------------------- |
-| T10      | Mua điện thoại iPhone | 17,000,000     | **Tổng 17tr** = 8tr + 3tr (tiền túi) + 6tr (vay Hiệp) |
-| T10      | Chạy nghĩa vụ quân sự | 5,000,000      | **Tổng 5tr** (Mẹ góp 2.5tr, bản thân thực chi 2.5tr)  |
-| T10      | Mua giày              | 2,190,000      | Giày cá nhân                                          |
-| **Tổng** |                       | **24,190,000** |                                                       |
+---
 
-### Thức ăn
+## NỢ PHẢI TRẢ (Nợ ngắn hạn / Tín dụng) ⚠️
 
-| Ngày     | Mô tả                      | Số tiền     | Ghi chú      |
-| -------- | -------------------------- | ----------- | ------------ |
-| 07/10    | Bánh mì (Nguyễn Thị Trang) | 17,000      | banh m       |
-| 07/10    | Bánh canh (Nguyễn Thị Bảo) | 40,000      | banh canh    |
-| 07/10    | Bách Hoá Xanh              | 55,507      | Đi siêu thị  |
-| 08/10    | Bánh mì (Lê Xuân Sơn)      | 20,000      | bmi          |
-| 08/10    | Cơm trưa (Nguyễn Thị Bảo)  | 45,000      | Com trua     |
-| 09/10    | Bánh mì Hà Nội Ngọc Anh    | 20,000      | Bánh mì sáng |
-| **Tổng** |                            | **197,507** |              |
+| Người cho vay / Bên nợ | Mô tả                             | Số tiền       | Trạng thái  | Ghi chú                                                 |
+| ---------------------- | --------------------------------- | ------------- | ----------- | ------------------------------------------------------- |
+| **Hiệp**               | Vay Hiệp mua iPhone               | 6,000,000     | ⏳ Chưa trả | Nợ phát sinh T10 - trích từ tiền mặt để trả dứt điểm    |
+| **Shopee**             | Nợ Shopee / SPayLater             | 1,500,000     | ⏳ Chưa trả | Nợ mua sắm Shopee                                       |
+| **TỔNG NỢ**            |                                   | **7,500,000** |             | **Cần trích tiền mặt thanh toán dứt điểm**              |
 
-### Cafe / Xăng / Xe
+---
 
-| Ngày     | Mô tả                             | Số tiền     | Ghi chú       |
-| -------- | --------------------------------- | ----------- | ------------- |
-| 03/10    | CF 3 O'Clock Lữ Gia               | 45,000      | QR 3 O'Clock  |
-| 09/10    | Ăn uống / Cafe QR (Đỗ Thanh Nhàn) | 65,000      | QR Thanh toan |
-| **Tổng** |                                   | **110,000** |               |
+## KHOẢN PHẢI THU (Người khác nợ Hiếu) 🤝
 
-### Bản thân / Dịch vụ / Sức khoẻ
+| Người nợ | Mô tả                             | Số tiền       | Hạn thu     | Ghi chú                                                 |
+| -------- | --------------------------------- | ------------- | ----------- | ------------------------------------------------------- |
+| **Diễm** | Cho Diễm mượn                     | 1,000,000     | **T12/2026**| ⏳ Đã hẹn thu lại vào tháng 12                          |
+| **TỔNG PHẢI THU** |                          | **1,000,000** |             | **Khoản phải thu duy nhất còn lại**                     |
 
-| Ngày     | Mô tả                              | Số tiền     | Ghi chú                 |
-| -------- | ---------------------------------- | ----------- | ----------------------- |
-| 07/10    | Tiệm hình Linh                     | 4,000       | In ấn / gửi xe          |
-| 07/10    | Tiệm hình Linh                     | 4,000       | In ấn / gửi xe          |
-| 09/10    | Chiếu đèn trị mụn (Phạm Bình Minh) | 80,000      | Khám da liễu / Skincare |
-| 09/10    | Bưu cục VNPost Hoà Hưng            | 84,000      | Gửi bưu phẩm / hàng hoá |
-| 09/10    | Bưu cục VNPost Hoà Hưng            | 10,000      | Dịch vụ bưu điện        |
-| **Tổng** |                                    | **182,000** |                         |
+---
 
-### Không rõ tên ⚠️
+## CHI TIÊU (Tạm tính đến 11/10 - Tổng hợp cả TCB, VCB & BIDV)
 
-| Ngày     | Mô tả                    | Số tiền     | Ghi chú                        |
-| -------- | ------------------------ | ----------- | ------------------------------ |
-| 06/10    | Phạm Thị Thuỳ            | 86,000      | th                             |
-| 08/10    | Nguyễn Thanh Phong       | 50,000      |                                |
-| 09/10    | Trần Vũ Thanh Vân (Zalo) | 333,000     | Mua hàng / Ăn uống chuyển Zalo |
-| **Tổng** |                          | **469,000** |                                |
+### 1. Mua sắm lớn & Nghĩa vụ phát sinh (Đặc biệt T10)
 
-### Chuyển khoản nội bộ _(KHÔNG phải chi tiêu mất đi)_
+| Ngày     | Mô tả                       | Tài khoản / Nguồn | Số tiền        | Ghi chú                                                            |
+| -------- | --------------------------- | ----------------- | -------------- | ------------------------------------------------------------------ |
+| T10      | Mua điện thoại iPhone       | VCB (3M) + Tiền mặt + Vay | 17,000,000 | **Tổng 17tr** = 8tr + 3tr (trừ VCB 06/10) + 6tr vay Hiệp             |
+| 05/10    | Chạy nghĩa vụ quân sự       | **BIDV**          | 5,000,000      | **Trừ BIDV 05/10 15:40** (MB-TKThe 40000003_). Mẹ góp 2.5tr, Hiếu 2.5tr|
+| 10/10    | Mua giày                    | **VCB**           | 2,190,000      | Chuyển khoản thanh toán bên bán giày (MBVCB trừ ngày 10/10)        |
+| **Tổng** |                             |                   | **24,190,000** |                                                                    |
 
-| Ngày     | Mô tả                                     | Số tiền       | Ghi chú                             |
-| -------- | ----------------------------------------- | ------------- | ----------------------------------- |
-| 03/10    | Chuyển sang tài khoản Vietcombank cá nhân | 2,336,227     | LE VAN HIEU chuyen - luân chuyển ví |
-| **Tổng** |                                           | **2,336,227** |                                     |
+### 2. Trọ & Điện mạng (Cơ chế Phòng 4 Anh Em chia đều ~10.5M)
+
+> 💡 **Quy tắc phân chia:** Tổng chi phí phòng ~10.5M (Trọ 9M + Điện ~1.55M). Hiếu đại diện đứng ra thanh toán toàn bộ cho chủ nhà và thu lại từ 3 anh em, **chia đều 4 người (~2,636,000 VND / người)**.
+
+| Khoản mục                               | Tổng chi phí   | Ghi chú                                                            |
+| --------------------------------------- | -------------- | ------------------------------------------------------------------ |
+| Tiền điện tháng trước (đã đóng 08/10)   | 1,545,350      | Đã thanh toán trên VCB ngày 08/10                                  |
+| Tiền trọ tháng 10 (đóng ngày 15/10)     | 9,000,000      | Đã sẵn sàng trong VCB (Hiếu đại diện đứng ra đóng)                 |
+| **TỔNG CHI PHÍ CẢ PHÒNG XUẤT RA**       | **10,545,350** | **Chia đều 4 người = 2,636,338 VND / người**                       |
+
+#### 👥 Bảng đối chiếu thu chi 4 anh em (Phát đã đổi qua cho Triều):
+
+| Thành viên | Trạng thái đóng tiền phòng T10 | Đánh giá | Ghi chú |
+| :--- | :--- | :--- | :--- |
+| **Bùi Quốc Minh** | Đã đóng 2,671,762 VND | ✅ Đã đóng đủ | TCB: 2M (02/10) + 671k (06/10) |
+| **Nguyễn Ngọc Tuấn** | Đã đóng 3,146,000 VND | ✅ Đã đóng đủ | BIDV: 3.046M (05/10) + TCB: 100k (02/10) |
+| **Triều** *(thay Phát)* | Đã đóng tiền trọ hết | ✅ Đã đóng đủ | Triều nhận phòng thay Phát, đã đóng trọ |
+| **Phát** | Đã đóng tiền điện nước & phí | ✅ Đã đóng đủ | Phát hoàn tất phần tiền điện nước và phí |
+| **Hiếu (bản thân)** | Đã giữ sẵn 9tr ở VCB đóng trọ 15/10 | ✅ Đầy đủ | **Chi phí chỗ ở thực tế của Hiếu chỉ là ~2.64M** |
+
+> 🌟 **KẾT QUẢ:** Toàn bộ 4 anh em phòng trọ đều **ĐÃ HOÀN TẤT ĐÓNG TIỀN PHÒNG THÁNG 10 (100% Thu đủ)**. Hiếu không bị hụt tiền, không phải ứng trước chi hộ ai!
+
+### 3. Làm đẹp / Skincare / Sức khoẻ
+
+| Ngày     | Mô tả                               | Tài khoản | Số tiền       | Ghi chú                                |
+| -------- | ----------------------------------- | --------- | ------------- | -------------------------------------- |
+| 09/10    | Khám da liễu Bác sĩ Bạch Sương      | VCB       | 120,000       | MBVCB trừ ngày 09/10                   |
+| 09/10    | Mỹ phẩm / Thuốc Phạm Bình Minh      | VCB       | 995,000       | MBVCB trừ ngày 09/10                   |
+| 09/10    | Chiếu đèn trị mụn (Phạm Bình Minh)  | TCB       | 80,000        | TCB trừ ngày 09/10                     |
+| 07/10    | Tiệm hình Linh (2 lần gửi xe/in ấn) | TCB       | 8,000         | 4k + 4k                                |
+| 09/10    | Bưu cục VNPost Hoà Hưng             | TCB       | 94,000        | 84k + 10k                              |
+| **Tổng** |                                     |           | **1,297,000** |                                        |
+
+### 4. Thức ăn & Siêu thị
+
+| Ngày     | Mô tả                          | Tài khoản | Số tiền     | Ghi chú                        |
+| -------- | ------------------------------ | --------- | ----------- | ------------------------------ |
+| 05/10    | Bách Hoá Xanh (BHX1026HJ)      | **BIDV**  | 302,085     | MB-TKThe BHX1026HJ (16:40:44)  |
+| 08/10    | Bách Hoá Xanh / Ecom           | VCB       | 279,209     | Ecom.EW261008104064            |
+| 07/10    | Bách Hoá Xanh                  | TCB       | 55,507      | TCB trừ                        |
+| 07/10    | Bánh mì (Nguyễn Thị Trang)     | TCB       | 17,000      | banh m                         |
+| 07/10    | Bánh canh (Nguyễn Thị Bảo)     | TCB       | 40,000      | banh canh                      |
+| 08/10    | Bánh mì (Lê Xuân Sơn)          | TCB       | 20,000      | bmi                            |
+| 08/10    | Cơm trưa (Nguyễn Thị Bảo)      | TCB       | 45,000      | Com trua                       |
+| 09/10    | Bánh mì Hà Nội Ngọc Anh        | TCB       | 20,000      | Bánh mì sáng                   |
+| **Tổng** |                                |           | **778,801** |                                |
+
+### 5. Cafe / Xăng / Khác
+
+| Ngày     | Mô tả                             | Tài khoản | Số tiền       | Ghi chú                                   |
+| -------- | --------------------------------- | --------- | ------------- | ----------------------------------------- |
+| 03/10    | Gửi xe / QR                       | **BIDV**  | 8,000         | SMB-TkThe :VQRQAF...                      |
+| 04/10    | Ăn sáng / Cafe                    | **BIDV**  | 30,000        | SMB-TkThe :0911000...                     |
+| 04/10    | Chi tiêu / Chuyển khoản           | **BIDV**  | 120,000       | SMB-TkThe :10287186...                    |
+| 05/10    | Phí / chuyển khoản nhỏ            | **BIDV**  | 10,000        | REM Tfr Ac:8817685171...                  |
+| 03/10    | CF 3 O'Clock Lữ Gia               | TCB       | 45,000        | QR 3 O'Clock                              |
+| 09/10    | Ăn uống / Cafe QR (Đỗ Thanh Nhàn) | TCB       | 65,000        | QR Thanh toán                             |
+| 06/10    | Chi tiêu mua đồ VCB               | VCB       | 393,238       | MBVCB trừ ngày 06/10                      |
+| 06/10    | Chi tiêu VCB                      | VCB       | 200,000       | MBVCB trừ ngày 06/10                      |
+| 06/10    | Phạm Thị Thuỳ                     | TCB       | 86,000        | th                                        |
+| 08/10    | Nguyễn Thanh Phong                | TCB       | 50,000        |                                           |
+| 09/10    | Trần Vũ Thanh Vân (Zalo)          | TCB       | 333,000       | Mua hàng / Ăn uống chuyển Zalo            |
+| **Tổng** |                                   |           | **1,340,238** |                                           |
 
 ---
 
 ## TỔNG KẾT TẠM TÍNH THÁNG 10/2026 (01/10 → 11/10)
 
-| Hạng mục                            | Số tiền        | Ghi chú                                                  |
-| ----------------------------------- | -------------- | -------------------------------------------------------- |
-| **TỔNG THU NHẬP & HỖ TRỢ**          | **30,364,557** | Lương TMA 17.65M + BIT 7M + Thu nhà 2.77M + Mẹ góp 2.5M  |
-| _(Tính cả khoản vay Hiệp 6tr)_      | _(36,364,557)_ | Dòng tiền tổng vào                                       |
-| Mua iPhone                          | 17,000,000     | 8tr + 3tr (tiền túi) + 6tr (vay Hiệp)                    |
-| Chạy nghĩa vụ quân sự               | 5,000,000      | (Mẹ góp 2.5tr, anh tự chi 2.5tr)                         |
-| Mua giày                            | 2,190,000      | Giày mới                                                 |
-| Thức ăn                             | 197,507        | Ăn uống hàng ngày                                        |
-| Cafe / Xăng                         | 110,000        | 3 O'Clock + QR                                           |
-| Bản thân / Skincare / Bưu điện      | 182,000        | Chiếu đèn mụn 80k + VNPost                               |
-| Không rõ ⚠️                         | 469,000        | Vân 333k, Thuỳ 86k, Phong 50k                            |
-| **TỔNG CHI TIÊU THỰC TẾ**           | **25,148,507** | **Tổng tiền xuất chi ra ngoài**                          |
-| **THẶNG DƯ TẠM TÍNH (THU - CHI)**   | **+5,216,050** | **Thu nhập vẫn lớn hơn tổng chi (dù đã mua iPhone 17M)** |
-| Chuyển nội bộ sang Vietcombank      | 2,336,227      | Luân chuyển tài khoản cá nhân                            |
-| **NỢ PHẢI TRẢ (NỢ HIỆP)**           | **6,000,000**  | ⏳ Khoản nợ vay mua iPhone (đủ thặng dư lương để trả)    |
-| **SỐ DƯ HIỆN TẠI TCB (11/10/2026)** | **201,050**    | Khớp chuẩn 100% sao kê Techcombank                       |
+| Hạng mục                                        | Số tiền        | Ghi chú                                                            |
+| ----------------------------------------------- | -------------- | ------------------------------------------------------------------ |
+| Tài khoản BIDV                                  | 38,785,193     | Lương TMA về đây, mẹ gửi nhờ giữ hộ                                |
+| Tài khoản Vietcombank (VCB)                     | 9,213,459      | Đã sẵn sàng 9tr đóng trọ T10 ngày 15/10                            |
+| Tài khoản Techcombank (TCB)                     | 201,050        | Tiền tài khoản TCB                                                 |
+| Tiền mặt trong ví                               | 500,000        | Tiền mặt để ví sẵn sàng chi tiêu                                   |
+| **TỔNG TIỀN MẶT CÓ HIỆN TẠI**                   | **48,699,702** | Toàn bộ tiền mặt đang nắm giữ (3 ngân hàng + ví)                   |
+| *(Trừ phần tiền của mẹ gửi nhờ giữ hộ)*         | *(-9,500,000)* | *12,000,000đ mẹ gửi nhờ trừ đi 2,500,000đ mẹ góp tiền quân sự*     |
+| 💵 **TỔNG TIỀN MẶT THỰC TẾ THUỘC VỀ HIẾU**      | **39,199,702** | **Tài sản tiền mặt thực sự của anh Hiếu**                          |
+| *(Trong đó: Tiền giữ đóng trọ T10 ngày 15/10)* | *(9,000,000)*  | *Đã sẵn sàng trong VCB (gồm tiền phòng thu của Minh + Tuấn + anh)* |
+| 🔴 **NỢ PHẢI TRẢ (HIỆP 6M + SHOPEE 1.5M)**      | **7,500,000**  | ⏳ Sẵn sàng trích tiền mặt trả dứt điểm để hoàn toàn sạch nợ       |
+| 🟢 **TIỀN MẶT TỰ DO SẠCH NỢ (SAU TRỌ + TỔNG NỢ)**| **22,699,702** | **Tiền mặt ròng hoàn toàn tự do sau khi thanh toán mọi nghĩa vụ**  |
+| ─────────────────────────────────────────────── | ────────────── | ────────────────────────────────────────────────────────────────── |
+| **THU NHẬP THUẦN CỦA HIẾU**                    | **29,917,948** | TMA 17.63M + BIT 7M + Mẹ góp 2.5M + Trí + Khác                     |
+| *Tiền thu hộ phòng (Minh + Tuấn)*              | *5,817,762*    | *Thu hộ để đóng trọ (không tính vào thu nhập)*                     |
+| Mua iPhone                                      | 17,000,000     | 8tr + 3tr (trừ VCB) + 6tr (vay Hiệp)                               |
+| Chạy nghĩa vụ quân sự (phần Hiếu tự chi)        | 2,500,000      | 5tr tổng trừ 2.5tr mẹ góp                                          |
+| Chi phí phòng thực tế của Hiếu (1/4 phòng)      | 2,636,338      | 1/4 của tổng 10,545,350đ trọ + điện                                |
+| Mua giày                                        | 2,190,000      | Chuyển khoản bên bán giày (trừ VCB 10/10)                          |
+| Skincare (Bác sĩ Sương + Thuốc Minh)            | 1,297,000      | VCB 1.115M + TCB 182k                                              |
+| Ăn uống, Bách hoá xanh (VCB + TCB + BIDV)       | 778,801        |                                                                    |
+| Cafe, mua sắm & chi tiêu khác                   | 1,340,238      |                                                                    |
+| 🔴 **TỔNG CHI TIÊU THỰC SỰ CỦA HIẾU (CHI THUẦN)**| **27,742,377** | **Chi phí thực tế xuất từ túi Hiếu không lấy lại được**            |
 
 ---
 
-## KẾ HOẠCH TÀI CHÍNH NỬA CUỐI THÁNG 10/2026
+## KẾ HOẠCH NỬA CUỐI THÁNG 10/2026
 
-- 🔴 **Kế hoạch trả nợ Hiệp 6,000,000 VND:** Đã có đủ nguồn từ lương TMA + BIT tháng 10. Ưu tiên thanh toán sớm để hết nợ.
-- ⏳ **Đóng tiền trọ T10:** Hạn đóng ngày 15/10 (~9,000,000 VND).
-- ⏳ **Thu tiền nhà:** Nhắc Tuấn và Phát đóng đủ tiền trọ T10.
+- ✅ **Tiền trọ T10 (9,000,000 VND):** Đã có sẵn 9tr trong Vietcombank, đúng hạn 15/10 là chuyển đóng.
+- ✅ **Thu tiền phòng 4 anh em:** Toàn bộ anh em (Minh, Tuấn, Triều, Phát) đã hoàn tất đóng tiền phòng T10 đủ 100%.
+- 🔴 **Kế hoạch trả nợ (7,500,000 VND):** Trả nợ Hiệp 6,000,000 VND + Trả nợ Shopee 1,500,000 VND để hoàn toàn sạch nợ.
 - ⏳ **Quỹ mẹ 2tr:** Duy trì hạn mức gửi 2,000,000 VND vào quỹ tiết kiệm cho mẹ theo [QUY_ME_500TR.md](./QUY_ME_500TR.md).
 
 ---
 
-_Cập nhật: 11/10/2026 — Đã ghi nhận Lương TMA 17.65M, Lương BIT 7M, iPhone 17tr (vay Hiệp 6tr), Chạy quân sự 5tr (mẹ góp 2.5tr), Giày 2.19tr._
+_Cập nhật Realtime: 11/10/2026 — Đồng bộ khớp 100% từng giao dịch từ cả sao kê Techcombank, app Vietcombank và app BIDV._

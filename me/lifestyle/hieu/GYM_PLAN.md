@@ -160,7 +160,7 @@ không tính mục tiêu tăng cơ.
 | --------- | -------- | -------------- | ------- | ----- | -------------------------------------------- |
 | 31/07/26  | 65.4kg   | 30.5kg          | 11.3kg  | 17.2% | InBody Score 77/100 · Vòng eo/hông 0.85 · mỡ nội tạng mức 4 |
 | 28/08/26  | 66.8kg   | 31.4kg          | 11.2kg  | 16.8% | InBody Score 78/100 · ✅ cơ tăng + mỡ giảm - đúng hướng · vòng eo/hông 0.84 |
-|           |          |                 |         |       |                                                |
+| 03/10/26  | 66.0kg   | 32.5kg          | 8.8kg   | 13.3% | 🔥 InBody Score 81/100 · Siêu bứt phá: Cơ +1.1kg (32.5kg), Mỡ -2.4kg (xuống 13.3%), Mỡ nội tạng xuống Level 3 |
 |           |          |                 |         |       |                                                |
 
 **Cách đọc kết quả (chỉ cần nhìn 2 con số):**

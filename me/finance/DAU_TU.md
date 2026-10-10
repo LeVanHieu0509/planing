@@ -29,26 +29,28 @@ CHÊNH THẬT:                   ~2,200,000   (không phải 13tr)
 
 ## 💰 BẢNG TỔNG TÀI SẢN (cập nhật 11/10/2026)
 
-| Loại               | Khoản mục                  | Số tiền         | Thanh khoản  | Ghi chú                                |
-| ------------------ | -------------------------- | --------------- | ------------ | -------------------------------------- |
-| 💵 **Tiền mặt**    | Số dư các tài khoản        | ~20 - 23 triệu  | Ngay         | Emergency Fund + Tiền mặt sinh hoạt    |
-| 📈 **Trading**     | OKX - vốn trade tay        | 2,600,000       | 1-2 ngày     | Vốn trading ra vào liên tục theo tháng |
-| 📈 **Trading**     | OKX - vốn chạy bot         | 5,400,000       | 1-2 ngày     | Vốn bot trading cá nhân                |
-| 🤝 **Phải thu**    | Cho Diễm mượn              | 1,000,000       | **T12/2026** | Đã hẹn ngày thu                        |
-| 🔴 **Nợ ngắn hạn** | Vay Hiệp mua iPhone        | -6,000,000      | Ngắn hạn     | ⏳ Cần trích lương T10 trả dứt điểm    |
-|                    | **TỔNG TÀI SẢN HOẠT ĐỘNG** | **~23 - 26 tr** |              | Không gồm quỹ mẹ & Binance DCA         |
+| Loại               | Khoản mục                  | Số tiền         | Thanh khoản  | Ghi chú                                                            |
+| ------------------ | -------------------------- | --------------- | ------------ | ------------------------------------------------------------------ |
+| 💵 **Tiền mặt**    | Tiền mặt thực tế của Hiếu  | 39,199,702      | Ngay         | Tổng có 48.69M (BIDV 38.78M, VCB 9.21M, TCB 0.2M, Ví 0.5M) - 9.5M mẹ |
+| 📈 **Trading**     | OKX - vốn trade tay        | 2,600,000       | 1-2 ngày     | Vốn trading ra vào liên tục theo tháng                             |
+| 📈 **Trading**     | OKX - vốn chạy bot         | 5,400,000       | 1-2 ngày     | Vốn bot trading cá nhân                                            |
+| 🤝 **Phải thu**    | Cho Diễm mượn              | 1,000,000       | **T12/2026** | Đã hẹn ngày thu                                                    |
+| 🔴 **Nợ ngắn hạn** | Vay Hiệp mua iPhone        | -6,000,000      | Ngắn hạn     | ⏳ Trích tiền mặt trả dứt điểm bất cứ lúc nào                       |
+| 🔴 **Nợ ngắn hạn** | Nợ Shopee / SPayLater      | -1,500,000      | Ngắn hạn     | ⏳ Trích tiền mặt trả dứt điểm                                      |
+|                    | **TỔNG TÀI SẢN HOẠT ĐỘNG** | **40,699,702**  |              | **Đã trừ tiền mẹ & 7.5M nợ; Sau trừ 9tr trọ còn 31.70M sạch nợ**  |
 
-> 📌 **QUY TẮC MỚI VỀ BINANCE DCA & QUỸ MẸ (11/10/2026):**
+> 📌 **QUY TẮC MỚI VỀ BINANCE DCA, QUỸ MẸ & TIỀN MẸ GỬI NHỜ (11/10/2026):**
 >
-> 1. **Binance DCA (4,000,000 VND từ T08):** Xem như **khoản tiền mất đi / dài hạn**, sau này lãi hay lỗ tính sau, **KHÔNG cộng vào bảng tổng tài sản hoạt động hàng tháng**. Chỉ phần **OKX Trading (8tr)** mới tính vì là vốn ra vào liên tục theo lương/tháng.
-> 2. **Quỹ mẹ 500tr (đã gửi 6tr):** Thuộc về mẹ theo [QUY_ME_500TR.md](./QUY_ME_500TR.md), không tính vào tài sản cá nhân.
+> 1. **Tiền mẹ gửi nhờ giữ hộ trong tài khoản (9,500,000 VND):** Mẹ gửi tổng 12tr (đợt 1: 5tr + đợt 2: 7tr), trừ 2.5tr mẹ góp nghĩa vụ quân sự ➡️ Còn lại 9.5tr là tiền giữ hộ cho mẹ, **hoàn toàn loại ra khỏi tài sản của Hiếu**.
+> 2. **Binance DCA (4,000,000 VND từ T08):** Xem như **khoản tiền mất đi / dài hạn**, sau này lãi hay lỗ tính sau, **KHÔNG cộng vào bảng tổng tài sản hoạt động hàng tháng**. Chỉ phần **OKX Trading (8tr)** mới tính vì là vốn ra vào liên tục theo lương/tháng.
+> 3. **Quỹ mẹ 500tr (đã gửi 6tr):** Thuộc về mẹ theo [QUY_ME_500TR.md](./QUY_ME_500TR.md), không tính vào tài sản cá nhân.
 
 ### Cơ cấu tài sản hoạt động
 
 ```
-Tiền mặt:              ~21.5tr  ██████████████░░░░░░  71%
-OKX Trading (vốn quay):  8.0tr  █████░░░░░░░░░░░░░░░  26%   ← Vốn trading linh hoạt
-Phải thu:                1.0tr  ░░░░░░░░░░░░░░░░░░░░   3%
+Tiền mặt thực tế:      ~39.2tr  ████████████████░░░░  80%   (Sau trọ còn 30.2tr)
+OKX Trading (vốn quay):  8.0tr  ████░░░░░░░░░░░░░░░░  18%   (Vốn trading linh hoạt)
+Phải thu:                1.0tr  ░░░░░░░░░░░░░░░░░░░░   2%
 ```
 
 ---

@@ -51,7 +51,7 @@ Trần:      KHÔNG bơm thêm crypto/bot đến khi tiền mặt ≥ 50tr
 
 ```
 Đích:      72-75kg · % mỡ 7-10% · ngủ 23:30-07:00 · gym 4 buổi/tuần
-Hiện tại:  66.8kg (InBody 28/08/26, % mỡ 16.8%) - cơ tăng, mỡ giảm, đúng hướng
+Hiện tại:  66.0kg (InBody 03/10/26: cơ 32.5kg, % mỡ 13.3%, Score 81/100) - siêu bứt phá!
            Đã đăng ký phòng gym 3 tháng (02/09/2026)
 Đo lường:  InBody 1 lần/tháng (bỏ cân hàng ngày, bỏ bảng tracking) - chi tiết ở GYM_PLAN.md
 ```
