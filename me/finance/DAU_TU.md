@@ -27,26 +27,28 @@ CHÊNH THẬT:                   ~2,200,000   (không phải 13tr)
 
 ---
 
-## 💰 BẢNG TỔNG TÀI SẢN (cập nhật 13/09/2026)
+## 💰 BẢNG TỔNG TÀI SẢN (cập nhật 11/10/2026)
 
-| Loại              | Khoản mục                    | Số tiền        | Thanh khoản | Ghi chú                       |
-| ----------------- | ---------------------------- | -------------- | ----------- | ----------------------------- |
-| 💵 **Tiền mặt**   | Số dư các tài khoản          | 33,407,650     | Ngay        | Đây là Emergency Fund         |
-| 📈 **Đầu tư**     | Binance (DCA)                | 4,000,000      | 1-2 ngày    | Từ T08/2026                   |
-| 📈 **Đầu tư**     | OKX - vốn trade              | 2,600,000      | 1-2 ngày    | Từ T08/2026                   |
-| 📈 **Đầu tư**     | OKX - vốn chạy bot           | 5,400,000      | 1-2 ngày    | Nạp 04/09/2026                |
-| 🤝 **Phải thu**   | Cho Diễm mượn                | 1,000,000      | **T12/2026**| Đã hẹn ngày thu               |
-|                   | **TỔNG TÀI SẢN**             | **46,407,650** |             | Không gồm quỹ mẹ - xem ghi chú dưới |
+| Loại               | Khoản mục                  | Số tiền         | Thanh khoản  | Ghi chú                                |
+| ------------------ | -------------------------- | --------------- | ------------ | -------------------------------------- |
+| 💵 **Tiền mặt**    | Số dư các tài khoản        | ~20 - 23 triệu  | Ngay         | Emergency Fund + Tiền mặt sinh hoạt    |
+| 📈 **Trading**     | OKX - vốn trade tay        | 2,600,000       | 1-2 ngày     | Vốn trading ra vào liên tục theo tháng |
+| 📈 **Trading**     | OKX - vốn chạy bot         | 5,400,000       | 1-2 ngày     | Vốn bot trading cá nhân                |
+| 🤝 **Phải thu**    | Cho Diễm mượn              | 1,000,000       | **T12/2026** | Đã hẹn ngày thu                        |
+| 🔴 **Nợ ngắn hạn** | Vay Hiệp mua iPhone        | -6,000,000      | Ngắn hạn     | ⏳ Cần trích lương T10 trả dứt điểm    |
+|                    | **TỔNG TÀI SẢN HOẠT ĐỘNG** | **~23 - 26 tr** |              | Không gồm quỹ mẹ & Binance DCA         |
 
-> 📌 **"Hụi/đóng phường" 4tr (T08) đã chốt 13/09/2026: thuộc [QUY_ME_500TR.md](./QUY_ME_500TR.md)**,
-> không phải hụi thật, không lấy lại được → **không tính vào tài sản của anh nữa** (đã bỏ khỏi bảng trên).
+> 📌 **QUY TẮC MỚI VỀ BINANCE DCA & QUỸ MẸ (11/10/2026):**
+>
+> 1. **Binance DCA (4,000,000 VND từ T08):** Xem như **khoản tiền mất đi / dài hạn**, sau này lãi hay lỗ tính sau, **KHÔNG cộng vào bảng tổng tài sản hoạt động hàng tháng**. Chỉ phần **OKX Trading (8tr)** mới tính vì là vốn ra vào liên tục theo lương/tháng.
+> 2. **Quỹ mẹ 500tr (đã gửi 6tr):** Thuộc về mẹ theo [QUY_ME_500TR.md](./QUY_ME_500TR.md), không tính vào tài sản cá nhân.
 
-### Cơ cấu tài sản
+### Cơ cấu tài sản hoạt động
 
 ```
-Tiền mặt:              33.4tr   ██████████████░░░░░░  72%
-Crypto/Bot (rủi ro):   12.0tr   █████░░░░░░░░░░░░░░░  26%   ← ĐANG CÓ TRẦN
-Phải thu:               1.0tr   ░░░░░░░░░░░░░░░░░░░░   2%
+Tiền mặt:              ~21.5tr  ██████████████░░░░░░  71%
+OKX Trading (vốn quay):  8.0tr  █████░░░░░░░░░░░░░░░  26%   ← Vốn trading linh hoạt
+Phải thu:                1.0tr  ░░░░░░░░░░░░░░░░░░░░   3%
 ```
 
 ---
@@ -84,13 +86,13 @@ Nếu có sự cố (ốm, hỏng laptop, mất việc) mà tiền đang kẹt t
 > **Phân loại: DỰ ÁN CÁ NHÂN — KHÔNG PHẢI NGUỒN THU NHẬP.**
 > Không đưa vào bảng thu nhập hàng tháng. Tiền nạp OKX ghi ở mục Đầu tư.
 
-| Hạng mục          | Chi tiết                                                    |
-| ----------------- | ----------------------------------------------------------- |
-| Là gì             | Anh tự viết bot trading cho tài khoản OKX của chính mình    |
-| Vốn đang chạy     | 8,000,000 (2.6tr từ T08 + 5.4tr từ T09)                     |
-| Thu nhập          | **0** - không tính vào dòng tiền                            |
-| Giá trị thật      | Kỹ năng lập trình + hiểu thị trường (dùng được cho nghề)    |
-| Rủi ro            | Có thể mất toàn bộ 8tr. Đã chấp nhận trước.                 |
+| Hạng mục      | Chi tiết                                                 |
+| ------------- | -------------------------------------------------------- |
+| Là gì         | Anh tự viết bot trading cho tài khoản OKX của chính mình |
+| Vốn đang chạy | 8,000,000 (2.6tr từ T08 + 5.4tr từ T09)                  |
+| Thu nhập      | **0** - không tính vào dòng tiền                         |
+| Giá trị thật  | Kỹ năng lập trình + hiểu thị trường (dùng được cho nghề) |
+| Rủi ro        | Có thể mất toàn bộ 8tr. Đã chấp nhận trước.              |
 
 **Cách theo dõi (1 dòng/tháng, đừng theo dõi hàng ngày):**
 
@@ -117,14 +119,14 @@ cá nhân của anh. Đã bỏ khỏi bảng tổng tài sản phía trên.
 
 ## 📜 LỊCH SỬ GIAO DỊCH ĐẦU TƯ
 
-| Ngày    | Khoản         | Số tiền   | Loại       | Ghi chú                        |
-| ------- | ------------- | --------- | ---------- | ------------------------------ |
-| T08/26  | Hụi/phường    | 4,000,000 | Quỹ mẹ     | ✅ Chốt: thuộc quỹ mẹ 500tr, không lấy lại |
-| T08/26  | Binance       | 4,000,000 | DCA        | Đúng nguyên tắc "chỉ DCA"      |
-| T08/26  | OKX trade     | 2,600,000 | Trade      | Lệch nguyên tắc "không trade"  |
-| T08/26  | Cho Diễm mượn | 1,000,000 | Phải thu   | Thu lại **T12/2026**           |
-| 04/09/26| OKX - bot     | 5,400,000 | Bot trade  | Vốn chạy bot tự viết           |
-|         | **TỔNG RA**   | **17,000,000** |       |                                |
+| Ngày     | Khoản         | Số tiền        | Loại      | Ghi chú                                    |
+| -------- | ------------- | -------------- | --------- | ------------------------------------------ |
+| T08/26   | Hụi/phường    | 4,000,000      | Quỹ mẹ    | ✅ Chốt: thuộc quỹ mẹ 500tr, không lấy lại |
+| T08/26   | Binance       | 4,000,000      | DCA       | Đúng nguyên tắc "chỉ DCA"                  |
+| T08/26   | OKX trade     | 2,600,000      | Trade     | Lệch nguyên tắc "không trade"              |
+| T08/26   | Cho Diễm mượn | 1,000,000      | Phải thu  | Thu lại **T12/2026**                       |
+| 04/09/26 | OKX - bot     | 5,400,000      | Bot trade | Vốn chạy bot tự viết                       |
+|          | **TỔNG RA**   | **17,000,000** |           |                                            |
 
 ---
 
@@ -144,12 +146,12 @@ cá nhân của anh. Đã bỏ khỏi bảng tổng tài sản phía trên.
 
 ## 🔗 LIÊN KẾT
 
-| File                                               | Vai trò                    |
-| -------------------------------------------------- | -------------------------- |
-| [TAI_CHINH_2026_2028.md](./TAI_CHINH_2026_2028.md) | Kế hoạch tài chính tổng    |
-| [QUY_ME_500TR.md](./QUY_ME_500TR.md)               | Quỹ tiết kiệm cho mẹ       |
-| [MONTHLY_TRACKER.md](./MONTHLY_TRACKER.md)         | Chốt sổ từng tháng         |
-| [../../MASTER_PLAN.md](../../MASTER_PLAN.md)       | Mục tiêu dài hạn           |
+| File                                               | Vai trò                 |
+| -------------------------------------------------- | ----------------------- |
+| [TAI_CHINH_2026_2028.md](./TAI_CHINH_2026_2028.md) | Kế hoạch tài chính tổng |
+| [QUY_ME_500TR.md](./QUY_ME_500TR.md)               | Quỹ tiết kiệm cho mẹ    |
+| [MONTHLY_TRACKER.md](./MONTHLY_TRACKER.md)         | Chốt sổ từng tháng      |
+| [../../MASTER_PLAN.md](../../MASTER_PLAN.md)       | Mục tiêu dài hạn        |
 
 ---
 
