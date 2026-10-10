@@ -86,7 +86,11 @@
 
 ### 2. Trọ & Điện mạng (Cơ chế Phòng 4 Anh Em chia đều ~10.5M)
 
-> 💡 **Quy tắc phân chia:** Tổng chi phí phòng ~10.5M (Trọ 9M + Điện ~1.55M). Hiếu đại diện đứng ra thanh toán toàn bộ cho chủ nhà và thu lại từ 3 anh em, **chia đều 4 người (~2,636,000 VND / người)**.
+> ⚖️ **NGUYÊN TẮC KẾ TOÁN VÀNG (THU HỘ / CHI HỘ TIỀN PHÒNG):**
+> Toàn bộ dòng tiền thu/chi phòng ~10.5M được tách riêng hoàn toàn theo cơ chế **thu hộ / chi hộ**:
+> 1. **Không tính vào thu nhập cá nhân:** Tiền các anh em phòng (Minh, Tuấn, Triều, Phát) chuyển khoản cho Hiếu là tiền gom hộ để đóng cho chủ nhà/điện lực, tuyệt đối **KHÔNG tính vào thu nhập cá nhân** (không làm ảo thu nhập).
+> 2. **Không đội chi tiêu cá nhân:** Tiền thanh toán tổng cho chủ nhà (9tr) và điện nước (~1.55M) là chi hộ cả phòng, tuyệt đối **KHÔNG tính toàn bộ vào chi tiêu cá nhân** (không đội chi phí ảo).
+> 3. **Chi tiêu thực của Hiếu:** Hiếu chỉ ghi nhận đúng **1/4 chi phí thực tế (~2,636,338 VND)** vào cột **Chi tiêu thuần**.
 
 | Khoản mục                               | Tổng chi phí   | Ghi chú                                                            |
 | --------------------------------------- | -------------- | ------------------------------------------------------------------ |

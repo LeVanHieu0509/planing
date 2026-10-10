@@ -106,7 +106,7 @@ TỔNG:                   25,430,000
 ### Chi tiêu / tháng
 
 ```
-Trọ + điện + mạng (net):  3,500,000
+Trọ + điện + mạng (net):  2,640,000   (chia 4 người tổng phòng ~10.5M; KHÔNG đội tiền thu/chi hộ)
 Thức ăn:                  2,500,000
 🔒 Quỹ mẹ (gửi quê):      2,000,000   ← cố định đến 2036 (quỹ 500tr)
 Làm đẹp + bản thân:       1,000,000
@@ -116,9 +116,16 @@ Subscriptions:              400,000
 Gym:                        300,000
 Khác:                       500,000
 ──────────────────────────────────
-TỔNG CHI:                11,200,000
-TIẾT KIỆM:               14,230,000
+TỔNG CHI:                10,340,000
+TIẾT KIỆM:               15,090,000
 ```
+
+> ⚖️ **NGUYÊN TẮC KẾ TOÁN VÀNG (THU HỘ / CHI HỘ TIỀN PHÒNG):**
+> Toàn bộ dòng tiền thu/chi phòng (~10.5M) được tách riêng thành **thu hộ / chi hộ**, tuyệt đối không tính lẫn:
+> 1. Tiền anh em phòng đóng chuyển vào tài khoản: **KHÔNG tính vào thu nhập cá nhân** (tránh ảo thu nhập).
+> 2. Tiền tổng chuyển trả chủ nhà / điện nước: **KHÔNG tính toàn bộ vào chi tiêu cá nhân** (tránh đội chi phí ảo).
+> 3. Hiếu chỉ ghi nhận đúng **1/4 phần thực tế (~2.64M)** vào chi tiêu thuần của bản thân.
+
 
 ### Lộ trình tiền mặt
 

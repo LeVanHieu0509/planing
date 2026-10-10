@@ -1,9 +1,11 @@
 # 📋 MONTHLY TRACKER - CHỐT SỔ HÀNG THÁNG
 
 > **Cách dùng:** Điền vào cuối mỗi tháng (ngày 28-30)
-> **Quy tắc mới V6:** Luôn tách **3 cột** - Chi tiêu / Đầu tư / Phải thu.
-> Đầu tư KHÔNG phải chi tiêu. Gộp chung là lý do tháng nào cũng thấy "hụt tiền".
-> **Cập nhật:** 13/09/2026 (V6)
+> **Quy tắc 1 (V6):** Luôn tách **3 cột** — Chi tiêu thuần / Đầu tư / Phải thu. Đầu tư KHÔNG phải chi tiêu.
+> **Quy tắc 2 (Nguyên tắc kế toán Thu hộ / Chi hộ):** Toàn bộ dòng tiền thu/chi phòng (~10.5M) được tách riêng 100% thành **thu hộ / chi hộ**.
+> - Tiền anh em phòng đóng chuyển vào: **KHÔNG tính vào thu nhập cá nhân** (không làm ảo thu nhập).
+> - Tiền nộp trọ & điện nước tổng: **KHÔNG tính toàn bộ vào chi tiêu cá nhân** (không đội chi phí). Hiếu chỉ ghi nhận đúng **1/4 phần thực tế (~2.64M)** vào cột **Chi tiêu thuần**.
+> **Cập nhật:** 11/10/2026
 
 ---
 
@@ -53,7 +55,7 @@ SỐ DƯ ĐẦU THÁNG:   ___________
   Tiền nhà bạn cùng phòng: ___________
 
 ② CHI TIÊU THUẦN (tiền ra khỏi túi, không lấy lại được):
-  Trọ + điện + mạng:  ___________
+  Trọ + điện + mạng:  ___________  ← chỉ ghi 1/4 phần thực chi của Hiếu, KHÔNG ghi cả cục chi hộ
   Thức ăn:            ___________
   Gửi quê/phường:     ___________  ← cố định 2tr
   Làm đẹp + bản thân: ___________
