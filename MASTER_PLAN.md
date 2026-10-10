@@ -41,9 +41,9 @@ Việc duy nhất phải làm: ĐI HỌC ĐỦ BUỔI
 ```
 Đích gần:  70,000,000 trước T07/2027 (học phí Thạc sĩ)
 Đích xa:   2 tỷ (2031)
-Hiện tại:  33,407,650 tiền mặt (13/09/2026) + 17tr đầu tư/phải thu
+Hiện tại:  39,199,702 tiền mặt thực tế (11/10/2026) + 9tr trading/phải thu - 7.5tr nợ (Tài sản ròng: ~40.7tr)
 Tiết kiệm: ~14tr/tháng
-Dự kiến đủ 70tr: T12/2026 - T02/2027 (sớm hơn deadline 5-7 tháng)
+Dự kiến đủ 70tr: T02/2027 - T03/2027 (sớm hơn deadline T07/2027 khoảng 4-5 tháng)
 Trần:      KHÔNG bơm thêm crypto/bot đến khi tiền mặt ≥ 50tr
 ```
 
@@ -122,12 +122,12 @@ TIẾT KIỆM:               14,230,000
 
 ### Lộ trình tiền mặt
 
-| Mốc       | Số tiền     | Ý nghĩa                       |
-| --------- | ----------- | ----------------------------- |
-| 13/09/26  | 33,407,650  | Hiện tại                      |
-| T11/2026  | ~58tr       | 🚧 Chạm trần 50tr → mở đầu tư |
-| T12/2026  | **~72tr**   | ✅ Đủ học phí Thạc sĩ         |
-| T07/2027  | ~171tr      | 🎓 Đăng ký, trả 70tr          |
+| Mốc       | Số tiền     | Ý nghĩa                                              |
+| --------- | ----------- | ---------------------------------------------------- |
+| 11/10/26  | 39,199,702  | Hiện tại (tiền mặt thực tế sau trừ 9.5M tiền mẹ giữ) |
+| T11/2026  | ~58tr       | 🚧 Chạm trần 50tr → mở đầu tư                        |
+| T02/2027  | **~70-72tr**| ✅ Đủ học phí Thạc sĩ (dự kiến sớm T02/27)           |
+| T07/2027  | ~171tr      | 🎓 Đăng ký, trả 70tr                                 |
 
 Chi tiết: [me/finance/TAI_CHINH_2026_2028.md](./me/finance/TAI_CHINH_2026_2028.md) · [me/finance/DAU_TU.md](./me/finance/DAU_TU.md)
 
