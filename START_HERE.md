@@ -17,7 +17,7 @@ SIDE:     Miracle POS (đang đóng băng - chỉ fix bug)
 ★ MỐC LỚN NHẤT SẮP TỚI:
   🎓 ĐĂNG KÝ THẠC SĨ CNTT QUẢN LÝ - UIT (ĐHQG TP.HCM) · T07/2027
      → Cần 70tr · đã có ~37.2tr tiền mặt thực tế · dự kiến đủ vào T12/2026-T02/2027
-     → Tổng tài sản ròng toàn diện: ~73.6M (gồm 37.2M tiền mặt + 34.9M Binance W + 8M OKX Bot Trading - 7.5M nợ)
+     → Tổng tài sản ròng toàn diện: ~73.6M (theo thị giá: 37.2M tiền mặt + 34.9M Binance W + 8M OKX Bot - 7.5M nợ; tổng vốn tích luỹ lịch sử: ~148.7M)
      → Quỹ mẹ 500tr: Đã nạp luỹ kế gốc 8M (định kỳ 2M/tháng, mốc 100M trích lãi nuôi mẹ)
 
 TẦM NHÌN:

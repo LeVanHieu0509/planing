@@ -25,7 +25,7 @@
 _\* T10 realtime đến 11/10:_
 _- Thu thuần Hiếu: 29.92M; Chi thuần Hiếu: 29.74M (đã gồm 2M đóng phường; chỉ tính 1/4 trọ); Mẹ gửi nhờ giữ hộ: 12.5M (ngoại bảng)._
 _- Tiền mặt thực tế: 37.20M sau trừ tiền mẹ; Phải thu Diễm: 1.0M; Nợ ngắn hạn: 7.5M (Hiệp 6M + Shopee 1.5M). Tiền mặt tự do sạch nợ sau trọ: 20.70M._
-_- **Tổng TS Ròng Toàn diện:** 73,647,586 VND (đã cộng danh mục tích sản 78,262 W trên Binance trị giá ~34.95M VND, giá vốn 25.41M, lãi +37.75% / +9.59M)._
+_- **Tổng TS Ròng Toàn diện:** 73,647,586 VND (đã cộng danh mục 78,262 W trên Binance thị giá ~34.95M VND, vốn gốc nạp 110M từ 04/2024; tổng vốn tích luỹ lịch sử đạt 148.7M)._
 
 ---
 
