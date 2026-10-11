@@ -41,7 +41,7 @@ Việc duy nhất phải làm: ĐI HỌC ĐỦ BUỔI
 ```
 Đích gần:  70,000,000 trước T07/2027 (học phí Thạc sĩ)
 Đích xa:   2 tỷ (2031)
-Hiện tại:  39,199,702 tiền mặt thực tế (11/10/2026) + 9tr trading/phải thu - 7.5tr nợ (Tài sản ròng: ~40.7tr)
+Hiện tại:  37,199,702 tiền mặt thực tế (11/10/2026) + 9tr trading/phải thu - 7.5tr nợ (Tài sản ròng: ~38.7tr; tự do sạch nợ: 20.7tr)
 Tiết kiệm: ~14tr/tháng
 Dự kiến đủ 70tr: T02/2027 - T03/2027 (sớm hơn deadline T07/2027 khoảng 4-5 tháng)
 Trần:      KHÔNG bơm thêm crypto/bot đến khi tiền mặt ≥ 50tr
@@ -128,7 +128,7 @@ TIẾT KIỆM:               15,090,000
 >    - Tiền tổng chuyển trả chủ nhà / điện nước: **KHÔNG tính toàn bộ vào chi tiêu cá nhân** (tránh đội chi phí ảo).
 >    - Hiếu chỉ ghi nhận đúng **1/4 phần thực tế (~2.64M)** vào chi tiêu thuần của bản thân.
 > 
-> 2. **Tiền của mẹ gửi nhờ giữ hộ trong tài khoản (Hiện là 9.5M):**
+> 2. **Tiền của mẹ gửi nhờ giữ hộ trong tài khoản (Hiện là 12.5M):**
 >    - Mẹ gửi nhờ giữ hộ trong tài khoản: **TUYỆT ĐỐI KHÔNG tính vào thu nhập**, cũng **KHÔNG tính vào tài sản của Hiếu**.
 >    - Luôn **trừ thẳng số tiền mẹ gửi nhờ ra khỏi số dư ngân hàng** để xác định chính xác số dư tiền mặt thực có.
 >    - Tiền mẹ hỗ trợ (như 2.5M tiền quân sự): Được trừ trực tiếp vào chi phí phát sinh, Hiếu chỉ ghi nhận phần mình tự chi.
@@ -140,7 +140,7 @@ TIẾT KIỆM:               15,090,000
 
 | Mốc       | Số tiền     | Ý nghĩa                                              |
 | --------- | ----------- | ---------------------------------------------------- |
-| 11/10/26  | 39,199,702  | Hiện tại (tiền mặt thực tế sau trừ 9.5M tiền mẹ giữ) |
+| 11/10/26  | 37,199,702  | Hiện tại (tiền mặt thực tế sau trừ 12.5M tiền mẹ giữ & đã đóng phường 2M) |
 | T11/2026  | ~58tr       | 🚧 Chạm trần 50tr → mở đầu tư                        |
 | T02/2027  | **~70-72tr**| ✅ Đủ học phí Thạc sĩ (dự kiến sớm T02/27)           |
 | T07/2027  | ~171tr      | 🎓 Đăng ký, trả 70tr                                 |
@@ -181,15 +181,12 @@ planing/
 ├── expert_review.md       ← review định kỳ, đọc khi mất phương hướng
 ├── scrum/                 ← SCRUM_FRAMEWORK · SPRINT_CALENDAR · sprints/S1.md
 ├── me/
-│   ├── finance/           ← TAI_CHINH · DAU_TU · MONTHLY_TRACKER · T0X_GIAO_DICH
-│   ├── career/            ← master-mba (Thạc sĩ UIT) · miracle · tiktok (đóng băng)
-│   └── lifestyle/         ← DAILY_SCHEDULE · GYM_PLAN · SELF_UNDERSTANDING · RELATIONSHIPS
+│   ├── finance/           ← TAI_CHINH · DAU_TU · MONTHLY_TRACKER · T0X_GIAO_DICH · QUY_ME_500TR
+│   ├── career/            ← master-mba (Thạc sĩ UIT 2027) · miracle (đóng băng) · tma
+│   └── lifestyle/         ← DAILY_SCHEDULE · GYM_PLAN · SELF_UNDERSTANDING · RELATIONSHIPS · podcasts_hieutv
 ├── english/               ← toeic/ · communication/IMMERSION_ROADMAP.md
-├── execute/               ← log học tiếng Anh (study4 = lưu trữ giai đoạn cũ)
-├── business/              ← bài học QTKD (đóng băng)
-├── miracle/               ← deal & phân tích (VNDAX, Yoko)
-├── programing/            ← ghi chú kỹ thuật cá nhân
-└── internship/            ← mentoring thực tập sinh
+├── programing/            ← ghi chú kỹ thuật cá nhân (AI Agent, Flutter)
+└── archive/               ← kho lưu trữ (business MBA, tiktok cũ)
 ```
 
 ---
@@ -205,7 +202,7 @@ planing/
 | Đầu tư                | [me/finance/DAU_TU.md](./me/finance/DAU_TU.md)                                   |
 | Quỹ mẹ 500tr          | [me/finance/QUY_ME_500TR.md](./me/finance/QUY_ME_500TR.md)                       |
 | Bạn đời / gia đình    | [me/lifestyle/RELATIONSHIPS.md](./me/lifestyle/RELATIONSHIPS.md)                 |
-| Thạc sĩ               | [me/career/master-mba/THAC_SI_CS_2028.md](./me/career/master-mba/THAC_SI_CS_2028.md) |
+| Thạc sĩ               | [me/career/master-mba/THAC_SI_UIT_2027.md](./me/career/master-mba/THAC_SI_UIT_2027.md) |
 | Tiếng Anh             | [english/communication/IMMERSION_ROADMAP.md](./english/communication/IMMERSION_ROADMAP.md) |
 | Khi nản               | [expert_review.md](./expert_review.md)                                           |
 

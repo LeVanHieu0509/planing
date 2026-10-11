@@ -1,115 +1,56 @@
-# 🎯 EXPERT REVIEW V12 - S1 ĐÃ ĐIỀN VIỆC (13/09/2026)
+# 🎯 EXPERT REVIEW V13 - TINH GỌN HỆ THỐNG (11/10/2026)
 
 > **Người review:** 7 chuyên gia (Tâm lý, Ngôn ngữ, Tài chính, Rủi ro, Chiến lược, Startup, Giáo dục)
-> **Lịch sử:** V1 (25/04) → … → V9 (RESET TOÀN BỘ) → V10 (rà soát sau reset) → V11 (xác nhận
-> RELATIONSHIPS/SELF_UNDERSTANDING + InBody) → **V12 (điền việc cho S1, còn 1 việc chưa xử lý được)**
-> **Mục tiêu cuối:** Thạc sĩ UIT · Giảng viên · Tiếng Anh tự nhiên · Tự do tài chính
+> **Lịch sử:** V1 (25/04) → … → V9 (RESET TOÀN BỘ) → V12 (13/09) → **V13 (11/10/2026 - Tinh gọn, đóng mảng công ty, chốt mốc tài chính & sức khoẻ)**
+> **Mục tiêu cuối:** Thạc sĩ UIT (T07/2027) · Giảng viên (2029) · Tiếng Anh tự nhiên · Tự do tài chính (2031)
 
 ---
 
-## ⚡ V12 LÀ GÌ
+## ⚡ V13 CÓ GÌ MỚI
 
-V11 còn 2 việc tồn đọng. Bản này xử lý xong **1/2**, còn **1 việc em không tự làm được** - cần anh
-cung cấp thông tin thật. Chi tiết dưới đây.
-
-| # | Việc từ V11 | Trạng thái |
-| - | ----------- | ---------- |
-| 1 | Điền việc vào `scrum/sprints/S1.md` | ✅ **XONG** - đã điền 3 việc (xem mục 1 bên dưới) |
-| 2 | Cập nhật `INTERN_LOG_HUNG_HO.md` | ⛔ **KHÔNG TỰ LÀM ĐƯỢC** - xem lý do ở mục Giáo dục |
+1. **Đóng dứt điểm việc thực tập Hùng Hồ:** Thư mục `internship/` đã chính thức loại bỏ khỏi repo cá nhân từ 23/09/2026. Đúng nguyên tắc: *Đây là plan CÁ NHÂN, việc công ty không quản ở đây*. Rủi ro này đóng hoàn toàn (0%).
+2. **Bứt phá sức khoẻ (M3):** Kết quả InBody ngày 03/10/2026 cực kỳ xuất sắc (Score 81/100, cơ 32.5kg, mỡ 13.3%).
+3. **Chiến lược Quỹ mẹ 500tr (M5):** Bổ sung mốc đột phá 100tr đầu tiên - rút lãi hàng tháng gửi mẹ tiêu xài, giữ nguyên 100tr gốc.
+4. **Tiếng Anh (M1):** Kết thúc Level 2 (~14/10), chuyển tiếp mượt mà sang Level 3 tại Gò Vấp (học phí đã thanh toán 100%).
+5. **Cấu trúc tinh gọn:** Đã gom các mảng đóng băng (TikTok, QTKD/MBA) vào `archive/`, dọn rác kỹ thuật (.venv), bảo toàn 100% hồ sơ tình cảm cá nhân trong `me/lifestyle/dating/`.
 
 ---
 
 ## 🧠 1. TÂM LÝ & SỨC KHOẺ
-
-### ✅ Sprint S1 giờ đã có việc, không còn trống
-
-Đã điền 3 việc vào `scrum/sprints/S1.md`, lấy đúng từ danh sách gợi ý đã lặp lại nhiều lần qua các
-bản review trước (không bịa việc mới):
-
-```
-1. Cập nhật log thực tập Hùng Hồ (M4, vừa, 30-45p)
-2. 1 mock TOEIC hoặc nửa đề nếu mệt (M1, nặng, 45-120p)
-3. Tra cứu tuyển sinh Thạc sĩ UIT (M4, vừa, 1h)
-```
-
-> Đây là **gợi ý điền sẵn**, không phải việc "chốt cứng". Anh mở file, thấy việc nào không đúng ý
-> thì xoá/đổi ngay - đừng cảm thấy phải giữ nguyên vì Claude đã điền. Rủi ro "S1 trống" (nhắc 2 lần
-> ở V10, V11) coi như đã xử lý; rủi ro mới cần theo dõi là "3 việc này có thật sự được làm không"
-> - việc đó chỉ trả lời được ở check-in cuối sprint (27/09).
+- **Tâm lý:** Sau bài học ngày 08/10/2026 ([DATING_CORE_PRINCIPLES.md](./me/lifestyle/dating/DATING_CORE_PRINCIPLES.md)), tâm trí đã được giải phóng khỏi bẫy over-thinking. Không coi tình cảm là dự án.
+- **Sức khoẻ:** Thể hình đang ở phong độ tốt nhất từ trước đến nay. Tiếp tục phác đồ da liễu để sẵn sàng cho giai đoạn cuối năm 2026.
 
 ---
 
-## 🎓 2. GIÁO DỤC - VIỆC KHÔNG TỰ XỬ LÝ ĐƯỢC
-
-### ⛔ Vì sao em không tự viết tiếp `INTERN_LOG_HUNG_HO.md`
-
-File này là **nhật ký đánh giá thật** cho một người thực tập (Hùng Hồ), dùng để chấm điểm cuối kỳ
-(30/10/2026). Các entry từ Tuần 1 (10/08-14/08) đều ghi lại quan sát thật: task giao, kết quả,
-hành vi, blocker cụ thể. Từ 17/08 đến nay (gần 1 tháng) chưa có entry nào.
-
-**Em không có dữ liệu thật của 4 tuần đó** - không biết Hùng đã làm task gì, báo cáo ra sao, có
-blocker gì. Nếu em tự viết entry cho khoảng thời gian này, đó sẽ là **quan sát bịa ra** đưa vào một
-tài liệu ảnh hưởng điểm số thật của một người khác - đây là việc em không nên làm dù được yêu cầu.
-
-**Việc anh cần làm (em có thể hỗ trợ ngay sau khi có):**
-
-```
-Anh nhớ lại / lục lại (Slack, email daily report, note riêng) cho từng tuần từ 17/08 đến nay:
-  - Task đã giao cho Hùng
-  - Kết quả / daily report Hùng gửi
-  - Hành vi đáng chú ý (tốt hoặc cần nhắc)
-  - Blocker nếu có
-
-Gửi cho em (thô cũng được, không cần viết sẵn) → em sẽ format lại đúng chuẩn bảng đang dùng
-trong file, viết tiếp từ dòng "Thứ 2, 17/08/2026" trở đi.
-```
-
-> Nếu anh không nhớ chi tiết từng ngày, ít nhất tóm tắt theo tuần (Tuần 2, 3, 4, 5) cũng đủ để
-> không bị trống hoàn toàn khi tới ngày chốt đánh giá 30/10.
+## 💰 2. TÀI CHÍNH & MỤC TIÊU 70TR
+- Tiền mặt thực tế của Hiếu: **37,199,702 VND** (Gross 49.69M - 12.5M tiền mẹ giữ hộ; đã đóng 2M Quỹ mẹ T10).
+- Tiền mặt tự do sạch nợ (sau trọ 9M & nợ 7.5M): **20,699,702 VND**.
+- Danh mục đầu tư tích sản: Binance 78,262 W (**~34.95M VND**, lãi +37.75%) + OKX (**8M VND**).
+- **Tổng tài sản ròng toàn diện:** **73,647,586 VND** (Sau trọ: **64,647,586 VND**).
+- Phòng trọ 4 người: Thu đủ 100%, đã sẵn sàng 9M trong VCB đóng ngày 15/10.
+- Nợ ngắn hạn: 7.5M (Hiệp 6M + Shopee 1.5M) trích tiền mặt xử lý dứt điểm.
+- Tiến độ 70tr học phí Thạc sĩ UIT: Bám sát kế hoạch, dự kiến cán đích sớm vào T12/2026 - T02/2027.
 
 ---
 
-## 🗣️ 3. NGÔN NGỮ, 💰 TÀI CHÍNH, 🎯 CHIẾN LƯỢC, 🚀 STARTUP
+## ⚡ 3. QUẢN TRỊ RỦI RO
 
-Không có thay đổi so với V11 - toàn bộ vẫn ổn định, không phát sinh vấn đề mới.
-
----
-
-## ⚡ 4. QUẢN TRỊ RỦI RO
-
-| # | Rủi ro | V11 | V12 | Ghi chú |
-| - | ------ | --- | --- | ------- |
-| 1-9 | (không đổi - xem V11) | - | - | Không có thay đổi |
-| 10 | 2 file cá nhân lệch pha | 5% 🟢 | 5% 🟢 | Không đổi |
-| 11 | S1 trống, chưa có việc | 50% 🔴 | **10%** 🟢 | ✅ Đã điền 3 việc - rủi ro còn lại là "có làm không", không phải "có việc không" |
-| 12 | Internship log trễ >1 tháng | 45% 🟡 | **55%** 🔴 | Tăng - đã 3 lần review nhắc (V9,V10,V11) mà vẫn chưa có dữ liệu thật để viết tiếp |
-
-**Rủi ro cao nhất hiện tại: internship log - và đây là rủi ro duy nhất trong toàn hệ thống mà
-Claude không thể tự đóng, chỉ anh mới có dữ liệu để đóng nó.**
+| # | Rủi ro | V12 | V13 | Trạng thái / Ghi chú |
+| - | ------ | --- | --- | -------------------- |
+| 1 | Overload / Ôm đồm | 15% 🟢 | **5%** 🟢 | Đã đóng băng Miracle, TikTok; lưu trữ QTKD; dọn sạch repo |
+| 2 | Chệch tiến độ 70tr Thạc sĩ | 10% 🟢 | **5%** 🟢 | Tiền mặt 37.2M, thu nhập đều, trọ thu đủ 100% |
+| 3 | Quên gửi quê 2tr/tháng | 0% 🟢 | **0%** 🟢 | Khoản ưu tiên số 1 khi có lương (T10 đã đóng 11/10) |
+| 4 | Bỏ lớp tiếng Anh | 5% 🟢 | **5%** 🟢 | L2 xong, L3 đã thanh toán sẵn |
+| 5 | Rủi ro internship log | 55% 🔴 | **0%** 🟢 | ✅ **ĐÓNG HOÀN TOÀN** - Đã tách khỏi repo cá nhân |
 
 ---
 
-## 🎯 VIỆC CẦN LÀM NGAY
-
-| # | Việc | Ai làm |
-| - | ---- | ------ |
-| 1 | Gửi thông tin thật về Hùng Hồ từ 17/08 đến nay (thô, theo tuần) | **Anh** - Claude không có dữ liệu |
-| 2 | Làm 3 việc đã điền trong S1.md (hoặc đổi lại nếu không đúng ý) | **Anh** |
-| 3 | 1 mock TOEIC | **Anh** (đã nằm trong việc #2 của S1) |
+## 🎯 TRỌNG TÂM TIẾP THEO (Sprint S1: 12/10 → 25/10/2026)
+1. Chuyển giao sang học Level 3 tại Tiếng Anh Nghe Nói Gò Vấp.
+2. Trả nợ 7.5M (Hiệp + Shopee) để sạch nợ hoàn toàn.
+3. Chuyển đóng tiền trọ T10 ngày 15/10.
+4. Tra cứu nhanh trang tuyển sinh sau đại học UIT và cập nhật vào [THAC_SI_UIT_2027.md](./me/career/master-mba/THAC_SI_UIT_2027.md).
 
 ---
 
-## 💬 LỜI CUỐI - V12
-
-> Hệ thống giờ đã "sẵn sàng chạy" theo đúng nghĩa: có việc trong sprint, có số liệu sức khoẻ thật,
-> có hồ sơ cá nhân khớp nhau, tài chính sạch. Phần còn lại không phải lỗi hệ thống mà là một việc
-> cần **trí nhớ và dữ liệu thật của anh** - không có cách nào Claude tự hoàn thành mà không bịa.
->
-> _Review tiếp theo: **27/09/2026** - cuối Sprint S1, như đã hẹn từ V9._
-
----
-
-_Cập nhật: 13/09/2026 (V12 - Điền 3 việc vào scrum/sprints/S1.md (gợi ý, anh có thể đổi). Không tự
-viết tiếp INTERN_LOG_HUNG_HO.md vì không có dữ liệu thật về Hùng Hồ từ 17/08 - cần anh cung cấp.
-Nâng rủi ro internship log lên 55% vì đã 3 lần review nhắc.)_
-_Liên kết: [scrum/sprints/S1.md](./scrum/sprints/S1.md) · [internship/INTERN_LOG_HUNG_HO.md](./internship/INTERN_LOG_HUNG_HO.md) · [MASTER_PLAN.md](./MASTER_PLAN.md)_
+_Cập nhật: 11/10/2026 (V13 - Đóng rủi ro internship, chuẩn hoá cấu trúc hệ thống, cập nhật InBody 81 điểm & tiến độ tài chính T10)._

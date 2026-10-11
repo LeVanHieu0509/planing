@@ -1,7 +1,7 @@
 # 🚀 BẮT ĐẦU TỪ ĐÂY - V7 (RESET 13/09/2026)
 
 > **Hiếu Lê Văn - 25 tuổi - Developer**
-> **Sprint hiện tại:** **S1 · 14/09/2026 → 27/09/2026** (hệ thống mới, dễ thở)
+> **Sprint hiện tại:** **S1 · 12/10/2026 → 25/10/2026** (Khởi động lại nhịp mới, 2 tuần/sprint)
 > **Đọc file này 5 phút là nắm toàn bộ.**
 
 ---
@@ -16,7 +16,9 @@ SIDE:     Miracle POS (đang đóng băng - chỉ fix bug)
 
 ★ MỐC LỚN NHẤT SẮP TỚI:
   🎓 ĐĂNG KÝ THẠC SĨ CNTT QUẢN LÝ - UIT (ĐHQG TP.HCM) · T07/2027
-     → Cần 70tr · đã có 33.4tr · dự kiến đủ vào T12/2026-T02/2027
+     → Cần 70tr · đã có ~37.2tr tiền mặt thực tế · dự kiến đủ vào T12/2026-T02/2027
+     → Tổng tài sản ròng toàn diện: ~73.6M (gồm 37.2M tiền mặt + 34.9M Binance W + 8M OKX - 7.5M nợ)
+     → Quỹ mẹ 500tr: Đã nạp luỹ kế gốc 8M (định kỳ 2M/tháng, mốc 100M trích lãi nuôi mẹ)
 
 TẦM NHÌN:
   2027: Thạc sĩ UIT + TOEIC 700+ + tiếng Anh giao tiếp tự tin
@@ -34,14 +36,14 @@ TẦM NHÌN:
 | **M2** | 💰 Tiền               | 70tr học phí Thạc sĩ → rồi tới 2 tỷ        | T07/2027  |
 | **M3** | 💪 Sức khoẻ           | 75kg · ngủ đủ · gym đều                    | 2027      |
 | **M4** | 🎓 Học vấn & Nghề     | Thạc sĩ UIT → giảng viên                   | T07/2027  |
-| **M5** | ❤️ Gia đình & Quan hệ | Gửi quê 2tr/tháng đến 2030 · giữ kết nối   | Liên tục  |
+| **M5** | ❤️ Gia đình & Quan hệ | Quỹ mẹ 500tr (gửi 2tr/tháng đến 2036, đã gửi 8tr) | Liên tục  |
 
 ### 🧊 Đang đóng băng - không nhắc tới nữa
 
 ```
 Miracle POS  → chỉ fix bug khi user báo
-TikTok       → dừng hẳn (deal CollaNote đã huỷ)
-QTKD         → học chung khi vào Thạc sĩ
+TikTok       → dừng hẳn (deal CollaNote đã huỷ, lưu trữ trong archive/)
+QTKD         → lưu trữ trong archive/, học chung khi vào Thạc sĩ
 Bot OKX      → dự án cá nhân, không phải nguồn thu, không bơm thêm tiền
 ```
 
@@ -56,8 +58,8 @@ Bot OKX      → dự án cá nhân, không phải nguồn thu, không bơm thê
 | File                                                             | Khi nào              |
 | ---------------------------------------------------------------- | -------------------- |
 | [scrum/sprints/S1.md](./scrum/sprints/S1.md)                     | Mỗi sáng, 1 phút     |
-| [me/lifestyle/DAILY_SCHEDULE.md](./me/lifestyle/DAILY_SCHEDULE.md) | Khi quên lịch hôm nay |
-| [me/finance/T09_2026_GIAO_DICH.md](./me/finance/T09_2026_GIAO_DICH.md) | Ghi chi tiêu ngay khi tiêu |
+| [me/lifestyle/hieu/DAILY_SCHEDULE.md](./me/lifestyle/hieu/DAILY_SCHEDULE.md) | Khi quên lịch hôm nay |
+| [me/finance/T10_2026_GIAO_DICH.md](./me/finance/T10_2026_GIAO_DICH.md) | Ghi chi tiêu ngay khi tiêu |
 
 ### Cuối sprint (2 tuần/lần, CN 21:00)
 
@@ -72,19 +74,20 @@ Bot OKX      → dự án cá nhân, không phải nguồn thu, không bơm thê
 | ------------------------------------------------------------------ | --------------------- |
 | [me/finance/MONTHLY_TRACKER.md](./me/finance/MONTHLY_TRACKER.md)   | Chốt sổ               |
 | [me/finance/DAU_TU.md](./me/finance/DAU_TU.md)                     | Cập nhật đầu tư       |
-| [me/lifestyle/GYM_PLAN.md](./me/lifestyle/GYM_PLAN.md)             | Ghi 1 dòng InBody     |
+| [me/lifestyle/hieu/GYM_PLAN.md](./me/lifestyle/hieu/GYM_PLAN.md)   | Ghi 1 dòng InBody     |
 
 ### Khi cần
 
 | File                                                                                           | Khi nào                   |
 | ---------------------------------------------------------------------------------------------- | ------------------------- |
 | [MASTER_PLAN.md](./MASTER_PLAN.md)                                                             | Nhìn lại bức tranh lớn    |
-| [me/career/master-mba/THAC_SI_CS_2028.md](./me/career/master-mba/THAC_SI_CS_2028.md)           | Chuẩn bị hồ sơ Thạc sĩ    |
+| [me/career/master-mba/THAC_SI_UIT_2027.md](./me/career/master-mba/THAC_SI_UIT_2027.md)           | Chuẩn bị hồ sơ Thạc sĩ    |
 | [me/finance/TAI_CHINH_2026_2028.md](./me/finance/TAI_CHINH_2026_2028.md)                       | Kiểm tra tiến độ 70tr     |
 | [english/communication/IMMERSION_ROADMAP.md](./english/communication/IMMERSION_ROADMAP.md)     | Lộ trình lớp tiếng Anh    |
 | [me/finance/QUY_ME_500TR.md](./me/finance/QUY_ME_500TR.md)                                     | Theo dõi quỹ mẹ 500tr     |
 | [expert_review.md](./expert_review.md)                                                         | Khi thấy mất phương hướng |
-| [me/lifestyle/SELF_UNDERSTANDING.md](./me/lifestyle/SELF_UNDERSTANDING.md)                     | Khi thấy nản              |
+| [me/lifestyle/hieu/SELF_UNDERSTANDING.md](./me/lifestyle/hieu/SELF_UNDERSTANDING.md)           | Khi thấy nản              |
+| [me/lifestyle/dating/DATING_CORE_PRINCIPLES.md](./me/lifestyle/dating/DATING_CORE_PRINCIPLES.md)| Khi cần định hướng tình cảm |
 
 ---
 
@@ -101,7 +104,7 @@ CN  07:30 Mock/học  →  10:30 GYM  →  chiều ★ LỚP PHẢN XẠ
     21:00 Check-in sprint (chỉ tuần cuối sprint)
 ```
 
-Chi tiết: [me/lifestyle/DAILY_SCHEDULE.md](./me/lifestyle/DAILY_SCHEDULE.md)
+Chi tiết: [me/lifestyle/hieu/DAILY_SCHEDULE.md](./me/lifestyle/hieu/DAILY_SCHEDULE.md)
 
 ---
 

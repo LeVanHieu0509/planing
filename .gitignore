@@ -1,0 +1,20 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python virtual environments & bytecode
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Node / JS artifacts
+node_modules/
+dist/
+out/
+*.vsix
+
+# Temporary files
+scratch/
+tmp/
+*.tmp
