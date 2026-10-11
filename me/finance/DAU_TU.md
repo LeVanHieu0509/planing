@@ -148,7 +148,7 @@ Nếu có sự cố (ốm, hỏng laptop, mất việc) mà tiền đang kẹt t
 ### 🎯 CHIẾN LƯỢC ĐẦU TƯ "NỔ HŨ" & KẾ HOẠCH CHỐT LỜI (EXIT STRATEGY)
 
 > 🎰 **Định vị:** Đây là **khoản đầu tư bất đối xứng (Asymmetric Bet / "Nổ hũ")** dài hạn của Hiếu.
-> - **Kỷ luật cốt lõi:** **TUYỆT ĐỐI KHÔNG BÁN** khi giá chưa đạt $0.70. Chỉ gom thêm (nếu đủ điều kiện tiền mặt $\ge$ 50M) hoặc kiên định nắm giữ.
+> - **Kỷ luật cốt lõi (Chốt ngày 11/10/2026):** 🔒 **KHÓA VỊ THẾ - KHÔNG MUA THÊM BẤT KỲ ĐỒNG NÀO**. Cố định danh mục ở **78,262.48 W (vốn 110M)**. Chỉ kiên định nắm giữ và chờ chạm target để chốt lời!
 > - **Lộ trình chốt lời 2 giai đoạn (Target 1 & Target 2):**
 
 | Cột mốc | Điều kiện giá W | Hành động | Số lượng bán | Doanh thu dự kiến (USD) | Quy đổi VND (P2P ~26,112) | Tác động tài chính |
@@ -157,8 +157,8 @@ Nếu có sự cố (ốm, hỏng laptop, mất việc) mà tiền đang kẹt t
 | **🎯 TARGET 2** | **$1.50** | **Bán 100% phần còn lại** | **39,131 W** | **~$58,697 USD** | **~1,532,700,000 VND** | Chốt lời dứt điểm toàn bộ danh mục W |
 | 🏆 **TỔNG CỘNG** | | | **78,262 W** | **~$86,089 USD** | **~2,247,960,000 VND** | **~2.25 TỶ ĐỒNG** (x20.4 lần vốn gốc 110M ➔ Vượt mục tiêu Tự do tài chính 2 tỷ!) |
 
-> 📌 **KỶ LUẬT THÉP:**
-> 1. **Dưới giá 0.7:** Coi như 110M đã khóa trong két sắt, không táy máy bán non cắt lỗ theo cảm xúc.
+> 📌 **KỶ LUẬT THÉP (CHỐT 11/10/2026):**
+> 1. **Dưới giá 0.7:** **KHÔNG MUA THÊM - KHÔNG BÁN CẮT LỖ**. Coi như 110M đã khóa trong két sắt, không bơm thêm tiền từ lương, không táy máy bán non.
 > 2. **Chạm giá 0.7:** Kỷ luật chốt đúng 50% số lượng (thu về hơn **715 triệu VND** tiền mặt) để bảo toàn vốn và hiện thực hóa lợi nhuận.
 > 3. **Gồng 50% còn lại tới 1.5:** Để đón trọn nhịp sóng "nổ hũ" lên **1.53 tỷ VND**, hiện thực hóa mục tiêu 2 tỷ.
 
