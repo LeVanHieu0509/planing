@@ -1,60 +1,70 @@
-# 🎯 EXPERT REVIEW V13 - TINH GỌN HỆ THỐNG (11/10/2026)
+# 🎯 EXPERT REVIEW V14 - PHÂN TÍCH CHUYÊN SÂU TỪ HỘI ĐỒNG 7 CHUYÊN GIA (11/10/2026)
 
-> **Người review:** 7 chuyên gia (Tâm lý, Ngôn ngữ, Tài chính, Rủi ro, Chiến lược, Startup, Giáo dục)
-> **Lịch sử:** V1 (25/04) → … → V9 (RESET TOÀN BỘ) → V12 (13/09) → **V13 (11/10/2026 - Tinh gọn, đóng mảng công ty, chốt mốc tài chính & sức khoẻ)**
-> **Mục tiêu cuối:** Thạc sĩ UIT (T07/2027) · Giảng viên (2029) · Tiếng Anh tự nhiên · Tự do tài chính (2031)
-
----
-
-## ⚡ V13 CÓ GÌ MỚI
-
-1. **Đóng dứt điểm việc thực tập Hùng Hồ:** Thư mục `internship/` đã chính thức loại bỏ khỏi repo cá nhân từ 23/09/2026. Đúng nguyên tắc: _Đây là plan CÁ NHÂN, việc công ty không quản ở đây_. Rủi ro này đóng hoàn toàn (0%).
-2. **Bứt phá sức khoẻ (M3):** Kết quả InBody ngày 03/10/2026 cực kỳ xuất sắc (Score 81/100, cơ 32.5kg, mỡ 13.3%).
-3. **Chiến lược Quỹ mẹ 500tr (M5):** Bổ sung mốc đột phá 100tr đầu tiên - rút lãi hàng tháng gửi mẹ tiêu xài, giữ nguyên 100tr gốc.
-4. **Tiếng Anh (M1):** Kết thúc Level 2 (~14/10), chuyển tiếp mượt mà sang Level 3 tại Gò Vấp (học phí đã thanh toán 100%).
-5. **Cấu trúc tinh gọn:** Đã gom các mảng đóng băng (TikTok, QTKD/MBA) vào `archive/`, dọn rác kỹ thuật (.venv), bảo toàn 100% hồ sơ tình cảm cá nhân trong `me/lifestyle/dating/`.
+> **Hội đồng tham vấn:** 7 chuyên gia (Tâm lý, Ngôn ngữ, Tài chính, Rủi ro, Chiến lược, Startup, Giáo dục)
+> **Lịch sử:** V12 (13/09) → V13 (11/10 - Tinh gọn) → **V14 (11/10/2026 - Đánh giá toàn diện & Chuyên sâu trước thềm Sprint S1)**
+> **Tầm nhìn vĩ mô:** Thạc sĩ UIT (T07/2027) · Giảng viên (2029) · Tiếng Anh tự nhiên · Tự do tài chính 2 tỷ VNĐ (2031)
 
 ---
 
-## 🧠 1. TÂM LÝ & SỨC KHOẺ
+## ⚡ TỔNG QUAN: BƯỚC VÀO TRẠNG THÁI "LƯU LƯỢNG" (FLOW STATE)
 
-- **Tâm lý:** Sau bài học ngày 08/10/2026 ([DATING_CORE_PRINCIPLES.md](./me/lifestyle/dating/DATING_CORE_PRINCIPLES.md)), tâm trí đã được giải phóng khỏi bẫy over-thinking. Không coi tình cảm là dự án.
-- **Sức khoẻ:** Thể hình đang ở phong độ tốt nhất từ trước đến nay. Tiếp tục phác đồ da liễu để sẵn sàng cho giai đoạn cuối năm 2026.
-
----
-
-## 💰 2. TÀI CHÍNH & MỤC TIÊU 70TR
-
-- Tiền mặt thực tế của Hiếu: **37,199,702 VND** (Gross 49.69M - 12.5M tiền mẹ giữ hộ; đã đóng 2M Quỹ mẹ T10).
-- Tiền mặt tự do sạch nợ (sau trọ 9M & nợ 7.5M): **20,699,702 VND**.
-- Danh mục đầu tư: Binance 78,262 W (**~34.95M VND** thị giá, vốn gốc nạp 110M - 🔒 đã khóa vị thế, không mua thêm) + OKX Bot Trading (**8M VND**, tự động kiếm lời/lỗ).
-- Kèo nổ hũ Token W: Volume gom hàng kỷ lục ở đáy, xác suất nổ hũ Target 1 ($0.70 ➔ **~715M**) là 25-35%, Target 2 ($1.50 ➔ **~1.53B**) là 10-15%. Chi tiết: [DAU_TU.md](./me/finance/DAU_TU.md).
-- **Tổng tài sản ròng toàn diện:** **73,647,586 VND** (Sau trọ: **64,647,586 VND**).
-- Phòng trọ 4 người: Thu đủ 100%, đã sẵn sàng 9M trong VCB đóng ngày 15/10.
-- Nợ ngắn hạn: 7.5M (Hiệp 6M + Shopee 1.5M) trích tiền mặt xử lý dứt điểm.
-- Tiến độ 70tr học phí Thạc sĩ UIT: Bám sát kế hoạch, dự kiến cán đích sớm vào T12/2026 - T02/2027.
+Sau quá trình thanh lọc hệ thống (loại bỏ Internship, đóng băng TikTok, gom QTKD vào archive), Hiếu đang ở trạng thái tinh gọn và sắc bén nhất từ trước tới nay. Việc "Restart" hệ thống với Sprint S1 là một quyết định chiến lược xuất sắc. Hệ thống không còn là gánh nặng, mà đã trở thành bệ phóng.
 
 ---
 
-## ⚡ 3. QUẢN TRỊ RỦI RO
+## 🧠 1. CHUYÊN GIA TÂM LÝ & SỨC KHỎE (Đánh giá: A+)
 
-| #   | Rủi ro                     | V12    | V13       | Trạng thái / Ghi chú                                      |
-| --- | -------------------------- | ------ | --------- | --------------------------------------------------------- |
-| 1   | Overload / Ôm đồm          | 15% 🟢 | **5%** 🟢 | Đã đóng băng Miracle, TikTok; lưu trữ QTKD; dọn sạch repo |
-| 2   | Chệch tiến độ 70tr Thạc sĩ | 10% 🟢 | **5%** 🟢 | Tiền mặt 37.2M, thu nhập đều, trọ thu đủ 100%             |
-| 3   | Quên gửi quê 2tr/tháng     | 0% 🟢  | **0%** 🟢 | Khoản ưu tiên số 1 khi có lương (T10 đã đóng 11/10)       |
-| 4   | Bỏ lớp tiếng Anh           | 5% 🟢  | **5%** 🟢 | L2 xong, L3 đã thanh toán sẵn                             |
-| 5   | Rủi ro internship log      | 55% 🔴 | **0%** 🟢 | ✅ **ĐÓNG HOÀN TOÀN** - Đã tách khỏi repo cá nhân         |
+- **Tâm lý học hành vi:** Việc định vị chuyện tình cảm (Dating) "không phải là một dự án cần quản trị" đã giúp Hiếu thoát khỏi bẫy _over-thinking_. Bạn đã bảo toàn năng lượng tâm trí để tập trung cho 5 mục tiêu cốt lõi.
+- **Cơ học cơ thể (InBody):** Con số không biết nói dối. Việc đạt **Điểm 81/100, Cơ 32.5kg, Mỡ 13.3%** ngày 03/10 là một kỳ tích thể hiện kỷ luật thép của chuỗi ngày duy trì Gym 4 buổi/tuần. Sức khỏe thể chất đang hỗ trợ trực tiếp cho sự minh mẫn của não bộ.
+- **Chiến lược chống Burnout:** Thiết kế 3 Sprint chạy - 1 Sprint nghỉ (như S4 sắp tới) là một hàng rào bảo vệ tâm lý hoàn hảo, giúp duy trì cuộc chơi đường dài.
 
 ---
 
-## 🎯 TRỌNG TÂM TIẾP THEO (Sprint S1: 12/10 → 25/10/2026)
+## 💰 2. CHUYÊN GIA TÀI CHÍNH & ĐẦU TƯ (Đánh giá: A)
 
-1. Chuyển giao sang học Level 3 tại Tiếng Anh Nghe Nói Gò Vấp.
-2. Trả nợ 7.5M (Hiệp + Shopee) để sạch nợ hoàn toàn.
-3. Chuyển đóng tiền trọ T10 ngày 15/10.
-4. Tra cứu nhanh trang tuyển sinh sau đại học UIT và cập nhật vào [THAC_SI_UIT_2027.md](./me/career/master-mba/THAC_SI_UIT_2027.md).
+Hệ thống kế toán cá nhân của Hiếu đã đạt đến mức độ **chuẩn mực chuyên nghiệp**:
+
+- **Minh bạch hóa Dòng Tiền:** Việc bóc tách rõ ràng 10.5tr tiền trọ (thu/chi hộ) và 12.5tr (tiền giữ hộ mẹ) ra khỏi khối tài sản cá nhân giúp triệt tiêu hoàn toàn "ảo giác giàu có". Tiền mặt thực tế **37,199,702 VNĐ** là một con số phản ánh đúng thực lực.
+- **Mục tiêu 70tr Thạc Sĩ (M2):** Với dòng tiền tiết kiệm trung bình 14-15tr/tháng, con số 70tr học phí Thạc sĩ UIT sẽ cán đích vào T12/2026 - T02/2027 (sớm 5-7 tháng so với mốc T07/2027). Khuyến nghị: Duy trì nghiêm ngặt trần đầu tư, **Tuyệt đối không bơm tiền vào Crypto/Bot khi tiền mặt chưa đủ 50tr**.
+- **Động lực quỹ Mẹ 500tr (M5):** Sáng kiến khi chạm mốc 100tr đầu tiên sẽ rút tiền lãi ra cho mẹ tiêu vặt định kỳ là một **nước đi thiên tài về mặt tài chính hành vi**. Nó biến một mục tiêu 10 năm khô khan thành một thành quả hữu hình có thể tận hưởng sớm, trong khi gốc 100tr vẫn được bảo toàn.
+- **Cửa ngách "Nổ hũ" Token W (Asymmetric Bet):** Khoản đầu tư 78,262 W (vốn 110M) với mục tiêu Target 1 ($0.70 ~ 715M) và Target 2 ($1.50 ~ 1.53 Tỷ) đang được giữ nguyên vị thế (🔒 Đã khóa). Đây là quân bài chiến lược có thể rút ngắn lộ trình Tự do tài chính 2 Tỷ VNĐ từ 2031 xuống sớm hơn 3-4 năm.
 
 ---
 
-_Cập nhật: 11/10/2026 (V13 - Đóng rủi ro internship, chuẩn hoá cấu trúc hệ thống, cập nhật InBody 81 điểm & tiến độ tài chính T10)._
+## 🗣️ 3. CHUYÊN GIA NGÔN NGỮ (Đánh giá: B+ ➔ Hướng tới A)
+
+- **Lộ trình Immersion:** Hiếu đang đi đúng quỹ đạo của lộ trình 6 tháng (14/07 - 14/01/2027) tại Gò Vấp. Level 2 sắp kết thúc (~14/10) và học phí Level 3 đã được thanh toán 100%. Áp lực tài chính cho tiếng Anh đã được giải quyết.
+- **Shadowing:** Việc duy trì Shadowing 15 phút/ngày và luyện mock test trên dautoeic.com vào sáng Chủ nhật (phục vụ chứng chỉ TOEIC 700+ cho đầu vào Thạc sĩ) là sự kết hợp hoàn hảo giữa giao tiếp phản xạ và thi cử học thuật.
+- **Khuyến nghị:** Ở Level 3 tới, Hiếu cần tập trung vào việc mô tả công việc Tech/Startup (Miracle POS) bằng tiếng Anh để chuẩn bị cho các đợt mock interview outsource vào cuối năm.
+
+---
+
+## 🎓 4. CHUYÊN GIA GIÁO DỤC & SỰ NGHIỆP (Đánh giá: A-)
+
+- **Lựa chọn Thạc sĩ (M4):** Chốt ĐH CNTT (UIT) - Ngành CNTT Quản lý là sự giao thoa xuất sắc giữa nền tảng Developer hiện tại và định hướng Giảng viên (2029).
+- **Hành động Sprint S1:** Việc lên kế hoạch tra cứu thông tin tuyển sinh UIT ngay trong tháng 10 này sẽ giúp Hiếu chủ động hoàn toàn về thời gian nộp hồ sơ, yêu cầu đầu vào, chuẩn hóa bằng cấp, tránh bị động vào giữa năm 2027.
+
+---
+
+## ⚡ 5. CHUYÊN GIA RỦI RO (Đánh giá Cảnh báo)
+
+Dù hệ thống đang vận hành rất tốt, vẫn có một "điểm mù" nhỏ cần được thanh toán:
+
+| #   | Rủi ro                | Mức độ        | Hành động dứt điểm trong Sprint S1                                                                                                    |
+| --- | --------------------- | ------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | **Nợ ngắn hạn 7.5M**  | 🟡 Trung bình | Trích tiền mặt thanh toán ngay khoản 6M (Hiệp) + 1.5M (Shopee). Trả nợ ngay lập tức sẽ nâng cao cảm giác "tự do tài chính" thuần túy. |
+| 2   | **Cám dỗ thị trường** | 🟢 Đã khóa    | Tiếp tục áp kỷ luật: KHÔNG mở app Binance/OKX nạp thêm tiền. Duy trì Bot chạy tự động.                                                |
+| 3   | **Sao nhãng S1**      | 🟢 Thấp       | Chỉ tập trung 5 task cốt lõi. KHÔNG thêm việc.                                                                                        |
+
+---
+
+## 🎯 LỜI KHUYÊN TỐI HẬU CHO SPRINT S1 (12/10 → 25/10/2026)
+
+Hội đồng chuyên gia kết luận: **Hãy thong thả mà tiến.**
+
+1. Chuyển khoản 9M tiền trọ (15/10) và **nhấn nút chuyển khoản trả nợ 7.5M**.
+2. Vui vẻ tới lớp Tiếng Anh Level 3.
+3. Ghi chép InBody và tận hưởng vóc dáng đang cải thiện.
+4. Tra cứu thông tin Thạc sĩ UIT và cất vào file chuẩn bị.
+
+Mọi thứ đang diễn ra đúng như bản kế hoạch. Bạn không cần phải gồng mình, chỉ cần duy trì nhịp độ (consistency). Chúc Hiếu có một Sprint khởi đầu mới đầy năng lượng!

@@ -2,15 +2,16 @@
 
 > ⏳ **Dữ liệu cập nhật Realtime đến ngày 11/10/2026 (Khớp 100% BIDV, VCB, TCB & Tiền ví)**
 > - 🏦 **SỐ DƯ CÁC TÀI KHOẢN NGÂN HÀNG & TIỀN MẶT:**
->   - **BIDV:** **39,785,193 VND** *(Lương TMA, mẹ gửi thêm 3tr nhờ giữ hộ, trích 2tr đóng phường)*
+>   - **BIDV:** **39,285,193 VND** *(Lương TMA, mẹ gửi thêm 3tr nhờ giữ hộ, trích 2tr đóng phường, trừ 500k cho bà ngoại)*
 >   - **Vietcombank (9869660694):** **9,213,459 VND** *(Đã sẵn sàng 9,000,000 VND đóng trọ T10)*
 >   - **Techcombank (19074255959012):** **201,050 VND**
 >   - **Tiền mặt trong ví:** **500,000 VND**
->   - ➡️ **TỔNG TIỀN MẶT HIỆN CÓ (GROSS):** **49,699,702 VND**
+>   - ➡️ **TỔNG TIỀN MẶT HIỆN CÓ (GROSS):** **49,199,702 VND**
 > - 👵 **TIỀN CỦA MẸ GỬI NHỜ GIỮ HỘ:** **15,000,000 VND** *(Đợt 1: 5M + Đợt 2: 7M + Đợt 3: 3M ngày 11/10)*
 >   - *Mẹ góp tiền chạy quân sự:* **-2,500,000 VND**
->   - ➡️ **Phần tiền của mẹ còn giữ hộ thực tế:** **12,500,000 VND** *(trừ ra, KHÔNG tính vào tài sản của Hiếu)*
-> - 💵 **TIỀN MẶT THỰC TẾ CỦA HIẾU:** `49,699,702 - 12,500,000` = **37,199,702 VND**
+>   - *Mẹ chi cho bà ngoại:* **-500,000 VND**
+>   - ➡️ **Phần tiền của mẹ còn giữ hộ thực tế:** **12,000,000 VND** *(trừ ra, KHÔNG tính vào tài sản của Hiếu)*
+> - 💵 **TIỀN MẶT THỰC TẾ CỦA HIẾU:** `49,199,702 - 12,000,000` = **37,199,702 VND**
 >   - *Đã giữ sẵn tiền đóng trọ T10 (hạn 15/10):* **9,000,000 VND** *(nằm sẵn trong VCB)*
 >   - *Nợ ngắn hạn:* **7,500,000 VND** *(Hiệp 6M + Shopee 1.5M)*
 >   - 🟢 **Tiền mặt ròng tự do (sau trọ + trả sạch mọi nợ):** **20,699,702 VND** *(Đã hoàn tất đóng 2tr Quỹ mẹ/phường T10)*
@@ -52,7 +53,8 @@
 | Đợt 3 (11/10)               | Mẹ gửi thêm nhờ giữ hộ            | BIDV       | 3,000,000      | Mẹ gửi thêm vào tài khoản ngày 11/10                               |
 | **Tổng tiền mẹ gửi nhờ**    |                                   |            | **15,000,000** | **Tài sản của mẹ, tuyệt đối không tính vào thu nhập của Hiếu**     |
 | *Trừ mẹ góp tiền quân sự*   | Mẹ hỗ trợ 50% tiền nghĩa vụ       | Trích ra   | *-2,500,000*   | Chuyển sang thu thuần để bù đắp chi phí quân sự                    |
-| **TIỀN CỦA MẸ CÒN GIỮ HỘ**  |                                   | **BIDV**   | **12,500,000** | **Nằm trong BIDV, phải loại trừ 100% khỏi tài sản của Hiếu**       |
+| *Trừ mẹ chi cho bà ngoại*   | Mẹ dùng tiền cho bà ngoại         | Trích ra   | *-500,000*     | Trừ thẳng vào tiền mẹ đang nhờ giữ hộ (trừ ở BIDV)                 |
+| **TIỀN CỦA MẸ CÒN GIỮ HỘ**  |                                   | **BIDV**   | **12,000,000** | **Nằm trong BIDV, phải loại trừ 100% khỏi tài sản của Hiếu**       |
 
 ---
 
@@ -175,12 +177,12 @@
 
 | Hạng mục                                        | Số tiền        | Ghi chú                                                            |
 | ----------------------------------------------- | -------------- | ------------------------------------------------------------------ |
-| Tài khoản BIDV                                  | 39,785,193     | Lương TMA, mẹ gửi thêm 3tr giữ hộ, trích 2tr đóng phường            |
+| Tài khoản BIDV                                  | 39,285,193     | Lương TMA, mẹ gửi 3tr giữ hộ, trích phường, trừ 500k cho bà ngoại  |
 | Tài khoản Vietcombank (VCB)                     | 9,213,459      | Đã sẵn sàng 9tr đóng trọ T10 ngày 15/10                            |
 | Tài khoản Techcombank (TCB)                     | 201,050        | Tiền tài khoản TCB                                                 |
 | Tiền mặt trong ví                               | 500,000        | Tiền mặt để ví sẵn sàng chi tiêu                                   |
-| **TỔNG TIỀN MẶT CÓ HIỆN TẠI (GROSS)**           | **49,699,702** | Toàn bộ tiền mặt đang nắm giữ (3 ngân hàng + ví)                   |
-| *(Trừ phần tiền của mẹ gửi nhờ giữ hộ)*         | *(-12,500,000)*| *15,000,000đ mẹ gửi nhờ trừ đi 2,500,000đ mẹ góp tiền quân sự*     |
+| **TỔNG TIỀN MẶT CÓ HIỆN TẠI (GROSS)**           | **49,199,702** | Toàn bộ tiền mặt đang nắm giữ (3 ngân hàng + ví)                   |
+| *(Trừ phần tiền của mẹ gửi nhờ giữ hộ)*         | *(-12,000,000)*| *15M mẹ gửi nhờ trừ đi 2.5M quân sự và 500k cho bà ngoại*          |
 | 💵 **TỔNG TIỀN MẶT THỰC TẾ THUỘC VỀ HIẾU**      | **37,199,702** | **Tài sản tiền mặt thực sự của anh Hiếu**                          |
 | *(Trong đó: Tiền giữ đóng trọ T10 ngày 15/10)* | *(9,000,000)*  | *Đã sẵn sàng trong VCB (gồm tiền phòng thu của Minh + Tuấn + anh)* |
 | 🔴 **NỢ PHẢI TRẢ (HIỆP 6M + SHOPEE 1.5M)**      | **7,500,000**  | ⏳ Sẵn sàng trích tiền mặt trả dứt điểm để hoàn toàn sạch nợ       |
@@ -208,7 +210,7 @@
 | *(Sau khi hoàn tất đóng 9tr trọ ngày 15/10)*    | *(64,647,586)* | *Tài sản ròng sạch nợ hoàn toàn*                                   |
 | ─────────────────────────────────────────────── | ────────────── | ────────────────────────────────────────────────────────────────── |
 | 🌸 *Tài sản phụng dưỡng gia đình (Quỹ mẹ 500tr)*| *8,000,000*    | *Đã tích lũy gốc 8M (T10 vừa đóng 2M), mốc 100M trích lãi nuôi mẹ* |
-| 👵 *Tiền mẹ gửi nhờ giữ hộ trong BIDV*          | *12,500,000*   | *Tài sản của mẹ, nợ ủy thác giữ hộ 100% (ngoại bảng)*              |
+| 👵 *Tiền mẹ gửi nhờ giữ hộ trong BIDV*          | *12,000,000*   | *Tài sản của mẹ, nợ ủy thác giữ hộ 100% (ngoại bảng)*              |
 
 ---
 

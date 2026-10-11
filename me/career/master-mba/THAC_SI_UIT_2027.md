@@ -15,10 +15,11 @@
 
 ```
 ✅ Trường:     UIT - ĐHQG TP.HCM  (đã chốt, không so sánh trường khác nữa)
-✅ Ngành:      Công nghệ Thông tin Quản lý
-✅ Thời điểm:  Đăng ký T07/2027
-✅ Tiền:       70tr - tích luỹ từ lương
-✅ Dự phòng:   Nếu thiếu → vay Hiệp, trả góp dần
+✅ Ngành:      Khoa học máy tính (Mã ngành: 8 48 01 01)
+✅ Hình thức:  Học 100% ngoài giờ hành chính (80% ở Thủ Đức, 20% ở Quận 1)
+✅ Thời điểm:  Hạn chót nộp hồ sơ ~T10/2027 (Khai giảng T12/2027)
+✅ Học phí:    Tổng 90tr (Năm 1: 43tr, Năm 2: 47tr)
+✅ Tài chính:  Mục tiêu 70tr tiền mặt ban đầu dư sức đóng Năm 1 (43tr)
 ```
 
 > **Trước đây** file này liệt kê 4 trường (HCMUT, UIT, Open Uni, Văn Hiến) và để ngỏ đến 2028.
@@ -30,17 +31,18 @@
 
 | Chỉ số                       | Con số                          |
 | ---------------------------- | ------------------------------- |
-| Cần                          | 70,000,000                      |
+| Tổng học phí (2 năm)         | **90,000,000** (Năm 1: 43tr, Năm 2: 47tr) |
+| Tiền cần đóng lúc nhập học   | **~43,000,000**                 |
+| Mục tiêu tiền mặt tiết kiệm  | **70,000,000** (Đến T07/2027)   |
 | Tiền mặt hiện có (13/09/26)  | 33,407,650                      |
-| Còn thiếu                    | 36,592,350                      |
+| Còn thiếu so với 70tr        | 36,592,350                      |
 | Thời gian còn lại            | ~10 tháng                       |
 | Cần để dành mỗi tháng        | **~3.7tr**                      |
 | Khả năng tiết kiệm thực tế   | **~14tr/tháng**                 |
 | Dự kiến đủ 70tr              | **T12/2026 - T02/2027**         |
 
-> ✅ **Nhiều khả năng KHÔNG cần vay Hiệp.** Anh sẽ đủ tiền sớm hơn deadline 5-7 tháng.
-> Giữ phương án vay Hiệp làm lưới an toàn cho trường hợp có biến cố lớn
-> (mất nguồn thu, ốm đau, việc gia đình), không phải kế hoạch chính.
+> ✅ **PHÂN TÍCH TÀI CHÍNH:** Học phí tổng là 90tr, nhưng năm 1 chỉ cần đóng 43tr.
+> Việc giữ mục tiêu tiết kiệm **70tr vào T07/2027** là cực kỳ an toàn. Bạn sẽ dư ra khoảng 27tr sau khi đóng học phí năm 1. Không cần phải vay Hiệp!
 
 **Nguyên tắc:** tiền học phí để ở **tiền mặt**, không bỏ vào crypto/bot.
 Xem [DAU_TU.md](../../finance/DAU_TU.md) - đang có trần không bơm thêm cho đến khi tiền mặt ≥ 50tr.
@@ -56,39 +58,52 @@ Xem [DAU_TU.md](../../finance/DAU_TU.md) - đang có trần không bơm thêm ch
 | ---------------- | ------------------- | --------------------------------- | ---------------------------- |
 | Bằng đại học     | Đúng/gần ngành CNTT | ✅ Có                             | Cần bản sao công chứng       |
 | Bảng điểm ĐH     | -                   | ✅ Có                             | Cần bản sao công chứng       |
-| Tiếng Anh        | Thường ≥ B1 / TOEIC 450-500 | ✅ TOEIC 535 (19/06/2026) | ⚠️ Kiểm tra hạn dùng chứng chỉ (thường 2 năm → hết hạn ~T06/2028) |
-| Kinh nghiệm      | Không bắt buộc      | ✅ 4+ năm dev                     | Là lợi thế khi phỏng vấn     |
-| Hình thức tuyển  | Xét tuyển / thi     | ❓ Chưa rõ                        | **Cần tra cứu**              |
-| Lịch tuyển sinh  | Thường 2 đợt/năm    | ❓ Chưa rõ                        | **Cần tra cứu - quan trọng** |
+| Tiếng Anh        | Vượt qua bài thi trường hoặc chứng chỉ tương đương | ✅ TOEIC 535 (19/06/26) & B1 Aptis (22/06/2024) | Dùng bằng B1 Aptis 2024 nộp (bằng vô thời hạn, không lo hết hạn) |
+| Kinh nghiệm      | Không bắt buộc      | ✅ 4+ năm dev                     | Lợi thế lớn ở phần Phỏng vấn chuyên môn |
+| Hình thức tuyển  | Xét tuyển + Phỏng vấn | ✅ Đã xác nhận                    | Đánh giá hồ sơ + Phỏng vấn trực tiếp |
+| Lịch tuyển sinh  | 2 đợt (T05 và T11)  | ✅ Đã xác nhận                    | Sẽ nhắm Đợt 2 (thông báo T08/2027) |
 
 ---
 
 ## ✅ CHECKLIST HỒ SƠ (điền dần, không vội)
 
-### Bước 1 - Tra cứu (Q4/2026, ~1 tiếng)
+### Bước 1 - Tra cứu (Q4/2026) ✅ ĐÃ XONG (11/10/2026)
 
-- [ ] Vào trang tuyển sinh sau đại học của UIT, lưu link vào file này
-- [ ] Ghi lại: điều kiện đầu vào chính thức
-- [ ] Ghi lại: lịch tuyển sinh các đợt trong năm 2027
-- [ ] Ghi lại: học phí chính thức (xác nhận con số 70tr)
-- [ ] Ghi lại: hình thức tuyển (xét tuyển hồ sơ hay có thi đầu vào?)
-- [ ] Ghi lại: có lớp buổi tối / cuối tuần cho người đi làm không?
+- [x] Link tra cứu: [Tuyển sinh SĐH UIT](https://sdh.uit.edu.vn/tuyen-sinh)
+- [x] Hình thức tuyển:
+  - Xét duyệt hồ sơ (có ưu tiên nếu điểm ĐH cao).
+  - Phỏng vấn chuyên môn (lịch phỏng vấn thường vào giữa tháng 11).
+  - Thi năng lực Tiếng Anh đầu vào (được MIỄN vì đã có B1 Aptis).
+- [x] Lịch tuyển sinh Đợt 2 (theo mẫu 2026):
+  - **T10:** Hạn chót nộp hồ sơ (khoảng đầu tháng 10).
+  - **T11:** Đánh giá hồ sơ (đầu tháng) và Phỏng vấn (giữa tháng).
+  - **T12:** Khai giảng và Nhập học.
+- [x] Xác nhận học phí: Tổng 90 triệu (Năm 1: 43tr, Năm 2: 47tr). Học phí đóng theo năm.
+- [x] Hình thức học: 100% ngoài giờ hành chính. Học 80% ở Thủ Đức, 20% ở Quận 1. Rất phù hợp với người đi làm.
 
-### Bước 2 - Gom giấy tờ (Q1/2027)
+### Bước 2 - Gom giấy tờ (Chuẩn bị dịp Tết về quê)
 
-- [ ] Bằng tốt nghiệp đại học (bản sao công chứng)
-- [ ] Bảng điểm đại học (bản sao công chứng)
-- [ ] Chứng chỉ tiếng Anh (kiểm tra còn hạn tại thời điểm nộp)
-- [ ] CCCD công chứng
-- [ ] Ảnh thẻ
-- [ ] Sơ yếu lý lịch / xác nhận công tác
-- [ ] Giấy khám sức khoẻ
+*Mục tiêu: Dịp Tết về quê tranh thủ công chứng và xin xác nhận để chuẩn bị sẵn hồ sơ.*
 
-### Bước 3 - Hoàn thiện (Q2/2027)
+- [ ] **Bản sao Bằng tốt nghiệp đại học** (có chứng thực sao y)
+- [ ] **Bản sao Bảng điểm đại học** (có chứng thực sao y)
+- [ ] **Bản sao chứng chỉ B1 Aptis** (2 bản, dùng để xét miễn ngoại ngữ, không cần sao y)
+- [ ] Sơ yếu lý lịch bản thân: In và xin chính quyền địa phương xác nhận lúc về quê ([Tải mẫu](https://sdh.uit.edu.vn/sites/default/files/uploads/images/202609/so_yeu_ly_lich.doc))
+- [ ] In Bìa hồ sơ xét tuyển trên giấy A4 ([Tải mẫu](https://sdh.uit.edu.vn/sites/default/files/uploads/images/202608/bia_ho_so.doc))
+- [ ] In và điền Phiếu đăng ký xét tuyển ([Tải mẫu](https://sdh.uit.edu.vn/sites/default/files/uploads/images/202608/phieu_dang_ky_xet_tuyen.doc))
+- [ ] 2 tấm ảnh 3x4 (ghi rõ họ tên, ngày sinh ở mặt sau)
+- [ ] Giấy khám sức khỏe đa khoa quận/huyện (*Có thể khám ở SG sau vì thời hạn 12 tháng*)
+- [ ] Bản sao giấy khen thành tích học tập, NCKH, bằng khen cấp đại học (nếu có để làm lợi thế)
 
-- [ ] Viết bài luận / thư động lực (nếu trường yêu cầu)
-- [ ] Chuẩn bị nội dung phỏng vấn (nếu có)
-- [ ] Chuẩn bị đủ 70tr ở dạng tiền mặt
+### Bước 3 - Tích luỹ cho Phỏng vấn chuyên môn (Từ nay đến Q2/2027)
+
+*Trường sẽ gửi email chủ đề phỏng vấn sau khi duyệt hồ sơ. Tuy nhiên, với ngành Khoa học máy tính, bạn hoàn toàn có thể "lấy công việc làm ôn thi" ngay từ bây giờ:*
+
+- [ ] **Định hình Hướng nghiên cứu (Research Direction):** Hội đồng cực kỳ đánh giá cao ứng viên biết mình muốn nghiên cứu gì.
+  👉 *Gợi ý:* Hãy dùng chính dự án **Miracle POS** làm đề tài (ví dụ: *Tối ưu kiến trúc hệ thống phân tán cho ứng dụng POS*, hoặc *Ứng dụng AI dự đoán hành vi mua hàng*). Có sẵn product, có sẵn data thật, phỏng vấn sẽ rất thuyết phục và sau này làm luận văn cũng nhàn.
+- [ ] **Ghi nhận các Case Study thực chiến:** Trong quá trình làm việc tại TMA và code Miracle POS, gặp bài toán khó nào về thuật toán, tối ưu database, xử lý concurrency... hãy note lại. Đây là "vũ khí" để chứng minh năng lực chuyên môn khi bị hội đồng xoáy.
+- [ ] **Câu chuyện "Vì sao học Thạc sĩ?":** Chuẩn bị sẵn một logic sắc bén: *Kinh nghiệm 4 năm Dev thực chiến ➔ Cần đào sâu nền tảng học thuật (Khoa học máy tính) để thiết kế hệ thống lớn hơn ➔ Mục tiêu xa là trở thành Giảng viên Đại học (2029) để truyền đạt kinh nghiệm thực tế.*
+- [ ] **Ôn lại kiến thức nền (Khi có email chủ đề):** Gần ngày phỏng vấn, trường sẽ gửi chủ đề. Lúc đó chỉ cần lướt lại các khái niệm lõi (Cấu trúc dữ liệu, Kiến trúc máy tính, Hệ điều hành).
 
 ### Bước 4 - Nộp (T07/2027)
 
@@ -97,16 +112,17 @@ Xem [DAU_TU.md](../../finance/DAU_TU.md) - đang có trần không bơm thêm ch
 
 ---
 
-## ⏳ TIMELINE
+## ⏳ TIMELINE CHI TIẾT (ĐỢT 2 - 2027)
 
 ```
-T09-T12/2026   Tra cứu thông tin UIT · tích luỹ đủ 70tr
-T01-T03/2027   Gom giấy tờ, công chứng
-T04-T06/2027   Hoàn thiện hồ sơ · thi TOEIC 700+ (nếu cần chứng chỉ mới)
-★ T07/2027     ĐĂNG KÝ THẠC SĨ + đóng học phí
-T09/2027       Dự kiến nhập học
-2029-2030      Tốt nghiệp
-2029+          Bắt đầu giảng dạy part-time
+T09-T12/2026   Tích luỹ đủ 70tr tiền mặt ban đầu
+T01-T05/2027   Gom giấy tờ, khám sức khỏe, chụp ảnh 3x4
+T08/2027       Trường ra thông báo tuyển sinh Đợt 2/2027
+T09/2027       Nộp hồ sơ trực tuyến + bản cứng (Hạn chót thường vào đầu T10)
+T11/2027       Phỏng vấn chuyên môn với Tiểu ban chuyên môn
+T12/2027       Khai giảng & Đóng học phí năm 1 (43tr)
+2028-2029      Học ngoài giờ hành chính (2 năm)
+2030           Tốt nghiệp Thạc sĩ
 ```
 
 ---
