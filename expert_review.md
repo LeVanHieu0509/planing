@@ -25,7 +25,7 @@
 ## 💰 2. TÀI CHÍNH & MỤC TIÊU 70TR
 - Tiền mặt thực tế của Hiếu: **37,199,702 VND** (Gross 49.69M - 12.5M tiền mẹ giữ hộ; đã đóng 2M Quỹ mẹ T10).
 - Tiền mặt tự do sạch nợ (sau trọ 9M & nợ 7.5M): **20,699,702 VND**.
-- Danh mục đầu tư tích sản: Binance 78,262 W (**~34.95M VND**, lãi +37.75%) + OKX (**8M VND**).
+- Danh mục đầu tư: Binance 78,262 W (**~34.95M VND**, tích sản dài hạn, lãi +37.75%) + OKX Bot Trading (**8M VND**, tự động kiếm lời/lỗ).
 - **Tổng tài sản ròng toàn diện:** **73,647,586 VND** (Sau trọ: **64,647,586 VND**).
 - Phòng trọ 4 người: Thu đủ 100%, đã sẵn sàng 9M trong VCB đóng ngày 15/10.
 - Nợ ngắn hạn: 7.5M (Hiệp 6M + Shopee 1.5M) trích tiền mặt xử lý dứt điểm.

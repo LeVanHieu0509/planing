@@ -201,7 +201,7 @@
 | 💎 **BẢNG CÂN ĐỐI TÀI SẢN RÒNG TOÀN DIỆN (11/10)**|               |                                                                    |
 | + Tiền mặt thực tế của Hiếu                     | +37,199,702    | Tiền mặt T+0 thuộc quyền sở hữu của Hiếu                           |
 | + Danh mục Binance (78,262.48 W tích sản)      | +34,947,884    | Thị giá đ447.32/W (Vốn: 25.41M, Lãi chưa chốt: +9.59M / +37.75%)  |
-| + Danh mục OKX Trading (Trade + Bot)           | +8,000,000     | Vốn trading công nghệ cá nhân                                      |
+| + Danh mục OKX Bot Trading                     | +8,000,000     | Toàn bộ 8M chạy bot tự động (tự kiếm lời/lỗ)                      |
 | + Khoản phải thu (Diễm mượn)                    | +1,000,000     | Thu lại vào T12/2026                                               |
 | - Nợ ngắn hạn (Hiệp 6M + Shopee 1.5M)           | -7,500,000     | Nghĩa vụ nợ cần tất toán                                           |
 | 🏆 **TỔNG TÀI SẢN RÒNG TOÀN DIỆN (NET WORTH)**  | **73,647,586** | **Toàn bộ tài sản ròng tích lũy thuộc về bản thân Hiếu**           |

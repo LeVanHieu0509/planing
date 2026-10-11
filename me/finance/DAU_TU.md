@@ -32,7 +32,7 @@ CHÊNH THẬT:                   ~2,200,000   (không phải 13tr)
 > ⚖️ **ÁP DỤNG NGUYÊN TẮC KẾ TOÁN THỰC THỂ & THANH KHOẢN (5 GIỎ TÀI CHÍNH):**
 > 1. **Giỏ 1 - Ngoại bảng (Thu/Chi hộ & Giữ hộ):** Tiền mẹ gửi giữ hộ (12.5M) & Tiền trọ thu hộ (5.82M) hoàn toàn loại khỏi tài sản của Hiếu.
 > 2. **Giỏ 2 - Tiền mặt thanh khoản cao (T+0):** Tiền mặt thực tế của Hiếu dùng cho sinh hoạt, Emergency Fund & Quỹ Thạc sĩ 70M.
-> 3. **Giỏ 3 - Đầu tư trading linh hoạt (T+1/T+2):** OKX 8M (quay vòng, có thể rút khi cần).
+> 3. **Giỏ 3 - Đầu tư bot trading linh hoạt (T+1/T+2):** OKX 8M (Toàn bộ 8M gộp chạy bot tự động, tự sinh lời/lỗ).
 > 4. **Giỏ 4 - Tích sản dài hạn (Crypto Locked):** Binance 78,262 W (~35M) - tài sản ròng thật, nhưng khóa không dùng cho chi tiêu.
 > 5. **Giỏ 5 - Quỹ phụng dưỡng gia đình:** Quỹ mẹ 500tr (đã đóng 8M) theo [QUY_ME_500TR.md](./QUY_ME_500TR.md).
 
@@ -41,8 +41,7 @@ CHÊNH THẬT:                   ~2,200,000   (không phải 13tr)
 | Nhóm tài sản | Khoản mục / Nền tảng | Giá vốn (VND) | Thị giá (11/10) | Thanh khoản | Tính chất & Ghi chú |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 💵 **Tiền mặt thực** | BIDV, VCB, TCB, Ví | 37,199,702 | **37,199,702** | Ngay (T+0) | Tổng có 49.69M - 12.5M tiền mẹ gửi nhờ giữ hộ |
-| 📈 **Trading linh hoạt** | OKX - Trade tay | 2,600,000 | **2,600,000** | 1-2 ngày | Vốn trading quay vòng theo tháng |
-| 📈 **Trading linh hoạt** | OKX - Bot cá nhân | 5,400,000 | **5,400,000** | 1-2 ngày | Vốn chạy bot tự động cá nhân |
+| 🤖 **Bot Trading OKX** | OKX - Vốn chạy bot tự động | 8,000,000 | **8,000,000** | 1-2 ngày | Toàn bộ 8M cho chạy bot tự động, tự kiếm lợi nhuận hoặc chịu lỗ |
 | 💎 **Tích sản Crypto** | **Binance (78,262.48 W)** | **25,413,293** | **34,947,884** | Biến động cao | **Lãi +37.75% (+9.59M)**. Tích sản từ 04/2024 đến nay |
 | 🤝 **Phải thu ngắn hạn** | Cho Diễm mượn | 1,000,000 | **1,000,000** | T12/2026 | Đã hẹn ngày thu |
 | 🔴 **Nợ ngắn hạn** | Vay Hiệp mua iPhone | -6,000,000 | **-6,000,000** | Cần trả | ⏳ Trích tiền mặt trả dứt điểm để sạch nợ |
@@ -81,7 +80,7 @@ CHÊNH THẬT:                   ~2,200,000   (không phải 13tr)
 ```
 Tiền mặt thực tế:        ~37.2tr  █████████████░░░░░░░  50.5%  (Sau trọ còn 28.2tr; tiền tự do 20.7tr)
 Binance W (tích sản):    ~34.9tr  ████████████░░░░░░░░  47.5%  (Giá vốn 25.4M, lãi +9.59M)
-OKX Trading (vốn quay):    8.0tr  ███░░░░░░░░░░░░░░░░░  10.9%  (2.6M trade + 5.4M bot)
+OKX Bot Trading:           8.0tr  ███░░░░░░░░░░░░░░░░░  10.9%  (Toàn bộ 8M chạy bot tự động)
 Phải thu Diễm:             1.0tr  ░░░░░░░░░░░░░░░░░░░░   1.4%
 Nợ ngắn hạn (trừ ra):     -7.5tr  - - - - - - - - - -  -10.3%  (Hiệp 6M + Shopee 1.5M)
 ```
@@ -152,11 +151,12 @@ Nếu có sự cố (ốm, hỏng laptop, mất việc) mà tiền đang kẹt t
 
 | Hạng mục      | Chi tiết                                                 |
 | ------------- | -------------------------------------------------------- |
-| Là gì         | Anh tự viết bot trading cho tài khoản OKX của chính mình |
-| Vốn đang chạy | 8,000,000 (2.6tr từ T08 + 5.4tr từ T09)                  |
-| Thu nhập      | **0** - không tính vào dòng tiền                         |
-| Giá trị thật  | Kỹ năng lập trình + hiểu thị trường (dùng được cho nghề) |
-| Rủi ro        | Có thể mất toàn bộ 8tr. Đã chấp nhận trước.              |
+| Là gì         | Hiếu tự viết bot trading cho tài khoản OKX của chính mình |
+| Vốn đang chạy | **8,000,000 VND** (Gộp toàn bộ 2.6M + 5.4M vào chạy bot tự động) |
+| Cơ chế        | **Bot tự động giao dịch hoàn toàn**, tự kiếm lợi nhuận hoặc tự chịu lỗ |
+| Thu nhập      | **0** - không tính vào dòng tiền sinh hoạt               |
+| Giá trị thật  | Kỹ năng lập trình thuật toán + hiểu thị trường           |
+| Rủi ro        | Có thể biến động lời/lỗ hoặc mất vốn, đã chấp nhận trước |
 
 **Cách theo dõi (1 dòng/tháng, đừng theo dõi hàng ngày):**
 
