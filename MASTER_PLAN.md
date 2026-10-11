@@ -41,9 +41,10 @@ Việc duy nhất phải làm: ĐI HỌC ĐỦ BUỔI
 ```
 Đích gần:  70,000,000 trước T07/2027 (học phí Thạc sĩ)
 Đích xa:   2 tỷ (2031)
-Hiện tại:  37,199,702 tiền mặt thực tế (11/10/2026) + 9tr trading/phải thu - 7.5tr nợ (Tài sản ròng: ~38.7tr; tự do sạch nợ: 20.7tr)
+Hiện tại:  37,199,702 tiền mặt thực tế (11/10/2026) + 9tr bot/phải thu - 7.5tr nợ (TS ròng hoạt động: ~38.7tr; tổng ròng gồm Binance: ~73.6M)
+Tích sản:  78,262 W trên Binance (vốn nạp 110M) - kèo "nổ hũ" target $0.70 (~700M) & $1.50 (~1.5 tỷ)
 Tiết kiệm: ~14tr/tháng
-Dự kiến đủ 70tr: T02/2027 - T03/2027 (sớm hơn deadline T07/2027 khoảng 4-5 tháng)
+Dự kiến đủ 70tr: T12/2026 - T02/2027 (sớm hơn deadline T07/2027 khoảng 5-7 tháng)
 Trần:      KHÔNG bơm thêm crypto/bot đến khi tiền mặt ≥ 50tr
 ```
 

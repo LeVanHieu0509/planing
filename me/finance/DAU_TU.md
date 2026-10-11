@@ -145,6 +145,23 @@ Nếu có sự cố (ốm, hỏng laptop, mất việc) mà tiền đang kẹt t
 | T11/26 | | | | | | |
 | T12/26 | | | | | | |
 
+### 🎯 CHIẾN LƯỢC ĐẦU TƯ "NỔ HŨ" & KẾ HOẠCH CHỐT LỜI (EXIT STRATEGY)
+
+> 🎰 **Định vị:** Đây là **khoản đầu tư bất đối xứng (Asymmetric Bet / "Nổ hũ")** dài hạn của Hiếu.
+> - **Kỷ luật cốt lõi:** **TUYỆT ĐỐI KHÔNG BÁN** khi giá chưa đạt $0.70. Chỉ gom thêm (nếu đủ điều kiện tiền mặt $\ge$ 50M) hoặc kiên định nắm giữ.
+> - **Lộ trình chốt lời 2 giai đoạn (Target 1 & Target 2):**
+
+| Cột mốc | Điều kiện giá W | Hành động | Số lượng bán | Doanh thu dự kiến (USD) | Quy đổi VND (tỷ giá ~25.5k) | Tác động tài chính |
+| :--- | :---: | :--- | :---: | :---: | :---: | :--- |
+| **🎯 TARGET 1** | **$0.70** | **Bán 50% số lượng** | **39,131 W** | **~$27,392 USD** | **~698,500,000 VND** | Thu hồi 100% vốn gốc (110M) + Lãi ròng ~588M. Vượt xa học phí Thạc sĩ 70M! |
+| **🎯 TARGET 2** | **$1.50** | **Bán 100% phần còn lại** | **39,131 W** | **~$58,697 USD** | **~1,496,500,000 VND** | Chốt lời dứt điểm toàn bộ danh mục W |
+| 🏆 **TỔNG CỘNG** | | | **78,262 W** | **~$86,089 USD** | **~2,195,000,000 VND** | **~2.2 TỶ ĐỒNG** (x20 lần vốn gốc 110M ➔ Chạm ngay mốc Tự do tài chính 2031!) |
+
+> 📌 **KỶ LUẬT THÉP:**
+> 1. **Dưới giá 0.7:** Coi như 110M đã khóa trong két sắt, không táy máy bán non cắt lỗ theo cảm xúc.
+> 2. **Chạm giá 0.7:** Kỷ luật chốt đúng 50% số lượng (thu về ~700 triệu VND) để bảo toàn vốn và hiện thực hóa lợi nhuận.
+> 3. **Gồng 50% còn lại tới 1.5:** Để đón trọn nhịp sóng "nổ hũ" lên 1.5 tỷ VND, hiện thực hóa mục tiêu 2 tỷ.
+
 ---
 
 ## 🤖 DỰ ÁN BOT TRADING OKX
