@@ -19,9 +19,9 @@
 
 ```
 🌱 GIAI ĐOẠN 1: TÍCH LUỸ TẬP TRUNG (0 ➔ 100 TRIỆU)
-- Tiền nạp: 2,000,000 VND/tháng (nâng lên 3 - 3.5M sau khi học xong Thạc sĩ UIT).
+- Tiền nạp: 2,000,000 VND/tháng. Tối ưu mới: **Nâng lên 5,000,000 VND/tháng từ T02/2027** (ngay khi hoàn tất tiền tiết kiệm 70tr Thạc sĩ).
 - Cơ chế lãi: Toàn bộ tiền lãi sinh ra được tái tục 100% (lãi mẹ đẻ lãi con) để chạm mốc 100tr nhanh nhất.
-- Thời gian dự kiến: Cuối 2028 - giữa 2029 (khoảng 2.5 - 3 năm, khi Hiếu 27-28 tuổi).
+- Thời gian dự kiến (Tối ưu 12/10): **Giữa năm 2028** (Nhanh hơn kế hoạch cũ 1 năm).
 
 🌸 GIAI ĐOẠN 2: THU HOẠCH HOA LỢI (TỪ 100 TRIỆU TRỞ ĐI)
 - Gốc 100tr: Khóa cố định trong sổ tiết kiệm để sản sinh dòng tiền thụ động an toàn.
@@ -53,9 +53,9 @@ Mẹ phải bù thêm:           ~181,000,000   để đạt 500tr
 | 2,000,000     | ~319tr                   | ❌ thiếu 181tr |
 | 2,500,000     | ~399tr                   | ❌ thiếu 101tr |
 | **3,150,000** | **~500tr**               | ✅             |
+| **5,000,000** | **~790tr**               | ✅ (Sẽ đạt 100tr cực nhanh vào giữa 2028) |
 
-> Chưa cần quyết mức 3.15M bây giờ. Khi thu nhập tăng sau Thạc sĩ,
-> có thể nâng từ 2tr lên 3 - 3.5tr để vừa sớm chạm mốc 100tr, vừa tự đạt 500tr.
+> ⚡ **TỐI ƯU 12/10/2026:** Từ T02/2027, khi quỹ Thạc sĩ đã an toàn 70tr, sẽ dùng khoản dôi dư nâng ngay mức nạp lên 5tr/tháng để đẩy nhanh thời gian chạm mốc 100tr đầu tiên xuống giữa 2028 (nhanh hơn 1 năm so với 2029). Đạt mốc 100tr để sớm rút lãi cho mẹ tiêu xài.
 
 ---
 

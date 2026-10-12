@@ -43,7 +43,7 @@ CHÊNH THẬT:                   ~2,200,000   (không phải 13tr)
 | :----------------------- | :------------------------- | :-------------- | :-------------- | :------------ | :------------------------------------------------------------------------- |
 | 💵 **Tiền mặt thực**     | BIDV, VCB, TCB, Ví         | 37,199,702      | **37,199,702**  | Ngay (T+0)    | Tổng có 49.69M - 12.5M tiền mẹ gửi nhờ giữ hộ                              |
 | 🤖 **Bot Trading OKX**   | OKX - Vốn chạy bot tự động | 8,000,000       | **8,000,000**   | 1-2 ngày      | Toàn bộ 8M cho chạy bot tự động, tự kiếm lợi nhuận hoặc chịu lỗ            |
-| 💎 **Tích sản Crypto**   | **Binance (78,262.48 W)**  | **111,495,612** | **34,947,884**  | Biến động cao | **Vốn gốc nạp 111.5M** từ 04/2024. Thị giá 34.95M (đang hồi phục +57% 90N) |
+| 💎 **Tích sản Crypto**   | **Binance (78,262.48 W)**  | **111,495,612** | **50,000,000**  | Biến động cao | **Vốn gốc nạp 111.5M** từ 04/2024. Thị giá 50M (đã phục hồi mạnh 12/10)    |
 | 🤝 **Phải thu ngắn hạn** | Cho Diễm mượn              | 1,000,000       | **1,000,000**   | T12/2026      | Đã hẹn ngày thu                                                            |
 | 🔴 **Nợ ngắn hạn**       | Vay Hiệp mua iPhone        | -6,000,000      | **-6,000,000**  | Cần trả       | ⏳ Trích tiền mặt trả dứt điểm để sạch nợ                                  |
 | 🔴 **Nợ ngắn hạn**       | Nợ Shopee / SPayLater      | -1,500,000      | **-1,500,000**  | Cần trả       | ⏳ Trích tiền mặt trả dứt điểm                                             |
@@ -57,9 +57,9 @@ CHÊNH THẬT:                   ~2,200,000   (không phải 13tr)
 │ ① TIỀN MẶT RÒNG TỰ DO (Free Net Cash - sau trọ 9M & sạch nợ 7.5M):     20,699,702 VND  │
 │ ② TÀI SẢN RÒNG HOẠT ĐỘNG (Liquid Net Worth - Tiền mặt + OKX + Phải thu):38,699,702 VND │
 │    ↳ (Sau khi trừ 9tr trọ ngày 15/10: còn 29,699,702 VND)                              │
-│ ③ TỔNG TÀI SẢN RÒNG TOÀN DIỆN (Comprehensive Net Worth - theo Thị giá): 73,647,586 VND │
-│    ↳ (= Tài sản hoạt động 38.7M + Thị giá Binance W 34.95M)                            │
-│    ↳ (Sau khi trừ 9tr trọ ngày 15/10: còn 64,647,586 VND)                              │
+│ ③ TỔNG TÀI SẢN RÒNG TOÀN DIỆN (Comprehensive Net Worth - theo Thị giá): 88,699,702 VND │
+│    ↳ (= Tài sản hoạt động 38.7M + Thị giá Binance W 50.0M)                             │
+│    ↳ (Sau khi trừ 9tr trọ ngày 15/10: còn 79,699,702 VND)                              │
 │ ────────────────────────────────────────────────────────────────────────────────────── │
 │ 💎 TỔNG VỐN TÍCH LUỸ LỊCH SỬ ĐÃ ĐẦU TƯ & TIỀN MẶT:                    150,195,314 VND  │
 │    ↳ (= Tiền mặt 37.2M + OKX 8M + Vốn gốc Binance W 111.5M + Phải thu 1M - Nợ 7.5M)    │
@@ -80,11 +80,11 @@ CHÊNH THẬT:                   ~2,200,000   (không phải 13tr)
 ### Cơ cấu tài sản ròng toàn diện theo thị giá (~73.65tr)
 
 ```
-Tiền mặt thực tế:        ~37.2tr  █████████████░░░░░░░  50.5%  (Sau trọ còn 28.2tr; tiền tự do 20.7tr)
-Binance W (thị giá):     ~34.9tr  ████████████░░░░░░░░  47.5%  (Vốn gốc 111.5M, tài sản còn 34.95M)
-OKX Bot Trading:           8.0tr  ███░░░░░░░░░░░░░░░░░  10.9%  (Toàn bộ 8M chạy bot tự động)
-Phải thu Diễm:             1.0tr  ░░░░░░░░░░░░░░░░░░░░   1.4%
-Nợ ngắn hạn (trừ ra):     -7.5tr  - - - - - - - - - -  -10.3%  (Hiệp 6M + Shopee 1.5M)
+Tiền mặt thực tế:        ~37.2tr  █████████████░░░░░░░  42.0%  (Sau trọ còn 28.2tr; tiền tự do 20.7tr)
+Binance W (thị giá):     ~50.0tr  ████████████████░░░░  56.3%  (Vốn gốc 111.5M, tài sản phục hồi lên 50M)
+OKX Bot Trading:           8.0tr  ███░░░░░░░░░░░░░░░░░   9.0%  (Toàn bộ 8M chạy bot tự động)
+Phải thu Diễm:             1.0tr  ░░░░░░░░░░░░░░░░░░░░   1.1%
+Nợ ngắn hạn (trừ ra):     -7.5tr  - - - - - - - - - -  -8.4%   (Hiệp 6M + Shopee 1.5M)
 ```
 
 ---
@@ -133,17 +133,17 @@ Nếu có sự cố (ốm, hỏng laptop, mất việc) mà tiền đang kẹt t
 | **Tổng vốn gốc thực nạp (04/2024 → nay)**        | **111,495,612 VND** _(Đã đối soát chính xác qua lệnh P2P)_ |
 | Giá vốn bình quân thực tế                        | **~đ1,424.6 / W** (111.49M / 78,262 W)                     |
 | Giá vốn chu kỳ gần nhất trên app                 | đ324.72 / W                                                |
-| Giá thị trường (11/10/2026)                      | **đ447.32 / W**                                            |
-| **Giá trị thị trường hiện tại (Mark-to-Market)** | **34,947,884 VND** (~34.95 triệu VNĐ)                      |
-| Chênh lệch so với vốn gốc 111.49M                | **-76,547,728 VND (-68.6%)**                               |
-| PNL chu kỳ gần nhất trên app                     | +37.75% (+9,594,854 VND)                                   |
-| PNL luỹ kế 90 ngày                               | **+57.06%** (hồi phục mạnh từ đáy ~17M lên 35M)            |
+| Giá thị trường (12/10/2026)                      | **~đ638.8 / W**                                            |
+| **Giá trị thị trường hiện tại (Mark-to-Market)** | **50,000,000 VND** (~50.0 triệu VNĐ)                       |
+| Chênh lệch so với vốn gốc 111.49M                | **-61,495,612 VND (-55.1%)**                               |
+| PNL chu kỳ gần nhất trên app                     | Đang cập nhật                                              |
+| PNL luỹ kế 90 ngày                               | **+194%** (hồi phục cực mạnh từ đáy ~17M lên 50M)          |
 
 **Bảng theo dõi định kỳ (Chốt vào ngày 28-30 hàng tháng):**
 
 | Tháng              | Số lượng W    | Vốn gốc nạp     | Giá TT (đ) | Giá trị thị trường | So với vốn gốc | Ghi chú                          |
 | :----------------- | :------------ | :-------------- | :--------- | :----------------- | :------------- | :------------------------------- |
-| **T10/26 (11/10)** | **78,262.48** | **111,495,612** | **447.32** | **34,947,884**     | **-68.6%**     | **Vốn nạp 111.5M; 90N hồi +57%** |
+| **T10/26 (12/10)** | **78,262.48** | **111,495,612** | **638.80** | **50,000,000**     | **-55.1%**     | **Tài khoản chạm mốc 50tr (12/10)** |
 | T11/26             |               |                 |            |                    |                |                                  |
 | T12/26             |               |                 |            |                    |                |                                  |
 

@@ -41,10 +41,10 @@ Việc duy nhất phải làm: ĐI HỌC ĐỦ BUỔI
 ```
 Đích gần:  70,000,000 trước T07/2027 (học phí Thạc sĩ)
 Đích xa:   2 tỷ (2031)
-Hiện tại:  37,199,702 tiền mặt thực tế (11/10/2026) + 9tr bot/phải thu - 7.5tr nợ (TS ròng hoạt động: ~38.7tr; tổng ròng gồm Binance: ~73.6M)
-Tích sản:  78,262 W trên Binance (vốn nạp 110M - 🔒 KHÓA VỊ THẾ, KHÔNG MUA THÊM) - kèo "nổ hũ" target $0.70 (~715M) & $1.50 (~1.53 tỷ)
+Hiện tại:  37,199,702 tiền mặt thực tế (12/10/2026) + 9tr bot/phải thu - 7.5tr nợ (TS ròng hoạt động: ~38.7tr; tổng ròng gồm Binance 50M: ~88.7M)
+Tích sản:  78,262 W trên Binance (vốn nạp 111.5M - 🔒 KHÓA VỊ THẾ, KHÔNG MUA THÊM, tài khoản đã cán mốc 50tr) - kèo "nổ hũ" target $0.70 (~715M) & $1.50 (~1.53 tỷ)
 Tiết kiệm: ~14tr/tháng
-Dự kiến đủ 70tr: T12/2026 - T02/2027 (sớm hơn deadline T07/2027 khoảng 5-7 tháng)
+Dự kiến đủ 70tr: T12/2026 - T01/2027 (sớm hơn deadline T07/2027 khoảng 6 tháng)
 Trần:      KHÔNG bơm thêm crypto/bot đến khi tiền mặt ≥ 50tr
 ```
 
@@ -70,8 +70,8 @@ Việc gần:  Tra cứu yêu cầu tuyển sinh UIT (Q4/2026)
 ### M5 · ❤️ GIA ĐÌNH & QUAN HỆ
 
 ```
-Đích:      Quỹ mẹ 500tr - gửi quê 2tr/tháng đều đặn đến 2036 (tổng gốc 240tr)
-           🎯 Mốc 100tr đầu tiên: bắt đầu rút lãi gửi mẹ tiêu xài định kỳ, gốc giữ nguyên
+Đích:      Quỹ mẹ 500tr - sẽ nâng lên 5tr/tháng từ T02/2027 để tăng tốc.
+           🎯 Mốc 100tr đầu tiên (dự kiến giữa 2028): rút lãi gửi mẹ tiêu xài định kỳ, gốc giữ nguyên.
            Giữ kết nối bạn bè · đá banh T4 · cafe cuối tuần
            Bạn đời: phát triển bản thân trước, dự kiến tìm hiểu nghiêm túc cuối 2026
 Nguyên tắc: M5 không bao giờ được phá giấc ngủ và tiền học phí
@@ -84,7 +84,7 @@ Chi tiết:  me/finance/QUY_ME_500TR.md · me/lifestyle/RELATIONSHIPS.md
 
 | Việc            | Trạng thái                                      | Khi nào quay lại      |
 | --------------- | ----------------------------------------------- | --------------------- |
-| Miracle POS     | Chỉ fix bug khi user báo, không chủ động sale   | Khi hết overload      |
+| Miracle POS     | Chỉ fix bug khi user báo. Rã đông Q2/2027 | T02/2027 (xong tiếng Anh) |
 | TikTok/Discord  | Dừng hẳn (deal CollaNote huỷ)                   | Chưa xác định         |
 | QTKD            | Hoãn - học chung khi vào Thạc sĩ                | 2028                  |
 | Bot trading OKX | Dự án cá nhân · vốn 8tr đã nạp · không bơm thêm | Khi tiền mặt ≥ 50tr   |
