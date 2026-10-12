@@ -2,7 +2,7 @@
 
 > **Mục đích:** Hiểu rõ mình để ra quyết định đúng, không lặp lại sai lầm
 > **Cập nhật:** Mỗi lần Check-in cuối Sprint (CN 21:00, 2 tuần/lần) - thêm 1-2 dòng reflect
-> **Motto:** "Biết mình, biết người - trăm trận trăm thắng"
+> **Motto:** "Kỷ luật tạo nên tự do - Dám bước đi để bảo toàn giá trị"
 
 ---
 
@@ -13,13 +13,25 @@ Tên:          Hiếu Lê Văn
 Tuổi:         25 (sinh nhật 05/09 - vừa tròn 25 tuổi năm 2026)
 Quê:          Nghệ An  ·  Sống tại: TP.HCM (Gò Vấp)
 Nghề:         Software Developer (4+ năm) - TMA Solutions (chính) + BIT (tối)
-Side project: Miracle POS - 🧊 đang đóng băng, chỉ fix bug
-Cân nặng:     66.8kg (đo InBody 28/08/26) → mục tiêu 72-75kg, % mỡ 7-10% (đang đúng hướng: cơ tăng, mỡ giảm)
-TOEIC:        535 (19/06/2026) → mục tiêu 700+ (T07/2027)
+Side project: Miracle POS - 🧊 đóng băng, dự kiến rã đông Q2/2027
+Cân nặng:     66.8kg (đo InBody 28/08/26) → mục tiêu 72-75kg, % mỡ 7-10% (đang đúng hướng)
+TOEIC:        535 (19/06/2026) → Đang theo học Tiếng Anh Immersion Level 3
 ```
 
 > 5 mục tiêu lớn hiện tại (M1-M5), số liệu tài chính, mốc Thạc sĩ: xem [MASTER_PLAN.md](../../MASTER_PLAN.md).
 > File này **không lặp lại số liệu** - chỉ chứa phần "hiểu về bản thân" (điểm mạnh/yếu, giá trị, bài học).
+
+---
+
+## 👑 ĐỊNH VỊ BẢN THÂN (Tuyên ngôn Tháng 10/2026)
+
+**"Một Kỹ sư Phần mềm có Tư duy Chiến lược, Nhà Quản trị Tài chính xuất sắc và Giảng viên Đại học tương lai."**
+
+- **Vị thế Sự nghiệp:** 4+ năm thực chiến, tự build hệ thống từ A-Z. Đang nâng cấp vũ khí (Tiếng Anh Level 3 + Thạc sĩ CNTT) để tiến vào giới Học thuật và Quản lý. **Tuyệt đối không còn là thợ gõ code outsource cày cuốc bán mạng.**
+- **Vị thế Tài chính:** Nắm trong tay gần 90 triệu VNĐ tài sản ròng, dư dả 15tr/tháng. Sở hữu cái đầu lạnh (Kỷ luật Risk Management, Diamond Hands) và trái tim ấm (Quỹ báo hiếu mẹ 500tr).
+- **Vị thế Cá nhân (High-Value Man):** Biết đầu tư vào "Tài sản cơ thể" (Gym, chăm sóc da). Nắm giữ sức mạnh **"Walk Away" (Dám bước đi)**: Không lụy tình, không over-analyze phụ nữ, đặt kỷ luật và mục tiêu cá nhân lên trên mọi mối quan hệ rủi ro.
+
+> _"Tôi đang xây dựng một đế chế cá nhân dựa trên **Kỷ luật, Sự bền vững và Trí tuệ**. Mọi thứ tôi làm hôm nay – từ việc học Tiếng Anh, nạp tiền Quỹ mẹ, đẩy tạ, đến việc giữ đúng 23:30 đi ngủ – đều là những viên gạch để xây lên tự do tài chính 2 Tỷ vào năm 2031 và vị thế của một Giảng viên Thạc sĩ."_
 
 ---
 
@@ -42,29 +54,30 @@ TOEIC:        535 (19/06/2026) → mục tiêu 700+ (T07/2027)
 
 ## 💪 ĐIỂM MẠNH
 
-| #   | Điểm mạnh                 | Biểu hiện cụ thể                                     |
-| --- | -------------------------- | ------------------------------------------------------ |
-| 1   | **Kỷ luật cao**            | Lên plan chi tiết, theo dõi sprint, tracking numbers   |
-| 2   | **Tự học giỏi**            | Học code, TOEIC, quản lý tài chính đều tự học thành công |
-| 3   | **Biết lập kế hoạch**      | Dùng hệ thống Sprint cho cuộc sống, có hệ thống rõ ràng |
-| 4   | **Kiên trì dài hạn**       | Tầm nhìn nhiều năm (2026-2031), không bỏ cuộc giữa chừng |
-| 5   | **Tiết kiệm & tài chính**  | Emergency Fund, tách bạch Chi tiêu/Đầu tư/Phải thu     |
-| 6   | **Dev skills vững**        | 4+ năm kinh nghiệm, tự build Miracle POS hoàn chỉnh    |
-| 7   | **Biết tự sửa hệ thống**   | Dám xoá bỏ hệ thống cũ không chạy được (reset T09/2026) thay vì gồng tiếp |
+| #   | Điểm mạnh                 | Biểu hiện cụ thể                                                          |
+| --- | ------------------------- | ------------------------------------------------------------------------- |
+| 1   | **Kỷ luật cao**           | Lên plan chi tiết, theo dõi sprint, tracking numbers                      |
+| 2   | **Tự học giỏi**           | Học code, TOEIC, quản lý tài chính đều tự học thành công                  |
+| 3   | **Biết lập kế hoạch**     | Dùng hệ thống Sprint cho cuộc sống, có hệ thống rõ ràng                   |
+| 4   | **Kiên trì dài hạn**      | Tầm nhìn nhiều năm (2026-2031), không bỏ cuộc giữa chừng                  |
+| 5   | **Tiết kiệm & tài chính** | Emergency Fund, tách bạch Chi tiêu/Đầu tư/Phải thu                        |
+| 6   | **Dev skills vững**       | 4+ năm kinh nghiệm, tự build Miracle POS hoàn chỉnh                       |
+| 7   | **Biết tự sửa hệ thống**  | Dám xoá bỏ hệ thống cũ không chạy được (reset T09/2026) thay vì gồng tiếp |
 
 ---
 
 ## ⚠️ ĐIỂM YẾU (THÀNH THẬT)
 
-| #   | Điểm yếu                          | Hậu quả                                   | Giải pháp đang áp dụng                                  |
-| --- | ---------------------------------- | ------------------------------------------ | --------------------------------------------------------- |
-| 1   | **Ôm đồm quá nhiều**               | Burnout, chất lượng giảm                   | Tối đa 5 việc/sprint, sprint nghỉ mỗi 3 sprint             |
-| 2   | **Chạy marathon ở tốc độ sprint**  | Kiệt sức sau 2-3 tháng (đã xảy ra T08-T09) | Hệ thống V6 nhẹ hơn, bỏ SP/standup                        |
-| 3   | **Tiếng Anh chưa tự nhiên**        | Giới hạn cơ hội career, lương              | Immersion 6 tháng (14/07 → 14/01/27), lớp Nghe Nói        |
-| 4   | **Chưa đạt cân nặng mục tiêu**     | 66.8kg, còn cách 72-75kg                   | Gym 4x/tuần + ăn đủ đạm, đo InBody 1 lần/tháng            |
-| 5   | **Khó nói "không"**                | Nhận thêm việc, mất thời gian              | Quy tắc: mỗi việc phải gắn được 1 mốc mới đưa vào sprint  |
-| 6   | **Hay tự code thêm feature**       | Lãng phí thời gian ở Miracle POS           | Miracle đóng băng - chỉ fix bug, không code feature mới   |
-| 7   | **Ghi sổ tài chính hay bỏ sót**    | Gây hiểu nhầm "hụt tiền" (vụ T08)          | Hệ 3 cột Chi tiêu/Đầu tư/Phải thu, ghi trong ngày         |
+| #   | Điểm yếu                          | Hậu quả                                       | Giải pháp đang áp dụng                                         |
+| --- | --------------------------------- | --------------------------------------------- | -------------------------------------------------------------- |
+| 1   | **Ôm đồm quá nhiều**              | Burnout, chất lượng giảm                      | Tối đa 5 việc/sprint, sprint nghỉ mỗi 3 sprint                 |
+| 2   | **Chạy marathon ở tốc độ sprint** | Kiệt sức sau 2-3 tháng (đã xảy ra T08-T09)    | Hệ thống V6 nhẹ hơn, bỏ SP/standup                             |
+| 3   | **Tiếng Anh chưa tự nhiên**       | Giới hạn cơ hội career, lương                 | Immersion 6 tháng (14/07 → 14/01/27), lớp Nghe Nói             |
+| 4   | **Chưa đạt cân nặng mục tiêu**    | 66.8kg, còn cách 72-75kg                      | Gym 4x/tuần + ăn đủ đạm, đo InBody 1 lần/tháng                 |
+| 5   | **Khó nói "không"**               | Nhận thêm việc, mất thời gian                 | Quy tắc: mỗi việc phải gắn được 1 mốc mới đưa vào sprint       |
+| 6   | **Hay tự code thêm feature**      | Lãng phí thời gian ở Miracle POS              | Miracle đóng băng - chỉ fix bug, không code feature mới        |
+| 7   | **Ghi sổ tài chính hay bỏ sót**   | Gây hiểu nhầm "hụt tiền" (vụ T08)             | Hệ 3 cột Chi tiêu/Đầu tư/Phải thu, ghi trong ngày              |
+| 8   | **Dùng tư duy PM vào tình yêu**   | Phân tích quá mức (Over-analyze), Over-invest | Dừng viết docs phân tích tình cảm. Yêu tự nhiên, dám Walk Away |
 
 ---
 
@@ -177,29 +190,24 @@ BÀI HỌC 6: "Ghi sổ thiếu hệ thống = tự làm mình hoảng"
 > Mỗi Check-in cuối Sprint (CN 21:00, 2 tuần/lần - xem SCRUM_FRAMEWORK.md), viết 1-2 dòng.
 > Bảng này reset theo hệ thống mới, bắt đầu từ Sprint S1 (14/09/2026).
 
-| Sprint | Tuần này mình làm tốt gì? | Tuần này cần cải thiện gì? | Cảm xúc 1 từ |
-| ------ | -------------------------- | --------------------------- | ------------- |
-| S1     |                             |                              |               |
-| S2     |                             |                              |               |
-| S3     |                             |                              |               |
-| S4 🔋  | Sprint nghỉ - không đánh giá | Nghỉ ngơi đủ chưa?          |               |
+| Sprint | Tuần này mình làm tốt gì?    | Tuần này cần cải thiện gì? | Cảm xúc 1 từ |
+| ------ | ---------------------------- | -------------------------- | ------------ |
+| S1     |                              |                            |              |
+| S2     |                              |                            |              |
+| S3     |                              |                            |              |
+| S4 🔋  | Sprint nghỉ - không đánh giá | Nghỉ ngơi đủ chưa?         |              |
 
 ---
 
 ## 🔗 LIÊN KẾT
 
-| File                                                        | Vai trò              |
-| ------------------------------------------------------------ | ---------------------- |
-| [RELATIONSHIPS.md](./RELATIONSHIPS.md)                       | Quan hệ, gia đình, kế hoạch tình cảm |
-| [DAILY_SCHEDULE.md](./DAILY_SCHEDULE.md)                     | Lịch hàng ngày         |
-| [../../MASTER_PLAN.md](../../MASTER_PLAN.md)                 | 5 mục tiêu lớn + số liệu |
-| [../../expert_review.md](../../expert_review.md)             | Expert Review          |
+| File                                             | Vai trò                              |
+| ------------------------------------------------ | ------------------------------------ |
+| [RELATIONSHIPS.md](./RELATIONSHIPS.md)           | Quan hệ, gia đình, kế hoạch tình cảm |
+| [DAILY_SCHEDULE.md](./DAILY_SCHEDULE.md)         | Lịch hàng ngày                       |
+| [../../MASTER_PLAN.md](../../MASTER_PLAN.md)     | 5 mục tiêu lớn + số liệu             |
+| [../../expert_review.md](../../expert_review.md) | Expert Review                        |
 
 ---
 
-_Cập nhật: 13/09/2026 (V7 - Cập nhật cân nặng theo số liệu InBody thật: 66.8kg (28/08), target
-72-75kg/% mỡ 7-10% theo phiếu đo - xem chi tiết ở GYM_PLAN.md.
-V6 - Viết lại theo hệ thống mới (bỏ Epic/SP, đồng bộ với MASTER_PLAN V7).
-Sửa tuổi 24→25 (sinh nhật 05/09), nơi ở Vinh→TP.HCM Gò Vấp, cân nặng 65→66kg. Thêm mục "Đang đầu
-tư cho bản thân" (chữa da, gym, dự định nghiên cứu) và mục "Về chuyện tình cảm". Xoá lộ trình
-2026-2031 chi tiết cũ (trùng và lệch với MASTER_PLAN) - chỉ giữ link. Reset bảng Journal theo S1 mới.)_
+_Cập nhật: 12/10/2026 (V8 - Cập nhật bản Định vị bản thân mới. Loại bỏ tư duy PM trong hẹn hò (từ bài học rút ra sau case của Huyền). Xác định vị thế của một High-Value Man. Đổi Motto mới. Các mục tiêu về cân nặng và tài chính tiếp tục giữ vững đà tiến tới.)_
