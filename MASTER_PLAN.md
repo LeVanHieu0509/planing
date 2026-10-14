@@ -30,10 +30,11 @@
 
 ```
 Đích:      Giao tiếp tự tin, phỏng vấn outsource được · TOEIC 700+
-Hiện tại:  TOEIC 535 (19/06/2026) · đang học Level 2 tại Gò Vấp
-Lộ trình:  Level 2 (14/07→14/10/26) → Level 3 (→14/01/27) → Level 4 (2027)
+Hiện tại:  TOEIC 535 (19/06/2026) · Đang theo học Tiếng Anh Immersion Level 3
+Lộ trình:  - Đến 14/01/2027: Dồn toàn lực hoàn thành lớp Immersion L3 (Giao tiếp nghe nói).
+           - T02/2027 → T06/2027 (Khoảng trống Vàng): Tạm gác giao tiếp, cày thuần 2 tháng đề ETS chuẩn bị thi TOEIC 700+.
 Tiền:      ✅ L2 và L3 đều đã thanh toán xong
-Việc duy nhất phải làm: ĐI HỌC ĐỦ BUỔI
+Việc duy nhất: ĐI HỌC ĐỦ BUỔI IMMERSION, TUYỆT ĐỐI CHƯA ĐỤNG VÀO TOEIC LÚC NÀY.
 ```
 
 ### M2 · 💰 TIỀN
@@ -51,7 +52,7 @@ Trần:      KHÔNG bơm thêm crypto/bot đến khi tiền mặt ≥ 50tr
 ### M3 · 💪 SỨC KHOẺ
 
 ```
-Đích:      72-75kg · % mỡ 7-10% · ngủ 23:30-07:00 · gym 4 buổi/tuần
+Đích:      72-75kg · % mỡ 12-15% (Healthy & High Energy) · ngủ 23:30-07:00 · gym 4 buổi/tuần
 Hiện tại:  66.0kg (InBody 03/10/26: cơ 32.5kg, % mỡ 13.3%, Score 81/100) - siêu bứt phá!
            Đã đăng ký phòng gym 3 tháng (02/09/2026)
 Đo lường:  InBody 1 lần/tháng (bỏ cân hàng ngày, bỏ bảng tracking) - chi tiết ở GYM_PLAN.md
@@ -64,7 +65,7 @@ Hiện tại:  66.0kg (InBody 03/10/26: cơ 32.5kg, % mỡ 13.3%, Score 81/100) 
 Đăng ký:   T07/2027 · Học phí 70tr
 Dự phòng:  Nếu thiếu tiền → vay Hiệp, trả góp dần
 Sau đó:    2029 giảng viên đại học part-time
-Việc gần:  Tra cứu yêu cầu tuyển sinh UIT (Q4/2026)
+Việc gần:  Tra cứu quy chế tuyển sinh/thi đầu vào 2027 của UIT (Ngay trong Q4/2026) để ôn tập.
 ```
 
 ### M5 · ❤️ GIA ĐÌNH & QUAN HỆ
@@ -209,9 +210,4 @@ planing/
 
 ---
 
-_Cập nhật: 13/09/2026 (V9 - Cập nhật M3 theo số liệu InBody thật (66.8kg, % mỡ 16.8%, 28/08/26),
-target 72-75kg/% mỡ 7-10% theo phiếu đo.
-V8 - Thêm kế hoạch "bạn đời" vào M5 (chi tiết ở RELATIONSHIPS.md viết lại).
-Giữ nguyên: quỹ mẹ 500tr đến 2036 (240tr), 5 mục tiêu thay 6 epic, bỏ quản lý việc công ty,
-Thạc sĩ UIT T07/2027 + 70tr.
-Đồng bộ số tài chính với TAI_CHINH V10.)_
+_Cập nhật: 12/10/2026 (V10 - Stress test toàn bộ plan: Điều chỉnh mục tiêu % mỡ M3 xuống 12-15% để tránh sụt test/burnout; Dời lịch cày TOEIC sang T02/2027 để không bị overload với Immersion; Nhấn mạnh việc tìm hiểu quy chế thi đầu vào Thạc sĩ.)_
