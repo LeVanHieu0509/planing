@@ -85,7 +85,7 @@ Những dòng tiền này **nằm trong tài khoản ngân hàng của Hiếu**,
 
 1. **Ưu tiên 1 - Bảo vệ Quỹ Thạc sĩ UIT (Target 43M học phí năm 1, đóng T12/2027):**
    - Tiền mặt thực tế hiện có: **28.78M** (sau khi đã nộp xong 8M trọ T10).
-   - Dự kiến cán mốc 43M tiền mặt: **T11/2026 - T12/2026** (sớm trước hạn đóng khoảng 1 năm).
+   - Dự kiến cán mốc 43M tiền mặt: **T11/2026** (sớm trước hạn đóng khoảng 1 năm).
 2. **Ưu tiên 2 - Quản trị nghĩa vụ trọ & nợ:**
    - Trọ T10 (8M): ✅ **Đã hoàn tất thanh toán 8,000,000đ** ngày 16/10 qua VCB cho PHAM THI THOA.
    - Nợ ngắn hạn còn lại: 4.0M (Hiệp 1M + Shopee 1.5M + Duy Tiên 1.5M trả góp 500k/tháng). Tiền mặt tự do sau khi thanh toán hết vẫn còn tới **24.78M**.

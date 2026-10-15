@@ -68,12 +68,12 @@ Mục tiêu đầu ra:
 ```
 
 > 🎯 **QUYẾT ĐỊNH CHIẾN LƯỢC: CHIẾN DỊCH 90 NGÀY ALL-IN ENGLISH (20/10/2026 → 12/01/2027)**
-> *"Trong 3 tháng tới, dồn TOÀN BỘ THỜI GIAN RẢNH vào tiếng Anh để tạo bước nhảy vọt giao tiếp trước khi bước sang năm 2027."*
+> *"Trong 3 tháng tới, dồn THỜI GIAN RẢNH (trừ tối T4 + tối CN để relax) vào tiếng Anh để tạo bước nhảy vọt giao tiếp trước khi bước sang năm 2027."*
 >
 > 🌐 **MA TRẬN TẬN DỤNG THỜI GIAN RẢNH (IMMERSION 360° - KHÔNG BURNOUT):**
 > 1. **Lớp 1: Dead-time khi di chuyển (45-60p/ngày):** 100% Audio tiếng Anh (Tech: *Syntax.fm, Fireship, Lex Fridman*; Đời sống/Mindset: *The Diary of a CEO, Luke's English Podcast*). Tuyệt đối không nghe nhạc/podcast tiếng Việt.
 > 2. **Lớp 2: Giờ nghỉ trưa / Giải lao tại TMA (30-45p/ngày - Passive Immersion):** Xem YouTube tech reviews, sitcom ngắn (Friends/Modern Family) hoàn toàn phụ đề tiếng Anh; đọc tin công nghệ qua Hacker News, Medium, Dev.to thay cho lướt mạng xã hội tiếng Việt.
-> 3. **Lớp 3: Tối tập trung sâu (45-60p tối T2, T4, T6, T7 - Deep Study & AI Speaking Partner):**
+> 3. **Lớp 3: Tối tập trung sâu (45-60p tối T2, T6, T7 - Deep Study & AI Speaking Partner · tối T4 + CN để relax):**
 >    - **15 phút Active Recall & ChatGPT Voice Mode:** Ôn 3-5 Chunks của buổi L3 vừa học; bật app ChatGPT Voice Mode đàm thoại trực tiếp 5-10 phút (AI đóng vai trò Bạn đồng hành 24/7 kiên nhẫn, không phán xét, ép dùng cụm từ mới và sửa lỗi ngữ pháp tự nhiên) hoặc thu âm Voice Memo 60-90s (theo [LEVEL_3_TOPIC_LOG.md](./LEVEL_3_TOPIC_LOG.md)).
 >    - **20 phút Ngữ pháp Logic Infographic:** Đọc sơ đồ cú pháp trong bộ sách *"Chinh phục toàn diện ngữ pháp tiếng Anh bằng Infographic"* để tra cứu các bộ liên từ ghép câu logic, trục thời gian quá khứ/hiện tại hoàn thành và mệnh đề quan hệ để kéo dài câu.
 >    - **15-20 phút Shadowing & Khẩu hình:** Nghe và nhại theo ngữ điệu native speaker.
@@ -84,7 +84,7 @@ Mục tiêu đầu ra:
 >
 > 1. **Quy tắc 3x3 Chunks:** Mỗi buổi chọn 3-5 cụm từ ngữ cảnh (không học từ đơn lẻ).
 > 2. **Công thức 3 Nấc kéo dài câu:** `[Câu ngắn] + because (lý do) + which means that (hệ quả) + especially when (ví dụ)`.
-> 3. **Voice Memo 60-90s:** Tối T4 và T6 bật ghi âm nói to tóm tắt chủ đề buổi trước.
+> 3. **Voice Memo 60-90s:** Tối T2 và T6 bật ghi âm nói to tóm tắt chủ đề buổi trước.
 > 4. **Hồi sinh 1 chủ đề Level 2 cũ (Thứ Bảy):** Mỗi tuần kích hoạt lại 1 chủ đề cũ theo [LEVEL_2_RETROSPECTIVE.md](./LEVEL_2_RETROSPECTIVE.md).
 > 5. **Xả từ vựng Chủ Nhật:** Dùng các cụm từ mới vào buổi lớp Phản Xạ cuối tuần.
 >    📝 **Sổ theo dõi chủ đề Level 3:** [LEVEL_3_TOPIC_LOG.md](./LEVEL_3_TOPIC_LOG.md) · **Ôn tập Level 2:** [LEVEL_2_RETROSPECTIVE.md](./LEVEL_2_RETROSPECTIVE.md)
@@ -243,12 +243,12 @@ Tuần 9-12:  Phỏng vấn xin việc, thương lượng, giải quyết vấn 
 HÀNG NGÀY (không thể bỏ):
   ✅ Di chuyển → Podcast/BBC/Spotlight EN (không nghe nhạc Việt)
   ✅ Giờ nghỉ TMA → đọc 1 article EN ngắn (TechCrunch, BBC, Medium)
-  ✅ Sáng 07:00 → học structured: vocab 60p (T2/T4/T6) hoặc spaced rep 45p (T3/T5)
-  ✅ Trước ngủ → shadowing 15p
+  ✅ Sáng 07:30 → TOEIC Part 5 + 7 (T2/T6) · lướt chunks (T3/T5) · nghe thụ động (T4)
+  ✅ Trước ngủ → đọc sách tiếng Anh 30p (trừ tối T4 + CN)
 
 HÀNG TUẦN:
   ✅ CN chiều → Lớp Phản Xạ: xả kho chunks L2 + L3
-  ⏸️ Mock TOEIC / đề ETS → TẠM DỪNG đến T02/2027 (theo MASTER_PLAN)
+  📘 TOEIC: chưa làm full test; luyện Part 5 + Part 7 sáng T2 + T6 (gắn vocabulary) · thi thật T06/2027
   ✅ T6 → review ERROR LOG + ôn từ vựng tuần
 
 KHÔNG BAO GIỜ (6 tháng):
@@ -337,5 +337,5 @@ _(Thêm hàng sau mỗi buổi học)_
 
 ---
 
-_Cập nhật: 15/10/2026 (TOEIC 700+ = điều kiện bắt buộc lên Senior TMA năm 2027; Đồng bộ số liệu giữa các file). Trước đó: 13/09/2026 (Level 3 đã thanh toán. Chỉ còn chờ trường báo lịch.)_
+_Cập nhật: 15/10/2026 (Voice Memo T2+T6, tối T4 relax, luyện P5/P7 trong L3; TOEIC 700+ = điều kiện bắt buộc lên Senior TMA năm 2027; Đồng bộ số liệu giữa các file). Trước đó: 13/09/2026 (Level 3 đã thanh toán. Chỉ còn chờ trường báo lịch.)_
 _Liên kết: [START_HERE.md](../START_HERE.md) | [MOCK_TEST_TRACKER.md](../toeic/MOCK_TEST_TRACKER.md)_

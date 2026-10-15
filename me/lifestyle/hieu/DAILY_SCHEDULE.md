@@ -1,7 +1,7 @@
 # 📅 DAILY SCHEDULE - LỊCH HÀNG NGÀY V6.1 (T10/2026 - T01/2027)
 
 > **🎯 TRỌNG TÂM CHIẾN DỊCH 90 NGÀY ALL-IN ENGLISH (20/10/2026 → 12/01/2027)**
-> **Phương châm:** Dồn toàn bộ thời gian rảnh vào Tiếng Anh (Giao tiếp L3 + Ngữ pháp Logic Infographic)
+> **Phương châm:** Dồn thời gian rảnh (trừ tối T4 + tối CN để relax) vào Tiếng Anh (Giao tiếp L3 + Ngữ pháp Logic Infographic)
 > **Motto:** "Kỷ luật tạo nên tự do"
 > **Dậy:** 07:00 (T2/T4/T6/T7/CN) | 07:15 (T3/T5 - lớp tối về muộn)
 > **Ngủ:** 23:30 mỗi đêm (không exception) - 30p trước khi ngủ dành cho việc ĐỌC SÁCH TIẾNG ANH.
@@ -15,7 +15,7 @@
 
 ```
 07:00        Dậy, vệ sinh cá nhân, ăn sáng
-07:30-08:15  Ôn bài Immersion / Nghe tiếng Anh thụ động
+07:30-08:15  📘 TOEIC Part 5 + Part 7 (vocab theo ngữ cảnh)
 08:15-08:45  Di chuyển: 🎧 Podcast EN
 09:00-18:00  Đi làm TMA (nghỉ trưa 30p: YouTube tech/lifestyle EN; tranh thủ idle time làm BIT)
 18:00-18:30  Di chuyển về: 🎧 Podcast EN
@@ -24,7 +24,7 @@
 20:30-21:00  Tắm + nghỉ
 21:00-21:30  Chuẩn bị bữa ăn T3 (meal prep - BẮT BUỘC cho ngày đi học)
 21:30-22:30  💻 LÀM BIT (Remote job 7tr/tháng - prompt AI & docs bằng 100% tiếng Anh)
-22:30-22:45  🎙️ 15p Tra cứu Ngữ pháp Infographic / ChatGPT Voice luyện câu dài
+22:30-22:45  🎙️ 15p Voice Memo / ChatGPT Voice ôn bài T5 tuần trước
 22:45-23:15  📖 ĐỌC SÁCH TIẾNG ANH (Wind down - Không màn hình)
 23:15-23:30  Vệ sinh cá nhân, tắt đèn
 23:30        Ngủ
@@ -51,7 +51,7 @@
 
 ---
 
-## THỨ 4 - ĐÁ BANH (VAN XẢ) + LÀM BIT + CHATGPT VOICE
+## THỨ 4 - ĐÁ BANH + TỐI RELAX (KHÔNG BIT, KHÔNG HỌC)
 
 ```
 07:00        Dậy, chuẩn bị + ăn sáng
@@ -61,9 +61,7 @@
 18:00-18:30  Di chuyển về
 18:30-20:30  ★ ĐÁ BANH ⚽ (van xả thể lực, giữ tinh thần sảng khoái)
 21:00-21:30  Tắm + ăn nhẹ + meal prep cho T5
-21:30-22:30  💻 LÀM BIT (Remote tasks)
-22:30-22:45  🎙️ 15p Active Recall bài T3 (Bật ChatGPT Voice đàm thoại hoặc Voice Memo)
-22:45-23:15  📖 ĐỌC SÁCH TIẾNG ANH (Wind down - Không màn hình)
+21:30-23:15  🛋️ RELAX - xả stress sau đá banh (không BIT, không học)
 23:15-23:30  Vệ sinh cá nhân, tắt đèn
 23:30        Ngủ
 ```
@@ -93,7 +91,7 @@
 
 ```
 07:00        Dậy, chuẩn bị + ăn sáng
-07:30-08:15  Nghe podcast EN
+07:30-08:15  📘 TOEIC Part 5 + Part 7 (vocab theo ngữ cảnh)
 08:15-08:45  Di chuyển: 🎧 Podcast EN
 09:00-18:00  Đi làm TMA
 18:00-18:30  Di chuyển về
@@ -101,7 +99,7 @@
 19:30-20:30  ★ GYM (buổi 2)
 20:30-21:00  Tắm + thư giãn
 21:00-22:15  💻 LÀM BIT (Chốt công việc trong tuần)
-22:15-22:45  🎙️ 15-30p Active Recall bài T5 + ChatGPT Voice hoặc Xem Sitcom EN
+22:15-22:45  🎙️ 15-30p Voice Memo / ChatGPT Voice ôn bài T3 + T5 hoặc Xem Sitcom EN
 22:45-23:15  📖 ĐỌC SÁCH TIẾNG ANH (Wind down - Không màn hình)
 23:15-23:30  Vệ sinh cá nhân, tắt đèn
 23:30        Ngủ
@@ -129,7 +127,7 @@
 
 ---
 
-## CHỦ NHẬT - GYM SÁNG + LỚP PHẢN XẠ XẢ KHO + LÀM BIT
+## CHỦ NHẬT - GYM SÁNG + LỚP PHẢN XẠ XẢ KHO + TỐI RELAX
 
 ```
 07:30-08:30  Dậy thong thả, ăn sáng
@@ -137,10 +135,9 @@
 10:30-12:30  Cà phê / Thư giãn nhẹ nhàng
 12:30-13:30  Ăn trưa
 15:00-16:30  ★ LỚP PHẢN XẠ GIAO TIẾP (Chủ Nhật - Xả kho toàn bộ từ vựng L2 & Chunks L3)
-18:30-19:30  Ăn tối
+17:00-21:00  🛋️ RELAX / đi chơi, hẹn hò, xả stress (không BIT)
 21:00-21:15  ★ CHECK-IN SPRINT (15p - chỉ tuần cuối sprint)
-21:15-22:45  💻 LÀM BIT / Chuẩn bị kế hoạch tuần mới
-22:45-23:15  📖 ĐỌC SÁCH TIẾNG ANH (Wind down - Không màn hình)
+21:15-23:15  🛋️ Thư giãn, chuẩn bị tuần mới nhẹ nhàng
 23:15-23:30  Vệ sinh cá nhân, tắt đèn
 23:30        Ngủ
 ```
@@ -160,4 +157,4 @@
 
 ---
 
-_Cập nhật: 16/10/2026 (V6.2 - Tích hợp slot làm BIT 7M buổi tối và kích hoạt thói quen Prompt AI bằng tiếng Anh)._
+_Cập nhật: 15/10/2026 (V6.3 - Tối T4 + tối CN = relax, bỏ BIT 2 tối này; thêm TOEIC Part 5/7 sáng T2 + T6). Trước đó: (V6.2 - Tích hợp slot làm BIT 7M buổi tối và kích hoạt thói quen Prompt AI bằng tiếng Anh)._

@@ -36,8 +36,8 @@
 | Còn thiếu so với 43tr        | 14,223,124                      |
 | Thời gian còn lại            | ~14 tháng (đến T12/2027)        |
 | Cần để dành mỗi tháng        | **~1tr**                        |
-| Khả năng tiết kiệm thực tế   | **~14tr/tháng**                 |
-| Dự kiến đủ 43tr              | **T11/2026 - T12/2026**         |
+| Khả năng tiết kiệm thực tế   | **~15-17tr/tháng**              |
+| Dự kiến đủ 43tr              | **T11/2026**                    |
 
 > ✅ **PHÂN TÍCH TÀI CHÍNH:** Học phí tổng là 90tr, nhưng năm 1 chỉ cần đóng 43tr vào T12/2027.
 > Mục tiêu tiết kiệm **43tr** sẽ đạt sớm (T11-T12/2026), trước hạn đóng hơn 1 năm. Năm 2 (47tr, ~T12/2028) tích luỹ tiếp từ lương. Không cần vay Hiệp!
@@ -56,7 +56,7 @@ Xem [DAU_TU.md](../../finance/DAU_TU.md) - đang có trần không bơm thêm ch
 | ---------------- | ------------------- | --------------------------------- | ---------------------------- |
 | Bằng đại học     | Đúng/gần ngành CNTT | ✅ Có                             | Cần bản sao công chứng       |
 | Bảng điểm ĐH     | -                   | ✅ Có                             | Cần bản sao công chứng       |
-| Tiếng Anh        | Vượt qua bài thi trường hoặc chứng chỉ tương đương | ✅ TOEIC 535 (19/06/26) & B1 Aptis (22/06/2024) | Dùng bằng B1 Aptis 2024 nộp (bằng vô thời hạn, không lo hết hạn) |
+| Tiếng Anh        | Vượt qua bài thi trường hoặc chứng chỉ tương đương | ✅ TOEIC 535 (19/06/26) & B1 Aptis (22/06/2024) | ⚠️ Quy chế chung (TT 23/2021) thường chỉ nhận chứng chỉ ngoại ngữ trong 2 năm → B1 Aptis 22/06/2024 có thể đã hết hạn. Chốt 15/10/2026: nếu UIT không nhận thì **thi lại B1** trước T09/2027 |
 | Kinh nghiệm      | Không bắt buộc      | ✅ 4+ năm dev                     | Lợi thế lớn ở phần Phỏng vấn chuyên môn |
 | Hình thức tuyển  | Xét tuyển + Phỏng vấn | ✅ Đã xác nhận                    | Đánh giá hồ sơ + Phỏng vấn trực tiếp |
 | Lịch tuyển sinh  | 2 đợt (T05 và T11)  | ✅ Đã xác nhận                    | Sẽ nhắm Đợt 2 (thông báo T08/2027) |
@@ -85,7 +85,8 @@ Xem [DAU_TU.md](../../finance/DAU_TU.md) - đang có trần không bơm thêm ch
 
 - [ ] **Bản sao Bằng tốt nghiệp đại học** (có chứng thực sao y)
 - [ ] **Bản sao Bảng điểm đại học** (có chứng thực sao y)
-- [ ] **Bản sao chứng chỉ B1 Aptis** (2 bản, dùng để xét miễn ngoại ngữ, không cần sao y)
+- [ ] **Hỏi phòng SĐH UIT:** B1 Aptis 2024 còn được dùng để miễn ngoại ngữ không? Nếu không → đăng ký thi lại B1 (Aptis/VSTEP) trước T09/2027
+- [ ] **Bản sao chứng chỉ B1** (2 bản, dùng để xét miễn ngoại ngữ, không cần sao y)
 - [ ] Sơ yếu lý lịch bản thân: In và xin chính quyền địa phương xác nhận lúc về quê ([Tải mẫu](https://sdh.uit.edu.vn/sites/default/files/uploads/images/202609/so_yeu_ly_lich.doc))
 - [ ] In Bìa hồ sơ xét tuyển trên giấy A4 ([Tải mẫu](https://sdh.uit.edu.vn/sites/default/files/uploads/images/202608/bia_ho_so.doc))
 - [ ] In và điền Phiếu đăng ký xét tuyển ([Tải mẫu](https://sdh.uit.edu.vn/sites/default/files/uploads/images/202608/phieu_dang_ky_xet_tuyen.doc))
@@ -175,4 +176,4 @@ T12/2027       Khai giảng & Đóng học phí năm 1 (43tr)
 
 ---
 
-_Cập nhật: 15/10/2026 (Chốt ngành: Thạc sĩ Khoa học máy tính; Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027). Trước đó: 13/09/2026 (V4 - Chốt UIT ngành CNTT Quản lý, đăng ký T07/2027, học phí 70tr, dự phòng vay Hiệp. Thay thế hoàn toàn bản "Thạc sĩ CS 2028" cũ.)_
+_Cập nhật: 15/10/2026 (B1 Aptis có thể hết hạn 2 năm → thi lại nếu UIT không nhận; Chốt ngành: Thạc sĩ Khoa học máy tính; Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027). Trước đó: 13/09/2026 (V4 - Chốt UIT ngành CNTT Quản lý, đăng ký T07/2027, học phí 70tr, dự phòng vay Hiệp. Thay thế hoàn toàn bản "Thạc sĩ CS 2028" cũ.)_

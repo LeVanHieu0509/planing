@@ -33,21 +33,22 @@
 Hiện tại:  TOEIC 535 (19/06/2026) · Đang theo học Tiếng Anh Immersion Level 3 (Khai giảng 20/10/2026)
 Chiến lược 3 tháng tới (Q4/2026 - T01/2027): 
            🔥 ALL-IN 100% THỜI GIAN RẢNH VÀO TIẾNG ANH (Giao tiếp Immersion + Ngữ pháp Logic Infographic)
-           - Đến 12/01/2027: Dồn toàn bộ thời gian rảnh cho hệ sinh thái Immersion L3 (Nghe podcast đi đường, Active Recall 15p, sơ đồ logic Infographic kéo dài câu, Voice Memo, hồi sinh 24 chủ đề L2 cũ).
-           - T02/2027 → T06/2027 (Khoảng trống Vàng): Tạm gác giao tiếp, cày thuần đề ETS chuẩn bị thi TOEIC 700+ - điều kiện bắt buộc lên Senior tại TMA (hồ sơ Thạc sĩ UIT đã được miễn tiếng Anh nhờ B1 Aptis).
+           - Đến 12/01/2027: Dồn thời gian rảnh (trừ tối T4 + tối CN để relax) cho hệ sinh thái Immersion L3 (Nghe podcast đi đường, Active Recall 15p, sơ đồ logic Infographic kéo dài câu, Voice Memo, hồi sinh 24 chủ đề L2 cũ).
+           - Song song trong L3: luyện Part 5 + Part 7 sáng T2 + T6 (gắn với vocabulary, chưa làm full test).
+           - T02/2027 → T06/2027 (Khoảng trống Vàng): Tạm gác giao tiếp, cày thuần đề ETS → THI TOEIC T06/2027, được bao nhiêu điểm NỘP TMA LUÔN (hạn chót 15/11/2027, điều kiện lên Senior).
 Tiền:      ✅ L2 và L3 đều đã thanh toán xong
-Việc duy nhất: THAM GIA ĐỦ BUỔI IMMERSION + TẬN DỤNG TOÀN BỘ THỜI GIAN RẢNH ĐẮM CHÌM TIẾNG ANH (TUYỆT ĐỐI CHƯA CÀY ĐỀ ETS LÚC NÀY).
+Việc duy nhất: THAM GIA ĐỦ BUỔI IMMERSION + ĐẮM CHÌM TIẾNG ANH (chưa làm full test ETS; chỉ luyện Part 5 + Part 7). Tối T4 + tối CN để RELAX.
 ```
 
 ### M2 · 💰 TIỀN
 
 ```
 Đích gần:  43,000,000 học phí Thạc sĩ năm 1 (đóng T12/2027) · năm 2: 47tr (~T12/2028)
-Đích xa:   2 tỷ (2031)
+Đích xa:   2 tỷ (2031) - chỉ trông vào chốt lời W · nền an toàn từ lương ~0.75 tỷ
 Hiện tại:  28,776,876 tiền mặt thực tế (đã sạch 8M trọ T10) + 8M bot OKX - 4.0M nợ (TS ròng hoạt động: ~32.8tr; tổng ròng gồm Binance W 30M: ~62.8M; tiền tự do sạch nợ: ~24.8M)
 Tích sản:  78,262 W trên Binance (vốn nạp 111.5M - 🔒 KHÓA VỊ THẾ, KHÔNG MUA THÊM, thị giá hiện ~30tr) - kèo "nổ hũ" target $0.70 (~715M) & $1.50 (~1.53 tỷ)
-Tiết kiệm: ~14tr/tháng
-Dự kiến đủ 43tr: T11/2026 - T12/2026 (sớm hơn hạn đóng T12/2027 khoảng 1 năm)
+Tiết kiệm: ~15-17tr/tháng (chi 8-10tr; có người yêu +2tr) · từ T02/2027 -3tr vì quỹ mẹ lên 5tr
+Dự kiến đủ 43tr: T11/2026 (sớm hơn hạn đóng T12/2027 khoảng 1 năm)
 Trần:      KHÔNG bơm thêm crypto/bot đến khi tiền mặt ≥ 50tr
 ```
 
@@ -122,8 +123,9 @@ Subscriptions:              400,000
 Gym:                        300,000
 Khác:                       500,000
 ──────────────────────────────────
-TỔNG CHI:                10,340,000
-TIẾT KIỆM:               15,090,000
+Trần theo hạng mục:      10,340,000
+TỔNG CHI THỰC TẾ:   8,000,000 - 10,000,000   (chốt 15/10/2026; +2tr nếu có người yêu)
+TIẾT KIỆM:         ~15,400,000 - 17,400,000
 ```
 
 > ⚖️ **NGUYÊN TẮC KẾ TOÁN VÀNG (THU HỘ / CHI HỘ PHÒNG & TIỀN CỦA MẸ):**
@@ -146,8 +148,8 @@ TIẾT KIỆM:               15,090,000
 | Mốc       | Số tiền     | Ý nghĩa                                              |
 | --------- | ----------- | ---------------------------------------------------- |
 | 16/10/26  | 28,776,876  | Hiện tại (tiền mặt thực tế sau trừ 12M tiền mẹ giữ hộ & đã sạch 8M trọ T10) |
-| T11-T12/2026 | **~43tr** | ✅ Đủ học phí Thạc sĩ năm 1                         |
-| T12/2026-T01/2027 | ~50tr | 🚧 Chạm trần 50tr → mở đầu tư                        |
+| T11/2026  | **~43-45tr**| ✅ Đủ học phí Thạc sĩ năm 1                          |
+| T12/2026  | ~57-61tr    | 🚧 Chạm trần 50tr → mở đầu tư                        |
 | T09-T10/2027 | -         | 🎓 Nộp hồ sơ Thạc sĩ UIT (Đợt 2)                     |
 | T12/2027  | -           | 🎓 Khai giảng, trả 43tr học phí năm 1                |
 
@@ -214,4 +216,4 @@ planing/
 
 ---
 
-_Cập nhật: 15/10/2026 (Hạn nộp chứng chỉ TOEIC 700+ cho TMA: 15/11/2027; TOEIC 700+ = điều kiện bắt buộc lên Senior TMA năm 2027; Chốt ngành: Thạc sĩ Khoa học máy tính; Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027). Trước đó: 12/10/2026 (V10 - Stress test toàn bộ plan: Điều chỉnh mục tiêu % mỡ M3 xuống 12-15% để tránh sụt test/burnout; Dời lịch cày TOEIC sang T02/2027 để không bị overload với Immersion; Nhấn mạnh việc tìm hiểu quy chế thi đầu vào Thạc sĩ.)_
+_Cập nhật: 15/10/2026 (Chi thực tế 8-10tr/tháng; 2 tỷ chỉ trông vào chốt W; Hạn nộp chứng chỉ TOEIC 700+ cho TMA: 15/11/2027; TOEIC 700+ = điều kiện bắt buộc lên Senior TMA năm 2027; Chốt ngành: Thạc sĩ Khoa học máy tính; Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027). Trước đó: 12/10/2026 (V10 - Stress test toàn bộ plan: Điều chỉnh mục tiêu % mỡ M3 xuống 12-15% để tránh sụt test/burnout; Dời lịch cày TOEIC sang T02/2027 để không bị overload với Immersion; Nhấn mạnh việc tìm hiểu quy chế thi đầu vào Thạc sĩ.)_

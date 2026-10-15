@@ -96,9 +96,9 @@ Nợ phải trả (trừ ra):     -4.0tr  - - - - - - - - - -  -6.3%   (Hiệp 1
 ║  cho đến khi TIỀN MẶT ≥ 50,000,000 VND                        ║
 ╚═══════════════════════════════════════════════════════════════╝
 
-Tiền mặt hiện tại:  33,407,650
-Cần thêm:          ~16,600,000
-Dự kiến chạm trần:  T11/2026  (với mức tiết kiệm ~15tr/tháng)
+Tiền mặt hiện tại:  28,776,876  (16/10/2026)
+Cần thêm:          ~21,200,000
+Dự kiến chạm trần:  T12/2026  (với mức tiết kiệm ~15-17tr/tháng)
 ```
 
 **Lý do:** Emergency Fund mục tiêu 30tr. Tiền mặt 33.4tr chỉ vừa chạm, chưa có phần dư an toàn.

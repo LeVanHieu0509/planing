@@ -2,7 +2,7 @@
 
 > **Học viên:** Lê Văn Hiếu · Lớp: **SAIGON SPECIAL** (Gò Vấp)  
 > **Thời gian:** 20/10/2026 → 12/01/2027 · T3 + T5 (19:15 - 20:45) + CN (Phản Xạ)  
-> **Chiến dịch:** 🔥 **90 NGÀY ALL-IN ENGLISH** — Dồn 100% thời gian rảnh vào tiếng Anh giao tiếp & ngữ pháp logic!  
+> **Chiến dịch:** 🔥 **90 NGÀY ALL-IN ENGLISH** — Dồn thời gian rảnh vào tiếng Anh giao tiếp & ngữ pháp logic (trừ tối T4 + tối CN để relax)!  
 > **Mục tiêu cốt lõi:** Nói câu dài tự nhiên, biến từ vựng thụ động thành chủ động, giữ mạch hội thoại 5-10 phút.  
 > **Bộ não thứ hai:** Ghi lại 3-5 cụm từ (Chunks) + 1 câu dài ứng dụng sau mỗi buổi học.
 
@@ -21,7 +21,7 @@
 │               + which means that / so that (Hệ quả)                                    │
 │               + especially when / for instance (Minh họa thực tế)                     │
 │                                                                                        │
-│ 3. VOICE MEMO 60-90 GIÂY HOẶC ĐÀM THOẠI AI (T4 & T6):                                  │
+│ 3. VOICE MEMO 60-90 GIÂY HOẶC ĐÀM THOẠI AI (T2 & T6):                                  │
 │    - Cách 1: Tự ghi âm Voice Memos 60-90s tóm tắt chủ đề buổi trước.                   │
 │    - Cách 2 (Khuyên dùng): Bật ChatGPT Voice Mode đàm thoại phản xạ 5-10 phút.          │
 │      AI đóng vai trò "Bạn đồng hành 24/7" sửa lỗi ngữ pháp & ép dùng 3 cụm từ mới.    │
@@ -40,7 +40,7 @@
 
 > 🤖 **BẠN ĐỒNG HÀNH AI (CHATGPT VOICE MODE) - "PHÒNG TẬP THỂ LỰC CÁ NHÂN 24/7":**
 > - **Mô hình cốt lõi:** *"AI luyện phản xạ ở nhà không sợ sai — Người thật thực chiến ở lớp Gò Vấp."*
-> - **Cách dùng nhanh mỗi tối T2, T4, T6 (5-10 phút):**
+> - **Cách dùng nhanh mỗi tối T2, T6 (5-10 phút):**
 >   1. Mở app ChatGPT trên điện thoại → Bấm biểu tượng tai nghe / mic thoại.
 >   2. **Prompt ép dùng 3 cụm từ L3:**
 >      > *"Hey, you are my English speaking coach. Today I learned 3 new phrases: [Cụm 1], [Cụm 2], [Cụm 3]. Let's have a short 5-minute casual conversation about [Chủ đề]. Keep your replies short (1-2 sentences), ask one question at a time to encourage me to use these phrases, and gently correct any grammar mistakes."*
@@ -61,7 +61,7 @@
   3. `...`
 - **Câu dài thực chiến (3-Tier Sentence):**
   > _[Ghép câu dài có because + which means that + especially when]_
-- **Voice Memo 60s (Tối T4 21/10):** ☐ Chưa thu / ☑ Đã thu âm
+- **Voice Memo 60s (Tối T6 23/10):** ☐ Chưa thu / ☑ Đã thu âm
 
 ---
 
@@ -73,7 +73,7 @@
   3. `...`
 - **Câu dài thực chiến (3-Tier Sentence):**
   > _[Ghép câu dài ứng dụng]_
-- **Voice Memo 60s (Tối T6 23/10):** ☐ Chưa thu / ☑ Đã thu âm
+- **Voice Memo 60s (Tối T2 26/10):** ☐ Chưa thu / ☑ Đã thu âm
 
 ---
 
@@ -89,13 +89,13 @@
 - **Chủ đề (Topic):** 
 - **Active Chunks:**
 - **Câu dài thực chiến:**
-- **Voice Memo (T4):** ☐
+- **Voice Memo (T6):** ☐
 
 #### 🟢 Buổi 4 · Thứ Năm 29/10/2026
 - **Chủ đề (Topic):** 
 - **Active Chunks:**
 - **Câu dài thực chiến:**
-- **Voice Memo (T6):** ☐
+- **Voice Memo (T2):** ☐
 
 #### 🎯 Chủ Nhật 01/11/2026 (Lớp Phản Xạ)
 - **Review & Sử dụng từ:** ☐
@@ -121,3 +121,7 @@
 ## 🔗 LIÊN KẾT
 - Lộ trình tổng thể: [IMMERSION_ROADMAP.md](./IMMERSION_ROADMAP.md)
 - Sprint hiện tại: [../../scrum/sprints/S1.md](../../scrum/sprints/S1.md)
+
+---
+
+_Cập nhật: 15/10/2026 (Voice Memo/ChatGPT Voice chuyển sang tối T2 + T6; tối T4 để relax)._

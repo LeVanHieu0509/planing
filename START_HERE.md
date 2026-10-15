@@ -16,7 +16,7 @@ SIDE:     Miracle POS (đang đóng băng - chỉ fix bug)
 
 ★ MỐC LỚN NHẤT SẮP TỚI:
   🎓 NỘP HỒ SƠ THẠC SĨ KHOA HỌC MÁY TÍNH - UIT (ĐHQG TP.HCM) · T09-T10/2027 · khai giảng T12/2027
-     → Cần 43tr học phí năm 1 (đóng T12/2027) · đã có ~28.8tr tiền mặt thực tế (đã sạch 8M tiền trọ T10) · dự kiến đủ vào T11-T12/2026
+     → Cần 43tr học phí năm 1 (đóng T12/2027) · đã có ~28.8tr tiền mặt thực tế (đã sạch 8M tiền trọ T10) · dự kiến đủ vào T11/2026
      → Tổng tài sản ròng toàn diện: ~62.8M (theo thị giá: 28.8M tiền mặt + 30.0M Binance W + 8M OKX Bot - 4.0M nợ; tổng vốn tích luỹ lịch sử: ~144.3M)
      → Quỹ mẹ 500tr: Đã nạp luỹ kế gốc 8M (định kỳ 2M/tháng, mốc 100M trích lãi nuôi mẹ)
 
@@ -93,20 +93,20 @@ Bot OKX      → dự án cá nhân, không phải nguồn thu, không bơm thê
 ---
 
 ### M1 · 🗣️ Tiếng Anh (Trọng tâm All-in 90 ngày: 20/10/2026 → 12/01/2027)
-- Dồn 100% thời gian rảnh vào hệ sinh thái Immersion L3 (SAIGON SPECIAL) + Ngữ pháp Logic Infographic + Active Recall.
+- Dồn thời gian rảnh (trừ tối T4 + tối CN để relax) vào hệ sinh thái Immersion L3 (SAIGON SPECIAL) + Ngữ pháp Logic Infographic + Active Recall.
 
 ---
 
 ## 📅 LỊCH TUẦN CÂN BẰNG (TMA + BIT + TIẾNG ANH + THỂ THAO)
 
 ```
-T2  07:30 Audio EN  →  19:30 GYM  →  21:30 LÀM BIT  →  22:30 Sơ đồ Infographic/ChatGPT Voice  →  22:45 Đọc sách EN
+T2  07:30 TOEIC P5/P7  →  19:30 GYM  →  21:30 LÀM BIT  →  22:30 Voice Memo/ChatGPT Voice  →  22:45 Đọc sách EN
 T3  07:30 Lướt Chunks  →  19:15 ★ LỚP LEVEL 3 (SAIGON SPECIAL)  →  21:30 LÀM BIT  →  22:30 Đọc sách EN
-T4  07:30 Audio EN  →  18:30 ĐÁ BANH  →  21:30 LÀM BIT  →  22:30 Active Recall/ChatGPT Voice  →  22:45 Đọc sách EN
+T4  07:30 Audio EN  →  18:30 ĐÁ BANH  →  21:00 🛋️ RELAX (không BIT, không học)
 T5  07:30 Lướt Chunks  →  19:15 ★ LỚP LEVEL 3 (SAIGON SPECIAL)  →  21:30 LÀM BIT  →  22:30 Đọc sách EN
-T6  07:30 Audio EN  →  19:30 GYM  →  21:00 LÀM BIT  →  22:15 Active Recall/ChatGPT Voice  →  22:45 Đọc sách EN
+T6  07:30 TOEIC P5/P7  →  19:30 GYM  →  21:00 LÀM BIT  →  22:15 Active Recall/ChatGPT Voice  →  22:45 Đọc sách EN
 T7  07:30 GYM  →  15:00 Hồi sinh bài L2 (LEVEL_2_RETROSPECTIVE.md)  →  19:30 LÀM BIT  →  21:30 Tech Podcast EN
-CN  09:00 GYM  →  15:00 ★ LỚP PHẢN XẠ (Xả kho)  →  21:00 Check-in  →  21:15 LÀM BIT  →  22:45 Đọc sách EN
+CN  09:00 GYM  →  15:00 ★ LỚP PHẢN XẠ (Xả kho)  →  tối 🛋️ RELAX / đi chơi  (21:00 Check-in 15p cuối sprint)
 ```
 
 Chi tiết: [me/lifestyle/hieu/DAILY_SCHEDULE.md](./me/lifestyle/hieu/DAILY_SCHEDULE.md)
@@ -146,6 +146,7 @@ Chính sách: Tối đa 4 buổi học bù (lớp 12 HV); bảo lưu 1 lần tro
 3. Ngày quá mệt → làm phiên bản nhỏ nhất: "mở app học 5 từ" thay vì "học 60 phút".
 4. Không chấm điểm bản thân. Không có Story Point. Chỉ có ☐ và ✅.
 5. Trượt 1 ngày không phá hỏng gì cả. Không có chuyện "all or nothing".
+6. Tối T4 (sau đá banh) + tối CN = RELAX. Không BIT, không học.
 ```
 
 ---
@@ -165,6 +166,6 @@ Chính sách: Tối đa 4 buổi học bù (lớp 12 HV); bảo lưu 1 lần tro
 
 ---
 
-_Cập nhật: 15/10/2026 (Hạn nộp chứng chỉ TOEIC 700+ cho TMA: 15/11/2027; TOEIC 700+ = điều kiện bắt buộc lên Senior TMA năm 2027; Chốt ngành: Thạc sĩ Khoa học máy tính; Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027; Đồng bộ số liệu giữa các file). Trước đó: 13/09/2026 (V8 - Chốt quỹ mẹ 500tr đến 2036, thêm link QUY_ME_500TR.md. Giữ nguyên:
+_Cập nhật: 15/10/2026 (Tối T4 + tối CN relax, TOEIC P5/P7 sáng T2+T6, chi 8-10tr/tháng; Hạn nộp chứng chỉ TOEIC 700+ cho TMA: 15/11/2027; TOEIC 700+ = điều kiện bắt buộc lên Senior TMA năm 2027; Chốt ngành: Thạc sĩ Khoa học máy tính; Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027; Đồng bộ số liệu giữa các file). Trước đó: 13/09/2026 (V8 - Chốt quỹ mẹ 500tr đến 2036, thêm link QUY_ME_500TR.md. Giữ nguyên:
 5 mục tiêu thay 6 epic, bỏ task công ty, Sprint S1 = 12/10/2026, mốc 70tr + Thạc sĩ UIT T07/2027 (nay đổi thành 43tr, nộp hồ sơ T09-T10/2027),
 L3 đã thanh toán.)_

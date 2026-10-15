@@ -68,9 +68,9 @@ Mẹ phải bù thêm:           ~181,000,000   để đạt 500tr
    → Chênh lệch 79 TRIỆU chỉ nhờ việc tiền nằm đúng chỗ.
 ```
 
-> 📌 **Việc cần làm một lần:** hỏi mẹ xem tiền đang để ở đâu.
-> Nếu đang để tiền mặt ở nhà hoặc tài khoản không kỳ hạn → nhờ mẹ mở sổ tiết kiệm
-> có kỳ hạn, tự động tái tục. Đây là việc 30 phút nhưng đáng 79 triệu.
+> ✅ **Chốt 15/10/2026:** Giai đoạn 0 → 100tr vẫn đóng phường hàng tháng như hiện tại.
+> **Khi đủ 100tr → gửi ngân hàng sổ tiết kiệm kỳ hạn 1 năm, tái tục theo năm.** Lãi mỗi năm rút gửi mẹ tiêu (Giai đoạn 2).
+> _(Các con số lãi kép ~5.5% ở trên giả định tiền có lãi ngay từ tháng đầu - thực tế giai đoạn đóng phường sẽ khác một chút.)_
 
 ---
 
@@ -127,7 +127,7 @@ Khoản này khác. Và nó cũng là khoản dễ bị cắt nhất khi khó kh
 
 ---
 
-_Cập nhật: 15/10/2026 (Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027). Trước đó: 13/09/2026 (V2 - Chốt phương án B (10 năm, đến T08/2036, gốc 240tr). Chuyển file từ
+_Cập nhật: 15/10/2026 (Chốt: đủ 100tr gửi ngân hàng kỳ hạn 1 năm; Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027). Trước đó: 13/09/2026 (V2 - Chốt phương án B (10 năm, đến T08/2036, gốc 240tr). Chuyển file từ
 `Claude outputs/` vào `me/finance/`. Đồng bộ mốc 2036 sang TAI_CHINH_2026_2028.md, MASTER_PLAN.md,
 START_HERE.md, MONTHLY_TRACKER.md. V1 gốc: Tách "gửi quê/đóng phường" thành quỹ riêng cho mẹ,
 mục tiêu 500tr. Khoản hụi 4tr T08 chốt là thuộc quỹ này, không lấy lại.)_
