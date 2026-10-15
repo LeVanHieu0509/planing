@@ -15,8 +15,8 @@ NGHỀ:     Software Developer (4+ năm)
 SIDE:     Miracle POS (đang đóng băng - chỉ fix bug)
 
 ★ MỐC LỚN NHẤT SẮP TỚI:
-  🎓 ĐĂNG KÝ THẠC SĨ CNTT QUẢN LÝ - UIT (ĐHQG TP.HCM) · T07/2027
-     → Cần 70tr · đã có ~28.8tr tiền mặt thực tế (đã sạch 8M tiền trọ T10) · dự kiến đủ vào T12/2026-T02/2027
+  🎓 NỘP HỒ SƠ THẠC SĨ CNTT QUẢN LÝ - UIT (ĐHQG TP.HCM) · T09-T10/2027 · khai giảng T12/2027
+     → Cần 43tr học phí năm 1 (đóng T12/2027) · đã có ~28.8tr tiền mặt thực tế (đã sạch 8M tiền trọ T10) · dự kiến đủ vào T11-T12/2026
      → Tổng tài sản ròng toàn diện: ~62.8M (theo thị giá: 28.8M tiền mặt + 30.0M Binance W + 8M OKX Bot - 4.0M nợ; tổng vốn tích luỹ lịch sử: ~144.3M)
      → Quỹ mẹ 500tr: Đã nạp luỹ kế gốc 8M (định kỳ 2M/tháng, mốc 100M trích lãi nuôi mẹ)
 
@@ -33,9 +33,9 @@ TẦM NHÌN:
 | Mã     | Mục tiêu              | Đích đến                                          | Khi nào  |
 | ------ | --------------------- | ------------------------------------------------- | -------- |
 | **M1** | 🗣️ Tiếng Anh          | Giao tiếp tự tin · TOEIC 700+                     | T07/2027 |
-| **M2** | 💰 Tiền               | 70tr học phí Thạc sĩ → rồi tới 2 tỷ               | T07/2027 |
+| **M2** | 💰 Tiền               | 43tr học phí Thạc sĩ năm 1 → rồi tới 2 tỷ         | T12/2027 |
 | **M3** | 💪 Sức khoẻ           | 75kg · ngủ đủ · gym đều                           | 2027     |
-| **M4** | 🎓 Học vấn & Nghề     | Thạc sĩ UIT → giảng viên                          | T07/2027 |
+| **M4** | 🎓 Học vấn & Nghề     | Thạc sĩ UIT → giảng viên                          | Nộp hồ sơ T09-T10/2027 |
 | **M5** | ❤️ Gia đình & Quan hệ | Quỹ mẹ 500tr (gửi 2tr/tháng đến 2036, đã gửi 8tr) | Liên tục |
 
 ### 🧊 Đang đóng băng - không nhắc tới nữa
@@ -83,7 +83,7 @@ Bot OKX      → dự án cá nhân, không phải nguồn thu, không bơm thê
 | ------------------------------------------------------------------------------------------------ | --------------------------- |
 | [MASTER_PLAN.md](./MASTER_PLAN.md)                                                               | Nhìn lại bức tranh lớn      |
 | [me/career/master-mba/THAC_SI_UIT_2027.md](./me/career/master-mba/THAC_SI_UIT_2027.md)           | Chuẩn bị hồ sơ Thạc sĩ      |
-| [me/finance/TAI_CHINH_2026_2028.md](./me/finance/TAI_CHINH_2026_2028.md)                         | Kiểm tra tiến độ 70tr       |
+| [me/finance/TAI_CHINH_2026_2028.md](./me/finance/TAI_CHINH_2026_2028.md)                         | Kiểm tra tiến độ 43tr       |
 | [english/communication/IMMERSION_ROADMAP.md](./english/communication/IMMERSION_ROADMAP.md)       | Lộ trình lớp tiếng Anh      |
 | [me/finance/QUY_ME_500TR.md](./me/finance/QUY_ME_500TR.md)                                       | Theo dõi quỹ mẹ 500tr       |
 | [expert_review.md](./expert_review.md)                                                           | Khi thấy mất phương hướng   |
@@ -165,6 +165,6 @@ Chính sách: Tối đa 4 buổi học bù (lớp 12 HV); bảo lưu 1 lần tro
 
 ---
 
-_Cập nhật: 15/10/2026 (Đồng bộ số liệu giữa các file). Trước đó: 13/09/2026 (V8 - Chốt quỹ mẹ 500tr đến 2036, thêm link QUY_ME_500TR.md. Giữ nguyên:
-5 mục tiêu thay 6 epic, bỏ task công ty, Sprint S1 = 12/10/2026, mốc 70tr + Thạc sĩ UIT T07/2027,
+_Cập nhật: 15/10/2026 (Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027; Đồng bộ số liệu giữa các file). Trước đó: 13/09/2026 (V8 - Chốt quỹ mẹ 500tr đến 2036, thêm link QUY_ME_500TR.md. Giữ nguyên:
+5 mục tiêu thay 6 epic, bỏ task công ty, Sprint S1 = 12/10/2026, mốc 70tr + Thạc sĩ UIT T07/2027 (nay đổi thành 43tr, nộp hồ sơ T09-T10/2027),
 L3 đã thanh toán.)_

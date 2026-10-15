@@ -2,7 +2,7 @@
 
 > **Reset ngày 11/10/2026.** Bắt đầu lại nhịp mới từ **S1 (12/10/2026)**.
 > **Sprint length:** 2 tuần (Thứ 2 → Chủ nhật) · **Sprint nghỉ:** cứ 3 sprint → 1 sprint nhẹ
-> **Mốc lớn nhất:** 🎓 Đăng ký Thạc sĩ CNTT Quản lý (UIT) - **T07/2027**
+> **Mốc lớn nhất:** 🎓 Nộp hồ sơ Thạc sĩ CNTT Quản lý (UIT) - **T09-T10/2027** · khai giảng & đóng 43tr năm 1 T12/2027
 
 ---
 
@@ -15,8 +15,8 @@
 | Mã  | Mốc quý                                                    | Đo bằng gì                    |
 | --- | ---------------------------------------------------------- | ----------------------------- |
 | M1  | Vào **Level 3 - Lớp SAIGON SPECIAL** (20/10/26 → 12/01/27) | Đi đủ buổi, tối đa 4 buổi bù  |
-| M2  | Tiền mặt **chạm 50tr** (mở trần đầu tư)                    | MONTHLY_TRACKER T11           |
-| M2  | Tiền mặt **chạm 70tr** = đủ học phí Thạc sĩ                | MONTHLY_TRACKER T12           |
+| M2  | Tiền mặt **chạm 43tr** = đủ học phí Thạc sĩ năm 1          | MONTHLY_TRACKER T11-T12       |
+| M2  | Tiền mặt **chạm 50tr** (mở trần đầu tư)                    | MONTHLY_TRACKER T12           |
 | M3  | Gym 4 buổi/tuần đều + đo InBody mỗi tháng                  | 3 lần đo InBody               |
 | M4  | Nắm rõ yêu cầu tuyển sinh Thạc sĩ UIT                      | Có file checklist hồ sơ       |
 | M5  | Quỹ mẹ 2tr/tháng - không sót tháng nào (chạy đến 2036)     | 3/3 tháng                     |
@@ -35,16 +35,24 @@
 | Mã  | Mốc quý                                                    | Đo bằng gì                    |
 | --- | ---------------------------------------------------------- | ----------------------------- |
 | M1  | Mock TOEIC đạt 700+ → đăng ký thi thật                     | Điểm mock                     |
-| M2  | Tiền mặt ≥ 100tr (dư an toàn sau khi trả học phí)          | MONTHLY_TRACKER T06           |
+| M2  | Giữ quỹ 43tr học phí năm 1 nguyên vẹn + tiếp tục tiết kiệm | MONTHLY_TRACKER T06           |
 | M4  | Hồ sơ Thạc sĩ hoàn chỉnh, chỉ chờ nộp                      | Checklist 100%                |
 
-### Q3/2027 (T07 → T09) - _"Vào trường"_ 🎓
+### Q3/2027 (T07 → T09) - _"Nộp hồ sơ"_
 
 | Mã  | Mốc quý                                                    | Đo bằng gì                    |
 | --- | ---------------------------------------------------------- | ----------------------------- |
-| M4  | 🎓 **ĐĂNG KÝ THẠC SĨ CNTT QUẢN LÝ - UIT**                  | Đã nộp hồ sơ                  |
-| M2  | Trả 70tr học phí                                           | Giao dịch trong sổ            |
+| M4  | Theo dõi thông báo tuyển sinh Đợt 2/2027 (T08)             | Đã có thông báo chính thức    |
+| M4  | 🎓 **NỘP HỒ SƠ THẠC SĨ CNTT QUẢN LÝ - UIT** (T09 → đầu T10) | Đã nộp hồ sơ                  |
 | M1  | Thi TOEIC chính thức 700+                                  | Bảng điểm                     |
+
+### Q4/2027 (T10 → T12) - _"Vào trường"_ 🎓
+
+| Mã  | Mốc quý                                                    | Đo bằng gì                    |
+| --- | ---------------------------------------------------------- | ----------------------------- |
+| M4  | Phỏng vấn chuyên môn (T11/2027)                            | Có kết quả trúng tuyển        |
+| M4  | 🎓 Khai giảng Thạc sĩ UIT (T12/2027)                       | Nhập học                      |
+| M2  | Trả 43tr học phí năm 1                                     | Giao dịch trong sổ            |
 
 ---
 
@@ -56,9 +64,9 @@
 | ------- | ---------- | ---------- | --------------- |
 | **S1**  | 12/10/2026 | 25/10/2026 | 🏃 Khởi động lại (L3 + sạch nợ) |
 | S2      | 26/10/2026 | 08/11/2026 | 🏃              |
-| S3      | 09/11/2026 | 22/11/2026 | 🏃 (Chạm trần 50tr) |
+| S3      | 09/11/2026 | 22/11/2026 | 🏃 (Đủ 43tr học phí năm 1) |
 | **S4**  | 23/11/2026 | 06/12/2026 | 🔋 **NGHỈ**     |
-| S5      | 07/12/2026 | 20/12/2026 | 🏃 (Đủ 70tr học phí) |
+| S5      | 07/12/2026 | 20/12/2026 | 🏃 (Chạm trần 50tr) |
 | S6      | 21/12/2026 | 03/01/2027 | 🏃 (Tết Dương lịch) |
 | S7      | 04/01/2027 | 17/01/2027 | 🏃              |
 | **S8**  | 18/01/2027 | 31/01/2027 | 🔋 **NGHỈ**     |
@@ -78,9 +86,9 @@
 | S17     | 24/05/2027 | 06/06/2027 | 🏃              |
 | S18     | 07/06/2027 | 20/06/2027 | 🏃              |
 | S19     | 21/06/2027 | 04/07/2027 | 🏃              |
-| **S20** | 05/07/2027 | 18/07/2027 | 🎓 **ĐĂNG KÝ THẠC SĨ UIT** |
+| S20     | 05/07/2027 | 18/07/2027 | 🏃              |
 
-> Lịch tới đây là đủ. Qua T07/2027 sẽ lên lại theo tình hình lúc đó - đừng plan xa hơn.
+> Lịch tới đây là đủ. Qua T07/2027 sẽ lên lại theo tình hình lúc đó (mốc nộp hồ sơ Thạc sĩ T09-T10/2027 đã có ở bảng Mốc Quý) - đừng plan xa hơn.
 
 ---
 
@@ -108,5 +116,5 @@
 
 ---
 
-_Cập nhật: 13/09/2026 (V9 - Đồng bộ mốc M5 sang quỹ mẹ 500tr/2036. Giữ nguyên: reset từ S1 =
+_Cập nhật: 15/10/2026 (Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027). Trước đó: 13/09/2026 (V9 - Đồng bộ mốc M5 sang quỹ mẹ 500tr/2036. Giữ nguyên: reset từ S1 =
 14/09/2026, bảng Mốc Quý, đích đăng ký Thạc sĩ UIT T07/2027.)_

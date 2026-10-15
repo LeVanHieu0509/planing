@@ -48,7 +48,7 @@ Nguyên tắc: PHÁT TRIỂN BẢN THÂN TRƯỚC - không phải để "xứng 
   1. Vóc dáng & da đang trong quá trình cải thiện (gym từ đầu năm, chữa da từ T09/2026)
   2. Cần tài chính tối thiểu ổn định - đủ để một mình duy trì được ngay cả khi
      bước vào hôn nhân, không phụ thuộc "có đôi mới đủ sống"
-  3. T07/2027 bắt đầu Thạc sĩ - muốn vào giai đoạn đó với nền tảng vững, không phải
+  3. T12/2027 bắt đầu Thạc sĩ - muốn vào giai đoạn đó với nền tảng vững, không phải
      vừa học vừa lo tài chính hay ngoại hình
 ```
 
@@ -70,7 +70,7 @@ Nghề nghiệp:      Ưu tiên giáo viên hoặc bác sĩ - nghề ổn địn
                   và hợp với giai đoạn anh đi học Thạc sĩ + giảng dạy sau này (2027+)
 Điều kiện cần đủ trước khi nghiêm túc:
                   ✅ Vóc dáng & da cải thiện rõ (không cần hoàn hảo)
-                  ✅ Tài chính tối thiểu ổn định (xem M2 - liên quan mục tiêu 70tr & quỹ mẹ)
+                  ✅ Tài chính tối thiểu ổn định (xem M2 - liên quan mục tiêu 43tr học phí & quỹ mẹ)
 ```
 
 ### Nguyên tắc trong lúc tìm hiểu (mở app hẹn hò, gặp gỡ...)
@@ -96,7 +96,7 @@ TUYỆT ĐỐI KHÔNG HI SINH VÌ BẤT KỲ MỐI QUAN HỆ NÀO:
   ❌ Giấc ngủ 23:30
   ❌ Lớp tiếng Anh T3+T5+CN (đã trả tiền L2+L3)
   ❌ Quỹ mẹ 2tr/tháng
-  ❌ Kế hoạch tiết kiệm 70tr học phí Thạc sĩ
+  ❌ Kế hoạch tiết kiệm 43tr học phí Thạc sĩ năm 1
 ```
 
 > "Plan không bị phá, chỉ được điều chỉnh có ý thức."
@@ -124,7 +124,7 @@ TUYỆT ĐỐI KHÔNG HI SINH VÌ BẤT KỲ MỐI QUAN HỆ NÀO:
 
 ---
 
-_Cập nhật: 15/10/2026 (Đồng bộ số liệu giữa các file). Trước đó: 13/09/2026 (V4 - Viết lại toàn bộ theo hệ thống mới, bỏ Epic E6/Story Point. Thêm kế
+_Cập nhật: 15/10/2026 (Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027; Đồng bộ số liệu giữa các file). Trước đó: 13/09/2026 (V4 - Viết lại toàn bộ theo hệ thống mới, bỏ Epic E6/Story Point. Thêm kế
 hoạch "Bạn đời" chốt 13/09/2026: ưu tiên phát triển bản thân trước, dự kiến tìm hiểu nghiêm túc
 cuối 2026, khu vực miền Trung (Nghệ An-Đà Nẵng, Nha Trang trở ra), ưu tiên nghề giáo viên/bác sĩ.
 Reset bảng tracking theo Sprint S1 mới.)_

@@ -32,7 +32,7 @@ CHÊNH THẬT:                   ~2,200,000   (không phải 13tr)
 > ⚖️ **ÁP DỤNG NGUYÊN TẮC KẾ TOÁN THỰC THỂ & THANH KHOẢN (5 GIỎ TÀI CHÍNH):**
 >
 > 1. **Giỏ 1 - Ngoại bảng (Thu/Chi hộ & Giữ hộ):** Tiền mẹ gửi giữ hộ (12.0M) & Tiền trọ thu hộ (đã hoàn tất đóng 8M ngày 16/10) hoàn toàn loại khỏi tài sản của Hiếu.
-> 2. **Giỏ 2 - Tiền mặt thanh khoản cao (T+0):** Tiền mặt thực tế của Hiếu dùng cho sinh hoạt, Emergency Fund & Quỹ Thạc sĩ 70M.
+> 2. **Giỏ 2 - Tiền mặt thanh khoản cao (T+0):** Tiền mặt thực tế của Hiếu dùng cho sinh hoạt, Emergency Fund & Quỹ học phí Thạc sĩ năm 1 43M.
 > 3. **Giỏ 3 - Đầu tư bot trading linh hoạt (T+1/T+2):** OKX 8M (Toàn bộ 8M gộp chạy bot tự động, tự sinh lời/lỗ).
 > 4. **Giỏ 4 - Tích sản dài hạn (Crypto Locked):** Binance 78,262 W (~30M thị giá; vốn gốc nạp 111.5M) - tài sản ròng thật, nhưng khóa không dùng cho chi tiêu.
 > 5. **Giỏ 5 - Quỹ phụng dưỡng gia đình:** Quỹ mẹ 500tr (đã đóng 8M) theo [QUY_ME_500TR.md](./QUY_ME_500TR.md).
@@ -73,7 +73,7 @@ CHÊNH THẬT:                   ~2,200,000   (không phải 13tr)
 >    - **Vốn gốc thực tế đã nạp (04/2024 → nay):** **111,495,612 VND** (111.5 triệu đồng - Đã đối soát qua dữ liệu lệnh P2P).
 >    - **Giá trị thị trường hiện tại (15/10/2026):** **30,000,000 VND** (Thị giá: ~đ383.33 / W).
 >    - **Trạng thái so với vốn gốc:** Âm -81.50 triệu VND (-73.1%).
->    - **Phân loại kế toán:** Tài sản tích sản dài hạn biến động cao. Bảng cân đối tài sản ròng ghi nhận theo **Giá thị trường hiện tại (30.0M)** để đảm bảo nguyên tắc Thận trọng, tuyệt đối **KHÔNG tính vào tiền mặt để tiêu**, không dùng để thay thế cho Quỹ học phí Thạc sĩ 70M.
+>    - **Phân loại kế toán:** Tài sản tích sản dài hạn biến động cao. Bảng cân đối tài sản ròng ghi nhận theo **Giá thị trường hiện tại (30.0M)** để đảm bảo nguyên tắc Thận trọng, tuyệt đối **KHÔNG tính vào tiền mặt để tiêu**, không dùng để thay thế cho Quỹ học phí Thạc sĩ 43M.
 > 3. **Quỹ mẹ 500tr (đã gửi 8tr):** Thuộc về mẹ theo [QUY_ME_500TR.md](./QUY_ME_500TR.md) (vừa đóng 2M ngày 11/10), không tính vào tài sản cá nhân để tiêu xài. Khi đạt 100M sẽ rút lãi nuôi mẹ.
 
 ### Cơ cấu tài sản ròng toàn diện theo thị giá (~62.8tr - cập nhật 16/10/2026)
@@ -165,7 +165,7 @@ Nếu có sự cố (ốm, hỏng laptop, mất việc) mà tiền đang kẹt t
 
 | Cột mốc          | Điều kiện giá W | Hành động                 | Số lượng bán | Doanh thu dự kiến (USD) | Quy đổi VND (P2P ~26,112) | Tác động tài chính                                                               |
 | :--------------- | :-------------: | :------------------------ | :----------: | :---------------------: | :-----------------------: | :------------------------------------------------------------------------------- |
-| **🎯 TARGET 1**  |    **$0.70**    | **Bán 50% số lượng**      | **39,131 W** |    **~$27,392 USD**     |   **~715,260,000 VND**    | Thu hồi vốn gốc (111.5M) + Lãi ròng ~603M. Vượt xa học phí Thạc sĩ 70M!          |
+| **🎯 TARGET 1**  |    **$0.70**    | **Bán 50% số lượng**      | **39,131 W** |    **~$27,392 USD**     |   **~715,260,000 VND**    | Thu hồi vốn gốc (111.5M) + Lãi ròng ~603M. Vượt xa học phí Thạc sĩ 90M (2 năm)!          |
 | **🎯 TARGET 2**  |    **$1.50**    | **Bán 100% phần còn lại** | **39,131 W** |    **~$58,697 USD**     |  **~1,532,700,000 VND**   | Chốt lời dứt điểm toàn bộ danh mục W                                             |
 | 🏆 **TỔNG CỘNG** |                 |                           | **78,262 W** |    **~$86,089 USD**     |  **~2,247,960,000 VND**   | **~2.25 TỶ ĐỒNG** (x20 lần vốn gốc 111.5M ➔ Vượt mục tiêu Tự do tài chính 2 tỷ!) |
 
@@ -274,5 +274,5 @@ cá nhân của anh. Đã bỏ khỏi bảng tổng tài sản phía trên.
 
 ---
 
-_Cập nhật: 13/09/2026 (V2 - Chốt hụi 4tr T08 thuộc quỹ mẹ 500tr, bỏ khỏi bảng tài sản (còn 46.4tr).
+_Cập nhật: 15/10/2026 (Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027). Trước đó: 13/09/2026 (V2 - Chốt hụi 4tr T08 thuộc quỹ mẹ 500tr, bỏ khỏi bảng tài sản (còn 46.4tr).
 Giữ nguyên: tách bạch Tiền mặt/Đầu tư/Phải thu, trần đầu tư 50tr, Bot OKX = dự án cá nhân.)_

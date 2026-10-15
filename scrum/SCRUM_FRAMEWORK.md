@@ -45,9 +45,9 @@
 | Mã     | Mục tiêu              | Đích đến                                          | Deadline  |
 | ------ | --------------------- | ------------------------------------------------- | --------- |
 | **M1** | 🗣️ Tiếng Anh          | Giao tiếp tự tin · phỏng vấn outsource được       | T07/2027  |
-| **M2** | 💰 Tiền               | 70tr học phí Thạc sĩ · rồi tới 2 tỷ               | T07/2027  |
+| **M2** | 💰 Tiền               | 43tr học phí Thạc sĩ năm 1 · rồi tới 2 tỷ         | T12/2027  |
 | **M3** | 💪 Sức khoẻ           | 75kg · ngủ đủ · gym đều                           | 2027      |
-| **M4** | 🎓 Học vấn & Nghề     | Thạc sĩ CNTT Quản lý (UIT) → giảng viên           | Đăng ký T07/2027 |
+| **M4** | 🎓 Học vấn & Nghề     | Thạc sĩ CNTT Quản lý (UIT) → giảng viên           | Nộp hồ sơ T09-T10/2027 |
 | **M5** | ❤️ Gia đình & Quan hệ | Quỹ mẹ 500tr - gửi quê đều đến 2036 · giữ kết nối bạn bè | Liên tục  |
 
 ### 🧊 Đóng băng (không đưa vào sprint, không nhắc tới)
@@ -155,5 +155,5 @@ CHỦ NHẬT 21:00 - 21:15  (chỉ sprint cuối, tức 2 tuần/lần)
 
 ---
 
-_Cập nhật: 15/10/2026 (Đồng bộ số liệu giữa các file). Trước đó: 13/09/2026 (V7 - Đồng bộ M5 sang quỹ mẹ 500tr/2036. Giữ nguyên: bỏ SP, bỏ daily
+_Cập nhật: 15/10/2026 (Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027; Đồng bộ số liệu giữa các file). Trước đó: 13/09/2026 (V7 - Đồng bộ M5 sang quỹ mẹ 500tr/2036. Giữ nguyên: bỏ SP, bỏ daily
 standup, bỏ task TMA/BIT, 5 mục tiêu, tối đa 5 việc/sprint, mỗi việc phải gắn mốc dài hạn.)_

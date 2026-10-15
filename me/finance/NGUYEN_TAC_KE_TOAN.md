@@ -83,9 +83,9 @@ Những dòng tiền này **nằm trong tài khoản ngân hàng của Hiếu**,
 
 ## 🎯 5. NGUYÊN TẮC QUẢN TRỊ THANH KHOẢN & MỤC TIÊU LỚN
 
-1. **Ưu tiên 1 - Bảo vệ Quỹ Thạc sĩ UIT (Target 70M T07/2027):**
+1. **Ưu tiên 1 - Bảo vệ Quỹ Thạc sĩ UIT (Target 43M học phí năm 1, đóng T12/2027):**
    - Tiền mặt thực tế hiện có: **28.78M** (sau khi đã nộp xong 8M trọ T10).
-   - Dự kiến cán mốc 70M tiền mặt: **T12/2026 - T02/2027** (sớm trước hạn 5-7 tháng).
+   - Dự kiến cán mốc 43M tiền mặt: **T11/2026 - T12/2026** (sớm trước hạn đóng khoảng 1 năm).
 2. **Ưu tiên 2 - Quản trị nghĩa vụ trọ & nợ:**
    - Trọ T10 (8M): ✅ **Đã hoàn tất thanh toán 8,000,000đ** ngày 16/10 qua VCB cho PHAM THI THOA.
    - Nợ ngắn hạn còn lại: 4.0M (Hiệp 1M + Shopee 1.5M + Duy Tiên 1.5M trả góp 500k/tháng). Tiền mặt tự do sau khi thanh toán hết vẫn còn tới **24.78M**.
@@ -95,4 +95,4 @@ Những dòng tiền này **nằm trong tài khoản ngân hàng của Hiếu**,
 
 ---
 
-_Cập nhật: 15/10/2026 (Sửa nợ còn lại 2.5M → 4.0M cho khớp T10_2026_GIAO_DICH.md, thêm khoản Duy Tiên 1.5M)._
+_Cập nhật: 15/10/2026 (Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027; Sửa nợ còn lại 2.5M → 4.0M cho khớp T10_2026_GIAO_DICH.md, thêm khoản Duy Tiên 1.5M)._

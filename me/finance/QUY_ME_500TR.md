@@ -19,7 +19,7 @@
 
 ```
 🌱 GIAI ĐOẠN 1: TÍCH LUỸ TẬP TRUNG (0 ➔ 100 TRIỆU)
-- Tiền nạp: 2,000,000 VND/tháng. Tối ưu mới: **Nâng lên 5,000,000 VND/tháng từ T02/2027** (ngay khi hoàn tất tiền tiết kiệm 70tr Thạc sĩ).
+- Tiền nạp: 2,000,000 VND/tháng. Tối ưu mới: **Nâng lên 5,000,000 VND/tháng từ T02/2027** (khi quỹ học phí Thạc sĩ năm 1 43tr đã an toàn).
 - Cơ chế lãi: Toàn bộ tiền lãi sinh ra được tái tục 100% (lãi mẹ đẻ lãi con) để chạm mốc 100tr nhanh nhất.
 - Thời gian dự kiến (Tối ưu 12/10): **Giữa năm 2028** (Nhanh hơn kế hoạch cũ 1 năm).
 
@@ -55,7 +55,7 @@ Mẹ phải bù thêm:           ~181,000,000   để đạt 500tr
 | **3,150,000** | **~500tr**               | ✅             |
 | **5,000,000** | **~790tr**               | ✅ (Sẽ đạt 100tr cực nhanh vào giữa 2028) |
 
-> ⚡ **TỐI ƯU 12/10/2026:** Từ T02/2027, khi quỹ Thạc sĩ đã an toàn 70tr, sẽ dùng khoản dôi dư nâng ngay mức nạp lên 5tr/tháng để đẩy nhanh thời gian chạm mốc 100tr đầu tiên xuống giữa 2028 (nhanh hơn 1 năm so với 2029). Đạt mốc 100tr để sớm rút lãi cho mẹ tiêu xài.
+> ⚡ **TỐI ƯU 12/10/2026:** Từ T02/2027, khi quỹ học phí Thạc sĩ năm 1 (43tr) đã an toàn, sẽ dùng khoản dôi dư nâng ngay mức nạp lên 5tr/tháng để đẩy nhanh thời gian chạm mốc 100tr đầu tiên xuống giữa 2028 (nhanh hơn 1 năm so với 2029). Đạt mốc 100tr để sớm rút lãi cho mẹ tiêu xài.
 
 ---
 
@@ -96,7 +96,7 @@ Mẹ phải bù thêm:           ~181,000,000   để đạt 500tr
 1. 2tr/tháng - KHÔNG BAO GIỜ cắt, kể cả tháng khó khăn nhất
 2. Đây là khoản ĐẦU TIÊN chuyển đi mỗi khi nhận lương, trước mọi khoản khác
 3. Không tính vào tài sản cá nhân của anh (không lấy lại)
-4. Không tính vào mục tiêu 70tr học phí Thạc sĩ (2 quỹ hoàn toàn tách biệt)
+4. Không tính vào mục tiêu 43tr học phí Thạc sĩ năm 1 (2 quỹ hoàn toàn tách biệt)
 5. Nếu có tháng dư nhiều → có thể gửi thêm, nhưng không bao giờ gửi ít hơn 2tr
 6. Chạy đến T08/2036 (120 tháng) - không phải 2030 nữa
 7. MỐC 100TR ĐỘT PHÁ: Bắt đầu trích toàn bộ tiền lãi gửi mẹ tiêu xài định kỳ, giữ nguyên 100tr gốc
@@ -127,7 +127,7 @@ Khoản này khác. Và nó cũng là khoản dễ bị cắt nhất khi khó kh
 
 ---
 
-_Cập nhật: 13/09/2026 (V2 - Chốt phương án B (10 năm, đến T08/2036, gốc 240tr). Chuyển file từ
+_Cập nhật: 15/10/2026 (Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027). Trước đó: 13/09/2026 (V2 - Chốt phương án B (10 năm, đến T08/2036, gốc 240tr). Chuyển file từ
 `Claude outputs/` vào `me/finance/`. Đồng bộ mốc 2036 sang TAI_CHINH_2026_2028.md, MASTER_PLAN.md,
 START_HERE.md, MONTHLY_TRACKER.md. V1 gốc: Tách "gửi quê/đóng phường" thành quỹ riêng cho mẹ,
 mục tiêu 500tr. Khoản hụi 4tr T08 chốt là thuộc quỹ này, không lấy lại.)_

@@ -37,7 +37,8 @@ _- **Tổng TS Ròng Toàn diện:** 62,776,876 VND (đã cộng danh mục 78,2
 | ------------------------------ | ------------ | ------------------ | ------ |
 | Emergency Fund 30tr            | T07/2026     | Đầu T08            | [x] ✅ |
 | Tiền mặt 50tr (mở trần đầu tư) | T11/2026     |                    | [ ]    |
-| **70tr - học phí Thạc sĩ**     | **T07/2027** | Dự kiến sớm T12/26 | [ ]    |
+| Tiền mặt 43tr (học phí năm 1)  | T11-T12/2026 |                    | [ ]    |
+| **Đóng 43tr học phí Thạc sĩ năm 1** | **T12/2027** |               | [ ]    |
 | Lũy kế 200tr                   | T09/2027     |                    | [ ]    |
 
 ---
@@ -209,6 +210,6 @@ DỰ KIẾN CUỐI T09:    ~29,500,000 tiền mặt
 
 ---
 
-_Cập nhật: 13/09/2026 (V7 - Chốt hụi 4tr T08 thuộc quỹ mẹ 500tr (xem QUY_ME_500TR.md). Giữ nguyên:
+_Cập nhật: 15/10/2026 (Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027). Trước đó: 13/09/2026 (V7 - Chốt hụi 4tr T08 thuộc quỹ mẹ 500tr (xem QUY_ME_500TR.md). Giữ nguyên:
 tách 3 cột Chi tiêu/Đầu tư/Phải thu, đính chính T08 chênh thật 2.2tr, 3,749,181 = chi không
 kiểm soát, Shopee = đồ dùng cá nhân, mốc 70tr T07/2027.)_

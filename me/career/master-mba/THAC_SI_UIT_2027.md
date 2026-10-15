@@ -1,11 +1,11 @@
-# 🎓 THẠC SĨ CÔNG NGHỆ THÔNG TIN QUẢN LÝ - UIT (ĐĂNG KÝ T07/2027)
+# 🎓 THẠC SĨ CÔNG NGHỆ THÔNG TIN QUẢN LÝ - UIT (NỘP HỒ SƠ T09-T10/2027)
 
 > 💡 _Gợi ý: nên đổi tên file này thành `THAC_SI_UIT_2027.md` cho khớp nội dung._
 >
 > **Trường:** Đại học Công nghệ Thông tin (UIT) - Đại học Quốc gia TP.HCM
 > **Ngành:** Công nghệ Thông tin Quản lý
-> **Mốc đăng ký:** **T07/2027**
-> **Học phí cần:** **70,000,000 VND**
+> **Mốc nộp hồ sơ:** **T09-T10/2027** (Đợt 2/2027) · Phỏng vấn T11/2027 · Khai giảng T12/2027
+> **Học phí cần:** **43,000,000 VND** (năm 1, đóng T12/2027) · Năm 2: 47,000,000 (~T12/2028)
 > **Mục tiêu lớn:** M4 - Học vấn & Nghề
 > **Cập nhật:** 13/09/2026
 
@@ -19,11 +19,11 @@
 ✅ Hình thức:  Học 100% ngoài giờ hành chính (80% ở Thủ Đức, 20% ở Quận 1)
 ✅ Thời điểm:  Hạn chót nộp hồ sơ ~T10/2027 (Khai giảng T12/2027)
 ✅ Học phí:    Tổng 90tr (Năm 1: 43tr, Năm 2: 47tr)
-✅ Tài chính:  Mục tiêu 70tr tiền mặt ban đầu dư sức đóng Năm 1 (43tr)
+✅ Tài chính:  Mục tiêu tiết kiệm 43tr = đủ học phí Năm 1 (chốt 15/10/2026)
 ```
 
 > **Trước đây** file này liệt kê 4 trường (HCMUT, UIT, Open Uni, Văn Hiến) và để ngỏ đến 2028.
-> **Giờ đã chốt UIT + T07/2027** → không cần phân vân nữa, chỉ còn việc chuẩn bị.
+> **Giờ đã chốt UIT + nộp hồ sơ T09-T10/2027** → không cần phân vân nữa, chỉ còn việc chuẩn bị.
 
 ---
 
@@ -33,16 +33,16 @@
 | ---------------------------- | ------------------------------- |
 | Tổng học phí (2 năm)         | **90,000,000** (Năm 1: 43tr, Năm 2: 47tr) |
 | Tiền cần đóng lúc nhập học   | **~43,000,000**                 |
-| Mục tiêu tiền mặt tiết kiệm  | **70,000,000** (Đến T07/2027)   |
-| Tiền mặt hiện có (13/09/26)  | 33,407,650                      |
-| Còn thiếu so với 70tr        | 36,592,350                      |
-| Thời gian còn lại            | ~10 tháng                       |
-| Cần để dành mỗi tháng        | **~3.7tr**                      |
+| Mục tiêu tiền mặt tiết kiệm  | **43,000,000** (học phí năm 1, đóng T12/2027) |
+| Tiền mặt hiện có (16/10/26)  | 28,776,876                      |
+| Còn thiếu so với 43tr        | 14,223,124                      |
+| Thời gian còn lại            | ~14 tháng (đến T12/2027)        |
+| Cần để dành mỗi tháng        | **~1tr**                        |
 | Khả năng tiết kiệm thực tế   | **~14tr/tháng**                 |
-| Dự kiến đủ 70tr              | **T12/2026 - T02/2027**         |
+| Dự kiến đủ 43tr              | **T11/2026 - T12/2026**         |
 
-> ✅ **PHÂN TÍCH TÀI CHÍNH:** Học phí tổng là 90tr, nhưng năm 1 chỉ cần đóng 43tr.
-> Việc giữ mục tiêu tiết kiệm **70tr vào T07/2027** là cực kỳ an toàn. Bạn sẽ dư ra khoảng 27tr sau khi đóng học phí năm 1. Không cần phải vay Hiệp!
+> ✅ **PHÂN TÍCH TÀI CHÍNH:** Học phí tổng là 90tr, nhưng năm 1 chỉ cần đóng 43tr vào T12/2027.
+> Mục tiêu tiết kiệm **43tr** sẽ đạt sớm (T11-T12/2026), trước hạn đóng hơn 1 năm. Năm 2 (47tr, ~T12/2028) tích luỹ tiếp từ lương. Không cần vay Hiệp!
 
 **Nguyên tắc:** tiền học phí để ở **tiền mặt**, không bỏ vào crypto/bot.
 Xem [DAU_TU.md](../../finance/DAU_TU.md) - đang có trần không bơm thêm cho đến khi tiền mặt ≥ 50tr.
@@ -105,17 +105,18 @@ Xem [DAU_TU.md](../../finance/DAU_TU.md) - đang có trần không bơm thêm ch
 - [ ] **Câu chuyện "Vì sao học Thạc sĩ?":** Chuẩn bị sẵn một logic sắc bén: *Kinh nghiệm 4 năm Dev thực chiến ➔ Cần đào sâu nền tảng học thuật (Khoa học máy tính) để thiết kế hệ thống lớn hơn ➔ Mục tiêu xa là trở thành Giảng viên Đại học (2029) để truyền đạt kinh nghiệm thực tế.*
 - [ ] **Ôn lại kiến thức nền (Khi có email chủ đề):** Gần ngày phỏng vấn, trường sẽ gửi chủ đề. Lúc đó chỉ cần lướt lại các khái niệm lõi (Cấu trúc dữ liệu, Kiến trúc máy tính, Hệ điều hành).
 
-### Bước 4 - Nộp (T07/2027)
+### Bước 4 - Nộp (T09-T10/2027)
 
-- [ ] 🎓 Nộp hồ sơ
-- [ ] Đóng học phí
+- [ ] 🎓 Nộp hồ sơ (online + bản cứng, hạn chót thường đầu T10/2027)
+- [ ] Phỏng vấn chuyên môn (T11/2027)
+- [ ] Đóng học phí năm 1 - 43tr (T12/2027)
 
 ---
 
 ## ⏳ TIMELINE CHI TIẾT (ĐỢT 2 - 2027)
 
 ```
-T09-T12/2026   Tích luỹ đủ 70tr tiền mặt ban đầu
+T10-T12/2026   Tích luỹ đủ 43tr tiền mặt (học phí năm 1)
 T01-T05/2027   Gom giấy tờ, khám sức khỏe, chụp ảnh 3x4
 T08/2027       Trường ra thông báo tuyển sinh Đợt 2/2027
 T09/2027       Nộp hồ sơ trực tuyến + bản cứng (Hạn chót thường vào đầu T10)
@@ -169,11 +170,11 @@ T12/2027       Khai giảng & Đóng học phí năm 1 (43tr)
 
 | File                                                                     | Vai trò                       |
 | ------------------------------------------------------------------------ | ----------------------------- |
-| [../../finance/TAI_CHINH_2026_2028.md](../../finance/TAI_CHINH_2026_2028.md) | Kế hoạch 70tr             |
+| [../../finance/TAI_CHINH_2026_2028.md](../../finance/TAI_CHINH_2026_2028.md) | Kế hoạch 43tr học phí năm 1 |
 | [../../finance/DAU_TU.md](../../finance/DAU_TU.md)                       | Trần đầu tư - bảo vệ học phí  |
 | [../../../scrum/SPRINT_CALENDAR.md](../../../scrum/SPRINT_CALENDAR.md)   | Mốc quý M4                    |
 | [../../../MASTER_PLAN.md](../../../MASTER_PLAN.md)                       | 5 mục tiêu lớn                |
 
 ---
 
-_Cập nhật: 13/09/2026 (V4 - Chốt UIT ngành CNTT Quản lý, đăng ký T07/2027, học phí 70tr, dự phòng vay Hiệp. Thay thế hoàn toàn bản "Thạc sĩ CS 2028" cũ.)_
+_Cập nhật: 15/10/2026 (Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027). Trước đó: 13/09/2026 (V4 - Chốt UIT ngành CNTT Quản lý, đăng ký T07/2027, học phí 70tr, dự phòng vay Hiệp. Thay thế hoàn toàn bản "Thạc sĩ CS 2028" cũ.)_
