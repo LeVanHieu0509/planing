@@ -67,6 +67,15 @@ Mục tiêu đầu ra:
 → Đây là mốc kết thúc 6 tháng immersion (14/07/2026 → 12/01/2027)
 ```
 
+> ⚡ **CHIẾN LƯỢC ACTIVE RECALL 15 PHÚT MỖI TUẦN CHO LEVEL 3 (Khắc phục quên từ & nói câu dài):**
+>
+> 1. **Quy tắc 3x3 Chunks:** Mỗi buổi chọn 3-5 cụm từ ngữ cảnh (không học từ đơn lẻ).
+> 2. **Công thức 3 Nấc kéo dài câu:** `[Câu ngắn] + because (lý do) + which means that (hệ quả) + especially when (ví dụ)`.
+> 3. **Voice Memo 60-90s:** Tối T4 và T6 bật ghi âm nói to tóm tắt chủ đề buổi trước.
+> 4. **Hồi sinh 1 chủ đề Level 2 cũ (Thứ Bảy):** Mỗi tuần kích hoạt lại 1 chủ đề cũ theo [LEVEL_2_RETROSPECTIVE.md](./LEVEL_2_RETROSPECTIVE.md).
+> 5. **Xả từ vựng Chủ Nhật:** Dùng các cụm từ mới vào buổi lớp Phản Xạ cuối tuần.
+>    📝 **Sổ theo dõi chủ đề Level 3:** [LEVEL_3_TOPIC_LOG.md](./LEVEL_3_TOPIC_LOG.md) · **Ôn tập Level 2:** [LEVEL_2_RETROSPECTIVE.md](./LEVEL_2_RETROSPECTIVE.md)
+
 ### Giai đoạn 3 - Level 4 (~T02 → T04/2027)
 
 ```

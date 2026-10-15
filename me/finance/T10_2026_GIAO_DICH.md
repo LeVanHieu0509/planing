@@ -106,20 +106,24 @@
 | 10/10    | Mua giày              | **VCB**                   | 2,190,000      | Chuyển khoản thanh toán bên bán giày (MBVCB trừ ngày 10/10)              |
 | **Tổng** |                       |                           | **24,190,000** |                                                                          |
 
-### 2. Trọ & Điện mạng (Cơ chế Phòng 4 Anh Em chia đều ~10.5M)
+### 2. Trọ, Điện & Phí Chung Cư (Cơ chế Phòng 4 Anh Em chia đều)
 
-> ⚖️ **NGUYÊN TẮC KẾ TOÁN VÀNG (THU HỘ / CHI HỘ TIỀN PHÒNG):**
-> Toàn bộ dòng tiền thu/chi phòng ~10.5M được tách riêng hoàn toàn theo cơ chế **thu hộ / chi hộ**:
+> ⚖️ **NGUYÊN TẮC KẾ TOÁN VÀNG (THU HỘ / CHI HỘ TIỀN PHÒNG & 8.9M TIỀN NHÀ + PHÍ CHUNG CƯ):**
 >
-> 1. **Không tính vào thu nhập cá nhân:** Tiền các anh em phòng (Minh, Tuấn, Triều, Phát) chuyển khoản cho Hiếu là tiền gom hộ để đóng cho chủ nhà/điện lực, tuyệt đối **KHÔNG tính vào thu nhập cá nhân** (không làm ảo thu nhập).
-> 2. **Không đội chi tiêu cá nhân:** Tiền thanh toán tổng cho chủ nhà (8tr) và điện nước (~1.55M) là chi hộ cả phòng, tuyệt đối **KHÔNG tính toàn bộ vào chi tiêu cá nhân** (không đội chi phí ảo).
-> 3. **Chi tiêu thực của Hiếu:** Hiếu chỉ ghi nhận đúng **1/4 chi phí thực tế (~2,386,338 VND)** vào cột **Chi tiêu thuần**.
+> 🔒 **LƯU Ý CỐT LÕI TỪ HIẾU:**
+> - **Khoản 8,900,000 VND** (gồm **8,000,000 VND tiền trọ** đóng chủ nhà + **900,000 VND phí quản lý chung cư Topaz Home**) là **khoản chi phí chung của CẢ 4 NGƯỜI CÙNG Ở**.
+> - **Hiếu chỉ là người đại diện đứng ra gom tiền và chuyển khoản hộ cho cả phòng.**
+> - **Bản thân Hiếu CHỈ ĐÓNG ĐÚNG 1/4** (tức `8,900,000 / 4 =` **2,225,000 VND** cho tiền trọ & phí chung cư).
+> - Tính cả tiền điện nước tháng trước (1,545,350đ), tổng chi cả phòng là 10,445,350đ ➔ **1/4 phần thực tế của Hiếu là ~2,611,338 VND**.
+> - **Tuyệt đối KHÔNG tính cả cục 8.9M vào chi tiêu của Hiếu** (không đội chi phí ảo), và tiền anh em chuyển vào tài khoản Hiếu **tuyệt đối KHÔNG tính vào thu nhập** (không làm ảo thu nhập).
 
-| Khoản mục                             | Tổng chi phí  | Ghi chú                                                               |
-| ------------------------------------- | ------------- | --------------------------------------------------------------------- |
-| Tiền điện tháng trước (đã đóng 08/10) | 1,545,350     | Đã thanh toán trên VCB ngày 08/10                                     |
-| Tiền trọ tháng 10 (đã đóng 16/10)     | 8,000,000     | ✅ Đã chuyển VCB lúc 00:19 16/10 cho PHAM THI THOA (MB 1978197819789) |
-| **TỔNG CHI PHÍ CẢ PHÒNG XUẤT RA**     | **9,545,350** | **Chia đều 4 người = 2,386,338 VND / người**                          |
+| Khoản mục                             | Tổng chi phí cả phòng | Phần 1/4 của Hiếu | Ghi chú                                                               |
+| ------------------------------------- | --------------------- | ----------------- | --------------------------------------------------------------------- |
+| Tiền trọ tháng 10                     | 8,000,000             | 2,000,000         | ✅ Đã chuyển VCB lúc 00:19 16/10 cho chủ nhà PHAM THI THOA            |
+| Phí quản lý / dịch vụ chung cư Topaz  | 900,000               | 225,000           | ⏳ Hiếu đại diện trả, dự kiến thanh toán 17/10 hoặc 18/10             |
+| **Cộng tiền nhà & phí chung cư**      | **8,900,000**         | **2,225,000**     | **Khoản 4 người chia đều, Hiếu chỉ đại diện đóng hộ 1/4**             |
+| Tiền điện tháng trước (đã đóng 08/10) | 1,545,350             | 386,338           | Đã thanh toán trên VCB ngày 08/10                                     |
+| **TỔNG CHI PHÍ CẢ PHÒNG**             | **10,445,350**        | **2,611,338**     | **Chi phí thực tế xuất từ túi Hiếu cho chỗ ở T10 chỉ là ~2.61M**      |
 
 #### 👥 Bảng đối chiếu thu chi 4 anh em (Phát đã đổi qua cho Triều):
 
@@ -129,9 +133,9 @@
 | **Nguyễn Ngọc Tuấn**    | Đã đóng 3,146,000 VND           | ✅ Đã đóng đủ  | BIDV: 3.046M (05/10) + TCB: 100k (02/10)         |
 | **Triều** _(thay Phát)_ | Đã đóng tiền trọ hết            | ✅ Đã đóng đủ  | Triều nhận phòng thay Phát, đã đóng trọ          |
 | **Phát**                | Đã đóng tiền điện nước & phí    | ✅ Đã đóng đủ  | Phát hoàn tất phần tiền điện nước và phí         |
-| **Hiếu (bản thân)**     | Đã thanh toán 8M trọ ngày 16/10 | ✅ Đã hoàn tất | **Chi phí chỗ ở thực tế của Hiếu chỉ là ~2.39M** |
+| **Hiếu (người đại diện)**| Đã thanh toán 8M trọ ngày 16/10| ✅ Đã hoàn tất | **Hiếu chỉ gánh đúng 1/4 (chi phí thực chỉ ~2.61M)** |
 
-> 🌟 **KẾT QUẢ:** Tiền phòng trọ tháng 10 đã **ĐÓNG XONG 100% GỌN GÀNG**. Toàn bộ 4 anh em đã hoàn tất trách nhiệm, không ai nợ ai!
+> 🌟 **KẾT QUẢ:** Dòng tiền phòng rõ ràng 100%: 8.9M tiền nhà & phí chung cư là của 4 anh em, Hiếu chỉ là người đại diện đứng tên đóng hộ và chỉ chịu đúng 1/4!
 
 ### 3. Làm đẹp / Skincare / Sức khoẻ
 
@@ -237,6 +241,7 @@
 ## KẾ HOẠCH NỬA CUỐI THÁNG 10/2026
 
 - ✅ **Tiền trọ T10 (8,000,000 VND):** Đã hoàn tất chuyển khoản lúc 00:19 ngày 16/10 cho chủ nhà PHAM THI THOA.
+- ⏳ **Phí quản lý / dịch vụ chung cư Topaz Home (900,000 VND):** Dự kiến thanh toán vào ngày 17/10 hoặc 18/10.
 - ✅ **Thu tiền phòng 4 anh em:** Toàn bộ anh em (Minh, Tuấn, Triều, Phát) đã hoàn tất đóng tiền phòng T10 đủ 100%.
 - ✅ **Quỹ mẹ 2tr (Đóng phường):** Hoàn thành đóng 2,000,000 VND ngày 11/10 (Luỹ kế gốc đạt 8,000,000 VND).
 - 🔴 **Kế hoạch trả nợ:** Đã chuyển trả Hiệp 5,000,000 VND (15/10). Còn nợ Hiệp 1M, Shopee 1.5M và Duy Tiên 1.5M (trả góp 500k/tháng, tổng nợ 4M). Sạch trọ dứt điểm, tiền tự do còn 24.8M an toàn.

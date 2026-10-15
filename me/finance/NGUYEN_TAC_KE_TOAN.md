@@ -45,7 +45,7 @@ Những dòng tiền này **nằm trong tài khoản ngân hàng của Hiếu**,
 | Hạng mục                        | Số tiền hiện tại             | Bản chất kế toán                   | Quy tắc ứng xử                                                                                                                           |
 | :------------------------------ | :--------------------------- | :--------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------- |
 | **Tiền mẹ gửi nhờ giữ hộ**      | **12,000,000 VND**           | **Ủy thác giữ hộ (Ký thác)**       | Nằm trong BIDV. Luôn trừ thẳng ra khỏi số dư ngân hàng khi tính tiền của Hiếu. Không bao giờ được tiêu phạm vào.                         |
-| **Tiền phòng thu hộ từ anh em** | **5,817,762 VND**            | **Thu hộ / Chi hộ (Pass-through)** | Tiền Minh & Tuấn chuyển để gom đóng trọ chủ nhà 9M. Không tính vào thu nhập; khi xuất đóng cũng không tính cả cục vào chi tiêu của Hiếu. |
+| **Tiền phòng thu hộ từ anh em** | **Ngoại bảng (Pass-through)**| **Thu hộ / Chi hộ đại diện**       | Tổng tiền trọ & phí chung cư 8.9M (8M trọ + 900k phí CC) là của 4 người. Hiếu chỉ đại diện nộp hộ và chịu đúng 1/4 (2,225,000đ). Tuyệt đối không đội 8.9M vào chi tiêu của Hiếu. |
 | **Quỹ mẹ 500tr (Đóng phường)**  | **8,000,000 VND** _(lũy kế)_ | **Quỹ phụng dưỡng gia đình**       | Gửi đều 2M/tháng đến 2036. Không tính vào tài sản thanh khoản cá nhân. Mốc 100M trích lãi nuôi mẹ.                                       |
 
 ---
