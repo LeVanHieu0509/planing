@@ -104,10 +104,11 @@ T2  07:30 TOEIC P5/P7  →  19:30 GYM  →  21:30 LÀM BIT  →  22:30 Voice Mem
 T3  07:30 Lướt Chunks  →  19:15 ★ LỚP LEVEL 3 (SAIGON SPECIAL)  →  21:30 LÀM BIT  →  22:30 Đọc sách EN
 T4  07:30 Audio EN  →  18:30 ĐÁ BANH  →  21:00 🛋️ RELAX (không BIT, không học)
 T5  07:30 Lướt Chunks  →  19:15 ★ LỚP LEVEL 3 (SAIGON SPECIAL)  →  21:30 LÀM BIT  →  22:30 Đọc sách EN
-T6  07:30 TOEIC P5/P7  →  19:30 GYM  →  21:00 LÀM BIT  →  22:30 Voice Memo/ChatGPT Voice  →  22:45 Đọc sách EN
-T7  07:30 GYM  →  15:00 Hồi sinh bài L2 (LEVEL_2_RETROSPECTIVE.md)  →  16:30 LÀM BIT  →  19:30 LÀM BIT  →  21:30 Tech Podcast EN
+T6  07:30 TOEIC P5/P7  →  09:00 REMOTE TMA + BIT song song  →  19:30 GYM  →  21:00 Tự do  →  22:30 Voice Memo/ChatGPT Voice  →  22:45 Đọc sách EN
+T7  07:30 GYM  →  15:00 Hồi sinh bài L2 (LEVEL_2_RETROSPECTIVE.md)  →  19:30 LÀM BIT  →  21:30 Tech Podcast EN
 
-💻 BIT = 8 tiếng/tuần (T2 1h · T3 1h · T5 1h · T6 1.5h · T7 3.5h) · T4 + CN không làm BIT
+💻 BIT = 8 tiếng/tuần: 3h song song lúc remote (T2/T4 chiều, T6) + 5h tối (T2 · T3 · T5 1h, T7 2h) · tối T4/T6/CN không làm BIT
+🏠 TMA: T3 + T5 văn phòng · T2 + T4 sáng văn phòng, chiều remote tại nhà · T6 remote cả ngày
 CN  09:00 GYM  →  15:00 ★ LỚP PHẢN XẠ (Xả kho)  →  tối 🛋️ RELAX / đi chơi  (21:00 Check-in 15p cuối sprint)
 ```
 
