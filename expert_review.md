@@ -24,7 +24,7 @@ Sau quá trình thanh lọc hệ thống (loại bỏ Internship, đóng băng T
 
 Hệ thống kế toán cá nhân của Hiếu đã đạt đến mức độ **chuẩn mực chuyên nghiệp**:
 
-- **Minh bạch hóa Dòng Tiền:** Việc bóc tách rõ ràng 10.5tr tiền trọ (thu/chi hộ) và 12.5tr (tiền giữ hộ mẹ) ra khỏi khối tài sản cá nhân giúp triệt tiêu hoàn toàn "ảo giác giàu có". Tiền mặt thực tế **37,199,702 VNĐ** là một con số phản ánh đúng thực lực.
+- **Minh bạch hóa Dòng Tiền:** Việc bóc tách rõ ràng tiền trọ (thu/chi hộ, đã hoàn tất đóng 8M T10 ngày 16/10) và 12.0tr (tiền giữ hộ mẹ) ra khỏi khối tài sản cá nhân giúp triệt tiêu hoàn toàn "ảo giác giàu có". Tiền mặt thực tế sạch trọ **28,776,876 VNĐ** (~28.8M) là con số phản ánh đúng thực lực.
 - **Mục tiêu 70tr Thạc Sĩ (M2):** Với dòng tiền tiết kiệm trung bình 14-15tr/tháng, con số 70tr học phí Thạc sĩ UIT sẽ cán đích vào T12/2026 - T02/2027 (sớm 5-7 tháng so với mốc T07/2027). Khuyến nghị: Duy trì nghiêm ngặt trần đầu tư, **Tuyệt đối không bơm tiền vào Crypto/Bot khi tiền mặt chưa đủ 50tr**.
 - **Động lực quỹ Mẹ 500tr (M5):** Sáng kiến khi chạm mốc 100tr đầu tiên sẽ rút tiền lãi ra cho mẹ tiêu vặt định kỳ là một **nước đi thiên tài về mặt tài chính hành vi**. Nó biến một mục tiêu 10 năm khô khan thành một thành quả hữu hình có thể tận hưởng sớm, trong khi gốc 100tr vẫn được bảo toàn.
 - **Cửa ngách "Nổ hũ" Token W (Asymmetric Bet):** Khoản đầu tư 78,262 W (vốn 110M) với mục tiêu Target 1 ($0.70 ~ 715M) và Target 2 ($1.50 ~ 1.53 Tỷ) đang được giữ nguyên vị thế (🔒 Đã khóa). Đây là quân bài chiến lược có thể rút ngắn lộ trình Tự do tài chính 2 Tỷ VNĐ từ 2031 xuống sớm hơn 3-4 năm.

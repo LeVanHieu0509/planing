@@ -4,10 +4,10 @@
 > **Quy tắc 1 (V6):** Luôn tách **3 cột** — Chi tiêu thuần / Đầu tư / Phải thu. Đầu tư KHÔNG phải chi tiêu.
 > **Quy tắc 2 (Nguyên tắc kế toán Thu hộ / Chi hộ & Tiền giữ hộ):**
 > - **Tiền phòng (~10.5M):** Thu/chi hộ tách riêng 100%. Tiền anh em chuyển vào KHÔNG tính thu nhập; tiền nộp trọ tổng KHÔNG tính toàn bộ vào chi tiêu. Hiếu chỉ ghi nhận đúng 1/4 (~2.64M) vào Chi tiêu thuần.
-> - **Tiền mẹ gửi giữ hộ (Hiện là 12.5M):** Tuyệt đối KHÔNG tính vào thu nhập và KHÔNG tính vào tiền mặt của Hiếu. Luôn trừ thẳng ra khỏi số dư ngân hàng khi chốt số dư tiền mặt thực có.
+> - **Tiền mẹ gửi giữ hộ (Hiện là 12.0M):** Tuyệt đối KHÔNG tính vào thu nhập và KHÔNG tính vào tiền mặt của Hiếu. Luôn trừ thẳng ra khỏi số dư ngân hàng khi chốt số dư tiền mặt thực có.
 > - **Khoản mẹ hỗ trợ chi phí:** Trừ trực tiếp vào chi phí thực xuất từ túi Hiếu (ví dụ mẹ góp 2.5M tiền nghĩa vụ quân sự).
 > - **Quỹ mẹ 2tr/tháng:** Khoản riêng theo [QUY_ME_500TR.md](./QUY_ME_500TR.md).
-> **Cập nhật:** 11/10/2026
+> **Cập nhật:** 16/10/2026
 
 ---
 
@@ -18,14 +18,16 @@
 | T07/26 | 2,167,000    | 4,606,338      | 0          | 0         | 9,679,662              | 9,679,662         | 9,679,662              |
 | T08/26 | 43,913,000   | 23,846,383     | 10,600,000 | 1,000,000 | 17,981,979             | 29,581,979        | 29,581,979             |
 | T09/26 | 35,891,708   | 27,617,198     | 5,400,000  | 1,000,000 | 281,227 (TCB)          | 34,681,227        | 34,681,227             |
-| T10/26 | 29,917,948\* | 29,742,377\*   | 0          | 1,000,000 | 37,199,702 (thực có)\* | 38,699,702 (Nợ:7.5M)| **73,647,586\***      |
+| T10/26 | 34,917,948\* | 30,915,203\*   | 0          | 0         | 28,776,876 (thực có)\* | 32,776,876 (Nợ:4.0M)| **62,776,876\***      |
 | T11/26 |              |                |            |           |                        |                   |                        |
 | T12/26 |              |                |            |           |                        |                   |                        |
 
-_\* T10 realtime đến 11/10:_
-_- Thu thuần Hiếu: 29.92M; Chi thuần Hiếu: 29.74M (đã gồm 2M đóng phường; chỉ tính 1/4 trọ); Mẹ gửi nhờ giữ hộ: 12.5M (ngoại bảng)._
-_- Tiền mặt thực tế: 37.20M sau trừ tiền mẹ; Phải thu Diễm: 1.0M; Nợ ngắn hạn: 7.5M (Hiệp 6M + Shopee 1.5M). Tiền mặt tự do sạch nợ sau trọ: 20.70M._
-_- **Tổng TS Ròng Toàn diện:** 73,647,586 VND (đã cộng danh mục 78,262 W trên Binance thị giá ~34.95M VND, vốn gốc nạp 110M từ 04/2024; tổng vốn tích luỹ lịch sử đạt 148.7M)._
+_\* T10 realtime đến 16/10:_
+_- Thu thuần Hiếu: 34.92M (thêm 5M từ job Yokopetworld); Chi thuần Hiếu: 30.92M; Mẹ gửi nhờ giữ hộ: 12.0M (ngoại bảng)._
+_- Tiền trọ T10: Đã hoàn tất chuyển 8.0M ngày 16/10 (chi phí chỗ ở thực của Hiếu chỉ là ~2.39M)._
+_- Thu hồi nợ: Diễm đã trả đủ 1.0M qua MoMo ngày 12/10 (Khoản phải thu về 0)._
+_- Tiền mặt thực tế: 28.78M sau khi đóng trọ và trừ tiền mẹ; Nợ ngắn hạn & trả góp: 4.0M (Đã trả Hiệp 5M ngày 15/10, còn nợ Hiệp 1M + Shopee 1.5M + Duy Tiên 1.5M trả góp 500k/tháng). Tiền mặt tự do sạch nợ: 24.78M._
+_- **Tổng TS Ròng Toàn diện:** 62,776,876 VND (đã cộng danh mục 78,262 W trên Binance thị giá 30.0M VND; vốn gốc nạp 111.5M từ 04/2024; tổng vốn tích luỹ lịch sử đạt 144.3M)._
 
 ---
 

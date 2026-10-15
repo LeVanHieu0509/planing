@@ -16,8 +16,8 @@ SIDE:     Miracle POS (đang đóng băng - chỉ fix bug)
 
 ★ MỐC LỚN NHẤT SẮP TỚI:
   🎓 ĐĂNG KÝ THẠC SĨ CNTT QUẢN LÝ - UIT (ĐHQG TP.HCM) · T07/2027
-     → Cần 70tr · đã có ~37.2tr tiền mặt thực tế · dự kiến đủ vào T12/2026-T02/2027
-     → Tổng tài sản ròng toàn diện: ~73.6M (theo thị giá: 37.2M tiền mặt + 34.9M Binance W + 8M OKX Bot - 7.5M nợ; tổng vốn tích luỹ lịch sử: ~148.7M)
+     → Cần 70tr · đã có ~28.8tr tiền mặt thực tế (đã sạch 8M tiền trọ T10) · dự kiến đủ vào T12/2026-T02/2027
+     → Tổng tài sản ròng toàn diện: ~62.8M (theo thị giá: 28.8M tiền mặt + 30.0M Binance W + 8M OKX Bot - 4.0M nợ; tổng vốn tích luỹ lịch sử: ~144.3M)
      → Quỹ mẹ 500tr: Đã nạp luỹ kế gốc 8M (định kỳ 2M/tháng, mốc 100M trích lãi nuôi mẹ)
 
 TẦM NHÌN:
@@ -30,13 +30,13 @@ TẦM NHÌN:
 
 ## 🎯 5 MỤC TIÊU LỚN (thay cho 6 Epic cũ)
 
-| Mã     | Mục tiêu              | Đích đến                                   | Khi nào   |
-| ------ | --------------------- | ------------------------------------------ | --------- |
-| **M1** | 🗣️ Tiếng Anh          | Giao tiếp tự tin · TOEIC 700+              | T07/2027  |
-| **M2** | 💰 Tiền               | 70tr học phí Thạc sĩ → rồi tới 2 tỷ        | T07/2027  |
-| **M3** | 💪 Sức khoẻ           | 75kg · ngủ đủ · gym đều                    | 2027      |
-| **M4** | 🎓 Học vấn & Nghề     | Thạc sĩ UIT → giảng viên                   | T07/2027  |
-| **M5** | ❤️ Gia đình & Quan hệ | Quỹ mẹ 500tr (gửi 2tr/tháng đến 2036, đã gửi 8tr) | Liên tục  |
+| Mã     | Mục tiêu              | Đích đến                                          | Khi nào  |
+| ------ | --------------------- | ------------------------------------------------- | -------- |
+| **M1** | 🗣️ Tiếng Anh          | Giao tiếp tự tin · TOEIC 700+                     | T07/2027 |
+| **M2** | 💰 Tiền               | 70tr học phí Thạc sĩ → rồi tới 2 tỷ               | T07/2027 |
+| **M3** | 💪 Sức khoẻ           | 75kg · ngủ đủ · gym đều                           | 2027     |
+| **M4** | 🎓 Học vấn & Nghề     | Thạc sĩ UIT → giảng viên                          | T07/2027 |
+| **M5** | ❤️ Gia đình & Quan hệ | Quỹ mẹ 500tr (gửi 2tr/tháng đến 2036, đã gửi 8tr) | Liên tục |
 
 ### 🧊 Đang đóng băng - không nhắc tới nữa
 
@@ -55,39 +55,40 @@ Bot OKX      → dự án cá nhân, không phải nguồn thu, không bơm thê
 
 ### Hằng ngày / hằng tuần
 
-| File                                                             | Khi nào              |
-| ---------------------------------------------------------------- | -------------------- |
-| [scrum/sprints/S1.md](./scrum/sprints/S1.md)                     | Mỗi sáng, 1 phút     |
-| [me/lifestyle/hieu/DAILY_SCHEDULE.md](./me/lifestyle/hieu/DAILY_SCHEDULE.md) | Khi quên lịch hôm nay |
-| [me/finance/T10_2026_GIAO_DICH.md](./me/finance/T10_2026_GIAO_DICH.md) | Ghi chi tiêu ngay khi tiêu |
+| File                                                                         | Khi nào                    |
+| ---------------------------------------------------------------------------- | -------------------------- |
+| [scrum/sprints/S1.md](./scrum/sprints/S1.md)                                 | Mỗi sáng, 1 phút           |
+| [me/lifestyle/hieu/DAILY_SCHEDULE.md](./me/lifestyle/hieu/DAILY_SCHEDULE.md) | Khi quên lịch hôm nay      |
+| [me/finance/T10_2026_GIAO_DICH.md](./me/finance/T10_2026_GIAO_DICH.md)       | Ghi chi tiêu ngay khi tiêu |
 
 ### Cuối sprint (2 tuần/lần, CN 21:00)
 
-| File                                                       | Việc                        |
-| ---------------------------------------------------------- | --------------------------- |
-| [scrum/sprints/S1.md](./scrum/sprints/S1.md)               | Check-in 15 phút            |
-| [scrum/SPRINT_CALENDAR.md](./scrum/SPRINT_CALENDAR.md)     | Xem mốc quý để chọn việc mới |
+| File                                                   | Việc                         |
+| ------------------------------------------------------ | ---------------------------- |
+| [scrum/sprints/S1.md](./scrum/sprints/S1.md)           | Check-in 15 phút             |
+| [scrum/SPRINT_CALENDAR.md](./scrum/SPRINT_CALENDAR.md) | Xem mốc quý để chọn việc mới |
 
 ### Cuối tháng
 
-| File                                                               | Việc                  |
-| ------------------------------------------------------------------ | --------------------- |
-| [me/finance/MONTHLY_TRACKER.md](./me/finance/MONTHLY_TRACKER.md)   | Chốt sổ               |
-| [me/finance/DAU_TU.md](./me/finance/DAU_TU.md)                     | Cập nhật đầu tư       |
-| [me/lifestyle/hieu/GYM_PLAN.md](./me/lifestyle/hieu/GYM_PLAN.md)   | Ghi 1 dòng InBody     |
+| File                                                             | Việc              |
+| ---------------------------------------------------------------- | ----------------- |
+| [me/finance/MONTHLY_TRACKER.md](./me/finance/MONTHLY_TRACKER.md) | Chốt sổ           |
+| [me/finance/DAU_TU.md](./me/finance/DAU_TU.md)                   | Cập nhật đầu tư   |
+| [me/finance/NGUYEN_TAC_KE_TOAN.md](./me/finance/NGUYEN_TAC_KE_TOAN.md) | Chuẩn kế toán & phân tách tài sản |
+| [me/lifestyle/hieu/GYM_PLAN.md](./me/lifestyle/hieu/GYM_PLAN.md) | Ghi 1 dòng InBody |
 
 ### Khi cần
 
-| File                                                                                           | Khi nào                   |
-| ---------------------------------------------------------------------------------------------- | ------------------------- |
-| [MASTER_PLAN.md](./MASTER_PLAN.md)                                                             | Nhìn lại bức tranh lớn    |
-| [me/career/master-mba/THAC_SI_UIT_2027.md](./me/career/master-mba/THAC_SI_UIT_2027.md)           | Chuẩn bị hồ sơ Thạc sĩ    |
-| [me/finance/TAI_CHINH_2026_2028.md](./me/finance/TAI_CHINH_2026_2028.md)                       | Kiểm tra tiến độ 70tr     |
-| [english/communication/IMMERSION_ROADMAP.md](./english/communication/IMMERSION_ROADMAP.md)     | Lộ trình lớp tiếng Anh    |
-| [me/finance/QUY_ME_500TR.md](./me/finance/QUY_ME_500TR.md)                                     | Theo dõi quỹ mẹ 500tr     |
-| [expert_review.md](./expert_review.md)                                                         | Khi thấy mất phương hướng |
-| [me/lifestyle/hieu/SELF_UNDERSTANDING.md](./me/lifestyle/hieu/SELF_UNDERSTANDING.md)           | Khi thấy nản              |
-| [me/lifestyle/dating/DATING_CORE_PRINCIPLES.md](./me/lifestyle/dating/DATING_CORE_PRINCIPLES.md)| Khi cần định hướng tình cảm |
+| File                                                                                             | Khi nào                     |
+| ------------------------------------------------------------------------------------------------ | --------------------------- |
+| [MASTER_PLAN.md](./MASTER_PLAN.md)                                                               | Nhìn lại bức tranh lớn      |
+| [me/career/master-mba/THAC_SI_UIT_2027.md](./me/career/master-mba/THAC_SI_UIT_2027.md)           | Chuẩn bị hồ sơ Thạc sĩ      |
+| [me/finance/TAI_CHINH_2026_2028.md](./me/finance/TAI_CHINH_2026_2028.md)                         | Kiểm tra tiến độ 70tr       |
+| [english/communication/IMMERSION_ROADMAP.md](./english/communication/IMMERSION_ROADMAP.md)       | Lộ trình lớp tiếng Anh      |
+| [me/finance/QUY_ME_500TR.md](./me/finance/QUY_ME_500TR.md)                                       | Theo dõi quỹ mẹ 500tr       |
+| [expert_review.md](./expert_review.md)                                                           | Khi thấy mất phương hướng   |
+| [me/lifestyle/hieu/SELF_UNDERSTANDING.md](./me/lifestyle/hieu/SELF_UNDERSTANDING.md)             | Khi thấy nản                |
+| [me/lifestyle/dating/DATING_CORE_PRINCIPLES.md](./me/lifestyle/dating/DATING_CORE_PRINCIPLES.md) | Khi cần định hướng tình cảm |
 
 ---
 
@@ -111,14 +112,15 @@ Chi tiết: [me/lifestyle/hieu/DAILY_SCHEDULE.md](./me/lifestyle/hieu/DAILY_SCHE
 ## 🏫 LỚP TIẾNG ANH NGHE NÓI GÒ VẤP
 
 ```
-Trường:    672A44 Phan Văn Trị, Gò Vấp · 0906 784 066
-Mã HV:     TANN-KH-2016 | Mã HĐ: TANN-HD-48
-Level 2:   14/07 → ~14/10/2026 · T3+T5 19:15-20:45 · ✅ đã thanh toán 8.2tr
-Level 3:   ~14/10/2026 → 14/01/2027 · ✅ ĐÃ THANH TOÁN
-Phản Xạ:   Chủ nhật (tặng kèm)
+Trường:     672A44 Phan Văn Trị, Gò Vấp · 0906 784 066
+Mã HV:      TANN-KH-2016 | Mã HĐ: TANN-HD-48
+Tên lớp:    SAIGON SPECIAL (báo tên lớp để nhân viên dẫn phòng mỗi buổi)
+Level 3:    20/10/2026 → 12/01/2027 · T3+T5 19:15-20:45 · Nghỉ lễ 24/11 · ✅ ĐÃ THANH TOÁN
+Phản Xạ:    Chủ nhật (tặng kèm)
+Chính sách: Tối đa 4 buổi học bù (lớp 12 HV); bảo lưu 1 lần trong 6 tháng
 ```
 
-> ✅ **Cả L2 và L3 đều đã trả tiền xong.** Từ giờ tới T01/2027 chỉ còn việc **đi học đủ buổi.**
+> ✅ **Cả L2 và L3 đều đã trả tiền xong.** Khai giảng L3 vào **Thứ Ba 20/10/2026**, từ giờ tới T01/2027 chỉ còn việc **đi học đủ buổi.**
 
 ---
 

@@ -27,64 +27,63 @@ CHÊNH THẬT:                   ~2,200,000   (không phải 13tr)
 
 ---
 
-## 💰 BẢNG CÂN ĐỐI TÀI SẢN CÁ NHÂN (Cập nhật 11/10/2026)
+## 💰 BẢNG CÂN ĐỐI TÀI SẢN CÁ NHÂN (Cập nhật 16/10/2026)
 
 > ⚖️ **ÁP DỤNG NGUYÊN TẮC KẾ TOÁN THỰC THỂ & THANH KHOẢN (5 GIỎ TÀI CHÍNH):**
 >
-> 1. **Giỏ 1 - Ngoại bảng (Thu/Chi hộ & Giữ hộ):** Tiền mẹ gửi giữ hộ (12.5M) & Tiền trọ thu hộ (5.82M) hoàn toàn loại khỏi tài sản của Hiếu.
+> 1. **Giỏ 1 - Ngoại bảng (Thu/Chi hộ & Giữ hộ):** Tiền mẹ gửi giữ hộ (12.0M) & Tiền trọ thu hộ (đã hoàn tất đóng 8M ngày 16/10) hoàn toàn loại khỏi tài sản của Hiếu.
 > 2. **Giỏ 2 - Tiền mặt thanh khoản cao (T+0):** Tiền mặt thực tế của Hiếu dùng cho sinh hoạt, Emergency Fund & Quỹ Thạc sĩ 70M.
 > 3. **Giỏ 3 - Đầu tư bot trading linh hoạt (T+1/T+2):** OKX 8M (Toàn bộ 8M gộp chạy bot tự động, tự sinh lời/lỗ).
-> 4. **Giỏ 4 - Tích sản dài hạn (Crypto Locked):** Binance 78,262 W (~35M) - tài sản ròng thật, nhưng khóa không dùng cho chi tiêu.
+> 4. **Giỏ 4 - Tích sản dài hạn (Crypto Locked):** Binance 78,262 W (~30M thị giá; vốn gốc nạp 111.5M) - tài sản ròng thật, nhưng khóa không dùng cho chi tiêu.
 > 5. **Giỏ 5 - Quỹ phụng dưỡng gia đình:** Quỹ mẹ 500tr (đã đóng 8M) theo [QUY_ME_500TR.md](./QUY_ME_500TR.md).
 
 ### 1. Bảng tài sản chi tiết
 
-| Nhóm tài sản             | Khoản mục / Nền tảng       | Giá vốn (VND)   | Thị giá (11/10) | Thanh khoản   | Tính chất & Ghi chú                                                        |
-| :----------------------- | :------------------------- | :-------------- | :-------------- | :------------ | :------------------------------------------------------------------------- |
-| 💵 **Tiền mặt thực**     | BIDV, VCB, TCB, Ví         | 37,199,702      | **37,199,702**  | Ngay (T+0)    | Tổng có 49.69M - 12.5M tiền mẹ gửi nhờ giữ hộ                              |
-| 🤖 **Bot Trading OKX**   | OKX - Vốn chạy bot tự động | 8,000,000       | **8,000,000**   | 1-2 ngày      | Toàn bộ 8M cho chạy bot tự động, tự kiếm lợi nhuận hoặc chịu lỗ            |
-| 💎 **Tích sản Crypto**   | **Binance (78,262.48 W)**  | **111,495,612** | **50,000,000**  | Biến động cao | **Vốn gốc nạp 111.5M** từ 04/2024. Thị giá 50M (đã phục hồi mạnh 12/10)    |
-| 🤝 **Phải thu ngắn hạn** | Cho Diễm mượn              | 1,000,000       | **1,000,000**   | T12/2026      | Đã hẹn ngày thu                                                            |
-| 🔴 **Nợ ngắn hạn**       | Vay Hiệp mua iPhone        | -6,000,000      | **-6,000,000**  | Cần trả       | ⏳ Trích tiền mặt trả dứt điểm để sạch nợ                                  |
-| 🔴 **Nợ ngắn hạn**       | Nợ Shopee / SPayLater      | -1,500,000      | **-1,500,000**  | Cần trả       | ⏳ Trích tiền mặt trả dứt điểm                                             |
+| Nhóm tài sản             | Khoản mục / Nền tảng       | Giá vốn (VND)   | Thị giá (16/10) | Thanh khoản   | Tính chất & Ghi chú                                             |
+| :----------------------- | :------------------------- | :-------------- | :-------------- | :------------ | :-------------------------------------------------------------- |
+| 💵 **Tiền mặt thực**     | BIDV, VCB, TCB, Ví         | 28,776,876      | **28,776,876**  | Ngay (T+0)    | Tổng có 40.78M - 12.0M tiền mẹ gửi nhờ (đã đóng 8M trọ T10)      |
+| 🤖 **Bot Trading OKX**   | OKX - Vốn chạy bot tự động | 8,000,000       | **8,000,000**   | 1-2 ngày      | Toàn bộ 8M cho chạy bot tự động, tự kiếm lợi nhuận hoặc chịu lỗ |
+| 💎 **Tích sản Crypto**   | **Binance (78,262.48 W)**  | **111,495,612** | **30,000,000**  | Biến động cao | **Vốn gốc nạp 111.5M** từ 04/2024. Thị giá 30M (cập nhật 15/10) |
+| 🤝 **Phải thu ngắn hạn** | Cho Diễm mượn              | 1,000,000       | **0**           | Đã thu        | ✅ Đã thu hồi đủ 1,000,000đ ngày 12/10 qua MoMo (về TCB)        |
+| 🔴 **Nợ ngắn hạn**       | Vay Hiệp mua iPhone        | -6,000,000      | **-1,000,000**  | Cần trả       | ✅ Đã trả 5M ngày 15/10 từ job Yokopetworld, còn nợ 1M          |
+| 🔴 **Nợ ngắn hạn**       | Nợ Shopee / SPayLater      | -1,500,000      | **-1,500,000**  | Cần trả       | ⏳ Trích tiền mặt trả dứt điểm                                  |
+| 🔴 **Nợ trả góp**        | Nợ Duy Tiên                | -1,500,000      | **-1,500,000**  | Trả góp       | Kế hoạch trả góp 500,000đ/tháng (trong 3 tháng)                 |
 
 ---
 
-### 2. Các cấp độ Tài sản ròng (Net Worth)
+### 2. Các cấp độ Tài sản ròng (Net Worth) - Cập nhật 16/10/2026
 
 ```
 ┌────────────────────────────────────────────────────────────────────────────────────────┐
-│ ① TIỀN MẶT RÒNG TỰ DO (Free Net Cash - sau trọ 9M & sạch nợ 7.5M):     20,699,702 VND  │
-│ ② TÀI SẢN RÒNG HOẠT ĐỘNG (Liquid Net Worth - Tiền mặt + OKX + Phải thu):38,699,702 VND │
-│    ↳ (Sau khi trừ 9tr trọ ngày 15/10: còn 29,699,702 VND)                              │
-│ ③ TỔNG TÀI SẢN RÒNG TOÀN DIỆN (Comprehensive Net Worth - theo Thị giá): 88,699,702 VND │
-│    ↳ (= Tài sản hoạt động 38.7M + Thị giá Binance W 50.0M)                             │
-│    ↳ (Sau khi trừ 9tr trọ ngày 15/10: còn 79,699,702 VND)                              │
+│ ① TIỀN MẶT RÒNG TỰ DO (Free Net Cash - sau sạch trọ & tổng nợ 4.0M):    24,776,876 VND  │
+│ ② TÀI SẢN RÒNG HOẠT ĐỘNG (Liquid Net Worth - Tiền mặt + OKX - Nợ 4M):   32,776,876 VND │
+│ ③ TỔNG TÀI SẢN RÒNG TOÀN DIỆN (Comprehensive Net Worth - theo Thị giá): 62,776,876 VND │
+│    ↳ (= Tài sản hoạt động 32.8M + Thị giá Binance W 30.0M - ĐÃ SẠCH TIỀN TRỌ 100%)     │
 │ ────────────────────────────────────────────────────────────────────────────────────── │
-│ 💎 TỔNG VỐN TÍCH LUỸ LỊCH SỬ ĐÃ ĐẦU TƯ & TIỀN MẶT:                    150,195,314 VND  │
-│    ↳ (= Tiền mặt 37.2M + OKX 8M + Vốn gốc Binance W 111.5M + Phải thu 1M - Nợ 7.5M)    │
+│ 💎 TỔNG VỐN TÍCH LUỸ LỊCH SỬ ĐÃ ĐẦU TƯ & TIỀN MẶT:                    144,272,488 VND  │
+│    ↳ (= Tiền mặt 28.8M + OKX 8M + Vốn gốc Binance W 111.5M + Phải thu 0M - Nợ 4.0M)    │
 │ 🌸 Quỹ mẹ 500tr (Ủy thác phụng dưỡng - đã nạp luỹ kế gốc):              8,000,000 VND  │
 └────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 > 📌 **QUY TẮC KẾ TOÁN THẬP TOÀN (11/10/2026):**
 >
-> 1. **Tiền mẹ gửi nhờ giữ hộ (12,500,000 VND):** Mẹ gửi tổng 15tr (đợt 1: 5tr + đợt 2: 7tr + đợt 3: 3tr), trừ 2.5tr mẹ góp nghĩa vụ quân sự ➡️ Còn lại 12.5tr là tiền giữ hộ cho mẹ, **hoàn toàn loại ra khỏi tài sản của Hiếu**.
+> 1. **Tiền mẹ gửi nhờ giữ hộ (12,000,000 VND):** Mẹ gửi tổng 15tr (đợt 1: 5tr + đợt 2: 7tr + đợt 3: 3tr), trừ 2.5tr mẹ góp nghĩa vụ quân sự và trừ 500k cho bà ngoại ➡️ Còn lại 12.0tr là tiền giữ hộ cho mẹ, **hoàn toàn loại ra khỏi tài sản của Hiếu**.
 > 2. **Danh mục Binance W (78,262.48 con):**
 >    - **Vốn gốc thực tế đã nạp (04/2024 → nay):** **111,495,612 VND** (111.5 triệu đồng - Đã đối soát qua dữ liệu lệnh P2P).
->    - **Giá trị thị trường hiện tại (11/10/2026):** **34,947,884 VND** (Thị giá: đ447.32 / W).
->    - **Trạng thái so với vốn gốc:** Âm -75.05 triệu VND (-68.2%), nhưng đang trong nhịp phục hồi mạnh (90 ngày qua tăng **+57.06%** từ vùng đáy ~17M).
->    - **Phân loại kế toán:** Tài sản tích sản dài hạn biến động cao. Bảng cân đối tài sản ròng ghi nhận theo **Giá thị trường hiện tại (34.95M)** để đảm bảo nguyên tắc Thận trọng, tuyệt đối **KHÔNG tính vào tiền mặt để tiêu**, không dùng để thay thế cho Quỹ học phí Thạc sĩ 70M.
+>    - **Giá trị thị trường hiện tại (15/10/2026):** **30,000,000 VND** (Thị giá: ~đ383.33 / W).
+>    - **Trạng thái so với vốn gốc:** Âm -81.50 triệu VND (-73.1%).
+>    - **Phân loại kế toán:** Tài sản tích sản dài hạn biến động cao. Bảng cân đối tài sản ròng ghi nhận theo **Giá thị trường hiện tại (30.0M)** để đảm bảo nguyên tắc Thận trọng, tuyệt đối **KHÔNG tính vào tiền mặt để tiêu**, không dùng để thay thế cho Quỹ học phí Thạc sĩ 70M.
 > 3. **Quỹ mẹ 500tr (đã gửi 8tr):** Thuộc về mẹ theo [QUY_ME_500TR.md](./QUY_ME_500TR.md) (vừa đóng 2M ngày 11/10), không tính vào tài sản cá nhân để tiêu xài. Khi đạt 100M sẽ rút lãi nuôi mẹ.
 
-### Cơ cấu tài sản ròng toàn diện theo thị giá (~73.65tr)
+### Cơ cấu tài sản ròng toàn diện theo thị giá (~62.8tr - cập nhật 16/10/2026)
 
 ```
-Tiền mặt thực tế:        ~37.2tr  █████████████░░░░░░░  42.0%  (Sau trọ còn 28.2tr; tiền tự do 20.7tr)
-Binance W (thị giá):     ~50.0tr  ████████████████░░░░  56.3%  (Vốn gốc 111.5M, tài sản phục hồi lên 50M)
-OKX Bot Trading:           8.0tr  ███░░░░░░░░░░░░░░░░░   9.0%  (Toàn bộ 8M chạy bot tự động)
-Phải thu Diễm:             1.0tr  ░░░░░░░░░░░░░░░░░░░░   1.1%
-Nợ ngắn hạn (trừ ra):     -7.5tr  - - - - - - - - - -  -8.4%   (Hiệp 6M + Shopee 1.5M)
+Tiền mặt thực tế:        ~28.8tr  ██████████████████░░  45.8%  (Sạch trọ; tiền tự do sau nợ là 24.8tr)
+Binance W (thị giá):     ~30.0tr  ███████████████████░  47.8%  (Vốn gốc 111.5M, thị giá hiện 30M)
+OKX Bot Trading:           8.0tr  █████░░░░░░░░░░░░░░░  12.7%  (Toàn bộ 8M chạy bot tự động)
+Phải thu Diễm:             0.0tr  ░░░░░░░░░░░░░░░░░░░░   0.0%  (✅ Đã thu hồi đủ 1.0M ngày 12/10)
+Nợ phải trả (trừ ra):     -4.0tr  - - - - - - - - - -  -6.3%   (Hiệp 1M + Shopee 1.5M + Duy Tiên 1.5M)
 ```
 
 ---
@@ -133,19 +132,19 @@ Nếu có sự cố (ốm, hỏng laptop, mất việc) mà tiền đang kẹt t
 | **Tổng vốn gốc thực nạp (04/2024 → nay)**        | **111,495,612 VND** _(Đã đối soát chính xác qua lệnh P2P)_ |
 | Giá vốn bình quân thực tế                        | **~đ1,424.6 / W** (111.49M / 78,262 W)                     |
 | Giá vốn chu kỳ gần nhất trên app                 | đ324.72 / W                                                |
-| Giá thị trường (12/10/2026)                      | **~đ638.8 / W**                                            |
-| **Giá trị thị trường hiện tại (Mark-to-Market)** | **50,000,000 VND** (~50.0 triệu VNĐ)                       |
-| Chênh lệch so với vốn gốc 111.49M                | **-61,495,612 VND (-55.1%)**                               |
+| Giá thị trường (15/10/2026)                      | **~đ383.3 / W**                                            |
+| **Giá trị thị trường hiện tại (Mark-to-Market)** | **30,000,000 VND** (~30.0 triệu VNĐ)                       |
+| Chênh lệch so với vốn gốc 111.49M                | **-81,495,612 VND (-73.1%)**                               |
 | PNL chu kỳ gần nhất trên app                     | Đang cập nhật                                              |
-| PNL luỹ kế 90 ngày                               | **+194%** (hồi phục cực mạnh từ đáy ~17M lên 50M)          |
+| PNL luỹ kế 90 ngày                               | Đang điều chỉnh quanh vùng 30M                             |
 
 **Bảng theo dõi định kỳ (Chốt vào ngày 28-30 hàng tháng):**
 
-| Tháng              | Số lượng W    | Vốn gốc nạp     | Giá TT (đ) | Giá trị thị trường | So với vốn gốc | Ghi chú                          |
-| :----------------- | :------------ | :-------------- | :--------- | :----------------- | :------------- | :------------------------------- |
-| **T10/26 (12/10)** | **78,262.48** | **111,495,612** | **638.80** | **50,000,000**     | **-55.1%**     | **Tài khoản chạm mốc 50tr (12/10)** |
-| T11/26             |               |                 |            |                    |                |                                  |
-| T12/26             |               |                 |            |                    |                |                                  |
+| Tháng              | Số lượng W    | Vốn gốc nạp     | Giá TT (đ) | Giá trị thị trường | So với vốn gốc | Ghi chú                                  |
+| :----------------- | :------------ | :-------------- | :--------- | :----------------- | :------------- | :--------------------------------------- |
+| **T10/26 (15/10)** | **78,262.48** | **111,495,612** | **383.33** | **30,000,000**     | **-73.1%**     | **Thị giá W điều chỉnh về 30tr (15/10)** |
+| T11/26             |               |                 |            |                    |                |                                          |
+| T12/26             |               |                 |            |                    |                |                                          |
 
 ### 📈 NHẬT KÝ TÍCH LUỸ (DCA HISTORY 03/2024 - 08/2026)
 
@@ -244,7 +243,7 @@ cá nhân của anh. Đã bỏ khỏi bảng tổng tài sản phía trên.
 | T08/26   | Hụi/phường    | 4,000,000      | Quỹ mẹ    | ✅ Chốt: thuộc quỹ mẹ 500tr, không lấy lại |
 | T08/26   | Binance       | 4,000,000      | DCA       | Đúng nguyên tắc "chỉ DCA"                  |
 | T08/26   | OKX trade     | 2,600,000      | Trade     | Lệch nguyên tắc "không trade"              |
-| T08/26   | Cho Diễm mượn | 1,000,000      | Phải thu  | Thu lại **T12/2026**                       |
+| T08/26   | Cho Diễm mượn | 1,000,000      | Phải thu  | ✅ Đã thu hồi đủ 12/10/2026 qua MoMo (về TCB)|
 | 04/09/26 | OKX - bot     | 5,400,000      | Bot trade | Vốn chạy bot tự viết                       |
 |          | **TỔNG RA**   | **17,000,000** |           |                                            |
 

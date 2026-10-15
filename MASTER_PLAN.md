@@ -42,8 +42,8 @@ Việc duy nhất: ĐI HỌC ĐỦ BUỔI IMMERSION, TUYỆT ĐỐI CHƯA ĐỤN
 ```
 Đích gần:  70,000,000 trước T07/2027 (học phí Thạc sĩ)
 Đích xa:   2 tỷ (2031)
-Hiện tại:  37,199,702 tiền mặt thực tế (12/10/2026) + 9tr bot/phải thu - 7.5tr nợ (TS ròng hoạt động: ~38.7tr; tổng ròng gồm Binance 50M: ~88.7M)
-Tích sản:  78,262 W trên Binance (vốn nạp 111.5M - 🔒 KHÓA VỊ THẾ, KHÔNG MUA THÊM, tài khoản đã cán mốc 50tr) - kèo "nổ hũ" target $0.70 (~715M) & $1.50 (~1.53 tỷ)
+Hiện tại:  28,776,876 tiền mặt thực tế (đã sạch 8M trọ T10) + 8M bot OKX - 4.0M nợ (TS ròng hoạt động: ~32.8tr; tổng ròng gồm Binance W 30M: ~62.8M; tiền tự do sạch nợ: ~24.8M)
+Tích sản:  78,262 W trên Binance (vốn nạp 111.5M - 🔒 KHÓA VỊ THẾ, KHÔNG MUA THÊM, thị giá hiện ~30tr) - kèo "nổ hũ" target $0.70 (~715M) & $1.50 (~1.53 tỷ)
 Tiết kiệm: ~14tr/tháng
 Dự kiến đủ 70tr: T12/2026 - T01/2027 (sớm hơn deadline T07/2027 khoảng 6 tháng)
 Trần:      KHÔNG bơm thêm crypto/bot đến khi tiền mặt ≥ 50tr
@@ -130,7 +130,7 @@ TIẾT KIỆM:               15,090,000
 >    - Tiền tổng chuyển trả chủ nhà / điện nước: **KHÔNG tính toàn bộ vào chi tiêu cá nhân** (tránh đội chi phí ảo).
 >    - Hiếu chỉ ghi nhận đúng **1/4 phần thực tế (~2.64M)** vào chi tiêu thuần của bản thân.
 > 
-> 2. **Tiền của mẹ gửi nhờ giữ hộ trong tài khoản (Hiện là 12.5M):**
+> 2. **Tiền của mẹ gửi nhờ giữ hộ trong tài khoản (Hiện là 12,000,000 VND / 12.0M):**
 >    - Mẹ gửi nhờ giữ hộ trong tài khoản: **TUYỆT ĐỐI KHÔNG tính vào thu nhập**, cũng **KHÔNG tính vào tài sản của Hiếu**.
 >    - Luôn **trừ thẳng số tiền mẹ gửi nhờ ra khỏi số dư ngân hàng** để xác định chính xác số dư tiền mặt thực có.
 >    - Tiền mẹ hỗ trợ (như 2.5M tiền quân sự): Được trừ trực tiếp vào chi phí phát sinh, Hiếu chỉ ghi nhận phần mình tự chi.
@@ -142,7 +142,7 @@ TIẾT KIỆM:               15,090,000
 
 | Mốc       | Số tiền     | Ý nghĩa                                              |
 | --------- | ----------- | ---------------------------------------------------- |
-| 11/10/26  | 37,199,702  | Hiện tại (tiền mặt thực tế sau trừ 12.5M tiền mẹ giữ & đã đóng phường 2M) |
+| 16/10/26  | 28,776,876  | Hiện tại (tiền mặt thực tế sau trừ 12M tiền mẹ giữ hộ & đã sạch 8M trọ T10) |
 | T11/2026  | ~58tr       | 🚧 Chạm trần 50tr → mở đầu tư                        |
 | T02/2027  | **~70-72tr**| ✅ Đủ học phí Thạc sĩ (dự kiến sớm T02/27)           |
 | T07/2027  | ~171tr      | 🎓 Đăng ký, trả 70tr                                 |

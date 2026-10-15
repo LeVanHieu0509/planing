@@ -14,7 +14,7 @@
 
 | Mã  | Mốc quý                                                    | Đo bằng gì                    |
 | --- | ---------------------------------------------------------- | ----------------------------- |
-| M1  | Xong Level 2 (~14/10) → vào **Level 3** (đã thanh toán)    | Đi đủ buổi, không nghỉ        |
+| M1  | Vào **Level 3 - Lớp SAIGON SPECIAL** (20/10/26 → 12/01/27) | Đi đủ buổi, tối đa 4 buổi bù  |
 | M2  | Tiền mặt **chạm 50tr** (mở trần đầu tư)                    | MONTHLY_TRACKER T11           |
 | M2  | Tiền mặt **chạm 70tr** = đủ học phí Thạc sĩ                | MONTHLY_TRACKER T12           |
 | M3  | Gym 4 buổi/tuần đều + đo InBody mỗi tháng                  | 3 lần đo InBody               |

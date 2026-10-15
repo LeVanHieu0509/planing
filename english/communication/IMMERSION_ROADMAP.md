@@ -48,18 +48,23 @@ Mục tiêu đầu ra:
   ✅ Nghe và hiểu giọng native speaker rõ hơn
 ```
 
-### Giai đoạn 2 - Level 3 (14/10/2026 → 14/01/2027) ✅ ĐÃ THANH TOÁN
+### Giai đoạn 2 - Level 3 (20/10/2026 → 12/01/2027) ✅ ĐÃ THANH TOÁN
 
 ```
-Lịch học:  Chờ trường báo sau khi hết L2 (~14/10)
+Tên lớp:   SAIGON SPECIAL (báo tên lớp để nhân viên hướng dẫn phòng mỗi buổi)
+Lịch học:  T3 + T5: 19:15 - 20:45 PM
+Thời gian: 20/10/2026 → 12/01/2027 (Khai giảng: Thứ Ba 20/10/2026)
+Nghỉ lễ:   24/11/2026
 Học phí:   ✅ ĐÃ THANH TOÁN ĐỦ (13/09/2026) - không còn khoản phải đóng
+Quy định:  - Tối đa 04 buổi học bù ở lớp 12 học viên (trong thời hạn khóa, cùng level)
+           - Bảo lưu 1 lần trong vòng 6 tháng (cho những buổi còn lại tính từ ngày báo)
 
 Mục tiêu đầu ra:
   ✅ Giữ hội thoại 5-10 phút liên tục, không bị ngắt quãng
   ✅ Thảo luận chủ đề tech/work bằng tiếng Anh
   ✅ Đủ tự tin để phỏng vấn outsource cơ bản
 
-→ Đây là mốc kết thúc 6 tháng immersion (14/07 → 14/01/2027)
+→ Đây là mốc kết thúc 6 tháng immersion (14/07/2026 → 12/01/2027)
 ```
 
 ### Giai đoạn 3 - Level 4 (~T02 → T04/2027)
