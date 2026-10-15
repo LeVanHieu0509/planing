@@ -13,6 +13,7 @@
 | **Hạn**        | **Nộp chứng chỉ trước 15/11/2027** - không đạt thì không lên được Senior |
 | **Hiện tại**   | TOEIC 535 (19/06/2026) - đã nộp cho công ty                              |
 | **Kế hoạch**   | Trong L3 (đến 12/01/2027): luyện song song Part 5 + Part 7 (gắn vocabulary) → T02-T06/2027 cày đề ETS → **thi T06/2027, được bao nhiêu điểm nộp TMA luôn** (chốt 15/10/2026) |
+| **Phương án B** | Nếu điểm T06 < 700 → thi lại 1 lần T08-T09/2027, nộp trước 15/11/2027 (không lên lịch cứng) |
 | **Lưu ý**      | Nộp xong trong T06-T07/2027 → không dồn vào T10-T11/2027 (trùng nộp hồ sơ + phỏng vấn Thạc sĩ UIT) |
 | **Chi tiết**   | [MASTER_PLAN.md](../../../MASTER_PLAN.md) (M1) · [SPRINT_CALENDAR.md](../../../scrum/SPRINT_CALENDAR.md) |
 

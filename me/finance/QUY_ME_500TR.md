@@ -68,7 +68,7 @@ Mẹ phải bù thêm:           ~181,000,000   để đạt 500tr
    → Chênh lệch 79 TRIỆU chỉ nhờ việc tiền nằm đúng chỗ.
 ```
 
-> ✅ **Chốt 15/10/2026:** Giai đoạn 0 → 100tr vẫn đóng phường hàng tháng như hiện tại.
+> ✅ **Chốt 15/10/2026:** Giai đoạn 0 → 100tr vẫn đóng phường hàng tháng như hiện tại (đã xác nhận là kênh an toàn).
 > **Khi đủ 100tr → gửi ngân hàng sổ tiết kiệm kỳ hạn 1 năm, tái tục theo năm.** Lãi mỗi năm rút gửi mẹ tiêu (Giai đoạn 2).
 > _(Các con số lãi kép ~5.5% ở trên giả định tiền có lãi ngay từ tháng đầu - thực tế giai đoạn đóng phường sẽ khác một chút.)_
 

@@ -98,8 +98,8 @@
 18:30-19:30  Ăn tối + nghỉ ngơi
 19:30-20:30  ★ GYM (buổi 2)
 20:30-21:00  Tắm + thư giãn
-21:00-22:15  💻 LÀM BIT (Chốt công việc trong tuần)
-22:15-22:45  🎙️ 15-30p Voice Memo / ChatGPT Voice ôn bài T3 + T5 hoặc Xem Sitcom EN
+21:00-22:30  💻 LÀM BIT (Chốt công việc trong tuần)
+22:30-22:45  🎙️ 15p Voice Memo / ChatGPT Voice ôn bài T3 + T5
 22:45-23:15  📖 ĐỌC SÁCH TIẾNG ANH (Wind down - Không màn hình)
 23:15-23:30  Vệ sinh cá nhân, tắt đèn
 23:30        Ngủ
@@ -116,8 +116,9 @@
 11:30-12:30  Ăn trưa
 13:00-15:00  Việc nhà, dọn dẹp phòng ốc, cá nhân
 15:00-16:00  🎙️ 1 tiếng Hồi sinh chủ đề Level 2 cũ (LEVEL_2_RETROSPECTIVE.md)
-16:00-18:30  Nghỉ ngơi / Tự do
-18:30-19:30  Ăn tối
+16:00-16:30  Nghỉ ngơi
+16:30-18:00  💻 LÀM BIT (ca chiều)
+18:00-19:30  Nghỉ ngơi + ăn tối
 19:30-21:30  💻 LÀM BIT (Deploy, release Jenkins, xử lý task tồn)
 21:30-22:45  🔥 Xem Podcast Tech dài EN / Phim truyện tiếng Anh
 22:45-23:15  📖 ĐỌC SÁCH TIẾNG ANH (Wind down - Không màn hình)
@@ -144,6 +145,15 @@
 
 ---
 
+## 💻 TỔNG GIỜ LÀM BIT: 8 TIẾNG/TUẦN (bắt buộc)
+
+```
+T2 1h · T3 1h · T5 1h · T6 1.5h · T7 3.5h (16:30-18:00 + 19:30-21:30) = 8h
+T4 + CN: KHÔNG làm BIT (tối relax)
+```
+
+---
+
 ## ⚡ 6 ĐIỀU KHÔNG THỎA HIỆP
 
 | #   | Quy tắc                  | Thời gian                           |
@@ -157,4 +167,4 @@
 
 ---
 
-_Cập nhật: 15/10/2026 (V6.3 - Tối T4 + tối CN = relax, bỏ BIT 2 tối này; thêm TOEIC Part 5/7 sáng T2 + T6). Trước đó: (V6.2 - Tích hợp slot làm BIT 7M buổi tối và kích hoạt thói quen Prompt AI bằng tiếng Anh)._
+_Cập nhật: 15/10/2026 (V6.3 - Tối T4 + tối CN = relax, bỏ BIT 2 tối này; BIT đủ 8h/tuần: T6 kéo tới 22:30 + T7 thêm ca chiều 16:30-18:00; thêm TOEIC Part 5/7 sáng T2 + T6). Trước đó: (V6.2 - Tích hợp slot làm BIT 7M buổi tối và kích hoạt thói quen Prompt AI bằng tiếng Anh)._

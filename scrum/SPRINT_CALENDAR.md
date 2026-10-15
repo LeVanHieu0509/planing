@@ -42,6 +42,7 @@
 
 | Mã  | Mốc quý                                                    | Đo bằng gì                    |
 | --- | ---------------------------------------------------------- | ----------------------------- |
+| M1  | _Phương án B:_ nếu TOEIC T06 < 700 → thi lại T08-T09, nộp TMA trước 15/11/2027 | Bảng điểm               |
 | M4  | Theo dõi thông báo tuyển sinh Đợt 2/2027 (T08)             | Đã có thông báo chính thức    |
 | M4  | 🎓 **NỘP HỒ SƠ THẠC SĨ KHOA HỌC MÁY TÍNH - UIT** (T09 → đầu T10) | Đã nộp hồ sơ                  |
 
