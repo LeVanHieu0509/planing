@@ -34,7 +34,7 @@
 
 | Mã  | Mốc quý                                                    | Đo bằng gì                    |
 | --- | ---------------------------------------------------------- | ----------------------------- |
-| M1  | Mock TOEIC đạt 700+ → đăng ký thi thật                     | Điểm mock                     |
+| M1  | Mock TOEIC đạt 700+ → đăng ký thi thật (lên Senior TMA)    | Điểm mock                     |
 | M2  | Giữ quỹ 43tr học phí năm 1 nguyên vẹn + tiếp tục tiết kiệm | MONTHLY_TRACKER T06           |
 | M4  | Hồ sơ Thạc sĩ hoàn chỉnh, chỉ chờ nộp                      | Checklist 100%                |
 
@@ -44,7 +44,7 @@
 | --- | ---------------------------------------------------------- | ----------------------------- |
 | M4  | Theo dõi thông báo tuyển sinh Đợt 2/2027 (T08)             | Đã có thông báo chính thức    |
 | M4  | 🎓 **NỘP HỒ SƠ THẠC SĨ KHOA HỌC MÁY TÍNH - UIT** (T09 → đầu T10) | Đã nộp hồ sơ                  |
-| M1  | Thi TOEIC chính thức 700+                                  | Bảng điểm                     |
+| M1  | Thi TOEIC chính thức 700+ → nộp TMA xét Senior             | Bảng điểm                     |
 
 ### Q4/2027 (T10 → T12) - _"Vào trường"_ 🎓
 
@@ -116,5 +116,5 @@
 
 ---
 
-_Cập nhật: 15/10/2026 (Chốt ngành: Thạc sĩ Khoa học máy tính; Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027). Trước đó: 13/09/2026 (V9 - Đồng bộ mốc M5 sang quỹ mẹ 500tr/2036. Giữ nguyên: reset từ S1 =
+_Cập nhật: 15/10/2026 (TOEIC 700+ = điều kiện bắt buộc lên Senior TMA năm 2027; Chốt ngành: Thạc sĩ Khoa học máy tính; Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027). Trước đó: 13/09/2026 (V9 - Đồng bộ mốc M5 sang quỹ mẹ 500tr/2036. Giữ nguyên: reset từ S1 =
 14/09/2026, bảng Mốc Quý, đích đăng ký Thạc sĩ UIT T07/2027.)_

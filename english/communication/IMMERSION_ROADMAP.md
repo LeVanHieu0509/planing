@@ -96,7 +96,7 @@ Mục tiêu đầu ra:
 >   2. **Trục thời gian các thì:** Xem Infographic dòng thời gian (*Past Simple để kể chuyện mượt, Present Perfect cho thâm niên/kinh nghiệm*).
 >   3. **Câu điều kiện & Giả định:** Xem sơ đồ nhánh (*If... then..., I would prefer...*) để đưa ra quan điểm và phản biện logic trong lớp.
 > - **Mục tiêu:** Dùng ngữ pháp làm "khung xương logic" để nói câu dài, gãy gọn, phong thái chuyên nghiệp như một Tech Lead.
-> - **Dự trữ cho TOEIC 700+ (T02–T06/2027):** Vừa nói mượt ở Level 3, vừa tạo nền tảng vững chắc để đạt điểm tối đa Part 5-6 ETS nộp đầu vào Thạc sĩ UIT.
+> - **Dự trữ cho TOEIC 700+ (T02–T06/2027):** Vừa nói mượt ở Level 3, vừa tạo nền tảng vững chắc để đạt điểm tối đa Part 5-6 ETS - TOEIC 700+ là điều kiện bắt buộc lên Senior tại TMA năm 2027 (đầu vào Thạc sĩ UIT đã miễn tiếng Anh nhờ B1 Aptis).
 
 ### Giai đoạn 3 - Level 4 (~T02 → T04/2027)
 
@@ -337,5 +337,5 @@ _(Thêm hàng sau mỗi buổi học)_
 
 ---
 
-_Cập nhật: 15/10/2026 (Đồng bộ số liệu giữa các file). Trước đó: 13/09/2026 (Level 3 đã thanh toán. Chỉ còn chờ trường báo lịch.)_
+_Cập nhật: 15/10/2026 (TOEIC 700+ = điều kiện bắt buộc lên Senior TMA năm 2027; Đồng bộ số liệu giữa các file). Trước đó: 13/09/2026 (Level 3 đã thanh toán. Chỉ còn chờ trường báo lịch.)_
 _Liên kết: [START_HERE.md](../START_HERE.md) | [MOCK_TEST_TRACKER.md](../toeic/MOCK_TEST_TRACKER.md)_

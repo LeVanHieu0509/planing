@@ -163,7 +163,7 @@ BÀI HỌC 4: "Sức khỏe là nền tảng"
 
 BÀI HỌC 5: "Tiếng Anh mở mọi cánh cửa"
   → Mất cơ hội outsource vì TOEIC < 600
-  → Bài học: TOEIC 700+ = tăng cơ hội lương + điều kiện Thạc sĩ + giảng viên sau này
+  → Bài học: TOEIC 700+ = điều kiện bắt buộc lên Senior tại TMA (2027) + tăng cơ hội lương + giảng viên sau này
 
 BÀI HỌC 6: "Ghi sổ thiếu hệ thống = tự làm mình hoảng"
   → T08/2026: tưởng hụt 13 triệu, thật ra chỉ chênh 2.2tr do gộp nhầm đầu tư vào chi tiêu
@@ -210,4 +210,4 @@ BÀI HỌC 6: "Ghi sổ thiếu hệ thống = tự làm mình hoảng"
 
 ---
 
-_Cập nhật: 15/10/2026 (Chốt ngành: Thạc sĩ Khoa học máy tính; Đồng bộ số liệu giữa các file). Trước đó: 12/10/2026 (V8 - Cập nhật bản Định vị bản thân mới. Loại bỏ tư duy PM trong hẹn hò (từ bài học rút ra sau case của Huyền). Xác định vị thế của một High-Value Man. Đổi Motto mới. Các mục tiêu về cân nặng và tài chính tiếp tục giữ vững đà tiến tới.)_
+_Cập nhật: 15/10/2026 (TOEIC 700+ = điều kiện bắt buộc lên Senior TMA năm 2027; Chốt ngành: Thạc sĩ Khoa học máy tính; Đồng bộ số liệu giữa các file). Trước đó: 12/10/2026 (V8 - Cập nhật bản Định vị bản thân mới. Loại bỏ tư duy PM trong hẹn hò (từ bài học rút ra sau case của Huyền). Xác định vị thế của một High-Value Man. Đổi Motto mới. Các mục tiêu về cân nặng và tài chính tiếp tục giữ vững đà tiến tới.)_

@@ -32,7 +32,7 @@ TẦM NHÌN:
 
 | Mã     | Mục tiêu              | Đích đến                                          | Khi nào  |
 | ------ | --------------------- | ------------------------------------------------- | -------- |
-| **M1** | 🗣️ Tiếng Anh          | Giao tiếp tự tin · TOEIC 700+                     | T07/2027 |
+| **M1** | 🗣️ Tiếng Anh          | Giao tiếp tự tin · TOEIC 700+ (bắt buộc lên Senior TMA) | T07/2027 |
 | **M2** | 💰 Tiền               | 43tr học phí Thạc sĩ năm 1 → rồi tới 2 tỷ         | T12/2027 |
 | **M3** | 💪 Sức khoẻ           | 75kg · ngủ đủ · gym đều                           | 2027     |
 | **M4** | 🎓 Học vấn & Nghề     | Thạc sĩ UIT → giảng viên                          | Nộp hồ sơ T09-T10/2027 |
@@ -165,6 +165,6 @@ Chính sách: Tối đa 4 buổi học bù (lớp 12 HV); bảo lưu 1 lần tro
 
 ---
 
-_Cập nhật: 15/10/2026 (Chốt ngành: Thạc sĩ Khoa học máy tính; Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027; Đồng bộ số liệu giữa các file). Trước đó: 13/09/2026 (V8 - Chốt quỹ mẹ 500tr đến 2036, thêm link QUY_ME_500TR.md. Giữ nguyên:
+_Cập nhật: 15/10/2026 (TOEIC 700+ = điều kiện bắt buộc lên Senior TMA năm 2027; Chốt ngành: Thạc sĩ Khoa học máy tính; Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027; Đồng bộ số liệu giữa các file). Trước đó: 13/09/2026 (V8 - Chốt quỹ mẹ 500tr đến 2036, thêm link QUY_ME_500TR.md. Giữ nguyên:
 5 mục tiêu thay 6 epic, bỏ task công ty, Sprint S1 = 12/10/2026, mốc 70tr + Thạc sĩ UIT T07/2027 (nay đổi thành 43tr, nộp hồ sơ T09-T10/2027),
 L3 đã thanh toán.)_

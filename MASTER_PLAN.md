@@ -29,12 +29,12 @@
 ### M1 · 🗣️ TIẾNG ANH (TRỌNG TÂM CHIẾN DỊCH 90 NGÀY ALL-IN: 20/10/2026 → 12/01/2027)
 
 ```
-Đích:      Giao tiếp tự tin, phỏng vấn outsource được · TOEIC 700+
+Đích:      Giao tiếp tự tin, phỏng vấn outsource được · TOEIC 700+ (BẮT BUỘC năm 2027 để lên Senior tại TMA)
 Hiện tại:  TOEIC 535 (19/06/2026) · Đang theo học Tiếng Anh Immersion Level 3 (Khai giảng 20/10/2026)
 Chiến lược 3 tháng tới (Q4/2026 - T01/2027): 
            🔥 ALL-IN 100% THỜI GIAN RẢNH VÀO TIẾNG ANH (Giao tiếp Immersion + Ngữ pháp Logic Infographic)
            - Đến 12/01/2027: Dồn toàn bộ thời gian rảnh cho hệ sinh thái Immersion L3 (Nghe podcast đi đường, Active Recall 15p, sơ đồ logic Infographic kéo dài câu, Voice Memo, hồi sinh 24 chủ đề L2 cũ).
-           - T02/2027 → T06/2027 (Khoảng trống Vàng): Tạm gác giao tiếp, cày thuần 2 tháng đề ETS chuẩn bị thi TOEIC 700+ nộp hồ sơ Thạc sĩ UIT.
+           - T02/2027 → T06/2027 (Khoảng trống Vàng): Tạm gác giao tiếp, cày thuần đề ETS chuẩn bị thi TOEIC 700+ - điều kiện bắt buộc lên Senior tại TMA (hồ sơ Thạc sĩ UIT đã được miễn tiếng Anh nhờ B1 Aptis).
 Tiền:      ✅ L2 và L3 đều đã thanh toán xong
 Việc duy nhất: THAM GIA ĐỦ BUỔI IMMERSION + TẬN DỤNG TOÀN BỘ THỜI GIAN RẢNH ĐẮM CHÌM TIẾNG ANH (TUYỆT ĐỐI CHƯA CÀY ĐỀ ETS LÚC NÀY).
 ```
@@ -214,4 +214,4 @@ planing/
 
 ---
 
-_Cập nhật: 15/10/2026 (Chốt ngành: Thạc sĩ Khoa học máy tính; Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027). Trước đó: 12/10/2026 (V10 - Stress test toàn bộ plan: Điều chỉnh mục tiêu % mỡ M3 xuống 12-15% để tránh sụt test/burnout; Dời lịch cày TOEIC sang T02/2027 để không bị overload với Immersion; Nhấn mạnh việc tìm hiểu quy chế thi đầu vào Thạc sĩ.)_
+_Cập nhật: 15/10/2026 (TOEIC 700+ = điều kiện bắt buộc lên Senior TMA năm 2027; Chốt ngành: Thạc sĩ Khoa học máy tính; Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027). Trước đó: 12/10/2026 (V10 - Stress test toàn bộ plan: Điều chỉnh mục tiêu % mỡ M3 xuống 12-15% để tránh sụt test/burnout; Dời lịch cày TOEIC sang T02/2027 để không bị overload với Immersion; Nhấn mạnh việc tìm hiểu quy chế thi đầu vào Thạc sĩ.)_

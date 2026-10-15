@@ -5,6 +5,18 @@
 
 ---
 
+## 🚨 [QUAN TRỌNG] TOEIC 700+ - Điều kiện bắt buộc lên Senior (ghi nhận 15/10/2026)
+
+| Thông tin      | Chi tiết                                                                 |
+| -------------- | ------------------------------------------------------------------------ |
+| **Yêu cầu**    | TMA yêu cầu **TOEIC 700+** để được xét lên **Senior**                    |
+| **Hạn**        | **Năm 2027** - không đạt thì không lên được Senior                       |
+| **Hiện tại**   | TOEIC 535 (19/06/2026) - đã nộp cho công ty                              |
+| **Kế hoạch**   | Immersion L3 đến 12/01/2027 → cày đề ETS T02-T06/2027 → thi thật ~T06-T07/2027 |
+| **Chi tiết**   | [MASTER_PLAN.md](../../../MASTER_PLAN.md) (M1) · [SPRINT_CALENDAR.md](../../../scrum/SPRINT_CALENDAR.md) |
+
+---
+
 ## 🚨 [QUAN TRỌNG] AI First - Chuyển đổi chiến lược TMA (22/05/2026)
 
 ### Tình hình
@@ -221,4 +233,4 @@ User Request → Orchestrator Understands Intent → Selects Best Agents
 
 ---
 
-_Cập nhật: 22/05/2026_
+_Cập nhật: 15/10/2026 (Thêm yêu cầu TOEIC 700+ để lên Senior năm 2027). Trước đó: 22/05/2026_
