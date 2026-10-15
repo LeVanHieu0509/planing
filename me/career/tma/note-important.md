@@ -10,9 +10,10 @@
 | Thông tin      | Chi tiết                                                                 |
 | -------------- | ------------------------------------------------------------------------ |
 | **Yêu cầu**    | TMA yêu cầu **TOEIC 700+** để được xét lên **Senior**                    |
-| **Hạn**        | **Năm 2027** - không đạt thì không lên được Senior                       |
+| **Hạn**        | **Nộp chứng chỉ trước 15/11/2027** - không đạt thì không lên được Senior |
 | **Hiện tại**   | TOEIC 535 (19/06/2026) - đã nộp cho công ty                              |
-| **Kế hoạch**   | Immersion L3 đến 12/01/2027 → cày đề ETS T02-T06/2027 → thi thật ~T06-T07/2027 |
+| **Kế hoạch**   | Immersion L3 đến 12/01/2027 → cày đề ETS T02-T06/2027 → thi lần 1 T06/2027 → còn 2 lần thi lại (T08, T09) |
+| **Lưu ý**      | IIG trả chứng chỉ ~7-10 ngày sau thi → lần thi cuối nên trước ~25/10/2027. Tránh dồn vào T10-T11/2027 vì trùng nộp hồ sơ + phỏng vấn Thạc sĩ UIT |
 | **Chi tiết**   | [MASTER_PLAN.md](../../../MASTER_PLAN.md) (M1) · [SPRINT_CALENDAR.md](../../../scrum/SPRINT_CALENDAR.md) |
 
 ---
@@ -233,4 +234,4 @@ User Request → Orchestrator Understands Intent → Selects Best Agents
 
 ---
 
-_Cập nhật: 15/10/2026 (Thêm yêu cầu TOEIC 700+ để lên Senior năm 2027). Trước đó: 22/05/2026_
+_Cập nhật: 15/10/2026 (Hạn nộp chứng chỉ TOEIC 700+ cho TMA: 15/11/2027; Thêm yêu cầu TOEIC 700+ để lên Senior năm 2027). Trước đó: 22/05/2026_

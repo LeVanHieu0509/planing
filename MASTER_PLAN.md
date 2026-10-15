@@ -29,7 +29,7 @@
 ### M1 · 🗣️ TIẾNG ANH (TRỌNG TÂM CHIẾN DỊCH 90 NGÀY ALL-IN: 20/10/2026 → 12/01/2027)
 
 ```
-Đích:      Giao tiếp tự tin, phỏng vấn outsource được · TOEIC 700+ (BẮT BUỘC năm 2027 để lên Senior tại TMA)
+Đích:      Giao tiếp tự tin, phỏng vấn outsource được · TOEIC 700+ (BẮT BUỘC nộp TMA trước 15/11/2027 để lên Senior)
 Hiện tại:  TOEIC 535 (19/06/2026) · Đang theo học Tiếng Anh Immersion Level 3 (Khai giảng 20/10/2026)
 Chiến lược 3 tháng tới (Q4/2026 - T01/2027): 
            🔥 ALL-IN 100% THỜI GIAN RẢNH VÀO TIẾNG ANH (Giao tiếp Immersion + Ngữ pháp Logic Infographic)
@@ -214,4 +214,4 @@ planing/
 
 ---
 
-_Cập nhật: 15/10/2026 (TOEIC 700+ = điều kiện bắt buộc lên Senior TMA năm 2027; Chốt ngành: Thạc sĩ Khoa học máy tính; Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027). Trước đó: 12/10/2026 (V10 - Stress test toàn bộ plan: Điều chỉnh mục tiêu % mỡ M3 xuống 12-15% để tránh sụt test/burnout; Dời lịch cày TOEIC sang T02/2027 để không bị overload với Immersion; Nhấn mạnh việc tìm hiểu quy chế thi đầu vào Thạc sĩ.)_
+_Cập nhật: 15/10/2026 (Hạn nộp chứng chỉ TOEIC 700+ cho TMA: 15/11/2027; TOEIC 700+ = điều kiện bắt buộc lên Senior TMA năm 2027; Chốt ngành: Thạc sĩ Khoa học máy tính; Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027). Trước đó: 12/10/2026 (V10 - Stress test toàn bộ plan: Điều chỉnh mục tiêu % mỡ M3 xuống 12-15% để tránh sụt test/burnout; Dời lịch cày TOEIC sang T02/2027 để không bị overload với Immersion; Nhấn mạnh việc tìm hiểu quy chế thi đầu vào Thạc sĩ.)_
