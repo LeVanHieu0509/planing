@@ -247,7 +247,8 @@ HÀNG NGÀY (không thể bỏ):
   ✅ Trước ngủ → shadowing 15p
 
 HÀNG TUẦN:
-  ✅ CN sáng → Mock TOEIC 1 đề trên dautoeic.com
+  ✅ CN chiều → Lớp Phản Xạ: xả kho chunks L2 + L3
+  ⏸️ Mock TOEIC / đề ETS → TẠM DỪNG đến T02/2027 (theo MASTER_PLAN)
   ✅ T6 → review ERROR LOG + ôn từ vựng tuần
 
 KHÔNG BAO GIỜ (6 tháng):
@@ -336,5 +337,5 @@ _(Thêm hàng sau mỗi buổi học)_
 
 ---
 
-_Cập nhật: 13/09/2026 (Level 3 đã thanh toán. Chỉ còn chờ trường báo lịch.)_
+_Cập nhật: 15/10/2026 (Đồng bộ số liệu giữa các file). Trước đó: 13/09/2026 (Level 3 đã thanh toán. Chỉ còn chờ trường báo lịch.)_
 _Liên kết: [START_HERE.md](../START_HERE.md) | [MOCK_TEST_TRACKER.md](../toeic/MOCK_TEST_TRACKER.md)_

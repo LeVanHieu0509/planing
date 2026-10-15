@@ -2,7 +2,7 @@
 
 > **Lịch gym:** T2 tối + T6 tối + T7 sáng + CN
 > **Phòng gym:** Đã đăng ký 3 tháng từ 02/09/2026 (900k)
-> **Mục tiêu:** 72-75kg · khối cơ (SMM) 35-38kg · % mỡ 7-10% (theo target ghi tay trên phiếu InBody)
+> **Mục tiêu:** 72-75kg · khối cơ (SMM) 35-38kg · % mỡ 12-15% (chốt 12/10/2026 theo MASTER_PLAN - target cũ 7-10% ghi tay trên phiếu InBody đã bỏ vì dễ burnout)
 > **Theo dõi:** **Đo InBody 1 lần/tháng** - không cân hàng ngày, không ghi bảng hàng tuần
 > **Gắn với mục tiêu:** M3 - Sức khoẻ
 > **Cập nhật:** 13/09/2026 (có số liệu InBody 31/07 và 28/08)
@@ -12,7 +12,7 @@
 ## ⚡ NGUYÊN TẮC
 
 ```
-✅ 4 buổi Gym/tuần - T2 tối + T6 tối + T7 sáng + CN (sau mock)
+✅ 4 buổi Gym/tuần - T2 tối + T6 tối + T7 sáng + CN sáng
 ✅ Ăn đủ 2,400-2,900 kcal/ngày (tăng cơ)
 ✅ Protein ~198g/ngày (ức gà 400g + 4 trứng vịt + sữa + sữa chua)
 ❌ KHÔNG BAO GIỜ tập đói (ăn trước tập 30-60 phút)
@@ -33,7 +33,7 @@
 | T5   | Lớp Nghe Nói      | 19:15-20:45 | -                           |
 | T6   | ★ GYM buổi 2 tối  | 19:30-20:30 | Lưng + Tay trước (Pull)     |
 | T7   | ★ GYM buổi 3 sáng | 07:30-08:30 | Chân + Vai (Legs/Shoulders) |
-| CN   | ★ GYM buổi 4      | 10:30-11:30 | Full body / yếu điểm        |
+| CN   | ★ GYM buổi 4      | 09:00-10:00 | Full body / yếu điểm        |
 
 ---
 
@@ -88,10 +88,10 @@ Giãn cơ: 5p
 Tổng: ~60 phút
 ```
 
-### CN - FULL BODY / YẾU ĐIỂM (Sau mock 10:30)
+### CN sáng - FULL BODY / YẾU ĐIỂM (09:00-10:00)
 
 ```
-Sau mock test 07:30-09:30, nghỉ 30p rồi tập:
+Khởi động 5p rồi tập (chiều CN còn lớp Phản Xạ 15:00):
 
 1. Push-up thường / biến thể   4×15-20    (ngực)
 2. Body Row hoặc Pull-up       3×10-12    (lưng)
@@ -208,7 +208,7 @@ DẤU HIỆU CẦN NGHỈ:
 
 ---
 
-_Cập nhật: 13/09/2026 (V6 - Điền 2 dòng InBody thật: 31/07 (65.4kg, cơ 30.5kg, mỡ 17.2%, score 77)
+_Cập nhật: 15/10/2026 (Đồng bộ số liệu giữa các file). Trước đó: 13/09/2026 (V6 - Điền 2 dòng InBody thật: 31/07 (65.4kg, cơ 30.5kg, mỡ 17.2%, score 77)
 và 28/08 (66.8kg, cơ 31.4kg, mỡ 16.8%, score 78) - xu hướng đúng: cơ tăng, mỡ giảm. Thêm target
 ghi tay trên phiếu: 72-75kg / SMM 35-38kg / mỡ 7-10%. Giữ nguyên: đăng ký gym 3 tháng từ 02/09,
 đo InBody 1 lần/tháng.)_

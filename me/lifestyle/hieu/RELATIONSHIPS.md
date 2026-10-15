@@ -103,7 +103,7 @@ TUYỆT ĐỐI KHÔNG HI SINH VÌ BẤT KỲ MỐI QUAN HỆ NÀO:
 
 ---
 
-## 📊 TRACKING (reset theo Sprint mới, từ S1 = 14/09/2026)
+## 📊 TRACKING (reset theo Sprint mới, từ S1 = 12/10/2026)
 
 | Sprint | Gia đình (call) | Bạn bè (CF/đá banh) | Ghi chú |
 | ------ | ---------------- | --------------------- | ------- |
@@ -124,7 +124,7 @@ TUYỆT ĐỐI KHÔNG HI SINH VÌ BẤT KỲ MỐI QUAN HỆ NÀO:
 
 ---
 
-_Cập nhật: 13/09/2026 (V4 - Viết lại toàn bộ theo hệ thống mới, bỏ Epic E6/Story Point. Thêm kế
+_Cập nhật: 15/10/2026 (Đồng bộ số liệu giữa các file). Trước đó: 13/09/2026 (V4 - Viết lại toàn bộ theo hệ thống mới, bỏ Epic E6/Story Point. Thêm kế
 hoạch "Bạn đời" chốt 13/09/2026: ưu tiên phát triển bản thân trước, dự kiến tìm hiểu nghiêm túc
 cuối 2026, khu vực miền Trung (Nghệ An-Đà Nẵng, Nha Trang trở ra), ưu tiên nghề giáo viên/bác sĩ.
 Reset bảng tracking theo Sprint S1 mới.)_

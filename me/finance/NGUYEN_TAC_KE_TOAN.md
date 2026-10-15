@@ -88,7 +88,11 @@ Những dòng tiền này **nằm trong tài khoản ngân hàng của Hiếu**,
    - Dự kiến cán mốc 70M tiền mặt: **T12/2026 - T02/2027** (sớm trước hạn 5-7 tháng).
 2. **Ưu tiên 2 - Quản trị nghĩa vụ trọ & nợ:**
    - Trọ T10 (8M): ✅ **Đã hoàn tất thanh toán 8,000,000đ** ngày 16/10 qua VCB cho PHAM THI THOA.
-   - Nợ ngắn hạn còn lại: 2.5M (Hiệp 1M + Shopee 1.5M). Tiền mặt tự do sau khi thanh toán hết vẫn còn tới **26.28M**.
+   - Nợ ngắn hạn còn lại: 4.0M (Hiệp 1M + Shopee 1.5M + Duy Tiên 1.5M trả góp 500k/tháng). Tiền mặt tự do sau khi thanh toán hết vẫn còn tới **24.78M**.
 3. **Ưu tiên 3 - Kỷ luật đầu tư (Trần 50M):**
    - Chỉ được mở trần bơm thêm vốn crypto/bot khi **Tiền mặt thực tế ≥ 50,000,000 VND**.
    - Hiện tại tuyệt đối không nạp thêm vốn vào Binance hay OKX.
+
+---
+
+_Cập nhật: 15/10/2026 (Sửa nợ còn lại 2.5M → 4.0M cho khớp T10_2026_GIAO_DICH.md, thêm khoản Duy Tiên 1.5M)._
