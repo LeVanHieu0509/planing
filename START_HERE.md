@@ -15,7 +15,7 @@ NGHỀ:     Software Developer (4+ năm)
 SIDE:     Miracle POS (đang đóng băng - chỉ fix bug)
 
 ★ MỐC LỚN NHẤT SẮP TỚI:
-  🎓 NỘP HỒ SƠ THẠC SĨ CNTT QUẢN LÝ - UIT (ĐHQG TP.HCM) · T09-T10/2027 · khai giảng T12/2027
+  🎓 NỘP HỒ SƠ THẠC SĨ KHOA HỌC MÁY TÍNH - UIT (ĐHQG TP.HCM) · T09-T10/2027 · khai giảng T12/2027
      → Cần 43tr học phí năm 1 (đóng T12/2027) · đã có ~28.8tr tiền mặt thực tế (đã sạch 8M tiền trọ T10) · dự kiến đủ vào T11-T12/2026
      → Tổng tài sản ròng toàn diện: ~62.8M (theo thị giá: 28.8M tiền mặt + 30.0M Binance W + 8M OKX Bot - 4.0M nợ; tổng vốn tích luỹ lịch sử: ~144.3M)
      → Quỹ mẹ 500tr: Đã nạp luỹ kế gốc 8M (định kỳ 2M/tháng, mốc 100M trích lãi nuôi mẹ)
@@ -165,6 +165,6 @@ Chính sách: Tối đa 4 buổi học bù (lớp 12 HV); bảo lưu 1 lần tro
 
 ---
 
-_Cập nhật: 15/10/2026 (Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027; Đồng bộ số liệu giữa các file). Trước đó: 13/09/2026 (V8 - Chốt quỹ mẹ 500tr đến 2036, thêm link QUY_ME_500TR.md. Giữ nguyên:
+_Cập nhật: 15/10/2026 (Chốt ngành: Thạc sĩ Khoa học máy tính; Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027; Đồng bộ số liệu giữa các file). Trước đó: 13/09/2026 (V8 - Chốt quỹ mẹ 500tr đến 2036, thêm link QUY_ME_500TR.md. Giữ nguyên:
 5 mục tiêu thay 6 epic, bỏ task công ty, Sprint S1 = 12/10/2026, mốc 70tr + Thạc sĩ UIT T07/2027 (nay đổi thành 43tr, nộp hồ sơ T09-T10/2027),
 L3 đã thanh toán.)_

@@ -1,7 +1,7 @@
 # 🎯 MASTER PLAN 2026-2031 - V6 (RESET 13/09/2026)
 
 > **Hiếu Lê Văn** · 25 tuổi
-> **Mốc lớn nhất:** 🎓 Nộp hồ sơ Thạc sĩ CNTT Quản lý - UIT (ĐHQG TP.HCM) · **T09-T10/2027** · đóng 43tr năm 1 T12/2027
+> **Mốc lớn nhất:** 🎓 Nộp hồ sơ Thạc sĩ Khoa học máy tính - UIT (ĐHQG TP.HCM) · **T09-T10/2027** · đóng 43tr năm 1 T12/2027
 > **Motto:** _"Hệ thống phải vừa sức mình, không phải mình phải cố cho vừa hệ thống."_
 
 ---
@@ -63,7 +63,7 @@ Hiện tại:  66.0kg (InBody 03/10/26: cơ 32.5kg, % mỡ 13.3%, Score 81/100) 
 ### M4 · 🎓 HỌC VẤN & NGHỀ
 
 ```
-Đích:      Thạc sĩ CNTT Quản lý - UIT (ĐHQG TP.HCM)
+Đích:      Thạc sĩ Khoa học máy tính - UIT (ĐHQG TP.HCM)
 Nộp hồ sơ: T09-T10/2027 (Đợt 2) · Phỏng vấn T11/2027 · Khai giảng T12/2027
 Học phí:   43tr năm 1 (T12/2027) + 47tr năm 2 = 90tr
 Dự phòng:  Nếu thiếu tiền → vay Hiệp, trả góp dần
@@ -214,4 +214,4 @@ planing/
 
 ---
 
-_Cập nhật: 15/10/2026 (Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027). Trước đó: 12/10/2026 (V10 - Stress test toàn bộ plan: Điều chỉnh mục tiêu % mỡ M3 xuống 12-15% để tránh sụt test/burnout; Dời lịch cày TOEIC sang T02/2027 để không bị overload với Immersion; Nhấn mạnh việc tìm hiểu quy chế thi đầu vào Thạc sĩ.)_
+_Cập nhật: 15/10/2026 (Chốt ngành: Thạc sĩ Khoa học máy tính; Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027). Trước đó: 12/10/2026 (V10 - Stress test toàn bộ plan: Điều chỉnh mục tiêu % mỡ M3 xuống 12-15% để tránh sụt test/burnout; Dời lịch cày TOEIC sang T02/2027 để không bị overload với Immersion; Nhấn mạnh việc tìm hiểu quy chế thi đầu vào Thạc sĩ.)_

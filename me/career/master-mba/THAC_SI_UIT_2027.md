@@ -1,9 +1,7 @@
-# 🎓 THẠC SĨ CÔNG NGHỆ THÔNG TIN QUẢN LÝ - UIT (NỘP HỒ SƠ T09-T10/2027)
+# 🎓 THẠC SĨ KHOA HỌC MÁY TÍNH - UIT (NỘP HỒ SƠ T09-T10/2027)
 
-> 💡 _Gợi ý: nên đổi tên file này thành `THAC_SI_UIT_2027.md` cho khớp nội dung._
->
 > **Trường:** Đại học Công nghệ Thông tin (UIT) - Đại học Quốc gia TP.HCM
-> **Ngành:** Công nghệ Thông tin Quản lý
+> **Ngành:** Khoa học máy tính (Mã ngành: 8 48 01 01)
 > **Mốc nộp hồ sơ:** **T09-T10/2027** (Đợt 2/2027) · Phỏng vấn T11/2027 · Khai giảng T12/2027
 > **Học phí cần:** **43,000,000 VND** (năm 1, đóng T12/2027) · Năm 2: 47,000,000 (~T12/2028)
 > **Mục tiêu lớn:** M4 - Học vấn & Nghề
@@ -131,7 +129,7 @@ T12/2027       Khai giảng & Đóng học phí năm 1 (43tr)
 ## 🧭 VÌ SAO HỌC THẠC SĨ NÀY
 
 ```
-1. Ngành "CNTT Quản lý" khớp đúng hướng đi: từ developer → quản lý / giảng dạy
+1. Ngành "Khoa học máy tính" đào sâu nền tảng học thuật cho developer → khớp hướng giảng dạy
 2. UIT thuộc ĐHQG TP.HCM - bằng có giá trị, network tốt
 3. Là điều kiện cần để làm giảng viên đại học (mục tiêu 2029)
 4. Học ở TP.HCM - không phải chuyển chỗ ở, vẫn đi làm bình thường
@@ -177,4 +175,4 @@ T12/2027       Khai giảng & Đóng học phí năm 1 (43tr)
 
 ---
 
-_Cập nhật: 15/10/2026 (Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027). Trước đó: 13/09/2026 (V4 - Chốt UIT ngành CNTT Quản lý, đăng ký T07/2027, học phí 70tr, dự phòng vay Hiệp. Thay thế hoàn toàn bản "Thạc sĩ CS 2028" cũ.)_
+_Cập nhật: 15/10/2026 (Chốt ngành: Thạc sĩ Khoa học máy tính; Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027). Trước đó: 13/09/2026 (V4 - Chốt UIT ngành CNTT Quản lý, đăng ký T07/2027, học phí 70tr, dự phòng vay Hiệp. Thay thế hoàn toàn bản "Thạc sĩ CS 2028" cũ.)_

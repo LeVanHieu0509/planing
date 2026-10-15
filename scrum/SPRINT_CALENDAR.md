@@ -2,7 +2,7 @@
 
 > **Reset ngày 11/10/2026.** Bắt đầu lại nhịp mới từ **S1 (12/10/2026)**.
 > **Sprint length:** 2 tuần (Thứ 2 → Chủ nhật) · **Sprint nghỉ:** cứ 3 sprint → 1 sprint nhẹ
-> **Mốc lớn nhất:** 🎓 Nộp hồ sơ Thạc sĩ CNTT Quản lý (UIT) - **T09-T10/2027** · khai giảng & đóng 43tr năm 1 T12/2027
+> **Mốc lớn nhất:** 🎓 Nộp hồ sơ Thạc sĩ Khoa học máy tính (UIT) - **T09-T10/2027** · khai giảng & đóng 43tr năm 1 T12/2027
 
 ---
 
@@ -43,7 +43,7 @@
 | Mã  | Mốc quý                                                    | Đo bằng gì                    |
 | --- | ---------------------------------------------------------- | ----------------------------- |
 | M4  | Theo dõi thông báo tuyển sinh Đợt 2/2027 (T08)             | Đã có thông báo chính thức    |
-| M4  | 🎓 **NỘP HỒ SƠ THẠC SĨ CNTT QUẢN LÝ - UIT** (T09 → đầu T10) | Đã nộp hồ sơ                  |
+| M4  | 🎓 **NỘP HỒ SƠ THẠC SĨ KHOA HỌC MÁY TÍNH - UIT** (T09 → đầu T10) | Đã nộp hồ sơ                  |
 | M1  | Thi TOEIC chính thức 700+                                  | Bảng điểm                     |
 
 ### Q4/2027 (T10 → T12) - _"Vào trường"_ 🎓
@@ -116,5 +116,5 @@
 
 ---
 
-_Cập nhật: 15/10/2026 (Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027). Trước đó: 13/09/2026 (V9 - Đồng bộ mốc M5 sang quỹ mẹ 500tr/2036. Giữ nguyên: reset từ S1 =
+_Cập nhật: 15/10/2026 (Chốt ngành: Thạc sĩ Khoa học máy tính; Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027). Trước đó: 13/09/2026 (V9 - Đồng bộ mốc M5 sang quỹ mẹ 500tr/2036. Giữ nguyên: reset từ S1 =
 14/09/2026, bảng Mốc Quý, đích đăng ký Thạc sĩ UIT T07/2027.)_

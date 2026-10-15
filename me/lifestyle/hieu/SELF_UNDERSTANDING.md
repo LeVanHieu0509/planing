@@ -27,7 +27,7 @@ TOEIC:        535 (19/06/2026) → Đang theo học Tiếng Anh Immersion Level 
 
 **"Một Kỹ sư Phần mềm có Tư duy Chiến lược, Nhà Quản trị Tài chính xuất sắc và Giảng viên Đại học tương lai."**
 
-- **Vị thế Sự nghiệp:** 4+ năm thực chiến, tự build hệ thống từ A-Z. Đang nâng cấp vũ khí (Tiếng Anh Level 3 + Thạc sĩ CNTT) để tiến vào giới Học thuật và Quản lý. **Tuyệt đối không còn là thợ gõ code outsource cày cuốc bán mạng.**
+- **Vị thế Sự nghiệp:** 4+ năm thực chiến, tự build hệ thống từ A-Z. Đang nâng cấp vũ khí (Tiếng Anh Level 3 + Thạc sĩ Khoa học máy tính) để tiến vào giới Học thuật và Quản lý. **Tuyệt đối không còn là thợ gõ code outsource cày cuốc bán mạng.**
 - **Vị thế Tài chính:** Nắm trong tay ~62.8 triệu VNĐ tài sản ròng toàn diện (16/10/2026, W tính theo thị giá), dư dả 15tr/tháng. Sở hữu cái đầu lạnh (Kỷ luật Risk Management, Diamond Hands) và trái tim ấm (Quỹ báo hiếu mẹ 500tr).
 - **Vị thế Cá nhân (High-Value Man):** Biết đầu tư vào "Tài sản cơ thể" (Gym, chăm sóc da). Nắm giữ sức mạnh **"Walk Away" (Dám bước đi)**: Không lụy tình, không over-analyze phụ nữ, đặt kỷ luật và mục tiêu cá nhân lên trên mọi mối quan hệ rủi ro.
 
@@ -210,4 +210,4 @@ BÀI HỌC 6: "Ghi sổ thiếu hệ thống = tự làm mình hoảng"
 
 ---
 
-_Cập nhật: 15/10/2026 (Đồng bộ số liệu giữa các file). Trước đó: 12/10/2026 (V8 - Cập nhật bản Định vị bản thân mới. Loại bỏ tư duy PM trong hẹn hò (từ bài học rút ra sau case của Huyền). Xác định vị thế của một High-Value Man. Đổi Motto mới. Các mục tiêu về cân nặng và tài chính tiếp tục giữ vững đà tiến tới.)_
+_Cập nhật: 15/10/2026 (Chốt ngành: Thạc sĩ Khoa học máy tính; Đồng bộ số liệu giữa các file). Trước đó: 12/10/2026 (V8 - Cập nhật bản Định vị bản thân mới. Loại bỏ tư duy PM trong hẹn hò (từ bài học rút ra sau case của Huyền). Xác định vị thế của một High-Value Man. Đổi Motto mới. Các mục tiêu về cân nặng và tài chính tiếp tục giữ vững đà tiến tới.)_
