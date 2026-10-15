@@ -67,6 +67,19 @@ Mục tiêu đầu ra:
 → Đây là mốc kết thúc 6 tháng immersion (14/07/2026 → 12/01/2027)
 ```
 
+> 🎯 **QUYẾT ĐỊNH CHIẾN LƯỢC: CHIẾN DỊCH 90 NGÀY ALL-IN ENGLISH (20/10/2026 → 12/01/2027)**
+> *"Trong 3 tháng tới, dồn TOÀN BỘ THỜI GIAN RẢNH vào tiếng Anh để tạo bước nhảy vọt giao tiếp trước khi bước sang năm 2027."*
+>
+> 🌐 **MA TRẬN TẬN DỤNG THỜI GIAN RẢNH (IMMERSION 360° - KHÔNG BURNOUT):**
+> 1. **Lớp 1: Dead-time khi di chuyển (45-60p/ngày):** 100% Audio tiếng Anh (Tech: *Syntax.fm, Fireship, Lex Fridman*; Đời sống/Mindset: *The Diary of a CEO, Luke's English Podcast*). Tuyệt đối không nghe nhạc/podcast tiếng Việt.
+> 2. **Lớp 2: Giờ nghỉ trưa / Giải lao tại TMA (30-45p/ngày - Passive Immersion):** Xem YouTube tech reviews, sitcom ngắn (Friends/Modern Family) hoàn toàn phụ đề tiếng Anh; đọc tin công nghệ qua Hacker News, Medium, Dev.to thay cho lướt mạng xã hội tiếng Việt.
+> 3. **Lớp 3: Tối tập trung sâu (45-60p tối T2, T4, T6, T7 - Deep Study & AI Speaking Partner):**
+>    - **15 phút Active Recall & ChatGPT Voice Mode:** Ôn 3-5 Chunks của buổi L3 vừa học; bật app ChatGPT Voice Mode đàm thoại trực tiếp 5-10 phút (AI đóng vai trò Bạn đồng hành 24/7 kiên nhẫn, không phán xét, ép dùng cụm từ mới và sửa lỗi ngữ pháp tự nhiên) hoặc thu âm Voice Memo 60-90s (theo [LEVEL_3_TOPIC_LOG.md](./LEVEL_3_TOPIC_LOG.md)).
+>    - **20 phút Ngữ pháp Logic Infographic:** Đọc sơ đồ cú pháp trong bộ sách *"Chinh phục toàn diện ngữ pháp tiếng Anh bằng Infographic"* để tra cứu các bộ liên từ ghép câu logic, trục thời gian quá khứ/hiện tại hoàn thành và mệnh đề quan hệ để kéo dài câu.
+>    - **15-20 phút Shadowing & Khẩu hình:** Nghe và nhại theo ngữ điệu native speaker.
+> 4. **Lớp 4: Lên lớp thực chiến tại Gò Vấp (T3, T5: 19:15-20:45 & CN: Chiều):** "Xả kho" toàn bộ từ vựng, chunks và cấu trúc logic đã nạp; xung phong nói liên tục, chấp nhận nói sai để được sửa.
+> 5. **Lớp 5: Thư giãn trước khi ngủ (22:45-23:15):** Đọc sách hoặc tài liệu tiếng Anh (wind down không màn hình xanh).
+>
 > ⚡ **CHIẾN LƯỢC ACTIVE RECALL 15 PHÚT MỖI TUẦN CHO LEVEL 3 (Khắc phục quên từ & nói câu dài):**
 >
 > 1. **Quy tắc 3x3 Chunks:** Mỗi buổi chọn 3-5 cụm từ ngữ cảnh (không học từ đơn lẻ).
@@ -75,6 +88,15 @@ Mục tiêu đầu ra:
 > 4. **Hồi sinh 1 chủ đề Level 2 cũ (Thứ Bảy):** Mỗi tuần kích hoạt lại 1 chủ đề cũ theo [LEVEL_2_RETROSPECTIVE.md](./LEVEL_2_RETROSPECTIVE.md).
 > 5. **Xả từ vựng Chủ Nhật:** Dùng các cụm từ mới vào buổi lớp Phản Xạ cuối tuần.
 >    📝 **Sổ theo dõi chủ đề Level 3:** [LEVEL_3_TOPIC_LOG.md](./LEVEL_3_TOPIC_LOG.md) · **Ôn tập Level 2:** [LEVEL_2_RETROSPECTIVE.md](./LEVEL_2_RETROSPECTIVE.md)
+>
+> 📖 **HỌC NGỮ PHÁP LOGIC QUA BỘ SÁCH INFOGRAPHIC (2 TẬP - NXB ĐHQG HÀ NỘI):**
+> - **Triết lý của Developer:** *"Ngữ pháp không khó — nó là Cú pháp & Luồng Logic (Syntax & Control Flow) giúp kết nối ý tưởng chặt chẽ và nói mượt mà."*
+> - **Học & áp dụng luôn trong Level 3 để nói mượt:**
+>   1. **Bộ nối câu & Liên từ logic:** Tra cứu các sơ đồ nối câu (*because, although, which means that, so that, therefore*) để kéo dài câu tự nhiên.
+>   2. **Trục thời gian các thì:** Xem Infographic dòng thời gian (*Past Simple để kể chuyện mượt, Present Perfect cho thâm niên/kinh nghiệm*).
+>   3. **Câu điều kiện & Giả định:** Xem sơ đồ nhánh (*If... then..., I would prefer...*) để đưa ra quan điểm và phản biện logic trong lớp.
+> - **Mục tiêu:** Dùng ngữ pháp làm "khung xương logic" để nói câu dài, gãy gọn, phong thái chuyên nghiệp như một Tech Lead.
+> - **Dự trữ cho TOEIC 700+ (T02–T06/2027):** Vừa nói mượt ở Level 3, vừa tạo nền tảng vững chắc để đạt điểm tối đa Part 5-6 ETS nộp đầu vào Thạc sĩ UIT.
 
 ### Giai đoạn 3 - Level 4 (~T02 → T04/2027)
 

@@ -92,17 +92,21 @@ Bot OKX      → dự án cá nhân, không phải nguồn thu, không bơm thê
 
 ---
 
-## 📅 LỊCH TUẦN (rút gọn)
+### M1 · 🗣️ Tiếng Anh (Trọng tâm All-in 90 ngày: 20/10/2026 → 12/01/2027)
+- Dồn 100% thời gian rảnh vào hệ sinh thái Immersion L3 (SAIGON SPECIAL) + Ngữ pháp Logic Infographic + Active Recall.
+
+---
+
+## 📅 LỊCH TUẦN CÂN BẰNG (TMA + BIT + TIẾNG ANH + THỂ THAO)
 
 ```
-T2  07:15 Vocab 60p  →  19:30 GYM  →  21:00 meal prep T3  →  23:30 ngủ
-T3  07:15 Ôn từ 45p  →  19:15 ★ LỚP TIẾNG ANH  →  23:30 ngủ
-T4  07:15 Grammar 60p →  18:30 ĐÁ BANH  →  tối NGHỈ HOÀN TOÀN  →  23:30 ngủ
-T5  07:15 Ôn từ 45p  →  19:15 ★ LỚP TIẾNG ANH  →  23:30 ngủ
-T6  07:15 Review 60p →  19:30 GYM  →  tối tự do  →  23:30 ngủ
-T7  07:30 GYM  →  sáng nghỉ  →  chiều tự do
-CN  07:30 Mock/học  →  10:30 GYM  →  chiều ★ LỚP PHẢN XẠ
-    21:00 Check-in sprint (chỉ tuần cuối sprint)
+T2  07:30 Audio EN  →  19:30 GYM  →  21:30 LÀM BIT  →  22:30 Sơ đồ Infographic/ChatGPT Voice  →  22:45 Đọc sách EN
+T3  07:30 Lướt Chunks  →  19:15 ★ LỚP LEVEL 3 (SAIGON SPECIAL)  →  21:30 LÀM BIT  →  22:30 Đọc sách EN
+T4  07:30 Audio EN  →  18:30 ĐÁ BANH  →  21:30 LÀM BIT  →  22:30 Active Recall/ChatGPT Voice  →  22:45 Đọc sách EN
+T5  07:30 Lướt Chunks  →  19:15 ★ LỚP LEVEL 3 (SAIGON SPECIAL)  →  21:30 LÀM BIT  →  22:30 Đọc sách EN
+T6  07:30 Audio EN  →  19:30 GYM  →  21:00 LÀM BIT  →  22:15 Active Recall/ChatGPT Voice  →  22:45 Đọc sách EN
+T7  07:30 GYM  →  15:00 Hồi sinh bài L2 (LEVEL_2_RETROSPECTIVE.md)  →  19:30 LÀM BIT  →  21:30 Tech Podcast EN
+CN  09:00 GYM  →  15:00 ★ LỚP PHẢN XẠ (Xả kho)  →  21:00 Check-in  →  21:15 LÀM BIT  →  22:45 Đọc sách EN
 ```
 
 Chi tiết: [me/lifestyle/hieu/DAILY_SCHEDULE.md](./me/lifestyle/hieu/DAILY_SCHEDULE.md)
