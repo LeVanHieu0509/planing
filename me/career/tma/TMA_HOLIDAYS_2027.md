@@ -39,10 +39,19 @@
   - $\rightarrow$ Trọn vẹn **~3 đến 3.5 tuần (22 - 25 ngày) ở quê đón Tết với gia đình (Mục tiêu M5)**, kết hợp làm remote TMA + BIT.
 
 * **✈️ Kế hoạch đặt vé máy bay khứ hồi (SGN ⇄ VII):**
-  - **Chặng đi (SGN ➔ VII):** Bay ngày **28/01/2027** (21 tháng Chạp) hoặc **30/01/2027** (23 tháng Chạp). Giờ ưu tiên: Ban ngày (08:00 - 13:00).
-  - **Chặng về (VII ➔ SGN):** Bay ngày **21/02/2027** (Mùng 16 Âm lịch). Giờ ưu tiên: Chiều (14:00 - 18:00).
-  - **Dự trù ngân sách:** **~4.500.000 – 5.500.000 VNĐ** khứ hồi (Nhờ bay lệch đầu cao điểm nên tiết kiệm được 2-3 triệu so với cận Tết).
-  - **Thời điểm book vé:** Đặt sớm trong **Tháng 10 hoặc đầu Tháng 11/2026** (khi có lương T10) để giữ giờ bay đẹp và giá tốt nhất, không để sát Tết bị đội giá hay hết vé.
+  - **Chặng đi (SGN ➔ VII):** 
+    * Ngày bay: **Thứ Năm, 28/01/2027** (21 tháng Chạp).
+    * Giờ bay: **19:20 tối (7g20 tối) - Vietjet Air**. Đáp sân bay Vinh khoảng 21:05, về nhà nghỉ ngơi thuận tiện.
+    * Phép TMA: Xin nghỉ phép 1 ngày Thứ Năm (28/01).
+    * Thứ Sáu (29/01 - 22 tháng Chạp): Làm việc remote tại quê.
+    * Ưu đãi voucher: **Áp dụng mã giảm 1.000.000 VNĐ** từ đợt hoàn vé năm trước chưa dùng của Vietjet Air $\rightarrow$ Tiết kiệm ngay 1 triệu tiền tươi!
+  - **Chặng về (VII ➔ SGN):** 
+    * Ngày bay: **Chủ Nhật, 21/02/2027** (Mùng 16 Âm lịch). 
+    * Giờ bay ưu tiên: Chiều (14:00 - 18:00) để vào Sài Gòn tối nghỉ ngơi chuẩn bị đi làm lại.
+  - **Kế hoạch xin phép công ty (TMA):**
+    * Nhắn anh Đạt (Lead/Manager TMA): Xin phép làm việc **remote tuần trước Tết (01/02 → 03/02/2027)** và **tuần sau Tết (11/02 → 19/02/2027)** vì lý do về quê sớm tránh kẹt xe và ăn Tết cùng gia đình.
+  - **Dự trù ngân sách:** Khoảng **~3.500.000 – 4.500.000 VNĐ** khứ hồi (sau khi đã trừ voucher giảm 1M của Vietjet).
+  - **Thời điểm book vé:** Đặt sớm trong **Tháng 10 hoặc đầu Tháng 11/2026** để giữ chỗ chuyến 19:20 tối Vietjet và dùng ngay voucher 1M.
 
 ### 2. Khai xuân Chiến dịch TOEIC 700+ (Coach 1:1 Kim Hân):
 * **Bắt đầu:** Cuối tuần **27/02/2027** (ngay sau khi vào lại Sài Gòn ổn định chỗ ở).
