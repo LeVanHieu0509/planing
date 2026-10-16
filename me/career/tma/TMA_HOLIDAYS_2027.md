@@ -47,13 +47,16 @@
     * **Giá vé thực tế (check 17/10/2026):** **3.300.000 VNĐ**.
     * **Áp mã giảm hoàn vé 1.000.000 VNĐ** $\rightarrow$ Thực trả chiều đi chỉ còn: **2.300.000 VNĐ** (mức giá siêu hời cho vé Tết!).
   - **Chặng về (VII ➔ SGN):** 
-    * Ngày bay: **Chủ Nhật, 21/02/2027** (Mùng 16 Âm lịch). 
-    * Giờ bay ưu tiên: Chiều (14:00 - 18:00) để vào Sài Gòn tối nghỉ ngơi chuẩn bị đi làm lại.
-    * Giá dự kiến chiều về (đã qua cao điểm Mùng 4-8): Khoảng **1.200.000 – 1.600.000 VNĐ**.
+    * Ngày bay: **Thứ Bảy, 20/02/2027** (Mùng 15 tháng Giêng - Rằm).
+    * Giờ bay: **15:40 (3g40 chiều)** hoặc **17:00 (5g chiều)**.
+    * Hãng bay: **Vietjet Air** hoặc **Vietravel Airlines**.
+    * Hành lý: **Mua thêm 1 kiện ký gửi** để mang đặc sản/quà quê Nghệ An vào Sài Gòn.
+    * **Giá vé thực tế (đã gồm 1 kiện ký gửi):** **3.000.000 – 3.100.000 VNĐ**.
+    * *Lợi ích:* Bay vào Thứ 7 giúp Hiếu có trọn vẹn ngày Chủ Nhật (21/02) tại TP.HCM để giặt giũ, dọn phòng trọ và hồi phục năng lượng trước khi đi làm TMA Thứ 2 (22/02).
   - **Kế hoạch xin phép công ty (TMA):**
     * Nhắn anh Đạt (Lead/Manager TMA): Xin phép làm việc **remote tuần trước Tết (01/02 → 03/02/2027)** và **tuần sau Tết (11/02 → 19/02/2027)** vì lý do về quê sớm tránh kẹt xe và ăn Tết cùng gia đình.
-  - **Tổng ngân sách thực chi khứ hồi:** Khoảng **~3.500.000 – 3.900.000 VNĐ** (đã trừ voucher 1M).
-  - **Thời điểm book vé:** Đặt sớm trong **Tháng 10 hoặc đầu Tháng 11/2026** để giữ chỗ chuyến 19:20 tối Vietjet và dùng ngay voucher 1M.
+  - **Tổng ngân sách thực chi vé khứ hồi:** Khoảng **~5.300.000 – 5.400.000 VNĐ** (Chiều đi 2.3M + Chiều về 3.05M gồm ký gửi). Mức giá quá chuẩn cho cặp vé khứ hồi Tết bay toàn giờ đẹp ban ngày.
+  - **Thời điểm book vé:** Đặt sớm trong **Tháng 10 hoặc đầu Tháng 11/2026** để giữ chuyến đẹp và chốt vé.
 
 ### 2. Khai xuân Chiến dịch TOEIC 700+ (Coach 1:1 Kim Hân):
 * **Bắt đầu:** Cuối tuần **27/02/2027** (ngay sau khi vào lại Sài Gòn ổn định chỗ ở).

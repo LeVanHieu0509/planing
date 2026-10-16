@@ -51,16 +51,16 @@
 * **Lịch nghỉ lễ TMA chính thức:** Thứ Năm (04/02) đến hết Thứ Tư (10/02/2027) — đi làm lại Thứ Năm (11/02).
 * **Lịch về quê Nghệ An của Hiếu (Trước 1 tuần & Sau 1 tuần):**
   - **Về quê:** Từ **Thứ Năm, 28/01/2027** (hoặc T7 30/01 - trước 23 tháng Chạp Ông Công Ông Táo).
-  - **Trở lại TP.HCM:** Vào **Chủ Nhật, 21/02/2027** (sau ngày TMA đi làm lại 1 tuần, qua Rằm tháng Giêng 15 Âm lịch).
-  - $\rightarrow$ Trọn vẹn **~3 tuần ở quê đón Tết với gia đình (M5)** vừa làm remote vừa tận hưởng không khí sum vầy.
+  - **Trở lại TP.HCM:** Vào **Thứ Bảy, 20/02/2027** (Mùng 15 tháng Giêng - Rằm, bay chuyến 15:40 hoặc 17:00).
+  - $\rightarrow$ Trọn vẹn **~3.5 tuần ở quê đón Tết với gia đình (M5)**, Chủ Nhật 21/02 nghỉ ngơi tại Sài Gòn trước khi đi làm TMA.
 
 ```text
 [20/10/2026] ──────────────────► [12/01/2027]
       🔥 HỌC IMMERSION L3             ✅ TỐT NGHIỆP L3
                                            │
                                            ▼ (Xả hơi giao tiếp 2 tuần)
-[28/01/2027] ──────────────────► [21/02/2027]
-      🧧 VỀ QUÊ NGHỆ AN ĐÓN TẾT (~3 TUẦN: TRƯỚC TẾT 1 TUẦN & SAU TẾT 1 TUẦN)
+[28/01/2027] ──────────────────► [20/02/2027]
+      🧧 VỀ QUÊ NGHỆ AN ĐÓN TẾT (~3.5 TUẦN: TRƯỚC TẾT 1 TUẦN & SAU TẾT 1 TUẦN)
                                            │
                                            ▼
 [27/02/2027] ──────────────────────────────────────────► [27/06/2027]
