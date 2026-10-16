@@ -63,3 +63,15 @@
 * **Quy mô:** 3 khóa liên tục = 36 buổi (18 tuần = 4.5 tháng, 2 buổi/tuần vào T7 & CN).
 * **Kết thúc:** Đúng **27/06/2027** (Chủ Nhật).
 * **Đợt thi chính thức:** Cuối T06 hoặc đầu T07/2027 $\rightarrow$ Nộp chứng chỉ trước deadline TMA **15/11/2027** để lên Senior Developer.
+
+---
+
+## 🔍 3. BẢNG PHÂN TÍCH 5 RỦI RO CẦN CHECK KỸ TRƯỚC KHI XUẤT VÉ (CHO SÁNG MAI)
+
+| Rủi ro tiềm ẩn | Mức độ | Kịch bản rủi ro | Giải pháp & Checklist kiểm tra sáng mai |
+| :--- | :---: | :--- | :--- |
+| **1. Voucher 1M Vietjet có bị "Blackout date" Tết không?** | **Trung bình** | Nhiều hãng hạn chế voucher hoàn vé không cho áp dụng trong giai đoạn cao điểm Tết (20 tháng Chạp đến Mùng 10 Tết), hoặc voucher bị hết hạn. | **Check ngay trên app:** Nhập mã voucher ở bước thanh toán chuyến 28/01 xem hệ thống có trừ 1.000.000đ hay không.<br>👉 *Nếu được trừ:* Xuất vé ngay.<br>👉 *Nếu báo không áp dụng:* Xem lại điều kiện voucher hoặc để dành voucher cho dịp khác. |
+| **2. Phê duyệt Remote từ anh Đạt / TMA** | **Thấp - TB** | Anh Đạt hoặc dự án TMA chỉ duyệt remote 1 tuần thay vì cả 2 tuần (trước và sau Tết). | - **Phương án B:** Hiếu có quỹ ngày phép năm (Annual Leave). Nếu công ty không cho remote 3 ngày trước Tết (01/02–03/02), Hiếu dùng 3 ngày phép năm là xong.<br>- Sáng thứ 2 nhắn nhẹ anh Đạt xin định hướng trước, hoặc check tiền lệ dự án năm ngoái. |
+| **3. Chính sách Đổi ngày bay nếu có việc đột xuất** | **Thấp** | Đặt vé trước hơn 3 tháng, nếu công ty hoặc gia đình có việc thay đổi ngày. | - Vé Eco của Vietjet & Vietravel **cho phép đổi ngày giờ bay** (mất phí đổi + chênh lệch giá vé).<br>- Giữ thói quen mua thêm gói bảo hiểm chuyến bay trễ/hủy (~50k-80k) để an tâm tuyệt đối. |
+| **4. Kẹt xe ra sân bay Tân Sơn Nhất chiều 28/01** | **Thấp** | Chiều 21 tháng Chạp đường Cộng Hòa / Trường Chinh rất đông, chuyến bay 19:20 tối có thể bị trễ nếu ra muộn. | - Hiếu đã xác định **nghỉ phép nguyên ngày Thứ Năm (28/01)**.<br>- Ra sân bay sớm từ **16:30 – 17:00** (trước giờ bay 2.5 - 3 tiếng), gửi hành lý thong thả, ăn nhẹ trong phòng chờ. |
+| **5. Dòng tiền tháng 10 sau khi thanh toán** | **Không có** | Chi 5.3M có làm hụt tiền chi tiêu sinh hoạt không? | - Tiền mặt tự do hiện có: **24.8M**. Trừ 5.3M vé máy bay vẫn còn **~19.5M**.<br>- Quỹ sinh hoạt 8-10M/tháng hoàn toàn dư dả đến ngày nhận lương T10 (đầu tháng 11). Rủi ro tài chính = 0%. |
