@@ -35,8 +35,8 @@ Chiến lược 3 tháng tới (Q4/2026 - T01/2027):
            🔥 ALL-IN 100% THỜI GIAN RẢNH VÀO TIẾNG ANH (Giao tiếp Immersion + Ngữ pháp Logic Infographic)
            - Đến 12/01/2027: Dồn thời gian rảnh (trừ tối T4 + tối CN để relax) cho hệ sinh thái Immersion L3 (Nghe podcast đi đường, Active Recall 15p, sơ đồ logic Infographic kéo dài câu, Voice Memo, hồi sinh 24 chủ đề L2 cũ).
            - Song song trong L3: luyện Part 5 + Part 7 sáng T2 + T6 (gắn với vocabulary, chưa làm full test).
-           - T02/2027 → T06/2027 (Khoảng trống Vàng): Tạm gác giao tiếp, cày thuần đề ETS → THI TOEIC T06/2027, được bao nhiêu điểm NỘP TMA LUÔN (hạn chót 15/11/2027, điều kiện lên Senior).
-Tiền:      ✅ L2 và L3 đều đã thanh toán xong
+           - T02/2027 → T06/2027 (Khai xuân sau Tết TMA): Cày đề ETS + Học Coach 1:1 Offline (Kim Hân TOEIC 955, Tân Phú, 3 khóa = 36 buổi, 2 buổi/tuần T7-CN trong 4.5 tháng, sẵn sàng trọn vẹn 12tr ~ 2.66tr/tháng) → THI TOEIC Cuối T06/2027 (Target 700+), nộp TMA trước hạn 15/11/2027 để lên Senior.
+Tiền:      ✅ L2 và L3 đều đã thanh toán xong · Dự trù ngân sách T02/2027: 12tr cho 3 khóa Coach 1:1 TOEIC (chia 3 đợt đóng 4M / 1.5 tháng, chi tiết tại english/toeic/COACH_1ON1_KIM_HAN_2027.md).
 Việc duy nhất: THAM GIA ĐỦ BUỔI IMMERSION + ĐẮM CHÌM TIẾNG ANH (chưa làm full test ETS; chỉ luyện Part 5 + Part 7). Tối T4 + tối CN để RELAX.
 ```
 

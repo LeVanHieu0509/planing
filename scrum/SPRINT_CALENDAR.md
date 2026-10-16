@@ -21,20 +21,24 @@
 | M4  | Nắm rõ yêu cầu tuyển sinh Thạc sĩ UIT                      | Có file checklist hồ sơ       |
 | M5  | Quỹ mẹ 2tr/tháng - không sót tháng nào (chạy đến 2036)     | 3/3 tháng                     |
 
-### Q1/2027 (T01 → T03) - _"Chuẩn bị hồ sơ"_
+### Q1/2027 (T01 → T03) - _"Tết sum vầy & Khai xuân TOEIC 1:1"_
 
 | Mã  | Mốc quý                                                    | Đo bằng gì                    |
 | --- | ---------------------------------------------------------- | ----------------------------- |
-| M1  | Xong Level 3 (~14/01) → quyết định Level 4                 | Hoàn thành khoá               |
-| M2  | Giữ đà tiết kiệm, không bơm thêm crypto                    | DAU_TU.md không có dòng mới   |
+| M1  | Xong Level 3 (12/01) → Nghỉ xả hơi 2 tuần                  | Hoàn thành khoá               |
+| M5  | Về quê Nghệ An đón Tết (~3.5 tuần: 28/01 → 21/02/2027)      | Trọn vẹn với gia đình, remote TMA + BIT |
+| M1  | Khai xuân **Coach TOEIC 1:1 Kim Hân** (27/02, 2 buổi/tuần T7-CN) | Học đều 2 buổi/tuần           |
+| M2  | Giữ đà tiết kiệm, ngân sách 12M cho 3 khóa TOEIC (chia 3 đợt) | MONTHLY_TRACKER T01-T03       |
 | M3  | Chỉ số InBody cải thiện (cơ tăng, mỡ không tăng)           | 3 lần đo                      |
-| M4  | Gom đủ hồ sơ: bằng ĐH, bảng điểm, chứng chỉ tiếng Anh      | Checklist đủ tick             |
+| M4  | Gom đủ hồ sơ: bằng ĐH, bảng điểm, theo dõi tuyển sinh UIT  | Checklist đủ tick             |
 
-### Q2/2027 (T04 → T06) - _"Về đích tiếng Anh"_
+### Q2/2027 (T04 → T06) - _"Về đích tiếng Anh 700+ & Hồ sơ Thạc sĩ"_
 
 | Mã  | Mốc quý                                                    | Đo bằng gì                    |
 | --- | ---------------------------------------------------------- | ----------------------------- |
-| M1  | **Thi TOEIC T06/2027** → có điểm nộp TMA luôn (xét Senior) | Bảng điểm đã nộp TMA          |
+| M1  | Hoàn thành 3 khóa Coach 1:1 (36 buổi, kết thúc 27/06/2027) | Đi đủ 36 buổi                 |
+| M1  | **Thi TOEIC Cuối T06 hoặc đầu T07/2027** (Target 700+)      | Bảng điểm TOEIC 700+          |
+| M1  | Nộp chứng chỉ 700+ cho TMA xét thăng tiến Senior (hạn 15/11)| Đã nộp HR TMA                 |
 | M2  | Giữ quỹ 43tr học phí năm 1 nguyên vẹn + tiếp tục tiết kiệm | MONTHLY_TRACKER T06           |
 | M4  | Hồ sơ Thạc sĩ hoàn chỉnh, chỉ chờ nộp                      | Checklist 100%                |
 

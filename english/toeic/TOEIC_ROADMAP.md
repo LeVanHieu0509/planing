@@ -246,6 +246,7 @@ Worst Case (25%):  620-680  (completion <75%)
 | [TOEIC_DETAILED_SCHEDULE.md](./TOEIC_DETAILED_SCHEDULE.md)           | Lộ trình Helen English 3 giai đoạn                  |
 | [HELEN_ENGLISH_STRATEGY.md](./HELEN_ENGLISH_STRATEGY.md)             | Chiến lược làm bài 7 Part (Helen)                   |
 | [TOEIC_TEST_STRATEGY_700_PLUS.md](./TOEIC_TEST_STRATEGY_700_PLUS.md) | Chiến thuật thi 591 dòng                            |
+| [COACH_1ON1_KIM_HAN_2027.md](./COACH_1ON1_KIM_HAN_2027.md)           | Kế hoạch Coach 1:1 Kim Hân (T02-T05/2027)           |
 | [../spotlight/README.md](../spotlight/README.md)                     | Spotlight English                                   |
 
 ---
