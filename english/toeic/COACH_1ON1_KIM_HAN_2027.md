@@ -25,8 +25,8 @@
 * **Tổng số buổi:** 3 khóa × 12 buổi = **36 buổi**.
 * **Nhịp học:** **2 buổi/tuần** (Cố định Thứ 7 & Chủ Nhật tại Tân Phú).
 * **Thời lượng:** 36 buổi ÷ 2 buổi/tuần = **18 tuần (~4.5 tháng)**.
-  - Bắt đầu: **20/02/2027** (ngay sau Tết TMA).
-  - Kết thúc: **Cuối tháng 06/2027** (vừa vặn học xong là đi thi ngay, không bị nguội kiến thức!).
+  - Bắt đầu: **27/02/2027** (Thứ Bảy — sau khi vào lại Sài Gòn 1 tuần làm quen lại nhịp công ty).
+  - Kết thúc: **27/06/2027** (Chủ Nhật — đúng 18 tuần = 36 buổi, học xong thi ngay!).
 * **Bài toán tài chính & Tâm thế đầu tư:**
   - **Trần ngân sách sẵn sàng chi:** **12.000.000 VNĐ / 4.5 tháng** (đúng giá niêm yết 4.000.000 VNĐ × 3 khóa).
   - **Chia đợt đóng siêu nhẹ:** Đóng làm 3 đợt (mỗi đợt 4M cách nhau 1.5 tháng) $\rightarrow$ Mỗi tháng chỉ tốn **~2.660.000 VNĐ/tháng**.
