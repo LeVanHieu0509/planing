@@ -44,13 +44,15 @@
     * Giờ bay: **19:20 tối (7g20 tối) - Vietjet Air**. Đáp sân bay Vinh khoảng 21:05, về nhà nghỉ ngơi thuận tiện.
     * Phép TMA: Xin nghỉ phép 1 ngày Thứ Năm (28/01).
     * Thứ Sáu (29/01 - 22 tháng Chạp): Làm việc remote tại quê.
-    * Ưu đãi voucher: **Áp dụng mã giảm 1.000.000 VNĐ** từ đợt hoàn vé năm trước chưa dùng của Vietjet Air $\rightarrow$ Tiết kiệm ngay 1 triệu tiền tươi!
+    * **Giá vé thực tế (check 17/10/2026):** **3.300.000 VNĐ**.
+    * **Áp mã giảm hoàn vé 1.000.000 VNĐ** $\rightarrow$ Thực trả chiều đi chỉ còn: **2.300.000 VNĐ** (mức giá siêu hời cho vé Tết!).
   - **Chặng về (VII ➔ SGN):** 
     * Ngày bay: **Chủ Nhật, 21/02/2027** (Mùng 16 Âm lịch). 
     * Giờ bay ưu tiên: Chiều (14:00 - 18:00) để vào Sài Gòn tối nghỉ ngơi chuẩn bị đi làm lại.
+    * Giá dự kiến chiều về (đã qua cao điểm Mùng 4-8): Khoảng **1.200.000 – 1.600.000 VNĐ**.
   - **Kế hoạch xin phép công ty (TMA):**
     * Nhắn anh Đạt (Lead/Manager TMA): Xin phép làm việc **remote tuần trước Tết (01/02 → 03/02/2027)** và **tuần sau Tết (11/02 → 19/02/2027)** vì lý do về quê sớm tránh kẹt xe và ăn Tết cùng gia đình.
-  - **Dự trù ngân sách:** Khoảng **~3.500.000 – 4.500.000 VNĐ** khứ hồi (sau khi đã trừ voucher giảm 1M của Vietjet).
+  - **Tổng ngân sách thực chi khứ hồi:** Khoảng **~3.500.000 – 3.900.000 VNĐ** (đã trừ voucher 1M).
   - **Thời điểm book vé:** Đặt sớm trong **Tháng 10 hoặc đầu Tháng 11/2026** để giữ chỗ chuyến 19:20 tối Vietjet và dùng ngay voucher 1M.
 
 ### 2. Khai xuân Chiến dịch TOEIC 700+ (Coach 1:1 Kim Hân):
