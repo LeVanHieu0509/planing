@@ -38,6 +38,12 @@
   - **Trở lại TP.HCM:** **Chủ Nhật, 21/02/2027** (sau ngày TMA đi làm lại 1 tuần, qua Rằm tháng Giêng 15 Âm lịch).
   - $\rightarrow$ Trọn vẹn **~3 đến 3.5 tuần (22 - 25 ngày) ở quê đón Tết với gia đình (Mục tiêu M5)**, kết hợp làm remote TMA + BIT.
 
+* **✈️ Kế hoạch đặt vé máy bay khứ hồi (SGN ⇄ VII):**
+  - **Chặng đi (SGN ➔ VII):** Bay ngày **28/01/2027** (21 tháng Chạp) hoặc **30/01/2027** (23 tháng Chạp). Giờ ưu tiên: Ban ngày (08:00 - 13:00).
+  - **Chặng về (VII ➔ SGN):** Bay ngày **21/02/2027** (Mùng 16 Âm lịch). Giờ ưu tiên: Chiều (14:00 - 18:00).
+  - **Dự trù ngân sách:** **~4.500.000 – 5.500.000 VNĐ** khứ hồi (Nhờ bay lệch đầu cao điểm nên tiết kiệm được 2-3 triệu so với cận Tết).
+  - **Thời điểm book vé:** Đặt sớm trong **Tháng 10 hoặc đầu Tháng 11/2026** (khi có lương T10) để giữ giờ bay đẹp và giá tốt nhất, không để sát Tết bị đội giá hay hết vé.
+
 ### 2. Khai xuân Chiến dịch TOEIC 700+ (Coach 1:1 Kim Hân):
 * **Bắt đầu:** Cuối tuần **27/02/2027** (ngay sau khi vào lại Sài Gòn ổn định chỗ ở).
 * **Quy mô:** 3 khóa liên tục = 36 buổi (18 tuần = 4.5 tháng, 2 buổi/tuần vào T7 & CN).
