@@ -21,32 +21,34 @@
 
 ---
 
-## 💰 2. BẢNG GIÁ & PHƯƠNG ÁN CHỐT CHÍNH THỨC: 3 KHÓA (MỖI TUẦN 2 BUỔI)
+## 💰 2. PHƯƠNG ÁN THIẾT KẾ RIÊNG (TAILOR-MADE) & DỰ TRÙ NGÂN SÁCH
 
-### Bảng giá niêm yết của giáo viên:
-* **Offline 1:1:** 4.000.000 VNĐ / khóa 12 buổi (90 phút/buổi).
+### Định hướng đào tạo thiết kế riêng cho Hiếu:
+Thay vì ghép các khóa lẻ đại trà thông thường (bảng giá chuẩn 4.000.000 VNĐ / khóa 12 buổi), Coach Kim Hân sẽ **lên giáo án và thiết kế riêng một lộ trình đặc biệt (Tailor-made Roadmap)** chuyên biệt cho Hiếu:
+* **Mục tiêu đầu ra:** Bứt phá từ TOEIC 535 lên **700+** để nộp TMA trước hạn 15/11/2027 (Điều kiện Senior Developer).
+* **Thời lượng:** Kéo dài từ cuối T02/2027 đến cuối T06/2027 (~3.5 đến 4.5 tháng, khoảng 30–36 buổi).
+* **Nhịp học:** **2 buổi/tuần** (Cố định Thứ 7 & Chủ Nhật; linh động dời ca tối trong tuần nếu bận việc TMA/BIT).
+  - *Lý do:* Hiếu làm 2 job nên nhịp 2 buổi/tuần giúp vừa sức, đủ thời gian làm bài tập và ngấm kiến thức mà không bị quá tải. Coach Kim Hân đã đồng thuận phương án này.
+* **Nội dung chuyên biệt:**
+  - Tập trung giải quyết **bộ đề Hacker TOEIC** (sát format đề thi nội bộ TMA và đề IIG mới nhất).
+  - Cơ chế push kỷ luật học từ vựng mỗi ngày.
+  - Dạy hiểu sâu bản chất ngữ pháp & kỹ năng xử lý đề, không học mẹo vặt.
 
-### Lựa chọn chiến lược đã thống nhất với Coach (17/10/2026): 3 Khóa · 2 buổi/tuần (T7 & CN)
-* **Tổng số buổi:** 3 khóa × 12 buổi = **36 buổi**.
-* **Nhịp học:** **2 buổi/tuần** (Cố định Thứ 7 & Chủ Nhật; linh động dời 1 buổi sang chiều/tối trong tuần nếu có việc đột xuất).
-  - *Lý do:* Hiếu làm 2 job (TMA + BIT) nên nhịp 2 buổi/tuần giúp vừa sức, đủ thời gian làm bài tập và ngấm kiến thức mà không bị quá tải. Coach Kim Hân đã đồng ý phương án này.
-* **Thời lượng:** 36 buổi ÷ 2 buổi/tuần = **18 tuần (~4.5 tháng)**.
-  - Bắt đầu: **27/02/2027** (Thứ Bảy — sau khi vào lại Sài Gòn 1 tuần làm quen lại nhịp công ty).
-  - Kết thúc: **27/06/2027** (Chủ Nhật — đúng 18 tuần = 36 buổi, học xong thi ngay!).
-* **Bài toán tài chính & Tâm thế đầu tư:**
-  - **Trần ngân sách sẵn sàng chi:** **12.000.000 VNĐ / 4.5 tháng** (đúng giá niêm yết 4.000.000 VNĐ × 3 khóa).
-  - **Chia đợt đóng siêu nhẹ:** Đóng làm 3 đợt (mỗi đợt 4M cách nhau 1.5 tháng) $\rightarrow$ Mỗi tháng chỉ tốn **~2.660.000 VNĐ/tháng**.
-  - **Tâm thế tôn trọng giá trị:** Sẵn sàng trả đủ 12 triệu để giáo viên giảng dạy với **100% tâm huyết, trách nhiệm và nhiệt tình cao nhất** (không mặc cả ép giá). Nếu giáo viên tự nguyện bớt combo còn 10M thì xem như quà tặng, còn 12M vẫn là một món hời vượt trội!
-  - **Đơn giá:** 333.000 VNĐ / buổi 90 phút (~222.000 VNĐ/giờ).
+### Dự trù mức giá & Kế hoạch ngân sách:
+* **Mức giá trọn gói:** Kim Hân sẽ lên plan chi tiết và định mức giá riêng cho khóa học thiết kế đặc biệt này (không đơn thuần là gộp 3 khóa lẻ lại).
+* **Khoảng ngân sách dự kiến của Hiếu:** Sẵn sàng trong tầm **10.000.000 – 13.000.000 VNĐ** (tùy thuộc vào thời lượng và cấu trúc plan chi tiết Hân đưa ra).
+* **Hình thức thanh toán:** Chia làm 2–3 đợt đóng (mỗi đợt ~3.5M – 4.5M) theo từng giai đoạn học để nhẹ nhàng dòng tiền.
+* **Tâm thế đầu tư:** Sẵn sàng trả đúng giá trị cho một lộ trình may đo riêng để giáo viên toàn tâm toàn ý kèm cặp sát sao, không mặc cả ép giá. Đây là khoản đầu tư năng lực cốt lõi có ROI vượt trội.
 
 ---
 
-## ⚖️ 3. TẠI SAO PHƯƠNG ÁN "3 KHÓA × 2 BUỔI/TUẦN (12M)" LÀ KHOẢN ĐẦU TƯ ĐẮT GIÁ?
+## ⚖️ 3. TẠI SAO LỘ TRÌNH THIẾT KẾ RIÊNG NÀY LÀ KHOẢN ĐẦU TƯ ĐẮT GIÁ?
 
-1. **Giáo viên toàn tâm toàn ý:** Trả đúng 4M/khóa giúp cô Kim Hân thoải mái, tôn trọng thời gian và sẵn sàng nán lại 15-30 phút mỗi buổi để chữa sâu các câu hỏi hóc búa của Hiếu.
-2. **Dòng tiền hàng tháng không hề suy chuyển:** Thu nhập tiết kiệm của Hiếu là 15–17tr/tháng. Khoản 2.66M/tháng chỉ chiếm ~15% tiền tiết kiệm hàng tháng, hoàn toàn không đụng vào 43M học phí Thạc sĩ UIT hay quỹ mẹ.
-3. **Đồng hành đến tận cửa phòng thi:** Học từ cuối T02/2027 đến tận cuối T06/2027 (18 tuần = 36 buổi). Giáo viên theo sát liên tục 4.5 tháng, phong độ và phản xạ đề thi đạt đỉnh cao nhất vào ngày thi.
-4. **ROI siêu khủng:** Tăng lương Senior TMA +3 đến +5 triệu/tháng đều đặn. Chỉ sau 2.5 đến 3 tháng đi làm Senior là hoàn 100% gốc 12 triệu! Lợi ích năng lực tiếng Anh hưởng trọn đời.
+1. **May đo đúng năng lực & lịch trình:** Hiếu làm 2 job nên khóa học thiết kế riêng 2 buổi/tuần tại Gò Vấp giúp Hiếu không bị quá tải, vừa sức tiếp thu và không bị lỡ nhịp kiến thức.
+2. **Tập trung đúng trọng tâm Hacker TOEIC:** Không tốn thời gian vào các phần râu ria, đi thẳng vào các dạng câu hỏi và từ vựng cốt lõi của bộ đề Hacker mà công ty TMA hay ra đề.
+3. **Giáo viên toàn tâm đồng hành:** Việc có giáo án riêng giúp Kim Hân theo dõi sát tiến độ từng tuần, push từ vựng hàng ngày và sửa lỗi phát âm/ngữ pháp trực tiếp 1:1.
+4. **Dòng tiền hàng tháng hoàn toàn an toàn:** Thu nhập tiết kiệm của Hiếu đạt 15–17tr/tháng. Khoản học phí chia đợt (~2.5M – 3.5M/tháng) hoàn toàn nằm trong tầm kiểm soát, không đụng vào 43M học phí Thạc sĩ UIT hay Quỹ mẹ.
+5. **ROI siêu khủng:** Lên Senior Developer TMA tăng lương +3 đến +5 triệu/tháng đều đặn. Chỉ sau vài tháng làm Senior là hoàn 100% học phí, trong khi giá trị tiếng Anh và chứng chỉ 700+ là tài sản tích lũy dài hạn.
 
 ---
 
@@ -86,16 +88,16 @@
 
 ---
 
-## 💬 5. KỊCH BẢN TIN NHẮN CHỐT LỊCH CHÍNH THỨC (GỬI ĐẦU T01/2027)
+## 💬 5. KỊCH BẢN TIN NHẮN KÍCH HOẠT LỊCH & NHẬN PLAN (GỬI ĐẦU T01/2027)
 
-*(Hiếu đã trao đổi và giữ slot thành công với Kim Hân ngày 17/10/2026. Đến đầu T01/2027 chỉ cần nhắn kích hoạt lịch):*
+*(Hiếu và Kim Hân đã thống nhất nguyên tắc ngày 17/10/2026: 2 buổi/tuần, Gò Vấp, bộ Hacker TOEIC. Đến đầu T01/2027, Hiếu nhắn để Hân gửi plan chi tiết và báo mức giá trọn gói):*
 
 ```text
-"Hân ơi, mình sắp xếp xong lịch Tết rồi nhé. 
-Đợt Tết mình về quê Nghệ An đón Tết đến ngày 20/02 là bay vào lại Sài Gòn rồi. Mình muốn bắt đầu học buổi đầu tiên vào cuối tuần 27/02 (Thứ 7) luôn nha.
-Lịch cố định vẫn là 2 buổi/tuần vào cuối tuần (Thứ 7 & Chủ Nhật) tại chỗ Hân gần Lotte Mart Gò Vấp nha. 
-Mình theo trọn vẹn cả lộ trình 3 khóa (36 buổi, 4.5 tháng) đến hết tháng 6 để thi 700+ luôn. Hân gửi mình số tài khoản để mình chuyển cọc/học phí khóa 1 để chốt lịch luôn nha bạn!"
+"Hân ơi, mình sắp xếp xong lịch Tết rồi nhé!
+Đợt Tết mình về quê Nghệ An đến ngày 20/02 là bay vào lại Sài Gòn rồi. Mình muốn bắt đầu học buổi đầu tiên vào cuối tuần 27/02 (Thứ 7) luôn nha.
+Lịch cố định vẫn là 2 buổi/tuần vào cuối tuần (Thứ 7 & Chủ Nhật) tại chỗ Hân gần Lotte Mart Gò Vấp nhé.
+Hôm trước Hân bảo lên plan thiết kế riêng và mức giá cho mình ấy, Hân gửi mình plan chi tiết với thông tin thanh toán/chuyển cọc để mình chốt lịch chính thức luôn nha bạn!"
 ```
 
 ---
-*Ghi chú hệ thống: Cập nhật ngày 17/10/2026. Hiếu đã trao đổi trực tiếp với Kim Hân: Đã thống nhất nhịp 2 buổi/tuần (phù hợp Hiếu làm 2 job TMA + BIT), địa điểm tại nhà Coach gần Lotte Mart Gò Vấp (cực tiện cùng trục Phan Văn Trị), trọng tâm bộ Hacker TOEIC + push từ vựng hàng ngày. Kim Hân đã nhận lời giữ slot.*
+*Ghi chú hệ thống: Cập nhật ngày 17/10/2026. Thống nhất phương án may đo lộ trình riêng (Tailor-made Package) thay vì gộp các khóa lẻ thông thường. Kim Hân sẽ lên plan chi tiết và định giá riêng trọn gói cho Hiếu (dự trù ngân sách 10M–13M chia 2-3 đợt đóng). Nhịp học: 2 buổi/tuần tại Lotte Mart Gò Vấp, trọng tâm bộ Hacker TOEIC, push từ vựng mỗi ngày, học sâu bản chất để đạt 700+ nộp TMA.*
