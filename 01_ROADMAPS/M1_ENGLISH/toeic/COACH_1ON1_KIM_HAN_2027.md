@@ -8,13 +8,13 @@
 
 ## 👩‍🏫 1. THÔNG TIN GIÁO VIÊN (COACH)
 
-* **Họ tên:** Nguyễn Vũ Kim Hân
-* **Facebook:** [Kim Hân (nguyenvukimhan79)](https://www.facebook.com/nguyenvukimhan79)
-* **Thành tích:** **TOEIC 955** (Listening: 495/495 tuyệt đối · Reading: 460/495).
-* **Học vấn & Kinh nghiệm:** Cử nhân ĐH Ngoại ngữ - Tin học TP.HCM (HUFLIT) · Giáo viên chính thức tại trung tâm TOEIC Thùy Trang · Dạy kèm 1:1 chuyên sâu tại nhà.
-* **Địa điểm học thực tế:** **Gần Lotte Mart Gò Vấp** (Đường Phan Văn Trị / Nguyễn Văn Lượng, Gò Vấp).
-  - *Lợi thế vị trí:* Cùng trục đường Phan Văn Trị với trung tâm *Tiếng Anh Nghe Nói* nơi Hiếu học Level 3. Từ Topaz Home Q12 chạy sang chỉ mất 10–15 phút, gần hơn và tiện đường hơn nhiều so với Tân Phú!
-* **Thế mạnh & Phương pháp:** 
+- **Họ tên:** Nguyễn Vũ Kim Hân
+- **Facebook:** [Kim Hân (nguyenvukimhan79)](https://www.facebook.com/nguyenvukimhan79)
+- **Thành tích:** **TOEIC 955** (Listening: 495/495 tuyệt đối · Reading: 460/495).
+- **Học vấn & Kinh nghiệm:** Cử nhân ĐH Ngoại ngữ - Tin học TP.HCM (HUFLIT) · Giáo viên chính thức tại trung tâm TOEIC Thùy Trang · Dạy kèm 1:1 chuyên sâu tại nhà.
+- **Địa điểm học thực tế:** **Gần Lotte Mart Gò Vấp** (Đường Phan Văn Trị / Nguyễn Văn Lượng, Gò Vấp).
+  - _Lợi thế vị trí:_ Cùng trục đường Phan Văn Trị với trung tâm _Tiếng Anh Nghe Nói_ nơi Hiếu học Level 3. Từ Topaz Home Q12 chạy sang chỉ mất 10–15 phút, gần hơn và tiện đường hơn nhiều so với Tân Phú!
+- **Thế mạnh & Phương pháp:**
   - Push học từ vựng mỗi ngày (tạo áp lực tích cực).
   - Trọng tâm giáo trình: **Bộ Hacker TOEIC** (sát format đề thi nội bộ TMA và đề IIG mới nhất).
   - Dạy hiểu sâu **bản chất cốt lõi** để làm chủ đề và ứng dụng thực tế trong công việc, không phụ thuộc vào mẹo vặt học vẹt.
@@ -24,25 +24,28 @@
 ## 💰 2. PHƯƠNG ÁN THIẾT KẾ RIÊNG (TAILOR-MADE) & DỰ TRÙ NGÂN SÁCH
 
 ### Định hướng đào tạo thiết kế riêng cho Hiếu:
+
 Thay vì ghép các khóa lẻ đại trà thông thường (bảng giá chuẩn 4.000.000 VNĐ / khóa 12 buổi), Coach Kim Hân sẽ **lên giáo án và thiết kế riêng một lộ trình đặc biệt (Tailor-made Roadmap)** chuyên biệt cho Hiếu:
-* **Mục tiêu đầu ra:** Bứt phá từ TOEIC 535 lên **700+** để nộp TMA trước hạn 15/11/2027 (Điều kiện Senior Developer).
-* **Thời lượng:** Kéo dài từ cuối T02/2027 đến cuối T06/2027 (~3.5 đến 4.5 tháng, khoảng 30–36 buổi).
-* **Nhịp học:** **2 buổi/tuần** (Cố định Thứ 7 & Chủ Nhật; linh động dời ca tối trong tuần nếu bận việc TMA/BIT).
-  - *Lý do:* Hiếu làm 2 job nên nhịp 2 buổi/tuần giúp vừa sức, đủ thời gian làm bài tập và ngấm kiến thức mà không bị quá tải. Coach Kim Hân đã đồng thuận phương án này.
-* **Nội dung chuyên biệt:**
+
+- **Mục tiêu đầu ra:** Bứt phá từ TOEIC 535 lên **700+** để nộp TMA trước hạn 15/11/2027 (Điều kiện Senior Developer).
+- **Thời lượng:** Kéo dài từ cuối T02/2027 đến cuối T06/2027 (~3.5 đến 4.5 tháng, khoảng 30–36 buổi).
+- **Nhịp học:** **2 buổi/tuần** (Cố định Thứ 7 & Chủ Nhật; linh động dời ca tối trong tuần nếu bận việc TMA/BIT).
+  - _Lý do:_ Hiếu làm 2 job nên nhịp 2 buổi/tuần giúp vừa sức, đủ thời gian làm bài tập và ngấm kiến thức mà không bị quá tải. Coach Kim Hân đã đồng thuận phương án này.
+- **Nội dung chuyên biệt:**
   - Tập trung giải quyết **bộ đề Hacker TOEIC** (sát format đề thi nội bộ TMA và đề IIG mới nhất).
   - Cơ chế push kỷ luật học từ vựng mỗi ngày.
   - Dạy hiểu sâu bản chất ngữ pháp & kỹ năng xử lý đề, không học mẹo vặt.
 
 ### Dự trù mức giá & Chiến thuật đầu tư từng chặng (Phased Investment):
-* **Thực tế về mức giá:** Kim Hân **chưa hề báo giá 12 triệu**! Con số 12M là mức trần dự trù lý thuyết. Nếu Hân lên plan 3 tháng × 2 buổi/tuần = **~24 buổi**, mức giá trọn gói có thể chỉ nằm ở tầm **7.5M – 9.0M VNĐ**.
-* **Bóc tách đơn giá theo giờ:** Bảng giá chuẩn 4.000.000đ / 12 buổi (90 phút/buổi) = **333.000đ / buổi** $\rightarrow$ Chỉ **~220.000đ / giờ**. Đối với giáo viên TOEIC 955 kèm 1:1 trực tiếp tại Sài Gòn (mặt bằng chung 300k–500k/giờ), đây là mức giá rất mềm.
-* **Chiến thuật "Bỏ vốn từng chặng" — Không đóng một cục:**
+
+- **Thực tế về mức giá:** Kim Hân **chưa hề báo giá 12 triệu**! Con số 12M là mức trần dự trù lý thuyết. Nếu Hân lên plan 3 tháng × 2 buổi/tuần = **~24 buổi**, mức giá trọn gói có thể chỉ nằm ở tầm **7.5M – 9.0M VNĐ**.
+- **Bóc tách đơn giá theo giờ:** Bảng giá chuẩn 4.000.000đ / 12 buổi (90 phút/buổi) = **333.000đ / buổi** $\rightarrow$ Chỉ **~220.000đ / giờ**. Đối với giáo viên TOEIC 955 kèm 1:1 trực tiếp tại Sài Gòn (mặt bằng chung 300k–500k/giờ), đây là mức giá rất mềm.
+- **Chiến thuật "Bỏ vốn từng chặng" — Không đóng một cục:**
   - **Chặng 1 (Thử nghiệm 1.5 tháng):** Hiếu chỉ đóng trước **Đợt 1 (1 khóa ~3.5M – 4.0M, 12 buổi đầu)**.
   - **Đánh giá sau 12 buổi:**
-    - 👉 *Kịch bản A (Tự bơi được):* Đã thông suốt bản chất ngữ pháp Part 5, nắm vững chiến thuật làm bài bộ Hacker, từ vựng vào guồng $\rightarrow$ **Dừng học, tự cày tiếp ở nhà, TIẾT KIỆM NGAY 7M – 8M!**
-    - 👉 *Kịch bản B (Tiến bộ vượt bậc, muốn bứt phá đỉnh):* Thấy điểm tăng vọt từ 535 lên 630-650, muốn cô kèm sát đề thi để chắc chắn 700+ $\rightarrow$ Đóng tiếp Chặng 2 mà hoàn toàn an tâm và tự tin.
-* **Tư duy chi phí cơ hội:** Đừng nhìn vào 8–10 triệu học phí trước mắt mà quên rằng nếu trượt mốc 700+ trước deadline TMA 15/11/2027, Hiếu sẽ bị lùi xét Senior Developer 1 năm $\rightarrow$ **Thiệt hại 36.000.000 – 60.000.000 VNĐ tiền lương chênh lệch (+3M đến +5M/tháng)**! Đầu tư có chặng kiểm chứng là cách an toàn và khôn ngoan nhất.
+    - 👉 _Kịch bản A (Tự bơi được):_ Đã thông suốt bản chất ngữ pháp Part 5, nắm vững chiến thuật làm bài bộ Hacker, từ vựng vào guồng $\rightarrow$ **Dừng học, tự cày tiếp ở nhà, TIẾT KIỆM NGAY 7M – 8M!**
+    - 👉 _Kịch bản B (Tiến bộ vượt bậc, muốn bứt phá đỉnh):_ Thấy điểm tăng vọt từ 535 lên 630-650, muốn cô kèm sát đề thi để chắc chắn 700+ $\rightarrow$ Đóng tiếp Chặng 2 mà hoàn toàn an tâm và tự tin.
+- **Tư duy chi phí cơ hội:** Đừng nhìn vào 8–10 triệu học phí trước mắt mà quên rằng nếu trượt mốc 700+ trước deadline TMA 15/11/2027, Hiếu sẽ bị lùi xét Senior Developer 1 năm $\rightarrow$ **Thiệt hại 36.000.000 – 60.000.000 VNĐ tiền lương chênh lệch (+3M đến +5M/tháng)**! Đầu tư có chặng kiểm chứng là cách an toàn và khôn ngoan nhất.
 
 ---
 
@@ -58,10 +61,10 @@ Thay vì ghép các khóa lẻ đại trà thông thường (bảng giá chuẩn
 
 ## 🗓️ 4. KHUNG THỜI GIAN VÀNG KHỚP LỊCH VỀ QUÊ ĂN TẾT (2027)
 
-*(Tham chiếu lịch chính thức: [TMA_HOLIDAYS_2027.md](../../M4_CAREER/tma/TMA_HOLIDAYS_2027.md))*
+_(Tham chiếu lịch chính thức: [TMA_HOLIDAYS_2027.md](../../M4_CAREER/tma/TMA_HOLIDAYS_2027.md))_
 
-* **Lịch nghỉ lễ TMA chính thức:** Thứ Năm (04/02) đến hết Thứ Tư (10/02/2027) — đi làm lại Thứ Năm (11/02).
-* **Lịch về quê Nghệ An của Hiếu (Trước 1 tuần & Sau 1 tuần):**
+- **Lịch nghỉ lễ TMA chính thức:** Thứ Năm (04/02) đến hết Thứ Tư (10/02/2027) — đi làm lại Thứ Năm (11/02).
+- **Lịch về quê Nghệ An của Hiếu (Trước 1 tuần & Sau 1 tuần):**
   - **Về quê:** Từ **Thứ Năm, 28/01/2027** (hoặc T7 30/01 - trước 23 tháng Chạp Ông Công Ông Táo).
   - **Trở lại TP.HCM:** Vào **Thứ Bảy, 20/02/2027** (Mùng 15 tháng Giêng - Rằm, bay chuyến 15:40 hoặc 17:00).
   - $\rightarrow$ Trọn vẹn **~3.5 tuần ở quê đón Tết với gia đình (M5)**, Chủ Nhật 21/02 nghỉ ngơi tại Sài Gòn trước khi đi làm TMA.
@@ -87,14 +90,14 @@ Thay vì ghép các khóa lẻ đại trà thông thường (bảng giá chuẩn
                                  (Thừa hơn 4 tháng nộp bằng trước hạn 15/11/2027 lên Senior TMA!)
 ```
 
-* **Địa điểm:** Gần Lotte Mart Gò Vấp (Đường Phan Văn Trị / Nguyễn Văn Lượng, từ Topaz Home Q12 chạy xe chỉ 10-15p).
-* **Khung giờ tối ưu:** **Thứ 7 & Chủ Nhật ban ngày** (Sáng 09:30-11:00 hoặc Chiều 14:00-15:30; linh động 1 buổi chiều/tối trong tuần nếu bận).
+- **Địa điểm:** Gần Lotte Mart Gò Vấp (Đường Phan Văn Trị / Nguyễn Văn Lượng, từ Topaz Home Q12 chạy xe chỉ 10-15p).
+- **Khung giờ tối ưu:** **Thứ 7 & Chủ Nhật ban ngày** (Sáng 09:30-11:00 hoặc Chiều 14:00-15:30; linh động 1 buổi chiều/tối trong tuần nếu bận).
 
 ---
 
 ## 💬 5. KỊCH BẢN TIN NHẮN KÍCH HOẠT LỊCH & NHẬN PLAN (GỬI ĐẦU T01/2027)
 
-*(Hiếu và Kim Hân đã thống nhất nguyên tắc ngày 17/10/2026: 2 buổi/tuần, Gò Vấp, bộ Hacker TOEIC. Đến đầu T01/2027, Hiếu nhắn để Hân gửi plan chi tiết và báo mức giá trọn gói):*
+_(Hiếu và Kim Hân đã thống nhất nguyên tắc ngày 17/10/2026: 2 buổi/tuần, Gò Vấp, bộ Hacker TOEIC. Đến đầu T01/2027, Hiếu nhắn để Hân gửi plan chi tiết và báo mức giá trọn gói):_
 
 ```text
 "Hân ơi, mình sắp xếp xong lịch Tết rồi nhé!
@@ -104,4 +107,5 @@ Hôm trước Hân bảo lên plan thiết kế riêng và mức giá cho mình 
 ```
 
 ---
-*Ghi chú hệ thống: Cập nhật ngày 17/10/2026. Thống nhất phương án may đo lộ trình riêng (Tailor-made Package) thay vì gộp các khóa lẻ thông thường. Kim Hân sẽ lên plan chi tiết và định giá riêng trọn gói cho Hiếu (dự trù ngân sách 10M–13M chia 2-3 đợt đóng). Nhịp học: 2 buổi/tuần tại Lotte Mart Gò Vấp, trọng tâm bộ Hacker TOEIC, push từ vựng mỗi ngày, học sâu bản chất để đạt 700+ nộp TMA.*
+
+_Ghi chú hệ thống: Cập nhật ngày 17/10/2026. Thống nhất phương án may đo lộ trình riêng (Tailor-made Package) thay vì gộp các khóa lẻ thông thường. Kim Hân sẽ lên plan chi tiết và định giá riêng trọn gói cho Hiếu (dự trù ngân sách 10M–13M chia 2-3 đợt đóng). Nhịp học: 2 buổi/tuần tại Lotte Mart Gò Vấp, trọng tâm bộ Hacker TOEIC, push từ vựng mỗi ngày, học sâu bản chất để đạt 700+ nộp TMA._
