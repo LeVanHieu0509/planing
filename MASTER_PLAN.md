@@ -180,21 +180,21 @@ Chi tiết: [01_ROADMAPS/M2_FINANCE/TAI_CHINH_2026_2028.md](./01_ROADMAPS/M2_FIN
 
 ---
 
-## 📂 CẤU TRÚC THƯ MỤC
+## 📂 CẤU TRÚC THƯ MỤC (HIEU LIFE OS - SECOND BRAIN)
 
 ```
 planing/
-├── START_HERE.md          ← đọc đầu tiên
-├── MASTER_PLAN.md         ← bạn đang ở đây
-├── 00_CORE/EXPERT_REVIEW.md       ← review định kỳ, đọc khi mất phương hướng
-├── scrum/                 ← SCRUM_FRAMEWORK · SPRINT_CALENDAR · sprints/S1.md
-├── me/
-│   ├── finance/           ← TAI_CHINH · DAU_TU · MONTHLY_TRACKER · T0X_GIAO_DICH · QUY_ME_500TR
-│   ├── career/            ← master-mba (Thạc sĩ UIT 2027) · miracle (đóng băng) · tma
-│   └── lifestyle/         ← DAILY_SCHEDULE · GYM_PLAN · SELF_UNDERSTANDING · RELATIONSHIPS · podcasts_hieutv
-├── english/               ← toeic/ · communication/IMMERSION_ROADMAP.md
-├── programing/            ← ghi chú kỹ thuật cá nhân (AI Agent, Flutter)
-└── archive/               ← kho lưu trữ (business MBA, tiktok cũ)
+├── START_HERE.md          ← Dashboard điều hướng & la bàn cuộc đời
+├── MASTER_PLAN.md         ← Bạn đang ở đây (Bức tranh lớn 2026-2031)
+├── INDEX.md               ← Cổng tra cứu siêu tốc toàn hệ thống (Map of Content)
+├── CLAUDE.md              ← Hiến pháp kỷ luật & 5 vùng cấm bất khả xâm phạm
+├── 00_CORE/               ← Tâm thức, Bản sắc High-Value Man & Tuyên ngôn (HIEU_MINDSET, SELF_UNDERSTANDING)
+├── 01_ROADMAPS/           ← 5 Đỉnh núi lớn (M1 English, M2 Finance, M3 Health, M4 Career, M5 Relationships)
+├── 02_EXECUTION/          ← Cỗ máy thực thi hàng ngày (Scrum, Sprints, Daily Schedule 24h, Daily Journal)
+├── 03_KNOWLEDGE/          ← Bách khoa toàn thư Second Brain (Podcasts Dan Foolish & Hieu TV, AI Engineer, Tech)
+├── 04_ARCHIVE/            ← Bảo tàng ký ức & Dự án quá khứ (Miracle POS, TikTok, MBA, Sprints cũ)
+├── agents/                ← AI Agents tự động hóa
+└── scripts/               ← Helper scripts thực thi
 ```
 
 ---
@@ -203,16 +203,18 @@ planing/
 
 | Cần gì                | Mở file                                                                          |
 | --------------------- | -------------------------------------------------------------------------------- |
-| Hôm nay làm gì        | [02_EXECUTION/sprints/S1.md](./02_EXECUTION/sprints/S1.md)                                     |
-| Luật chơi sprint      | [02_EXECUTION/SCRUM_FRAMEWORK.md](./02_EXECUTION/SCRUM_FRAMEWORK.md)                           |
-| Mốc quý               | [02_EXECUTION/SPRINT_CALENDAR.md](./02_EXECUTION/SPRINT_CALENDAR.md)                           |
-| Tiền                  | [01_ROADMAPS/M2_FINANCE/TAI_CHINH_2026_2028.md](./01_ROADMAPS/M2_FINANCE/TAI_CHINH_2026_2028.md)         |
-| Đầu tư                | [01_ROADMAPS/M2_FINANCE/DAU_TU.md](./01_ROADMAPS/M2_FINANCE/DAU_TU.md)                                   |
-| Quỹ mẹ 500tr          | [01_ROADMAPS/M2_FINANCE/QUY_ME_500TR.md](./01_ROADMAPS/M2_FINANCE/QUY_ME_500TR.md)                       |
-| Bạn đời / gia đình    | [me/lifestyle/RELATIONSHIPS.md](./01_ROADMAPS/M5_RELATIONSHIPS/RELATIONSHIPS.md)                 |
-| Thạc sĩ               | [01_ROADMAPS/M4_CAREER/master_uit/THAC_SI_UIT_2027.md](./01_ROADMAPS/M4_CAREER/master_uit/THAC_SI_UIT_2027.md) |
+| Bản đồ tra cứu siêu tốc | [INDEX.md](./INDEX.md)                                                           |
+| Hôm nay làm gì        | [02_EXECUTION/sprints/S1.md](./02_EXECUTION/sprints/S1.md)                       |
+| Lịch 24h & Van xả     | [02_EXECUTION/DAILY_SCHEDULE.md](./02_EXECUTION/DAILY_SCHEDULE.md)               |
+| Luật chơi sprint      | [02_EXECUTION/SCRUM_FRAMEWORK.md](./02_EXECUTION/SCRUM_FRAMEWORK.md)             |
+| Mốc quý               | [02_EXECUTION/SPRINT_CALENDAR.md](./02_EXECUTION/SPRINT_CALENDAR.md)             |
+| Tiền                  | [01_ROADMAPS/M2_FINANCE/TAI_CHINH_2026_2028.md](./01_ROADMAPS/M2_FINANCE/TAI_CHINH_2026_2028.md) |
+| Đầu tư                | [01_ROADMAPS/M2_FINANCE/DAU_TU.md](./01_ROADMAPS/M2_FINANCE/DAU_TU.md)           |
+| Quỹ mẹ 500tr          | [01_ROADMAPS/M5_RELATIONSHIPS/QUY_ME_500TR.md](./01_ROADMAPS/M5_RELATIONSHIPS/QUY_ME_500TR.md) |
+| Bạn đời / gia đình    | [01_ROADMAPS/M5_RELATIONSHIPS/RELATIONSHIPS.md](./01_ROADMAPS/M5_RELATIONSHIPS/RELATIONSHIPS.md) |
+| Thạc sĩ UIT           | [01_ROADMAPS/M4_CAREER/master_uit/THAC_SI_UIT_2027.md](./01_ROADMAPS/M4_CAREER/master_uit/THAC_SI_UIT_2027.md) |
 | Tiếng Anh             | [01_ROADMAPS/M1_ENGLISH/communication/IMMERSION_ROADMAP.md](./01_ROADMAPS/M1_ENGLISH/communication/IMMERSION_ROADMAP.md) |
-| Khi nản               | [00_CORE/EXPERT_REVIEW.md](./00_CORE/EXPERT_REVIEW.md)                                           |
+| Khi nản / Cần định hướng | [00_CORE/HIEU_MINDSET.md](./00_CORE/HIEU_MINDSET.md) |
 
 ---
 
