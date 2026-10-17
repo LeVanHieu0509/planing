@@ -34,11 +34,15 @@ Thay vì ghép các khóa lẻ đại trà thông thường (bảng giá chuẩn
   - Cơ chế push kỷ luật học từ vựng mỗi ngày.
   - Dạy hiểu sâu bản chất ngữ pháp & kỹ năng xử lý đề, không học mẹo vặt.
 
-### Dự trù mức giá & Kế hoạch ngân sách:
-* **Mức giá trọn gói:** Kim Hân sẽ lên plan chi tiết và định mức giá riêng cho khóa học thiết kế đặc biệt này (không đơn thuần là gộp 3 khóa lẻ lại).
-* **Khoảng ngân sách dự kiến của Hiếu:** Sẵn sàng trong tầm **10.000.000 – 13.000.000 VNĐ** (tùy thuộc vào thời lượng và cấu trúc plan chi tiết Hân đưa ra).
-* **Hình thức thanh toán:** Chia làm 2–3 đợt đóng (mỗi đợt ~3.5M – 4.5M) theo từng giai đoạn học để nhẹ nhàng dòng tiền.
-* **Tâm thế đầu tư:** Sẵn sàng trả đúng giá trị cho một lộ trình may đo riêng để giáo viên toàn tâm toàn ý kèm cặp sát sao, không mặc cả ép giá. Đây là khoản đầu tư năng lực cốt lõi có ROI vượt trội.
+### Dự trù mức giá & Chiến thuật đầu tư từng chặng (Phased Investment):
+* **Thực tế về mức giá:** Kim Hân **chưa hề báo giá 12 triệu**! Con số 12M là mức trần dự trù lý thuyết. Nếu Hân lên plan 3 tháng × 2 buổi/tuần = **~24 buổi**, mức giá trọn gói có thể chỉ nằm ở tầm **7.5M – 9.0M VNĐ**.
+* **Bóc tách đơn giá theo giờ:** Bảng giá chuẩn 4.000.000đ / 12 buổi (90 phút/buổi) = **333.000đ / buổi** $\rightarrow$ Chỉ **~220.000đ / giờ**. Đối với giáo viên TOEIC 955 kèm 1:1 trực tiếp tại Sài Gòn (mặt bằng chung 300k–500k/giờ), đây là mức giá rất mềm.
+* **Chiến thuật "Bỏ vốn từng chặng" — Không đóng một cục:**
+  - **Chặng 1 (Thử nghiệm 1.5 tháng):** Hiếu chỉ đóng trước **Đợt 1 (1 khóa ~3.5M – 4.0M, 12 buổi đầu)**.
+  - **Đánh giá sau 12 buổi:**
+    - 👉 *Kịch bản A (Tự bơi được):* Đã thông suốt bản chất ngữ pháp Part 5, nắm vững chiến thuật làm bài bộ Hacker, từ vựng vào guồng $\rightarrow$ **Dừng học, tự cày tiếp ở nhà, TIẾT KIỆM NGAY 7M – 8M!**
+    - 👉 *Kịch bản B (Tiến bộ vượt bậc, muốn bứt phá đỉnh):* Thấy điểm tăng vọt từ 535 lên 630-650, muốn cô kèm sát đề thi để chắc chắn 700+ $\rightarrow$ Đóng tiếp Chặng 2 mà hoàn toàn an tâm và tự tin.
+* **Tư duy chi phí cơ hội:** Đừng nhìn vào 8–10 triệu học phí trước mắt mà quên rằng nếu trượt mốc 700+ trước deadline TMA 15/11/2027, Hiếu sẽ bị lùi xét Senior Developer 1 năm $\rightarrow$ **Thiệt hại 36.000.000 – 60.000.000 VNĐ tiền lương chênh lệch (+3M đến +5M/tháng)**! Đầu tư có chặng kiểm chứng là cách an toàn và khôn ngoan nhất.
 
 ---
 
