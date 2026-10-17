@@ -13,9 +13,9 @@
                  ↓
         🎯 5 MỤC TIÊU LỚN (M1 → M5)
                  ↓
-        📍 MỐC QUÝ          → scrum/SPRINT_CALENDAR.md
+        📍 MỐC QUÝ          → 02_EXECUTION/SPRINT_CALENDAR.md
                  ↓
-        🏃 SPRINT 2 TUẦN    → scrum/sprints/S1.md   (tối đa 5 việc)
+        🏃 SPRINT 2 TUẦN    → 02_EXECUTION/sprints/S1.md   (tối đa 5 việc)
                  ↓
         🔁 THÓI QUEN HÀNG NGÀY
 ```
@@ -36,7 +36,7 @@ Chiến lược 3 tháng tới (Q4/2026 - T01/2027):
            - Đến 12/01/2027: Dồn thời gian rảnh (trừ tối T4 + tối CN để relax) cho hệ sinh thái Immersion L3 (Nghe podcast đi đường, Active Recall 15p, sơ đồ logic Infographic kéo dài câu, Voice Memo, hồi sinh 24 chủ đề L2 cũ).
            - Song song trong L3: luyện Part 5 + Part 7 sáng T2 + T6 (gắn với vocabulary, chưa làm full test).
            - T02/2027 → T06/2027 (Khai xuân sau Tết TMA): Cày đề ETS + Học Coach 1:1 Offline (Kim Hân TOEIC 955, Tân Phú, 3 khóa = 36 buổi, 2 buổi/tuần T7-CN trong 4.5 tháng, sẵn sàng trọn vẹn 12tr ~ 2.66tr/tháng) → THI TOEIC Cuối T06/2027 (Target 700+), nộp TMA trước hạn 15/11/2027 để lên Senior.
-Tiền:      ✅ L2 và L3 đều đã thanh toán xong · Dự trù ngân sách T02/2027: 12tr cho 3 khóa Coach 1:1 TOEIC (chia 3 đợt đóng 4M / 1.5 tháng, chi tiết tại english/toeic/COACH_1ON1_KIM_HAN_2027.md).
+Tiền:      ✅ L2 và L3 đều đã thanh toán xong · Dự trù ngân sách T02/2027: 12tr cho 3 khóa Coach 1:1 TOEIC (chia 3 đợt đóng 4M / 1.5 tháng, chi tiết tại 01_ROADMAPS/M1_ENGLISH/toeic/COACH_1ON1_KIM_HAN_2027.md).
 Việc duy nhất: THAM GIA ĐỦ BUỔI IMMERSION + ĐẮM CHÌM TIẾNG ANH (chưa làm full test ETS; chỉ luyện Part 5 + Part 7). Tối T4 + tối CN để RELAX.
 ```
 
@@ -80,7 +80,7 @@ Việc gần:  Tra cứu quy chế tuyển sinh/thi đầu vào 2027 của UIT (
            Giữ kết nối bạn bè · đá banh T4 · cafe cuối tuần
            Bạn đời: phát triển bản thân trước, dự kiến tìm hiểu nghiêm túc cuối 2026
 Nguyên tắc: M5 không bao giờ được phá giấc ngủ và tiền học phí
-Chi tiết:  me/finance/QUY_ME_500TR.md · me/lifestyle/RELATIONSHIPS.md
+Chi tiết:  01_ROADMAPS/M2_FINANCE/QUY_ME_500TR.md · me/lifestyle/RELATIONSHIPS.md
 ```
 
 ---
@@ -139,7 +139,7 @@ TIẾT KIỆM:         ~15,400,000 - 17,400,000
 >    - Mẹ gửi nhờ giữ hộ trong tài khoản: **TUYỆT ĐỐI KHÔNG tính vào thu nhập**, cũng **KHÔNG tính vào tài sản của Hiếu**.
 >    - Luôn **trừ thẳng số tiền mẹ gửi nhờ ra khỏi số dư ngân hàng** để xác định chính xác số dư tiền mặt thực có.
 >    - Tiền mẹ hỗ trợ (như 2.5M tiền quân sự): Được trừ trực tiếp vào chi phí phát sinh, Hiếu chỉ ghi nhận phần mình tự chi.
->    - Quỹ tiết kiệm cho mẹ (2tr/tháng): Khoản gửi riêng cố định theo [QUY_ME_500TR.md](./me/finance/QUY_ME_500TR.md), không tính vào tài sản cá nhân của Hiếu.
+>    - Quỹ tiết kiệm cho mẹ (2tr/tháng): Khoản gửi riêng cố định theo [QUY_ME_500TR.md](./01_ROADMAPS/M2_FINANCE/QUY_ME_500TR.md), không tính vào tài sản cá nhân của Hiếu.
 
 
 
@@ -153,7 +153,7 @@ TIẾT KIỆM:         ~15,400,000 - 17,400,000
 | T09-T10/2027 | -         | 🎓 Nộp hồ sơ Thạc sĩ UIT (Đợt 2)                     |
 | T12/2027  | -           | 🎓 Khai giảng, trả 43tr học phí năm 1                |
 
-Chi tiết: [me/finance/TAI_CHINH_2026_2028.md](./me/finance/TAI_CHINH_2026_2028.md) · [me/finance/DAU_TU.md](./me/finance/DAU_TU.md)
+Chi tiết: [01_ROADMAPS/M2_FINANCE/TAI_CHINH_2026_2028.md](./01_ROADMAPS/M2_FINANCE/TAI_CHINH_2026_2028.md) · [01_ROADMAPS/M2_FINANCE/DAU_TU.md](./01_ROADMAPS/M2_FINANCE/DAU_TU.md)
 
 ---
 
@@ -186,7 +186,7 @@ Chi tiết: [me/finance/TAI_CHINH_2026_2028.md](./me/finance/TAI_CHINH_2026_2028
 planing/
 ├── START_HERE.md          ← đọc đầu tiên
 ├── MASTER_PLAN.md         ← bạn đang ở đây
-├── expert_review.md       ← review định kỳ, đọc khi mất phương hướng
+├── 00_CORE/EXPERT_REVIEW.md       ← review định kỳ, đọc khi mất phương hướng
 ├── scrum/                 ← SCRUM_FRAMEWORK · SPRINT_CALENDAR · sprints/S1.md
 ├── me/
 │   ├── finance/           ← TAI_CHINH · DAU_TU · MONTHLY_TRACKER · T0X_GIAO_DICH · QUY_ME_500TR
@@ -203,16 +203,16 @@ planing/
 
 | Cần gì                | Mở file                                                                          |
 | --------------------- | -------------------------------------------------------------------------------- |
-| Hôm nay làm gì        | [scrum/sprints/S1.md](./scrum/sprints/S1.md)                                     |
-| Luật chơi sprint      | [scrum/SCRUM_FRAMEWORK.md](./scrum/SCRUM_FRAMEWORK.md)                           |
-| Mốc quý               | [scrum/SPRINT_CALENDAR.md](./scrum/SPRINT_CALENDAR.md)                           |
-| Tiền                  | [me/finance/TAI_CHINH_2026_2028.md](./me/finance/TAI_CHINH_2026_2028.md)         |
-| Đầu tư                | [me/finance/DAU_TU.md](./me/finance/DAU_TU.md)                                   |
-| Quỹ mẹ 500tr          | [me/finance/QUY_ME_500TR.md](./me/finance/QUY_ME_500TR.md)                       |
-| Bạn đời / gia đình    | [me/lifestyle/RELATIONSHIPS.md](./me/lifestyle/RELATIONSHIPS.md)                 |
-| Thạc sĩ               | [me/career/master-mba/THAC_SI_UIT_2027.md](./me/career/master-mba/THAC_SI_UIT_2027.md) |
-| Tiếng Anh             | [english/communication/IMMERSION_ROADMAP.md](./english/communication/IMMERSION_ROADMAP.md) |
-| Khi nản               | [expert_review.md](./expert_review.md)                                           |
+| Hôm nay làm gì        | [02_EXECUTION/sprints/S1.md](./02_EXECUTION/sprints/S1.md)                                     |
+| Luật chơi sprint      | [02_EXECUTION/SCRUM_FRAMEWORK.md](./02_EXECUTION/SCRUM_FRAMEWORK.md)                           |
+| Mốc quý               | [02_EXECUTION/SPRINT_CALENDAR.md](./02_EXECUTION/SPRINT_CALENDAR.md)                           |
+| Tiền                  | [01_ROADMAPS/M2_FINANCE/TAI_CHINH_2026_2028.md](./01_ROADMAPS/M2_FINANCE/TAI_CHINH_2026_2028.md)         |
+| Đầu tư                | [01_ROADMAPS/M2_FINANCE/DAU_TU.md](./01_ROADMAPS/M2_FINANCE/DAU_TU.md)                                   |
+| Quỹ mẹ 500tr          | [01_ROADMAPS/M2_FINANCE/QUY_ME_500TR.md](./01_ROADMAPS/M2_FINANCE/QUY_ME_500TR.md)                       |
+| Bạn đời / gia đình    | [me/lifestyle/RELATIONSHIPS.md](./01_ROADMAPS/M5_RELATIONSHIPS/RELATIONSHIPS.md)                 |
+| Thạc sĩ               | [01_ROADMAPS/M4_CAREER/master_uit/THAC_SI_UIT_2027.md](./01_ROADMAPS/M4_CAREER/master_uit/THAC_SI_UIT_2027.md) |
+| Tiếng Anh             | [01_ROADMAPS/M1_ENGLISH/communication/IMMERSION_ROADMAP.md](./01_ROADMAPS/M1_ENGLISH/communication/IMMERSION_ROADMAP.md) |
+| Khi nản               | [00_CORE/EXPERT_REVIEW.md](./00_CORE/EXPERT_REVIEW.md)                                           |
 
 ---
 

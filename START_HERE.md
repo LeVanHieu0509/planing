@@ -1,8 +1,9 @@
-# 🚀 BẮT ĐẦU TỪ ĐÂY - V7 (RESET 13/09/2026)
+# 🚀 BẮT ĐẦU TỪ ĐÂY - HIEU LIFE OS (SECOND BRAIN)
 
-> **Hiếu Lê Văn - 25 tuổi - Developer**
-> **Sprint hiện tại:** **S1 · 12/10/2026 → 25/10/2026** (Khởi động lại nhịp mới, 2 tuần/sprint)
-> **Đọc file này 5 phút là nắm toàn bộ.**
+> **Hiếu Lê Văn - 25 tuổi - Software Developer**  
+> **Sprint hiện tại:** **[S1 · 12/10/2026 → 25/10/2026](./02_EXECUTION/sprints/S1.md)** (Chu kỳ 2 tuần/sprint)  
+> 🗺️ **Bản đồ tra cứu toàn diện (Map of Content): [INDEX.md](./INDEX.md)**  
+> **Đọc file này 5 phút là nắm toàn bộ la bàn cuộc đời.**
 
 ---
 
@@ -57,38 +58,38 @@ Bot OKX      → dự án cá nhân, không phải nguồn thu, không bơm thê
 
 | File                                                                         | Khi nào                    |
 | ---------------------------------------------------------------------------- | -------------------------- |
-| [scrum/sprints/S1.md](./scrum/sprints/S1.md)                                 | Mỗi sáng, 1 phút           |
-| [me/lifestyle/hieu/DAILY_SCHEDULE.md](./me/lifestyle/hieu/DAILY_SCHEDULE.md) | Khi quên lịch hôm nay      |
-| [me/finance/T10_2026_GIAO_DICH.md](./me/finance/T10_2026_GIAO_DICH.md)       | Ghi chi tiêu ngay khi tiêu |
+| [02_EXECUTION/sprints/S1.md](./02_EXECUTION/sprints/S1.md)                                 | Mỗi sáng, 1 phút           |
+| [02_EXECUTION/DAILY_SCHEDULE.md](./02_EXECUTION/DAILY_SCHEDULE.md) | Khi quên lịch hôm nay      |
+| [01_ROADMAPS/M2_FINANCE/trackers/T10_2026_GIAO_DICH.md](./01_ROADMAPS/M2_FINANCE/trackers/T10_2026_GIAO_DICH.md)       | Ghi chi tiêu ngay khi tiêu |
 
 ### Cuối sprint (2 tuần/lần, CN 21:00)
 
 | File                                                   | Việc                         |
 | ------------------------------------------------------ | ---------------------------- |
-| [scrum/sprints/S1.md](./scrum/sprints/S1.md)           | Check-in 15 phút             |
-| [scrum/SPRINT_CALENDAR.md](./scrum/SPRINT_CALENDAR.md) | Xem mốc quý để chọn việc mới |
+| [02_EXECUTION/sprints/S1.md](./02_EXECUTION/sprints/S1.md)           | Check-in 15 phút             |
+| [02_EXECUTION/SPRINT_CALENDAR.md](./02_EXECUTION/SPRINT_CALENDAR.md) | Xem mốc quý để chọn việc mới |
 
 ### Cuối tháng
 
 | File                                                             | Việc              |
 | ---------------------------------------------------------------- | ----------------- |
-| [me/finance/MONTHLY_TRACKER.md](./me/finance/MONTHLY_TRACKER.md) | Chốt sổ           |
-| [me/finance/DAU_TU.md](./me/finance/DAU_TU.md)                   | Cập nhật đầu tư   |
-| [me/finance/NGUYEN_TAC_KE_TOAN.md](./me/finance/NGUYEN_TAC_KE_TOAN.md) | Chuẩn kế toán & phân tách tài sản |
-| [me/lifestyle/hieu/GYM_PLAN.md](./me/lifestyle/hieu/GYM_PLAN.md) | Ghi 1 dòng InBody |
+| [01_ROADMAPS/M2_FINANCE/MONTHLY_TRACKER.md](./01_ROADMAPS/M2_FINANCE/MONTHLY_TRACKER.md) | Chốt sổ           |
+| [01_ROADMAPS/M2_FINANCE/DAU_TU.md](./01_ROADMAPS/M2_FINANCE/DAU_TU.md)                   | Cập nhật đầu tư   |
+| [01_ROADMAPS/M2_FINANCE/NGUYEN_TAC_KE_TOAN.md](./01_ROADMAPS/M2_FINANCE/NGUYEN_TAC_KE_TOAN.md) | Chuẩn kế toán & phân tách tài sản |
+| [01_ROADMAPS/M3_HEALTH/GYM_PLAN.md](./01_ROADMAPS/M3_HEALTH/GYM_PLAN.md) | Ghi 1 dòng InBody |
 
 ### Khi cần
 
 | File                                                                                             | Khi nào                     |
 | ------------------------------------------------------------------------------------------------ | --------------------------- |
 | [MASTER_PLAN.md](./MASTER_PLAN.md)                                                               | Nhìn lại bức tranh lớn      |
-| [me/career/master-mba/THAC_SI_UIT_2027.md](./me/career/master-mba/THAC_SI_UIT_2027.md)           | Chuẩn bị hồ sơ Thạc sĩ      |
-| [me/finance/TAI_CHINH_2026_2028.md](./me/finance/TAI_CHINH_2026_2028.md)                         | Kiểm tra tiến độ 43tr       |
-| [english/communication/IMMERSION_ROADMAP.md](./english/communication/IMMERSION_ROADMAP.md)       | Lộ trình lớp tiếng Anh      |
-| [me/finance/QUY_ME_500TR.md](./me/finance/QUY_ME_500TR.md)                                       | Theo dõi quỹ mẹ 500tr       |
-| [expert_review.md](./expert_review.md)                                                           | Khi thấy mất phương hướng   |
-| [me/lifestyle/hieu/SELF_UNDERSTANDING.md](./me/lifestyle/hieu/SELF_UNDERSTANDING.md)             | Khi thấy nản                |
-| [me/lifestyle/dating/DATING_CORE_PRINCIPLES.md](./me/lifestyle/dating/DATING_CORE_PRINCIPLES.md) | Khi cần định hướng tình cảm |
+| [01_ROADMAPS/M4_CAREER/master_uit/THAC_SI_UIT_2027.md](./01_ROADMAPS/M4_CAREER/master_uit/THAC_SI_UIT_2027.md)           | Chuẩn bị hồ sơ Thạc sĩ      |
+| [01_ROADMAPS/M2_FINANCE/TAI_CHINH_2026_2028.md](./01_ROADMAPS/M2_FINANCE/TAI_CHINH_2026_2028.md)                         | Kiểm tra tiến độ 43tr       |
+| [01_ROADMAPS/M1_ENGLISH/communication/IMMERSION_ROADMAP.md](./01_ROADMAPS/M1_ENGLISH/communication/IMMERSION_ROADMAP.md)       | Lộ trình lớp tiếng Anh      |
+| [01_ROADMAPS/M2_FINANCE/QUY_ME_500TR.md](./01_ROADMAPS/M2_FINANCE/QUY_ME_500TR.md)                                       | Theo dõi quỹ mẹ 500tr       |
+| [00_CORE/EXPERT_REVIEW.md](./00_CORE/EXPERT_REVIEW.md)                                                           | Khi thấy mất phương hướng   |
+| [00_CORE/SELF_UNDERSTANDING.md](./00_CORE/SELF_UNDERSTANDING.md)             | Khi thấy nản                |
+| [01_ROADMAPS/M5_RELATIONSHIPS/dating/DATING_CORE_PRINCIPLES.md](./01_ROADMAPS/M5_RELATIONSHIPS/dating/DATING_CORE_PRINCIPLES.md) | Khi cần định hướng tình cảm |
 
 ---
 
@@ -112,7 +113,7 @@ T7  07:30 GYM  →  15:00 Hồi sinh bài L2 (LEVEL_2_RETROSPECTIVE.md)  →  19
 CN  09:00 GYM  →  15:00 ★ LỚP PHẢN XẠ (Xả kho)  →  tối 🛋️ RELAX / đi chơi  (21:00 Check-in 15p cuối sprint)
 ```
 
-Chi tiết: [me/lifestyle/hieu/DAILY_SCHEDULE.md](./me/lifestyle/hieu/DAILY_SCHEDULE.md)
+Chi tiết: [02_EXECUTION/DAILY_SCHEDULE.md](./02_EXECUTION/DAILY_SCHEDULE.md)
 
 ---
 

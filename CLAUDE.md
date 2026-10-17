@@ -7,7 +7,7 @@
 
 ## 🎯 1. NGUYÊN TẮC CỐT LÕI (THE MINDSET & CORE PHILOSOPHY)
 
-Mọi đề xuất, chỉnh sửa, lập kế hoạch hoặc phản hồi của AI **BẮT BUỘC** phải tuân thủ triệt để bộ tư duy cốt lõi tại **[HIEU_MINDSET.md](./me/lifestyle/hieu/HIEU_MINDSET.md)** gồm 3 trụ cột hợp nhất:
+Mọi đề xuất, chỉnh sửa, lập kế hoạch hoặc phản hồi của AI **BẮT BUỘC** phải tuân thủ triệt để bộ tư duy cốt lõi tại **[HIEU_MINDSET.md](./00_CORE/HIEU_MINDSET.md)** gồm 3 trụ cột hợp nhất:
 
 1. **Tâm Pháp Cuộc Sống & Sự Nghiệp (Đúc kết từ 29 Podcasts Hieu TV):**
    * **Cặm cụi & Tự học:** Sức mạnh của tích lũy nhỏ mỗi ngày; tự học mọi kỹ năng chủ động 100%. *"Hệ thống phải vừa sức mình, không phải mình phải cố cho vừa hệ thống."*
@@ -21,7 +21,7 @@ Mọi đề xuất, chỉnh sửa, lập kế hoạch hoặc phản hồi của 
    * **Đo lường bằng OUTPUT thực tế:** Code TMA đã commit, task BIT đã bàn giao, câu TOEIC Part 5/7 đã làm xong, buổi gym đã hoàn thành. Không đo lường bằng "thời gian ngồi ngẫm nghĩ" hay "độ đẹp của bảng biểu".
    * **Tư duy Chi Phí Mất Mát (Cost of Lost Efficiency):** Mỗi giờ lờ đờ, lướt điện thoại là tự tay ném tiền vào sọt rác và làm chậm ngày lo cho mẹ & học phí Thạc sĩ.
    * **Bịt kín lỗ rò năng lượng:** Trưa chợp mắt 20-30p, cấm lướt điện thoại; tối ngủ đúng 23:30. Thanh lọc drama công sở (90% kết quả từ tâm thế).
-   * **Động lực trách nhiệm:** Tích lũy lớn để lo sức khỏe ba mẹ khi về già ([QUY_ME_500TR.md](./me/finance/QUY_ME_500TR.md)).
+   * **Động lực trách nhiệm:** Tích lũy lớn để lo sức khỏe ba mẹ khi về già ([QUY_ME_500TR.md](./01_ROADMAPS/M2_FINANCE/QUY_ME_500TR.md)).
 
 3. **Khí Chất High-Value Man Trong Mối Quan Hệ:**
    * Kỷ luật, điềm đạm, tự mình tiêu hóa áp lực. Là Chiến binh, không phải Bệnh nhân. Không than vãn, không over-analyze phụ nữ hay công việc.
@@ -90,13 +90,13 @@ Hệ thống đã **BỎ HOÀN TOÀN** Story Points và Daily Standup. Mọi cô
 * **Cấu trúc cốt lõi:**
   * `START_HERE.md` - Bảng điều khiển nhanh, lịch tuần, 5 mục tiêu M1–M5.
   * `MASTER_PLAN.md` - Bức tranh lớn 2026–2031, dự phóng tài chính, cột mốc quý.
-  * `scrum/sprints/S{N}.md` - Sprint hiện tại (chu kỳ 2 tuần, Mon–Sun).
-  * `me/lifestyle/hieu/DAILY_SCHEDULE.md` - Lịch trình sinh hoạt chuẩn từng khung giờ.
-  * `me/lifestyle/hieu/HIEU_MINDSET.md` - Bộ tư duy cốt lõi toàn diện của Hiếu (Hieu TV + Dan Foolish + High-Value Man).
-  * `me/lifestyle/podcasts_hieutv/` - Kho 29 bài học podcast của Hieu TV (Tâm pháp cuộc sống & tài chính).
-  * `me/lifestyle/podcasts_danfoolish/` - Bộ não thực chiến Dan Foolish (Hiệu suất, môi trường, chống overplanning).
-  * `me/finance/` - Kế toán dòng tiền, `MONTHLY_TRACKER.md`, `TAI_CHINH_2026_2028.md`, `QUY_ME_500TR.md`.
-  * `me/career/master-mba/THAC_SI_UIT_2027.md` - Toàn bộ hồ sơ, chi phí và lộ trình Thạc sĩ UIT.
+  * `02_EXECUTION/sprints/S{N}.md` - Sprint hiện tại (chu kỳ 2 tuần, Mon–Sun).
+  * `02_EXECUTION/DAILY_SCHEDULE.md` - Lịch trình sinh hoạt chuẩn từng khung giờ.
+  * `00_CORE/HIEU_MINDSET.md` - Bộ tư duy cốt lõi toàn diện của Hiếu (Hieu TV + Dan Foolish + High-Value Man).
+  * `03_KNOWLEDGE/podcasts/hieu_tv/` - Kho 29 bài học podcast của Hieu TV (Tâm pháp cuộc sống & tài chính).
+  * `03_KNOWLEDGE/podcasts/dan_foolish/` - Bộ não thực chiến Dan Foolish (Hiệu suất, môi trường, chống overplanning).
+  * `01_ROADMAPS/M2_FINANCE/` - Kế toán dòng tiền, `MONTHLY_TRACKER.md`, `TAI_CHINH_2026_2028.md`, `QUY_ME_500TR.md`.
+  * `01_ROADMAPS/M4_CAREER/master_uit/THAC_SI_UIT_2027.md` - Toàn bộ hồ sơ, chi phí và lộ trình Thạc sĩ UIT.
 
 * **Quy chuẩn cập nhật file:**
   * Dùng tiếng Việt chuẩn xác, tôn trọng định dạng bảng biểu, checklist `[ ]` / `[x]`, emoji phân loại.

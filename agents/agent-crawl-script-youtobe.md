@@ -54,8 +54,8 @@ flowchart TD
 ### Bước 1: Tiếp nhận và phân tích URL
 - Trích xuất: Video ID, Channel, Timestamp `t=` nếu có (ví dụ: `1347s = 22:27`).
 - Xác định kênh đích để chọn thư mục lưu trữ:
-  - Kênh **Dan Foolish** ➔ `me/lifestyle/podcasts_danfoolish/`
-  - Kênh **Hiếu TV** ➔ `me/lifestyle/podcasts_hieutv/`
+  - Kênh **Dan Foolish** ➔ `03_KNOWLEDGE/podcasts/dan_foolish/`
+  - Kênh **Hiếu TV** ➔ `03_KNOWLEDGE/podcasts/hieu_tv/`
   - Kênh khác ➔ `me/lifestyle/podcasts_<channel_name_slug>/`
 
 ### Bước 2: Thu thập Transcript & Metadata
