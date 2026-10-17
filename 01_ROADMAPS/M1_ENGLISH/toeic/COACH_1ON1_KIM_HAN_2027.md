@@ -35,6 +35,9 @@ Thay vì ghép các khóa lẻ đại trà thông thường (bảng giá chuẩn
   - Tập trung giải quyết **bộ đề Hacker TOEIC** (sát format đề thi nội bộ TMA và đề IIG mới nhất).
   - Cơ chế push kỷ luật học từ vựng mỗi ngày.
   - Dạy hiểu sâu bản chất ngữ pháp & kỹ năng xử lý đề, không học mẹo vặt.
+- **Đặc quyền kèm 1:1 — Hỗ trợ hỏi đáp từ xa trong tuần (Async Q&A Support):**
+  - Không chỉ dừng lại ở 2 buổi trực tiếp cuối tuần, khi Hiếu tự làm bài tập và giải đề Hacker trong tuần, nếu gặp câu ngữ pháp khó hiểu hoặc dịch không trôi, Hiếu chụp ảnh gửi qua tin nhắn/voice memo.
+  - Kim Hân hỗ trợ giải thích bản chất trong ngày khi rảnh ban ngày $\rightarrow$ Biến khóa học thành **sự đồng hành 7 ngày/tuần**, học đến đâu gỡ rối tức thì đến đó!
 
 ### Dự trù mức giá & Chiến thuật đầu tư từng chặng (Phased Investment):
 
