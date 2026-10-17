@@ -168,6 +168,22 @@ BÀI HỌC 5: "Tiếng Anh mở mọi cánh cửa"
 BÀI HỌC 6: "Ghi sổ thiếu hệ thống = tự làm mình hoảng"
   → T08/2026: tưởng hụt 13 triệu, thật ra chỉ chênh 2.2tr do gộp nhầm đầu tư vào chi tiêu
   → Bài học: Tách bạch rõ 3 cột (Chi tiêu/Đầu tư/Phải thu), ghi trong ngày
+
+BÀI HỌC 7: "Nguyên lý bước đi nhỏ nhất (Micro-actions & Vứt bỏ sĩ diện)"
+  → Đừng đợi hoàn hảo mới làm: Chạy từ 500m, đọc từ 5 trang sách, học nói tiếng Anh sai thì sửa, không sợ quê
+  → Bài học: "Không có tích lũy nhỏ xíu từ 10 năm trước thì vĩnh viễn không có thành tựu lớn hôm nay."
+
+BÀI HỌC 8: "Tiêu diệt con bé Bùi Lan & Trì hoãn có chọn lọc"
+  → Không bao giờ nói "để mai làm, tuần sau làm". Thời gian là thứ duy nhất mất đi không bao giờ lấy lại được
+  → Bài học: Khát vọng mục tiêu phải ở Nấc 10 để đè bẹp sự lười biếng ở Nấc 5. Trì hoãn việc vô bổ, làm ngay việc trọng đại
+
+BÀI HỌC 9: "Luôn là người CẦN ĐỐI PHƯƠNG (Nguyên tắc Win-Win)"
+  → Đi làm phải ý thức mình cần TMA; trong tình cảm phải ý thức cần người bạn đời
+  → Bài học: Khi ảo tưởng mình là số 1 và không cần ai nữa, cuộc đời sẽ tước đoạt tất cả. Hợp tác bền vững dựa trên Win-Win và tình nghĩa
+
+BÀI HỌC 10: "Tự tin từ thực lực, khiêm tốn ở đáy để giữ an toàn"
+  → Tự tin vào chuyên môn thật, không bơm thổi vỏ bọc bên ngoài. Càng giỏi càng phải cúi đầu
+  → Bài học: Tự cao sẽ làm suy yếu hệ thống phòng thủ, rất dễ gãy khi biến cố ập đến (như bài học Á khoa của Dan)
 ```
 
 ---

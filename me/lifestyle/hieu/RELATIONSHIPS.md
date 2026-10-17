@@ -71,6 +71,8 @@ Nghề nghiệp:      Ưu tiên giáo viên hoặc bác sĩ - nghề ổn địn
 Điều kiện cần đủ trước khi nghiêm túc:
                   ✅ Vóc dáng & da cải thiện rõ (không cần hoàn hảo)
                   ✅ Tài chính tối thiểu ổn định (xem M2 - liên quan mục tiêu 43tr học phí & quỹ mẹ)
+                  ✅ Tư duy cốt lõi (Dan Foolish): Bổ trợ điểm yếu cho nhau + Tôn trọng sự khác biệt
+                     + Luôn giữ tâm thế "Cần đối phương" (Win-Win & Tình nghĩa) để mối quan hệ trường tồn.
 ```
 
 ### Nguyên tắc trong lúc tìm hiểu (mở app hẹn hò, gặp gỡ...)
