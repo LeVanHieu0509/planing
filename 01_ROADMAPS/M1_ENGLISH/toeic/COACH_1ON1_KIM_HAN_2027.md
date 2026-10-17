@@ -11,8 +11,13 @@
 * **Họ tên:** Nguyễn Vũ Kim Hân
 * **Facebook:** [Kim Hân (nguyenvukimhan79)](https://www.facebook.com/nguyenvukimhan79)
 * **Thành tích:** **TOEIC 955** (Listening: 495/495 tuyệt đối · Reading: 460/495).
-* **Học vấn & Kinh nghiệm:** Cử nhân ĐH Ngoại ngữ - Tin học TP.HCM (HUFLIT) · Giáo viên chính thức tại trung tâm TOEIC Thùy Trang (Tân Phú).
-* **Thế mạnh:** Dạy kèm 1:1 & nhóm nhỏ, chuyên trị bẫy Part 5, chiến thuật đọc Part 7 và kỹ năng nghe bắt keyword Part 3-4.
+* **Học vấn & Kinh nghiệm:** Cử nhân ĐH Ngoại ngữ - Tin học TP.HCM (HUFLIT) · Giáo viên chính thức tại trung tâm TOEIC Thùy Trang · Dạy kèm 1:1 chuyên sâu tại nhà.
+* **Địa điểm học thực tế:** **Gần Lotte Mart Gò Vấp** (Đường Phan Văn Trị / Nguyễn Văn Lượng, Gò Vấp).
+  - *Lợi thế vị trí:* Cùng trục đường Phan Văn Trị với trung tâm *Tiếng Anh Nghe Nói* nơi Hiếu học Level 3. Từ Topaz Home Q12 chạy sang chỉ mất 10–15 phút, gần hơn và tiện đường hơn nhiều so với Tân Phú!
+* **Thế mạnh & Phương pháp:** 
+  - Push học từ vựng mỗi ngày (tạo áp lực tích cực).
+  - Trọng tâm giáo trình: **Bộ Hacker TOEIC** (sát format đề thi nội bộ TMA và đề IIG mới nhất).
+  - Dạy hiểu sâu **bản chất cốt lõi** để làm chủ đề và ứng dụng thực tế trong công việc, không phụ thuộc vào mẹo vặt học vẹt.
 
 ---
 
@@ -21,9 +26,10 @@
 ### Bảng giá niêm yết của giáo viên:
 * **Offline 1:1:** 4.000.000 VNĐ / khóa 12 buổi (90 phút/buổi).
 
-### Lựa chọn chiến lược: 3 Khóa liên tục · 2 buổi/tuần (T7 & CN)
+### Lựa chọn chiến lược đã thống nhất với Coach (17/10/2026): 3 Khóa · 2 buổi/tuần (T7 & CN)
 * **Tổng số buổi:** 3 khóa × 12 buổi = **36 buổi**.
-* **Nhịp học:** **2 buổi/tuần** (Cố định Thứ 7 & Chủ Nhật tại Tân Phú).
+* **Nhịp học:** **2 buổi/tuần** (Cố định Thứ 7 & Chủ Nhật; linh động dời 1 buổi sang chiều/tối trong tuần nếu có việc đột xuất).
+  - *Lý do:* Hiếu làm 2 job (TMA + BIT) nên nhịp 2 buổi/tuần giúp vừa sức, đủ thời gian làm bài tập và ngấm kiến thức mà không bị quá tải. Coach Kim Hân đã đồng ý phương án này.
 * **Thời lượng:** 36 buổi ÷ 2 buổi/tuần = **18 tuần (~4.5 tháng)**.
   - Bắt đầu: **27/02/2027** (Thứ Bảy — sau khi vào lại Sài Gòn 1 tuần làm quen lại nhịp công ty).
   - Kết thúc: **27/06/2027** (Chủ Nhật — đúng 18 tuần = 36 buổi, học xong thi ngay!).
@@ -75,20 +81,21 @@
                                  (Thừa hơn 4 tháng nộp bằng trước hạn 15/11/2027 lên Senior TMA!)
 ```
 
-* **Địa điểm:** Tân Phú (gần trung tâm TOEIC Thùy Trang nơi Kim Hân giảng dạy, từ Topaz Home Q12 chạy xe 15-20p).
-* **Khung giờ tối ưu:** **Thứ 7 & Chủ Nhật ban ngày** (Sáng 09:30-11:00 hoặc Chiều 14:00-15:30).
+* **Địa điểm:** Gần Lotte Mart Gò Vấp (Đường Phan Văn Trị / Nguyễn Văn Lượng, từ Topaz Home Q12 chạy xe chỉ 10-15p).
+* **Khung giờ tối ưu:** **Thứ 7 & Chủ Nhật ban ngày** (Sáng 09:30-11:00 hoặc Chiều 14:00-15:30; linh động 1 buổi chiều/tối trong tuần nếu bận).
 
 ---
 
-## 💬 5. KỊCH BẢN TIN NHẮN NGỎ LỜI ƯU ĐÃI (GỬI ĐẦU T01/2027)
+## 💬 5. KỊCH BẢN TIN NHẮN CHỐT LỊCH CHÍNH THỨC (GỬI ĐẦU T01/2027)
+
+*(Hiếu đã trao đổi và giữ slot thành công với Kim Hân ngày 17/10/2026. Đến đầu T01/2027 chỉ cần nhắn kích hoạt lịch):*
 
 ```text
-"Hân ơi, mình xem qua lộ trình rồi và mình chốt học kèm 1:1 offline với bạn nhé. 
-Đợt này mình đang theo nốt khóa giao tiếp đến giữa tháng 1/2027 là xong. Do đợt Tết mình về quê Nghệ An đón Tết đến tầm cuối tháng 2 (khoảng ngày 27/02) mới vào lại Sài Gòn, nên mình muốn bắt đầu học từ cuối tuần 27/02 luôn để kịp thi lấy bằng 700+ vào cuối tháng 6.
-
-Vì trong tuần mình đi làm full-time, nên mình muốn học đều đặn 2 buổi/tuần vào cuối tuần (Thứ 7 & Chủ Nhật) ban ngày ở khu Tân Phú nha. 
-Mình xác định theo bạn liền mạch cả lộ trình 3 khóa (36 buổi, tầm 4 tháng rưỡi) cho đến tận ngày thi tháng 6 luôn để bứt phá dứt điểm. Không biết nếu mình đăng ký trọn gói liền 3 khóa thì bên Hân có chính sách ưu đãi combo gì cho học viên không bạn ha?"
+"Hân ơi, mình sắp xếp xong lịch Tết rồi nhé. 
+Đợt Tết mình về quê Nghệ An đón Tết đến ngày 20/02 là bay vào lại Sài Gòn rồi. Mình muốn bắt đầu học buổi đầu tiên vào cuối tuần 27/02 (Thứ 7) luôn nha.
+Lịch cố định vẫn là 2 buổi/tuần vào cuối tuần (Thứ 7 & Chủ Nhật) tại chỗ Hân gần Lotte Mart Gò Vấp nha. 
+Mình theo trọn vẹn cả lộ trình 3 khóa (36 buổi, 4.5 tháng) đến hết tháng 6 để thi 700+ luôn. Hân gửi mình số tài khoản để mình chuyển cọc/học phí khóa 1 để chốt lịch luôn nha bạn!"
 ```
 
 ---
-*Ghi chú hệ thống: Cập nhật ngày 16/10/2026. Chốt phương án 3 khóa (36 buổi) với nhịp độ 2 buổi/tuần (T7 & CN), khớp hoàn hảo với lịch nghỉ lễ TMA và mốc thi TOEIC T06/2027.*
+*Ghi chú hệ thống: Cập nhật ngày 17/10/2026. Hiếu đã trao đổi trực tiếp với Kim Hân: Đã thống nhất nhịp 2 buổi/tuần (phù hợp Hiếu làm 2 job TMA + BIT), địa điểm tại nhà Coach gần Lotte Mart Gò Vấp (cực tiện cùng trục Phan Văn Trị), trọng tâm bộ Hacker TOEIC + push từ vựng hàng ngày. Kim Hân đã nhận lời giữ slot.*
