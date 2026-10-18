@@ -139,8 +139,9 @@
 09:00-10:00  ★ GYM sáng (buổi 4 - hoàn thành mục tiêu tuần)
 10:30-12:30  Cà phê / Thư giãn nhẹ nhàng
 12:30-13:30  Ăn trưa
+13:30-16:45  Nghỉ ngơi, việc cá nhân (Tuần cuối sprint: Check-in sprint 16:45-17:15)
 17:45-19:15  ★ LỚP PHẢN XẠ GIAO TIẾP (Chủ Nhật - tan lúc 19:15, Xả kho từ vựng & Chunks)
-19:30-22:30  🛋️ RELAX / đi chơi, gặp gỡ bạn bè, xả stress (không BIT) · (CN 25/10: gặp Quỳnh lúc 19:30 tại quán nướng)
+19:30-22:30  🛋️ RELAX / đi chơi, hẹn hò, gặp bạn bè, xả stress (không BIT)
 22:30-23:15  🛋️ Về nhà thư giãn, chuẩn bị tuần mới nhẹ nhàng
 23:15-23:30  Vệ sinh cá nhân, tắt đèn
 23:30        Ngủ
@@ -161,14 +162,14 @@ TỔNG = 8h · Tối T4 + tối T6 + tối CN + chiều T7: KHÔNG làm BIT
 
 ## ⚡ 6 ĐIỀU KHÔNG THỎA HIỆP
 
-| #   | Quy tắc                  | Thời gian                           |
-| --- | ------------------------ | ----------------------------------- |
-| 1   | Ngủ 23:30                | Mỗi đêm, không exception            |
-| 2   | GYM 4 buổi/tuần          | T2+T6 tối, T7+CN sáng               |
-| 3   | Lớp T3+T5 19:15          | Đến đúng giờ                        |
-| 4   | Meal prep T2+T4 tối      | Không prep = T3/T5 ăn vội = mệt lớp |
-| 5   | Ghi sổ chi tiêu          | Mỗi ngày, ngay khi tiêu             |
-| 6   | Đọc sách 30p trước ngủ   | Mỗi đêm, thay thế điện thoại        |
+| #   | Quy tắc                | Thời gian                           |
+| --- | ---------------------- | ----------------------------------- |
+| 1   | Ngủ 23:30              | Mỗi đêm, không exception            |
+| 2   | GYM 4 buổi/tuần        | T2+T6 tối, T7+CN sáng               |
+| 3   | Lớp T3+T5 19:15        | Đến đúng giờ                        |
+| 4   | Meal prep T2+T4 tối    | Không prep = T3/T5 ăn vội = mệt lớp |
+| 5   | Ghi sổ chi tiêu        | Mỗi ngày, ngay khi tiêu             |
+| 6   | Đọc sách 30p trước ngủ | Mỗi đêm, thay thế điện thoại        |
 
 ---
 
