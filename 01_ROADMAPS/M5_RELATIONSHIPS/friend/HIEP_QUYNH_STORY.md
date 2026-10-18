@@ -121,11 +121,11 @@ Không phán xét, không áp lực — mà dùng thông tin đó để **đồn
 
 ## 🔗 LIÊN KẾT
 
-| File                                                           | Vai trò                 |
-| -------------------------------------------------------------- | ----------------------- |
+| File                                                                      | Vai trò                 |
+| ------------------------------------------------------------------------- | ----------------------- |
 | [../dating/HUYEN_JOURNEY.md](../dating/huyen_case/HUYEN_JOURNEY.md)       | Hành trình Hiếu - Huyền |
 | [../dating/HUYEN_NEXT_MOVES.md](../dating/huyen_case/HUYEN_NEXT_MOVES.md) | Nước đi tiếp theo       |
-| [../RELATIONSHIPS.md](../RELATIONSHIPS.md)                     | Nguyên tắc gốc của Hiếu |
+| [../RELATIONSHIPS.md](../RELATIONSHIPS.md)                                | Nguyên tắc gốc của Hiếu |
 
 ---
 
