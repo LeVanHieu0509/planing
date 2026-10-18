@@ -15,7 +15,8 @@ T01/2020    Gặp Quỳnh lần đầu - đi ăn nướng.
             Giai đoạn nhắn tin rất nhiều. Trong ~10 tháng gặp nhau 4 lần.
 ~T10/2020   Hiếu tỏ tình ở quán nhậu → Quỳnh từ chối, muốn chỉ làm bạn.
             (Nhìn lại: lúc đó mình còn trẻ, cách tỏ tình còn vội.)
-2021 → 2025 Giữ liên lạc văn minh, ấm áp: Mỗi năm nhắn 1-2 dịp đặc biệt (20/10, sinh nhật 17/11, chúc Tết Dương lịch).
+2021 → 2025 Giữ sợi dây liên lạc bền bỉ, thân thiết và văn minh:
+            - T7–T8/2022: Tương tác qua lại rất tự nhiên, thoải mái ("Tui về rồi nè", thức khuya 1h sáng trêu chọc tếu táo: "Má mai thi. Cha nội 😂" → Hiếu chúc mai thi tốt).
             - 20/10/2023: Chúc 20/10, Quỳnh cảm ơn vui vẻ.
             - 17/11/2023 (Sinh nhật Quỳnh): Quỳnh nhắn xúc động: "Awwwww. Cảm ơn Hiếu nhiều quá. Suốt thời gian qua ông vẫn luôn ở bên anh tui. Rất cảm ơn ông."
             - 26/12/2023: Khen "Xinhh" → Quỳnh "Awwww. Cám ơn ôngggg".
@@ -38,7 +39,7 @@ T01/2020    Gặp Quỳnh lần đầu - đi ăn nướng.
 - Học vấn: Cựu sinh viên Học viện Hàng không Việt Nam (VAA).
 - Nơi làm việc / Nghề nghiệp: Hãng hàng không quốc tế Emirates (Dubai). Thường xuyên bay các chuyến quốc tế (vừa check-in Genève - Thụy Sỹ, Paris - Pháp). Về Sài Gòn chỉ 2 ngày (25–26/10).
 - Tình trạng hiển thị: Độc thân.
-- Cách xưng hô tự nhiên: "Ông - Tui" (thân thiện, bình đẳng, ấm áp).
+- Cách xưng hô & Giao tiếp: "Ông - Tui", cực kỳ tếu táo, không khoảng cách (từng gọi Hiếu là "Cha nội 😂"), đi học về là báo, thức khuya nói chuyện trước ngày thi.
 - Điểm gắn kết đặc biệt: Hiếu luôn ở bên cạnh và đồng hành cùng người anh của Quỳnh ("Suốt thời gian qua ông vẫn luôn ở bên anh tui") → Quỳnh luôn dành cho Hiếu sự tôn trọng và biết ơn sâu sắc.
 - Sở thích & Phong cách: Đam mê chạy bộ marathon, du lịch khám phá thế giới, tính cách vui vẻ, hoạt bát, dễ thương, hài hước.
 ```
