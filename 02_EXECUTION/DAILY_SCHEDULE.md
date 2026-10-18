@@ -139,10 +139,9 @@
 09:00-10:00  ★ GYM sáng (buổi 4 - hoàn thành mục tiêu tuần)
 10:30-12:30  Cà phê / Thư giãn nhẹ nhàng
 12:30-13:30  Ăn trưa
-15:00-16:30  ★ LỚP PHẢN XẠ GIAO TIẾP (Chủ Nhật - Xả kho toàn bộ từ vựng L2 & Chunks L3)
-17:00-21:00  🛋️ RELAX / đi chơi, hẹn hò, xả stress (không BIT)
-21:00-21:15  ★ CHECK-IN SPRINT (15p - chỉ tuần cuối sprint)
-21:15-23:15  🛋️ Thư giãn, chuẩn bị tuần mới nhẹ nhàng
+17:45-19:15  ★ LỚP PHẢN XẠ GIAO TIẾP (Chủ Nhật - tan lúc 19:15, Xả kho từ vựng & Chunks)
+19:30-22:30  🛋️ RELAX / đi chơi, gặp gỡ bạn bè, xả stress (không BIT) · (CN 25/10: gặp Quỳnh lúc 19:30 tại quán nướng)
+22:30-23:15  🛋️ Về nhà thư giãn, chuẩn bị tuần mới nhẹ nhàng
 23:15-23:30  Vệ sinh cá nhân, tắt đèn
 23:30        Ngủ
 ```
