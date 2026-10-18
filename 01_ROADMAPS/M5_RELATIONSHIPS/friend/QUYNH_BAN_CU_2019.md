@@ -38,7 +38,7 @@ T01/2020    Gặp Quỳnh lần đầu - đi ăn nướng.
 - Facebook: [Phan Đặng Như Quỳnh (hoodiephan)](https://www.facebook.com/hoodiephan)
 - Học vấn: Cựu sinh viên Học viện Hàng không Việt Nam (VAA).
 - Nơi làm việc / Nghề nghiệp: Hãng hàng không quốc tế Emirates (Dubai). Thường xuyên bay các chuyến quốc tế (vừa check-in Genève - Thụy Sỹ, Paris - Pháp). Về Sài Gòn chỉ 2 ngày (25–26/10).
-- Tình trạng hiển thị: Độc thân.
+- Tình trạng quan hệ: ĐÃ CÓ NGƯỜI YÊU (Hiếu đã xác nhận chính xác · Facebook chỉ là hiển thị chung).
 - Cách xưng hô & Giao tiếp: "Ông - Tui", cực kỳ tếu táo, không khoảng cách (từng gọi Hiếu là "Cha nội 😂"), đi học về là báo, thức khuya nói chuyện trước ngày thi.
 - Điểm gắn kết đặc biệt: Hiếu luôn ở bên cạnh và đồng hành cùng người anh của Quỳnh ("Suốt thời gian qua ông vẫn luôn ở bên anh tui") → Quỳnh luôn dành cho Hiếu sự tôn trọng và biết ơn sâu sắc.
 - Sở thích & Phong cách: Đam mê chạy bộ marathon, du lịch khám phá thế giới, tính cách vui vẻ, hoạt bát, dễ thương, hài hước.
