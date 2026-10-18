@@ -26,9 +26,13 @@ T01/2020    Gặp Quỳnh lần đầu - đi ăn nướng.
 ## 👤 VỀ QUỲNH
 
 ```
-- Thích chạy bộ, đã tham gia nhiều giải chạy (gửi Hiếu xem 3 ảnh giải chạy).
-- Thích nghe acoustic.
-- Hiện đã có người yêu.
+- Họ tên đầy đủ: Phan Đặng Như Quỳnh
+- Facebook: [Phan Đặng Như Quỳnh (hoodiephan)](https://www.facebook.com/hoodiephan)
+- Học vấn: Cựu sinh viên Học viện Hàng không Việt Nam (VAA).
+- Nơi làm việc / Nghề nghiệp: Hãng hàng không quốc tế Emirates (Dubai). Thường xuyên bay các chuyến quốc tế (vừa check-in Genève - Thụy Sỹ, Paris - Pháp). Về Sài Gòn chỉ 2 ngày (25–26/10).
+- Tình trạng hiển thị: Độc thân.
+- Bạn chung: Nguyễn Cảnh Tạo (và mạng lưới bạn bè chung).
+- Sở thích & Phong cách: Đam mê chạy bộ marathon (tham gia nhiều giải chạy), du lịch khắp nơi, tính cách vui vẻ, hài hước, tếu táo, năng động.
 ```
 
 ---
@@ -46,8 +50,7 @@ T01/2020    Gặp Quỳnh lần đầu - đi ăn nướng.
 - Mang theo / lưu sẵn vài tấm ảnh hồi xưa (2019-2020) để cùng nhìn lại kỷ niệm.
 ```
 
-**Chủ đề dễ nói chuyện:** các giải chạy bộ của Quỳnh · cuộc sống 6 năm qua của mỗi người ·
-hành trình học tiếng Anh, gym, Thạc sĩ của Hiếu.
+**Chủ đề dễ nói chuyện:** cuộc sống bay quốc tế tại Emirates (chuyến đi Thụy Sỹ, Paris) · niềm đam mê chạy bộ marathon của Quỳnh · cuộc sống 6 năm qua của mỗi người · hành trình học tiếng Anh, gym, Thạc sĩ của Hiếu.
 
 ---
 
@@ -57,10 +60,10 @@ hành trình học tiếng Anh, gym, Thạc sĩ của Hiếu.
 
 ### 👂 Câu hỏi mở để Quỳnh kể
 
-- "6 năm rồi, Quỳnh thấy mình thay đổi nhiều nhất ở điểm nào?"
-- "Quỳnh bắt đầu chạy bộ từ khi nào? Giải nào nhớ nhất?"
-- "Công việc bây giờ có giống điều Quỳnh từng muốn hồi 2020 không?"
-- "Có giai đoạn nào khó nhất không? Quỳnh vượt qua kiểu gì?"
+- _"Thấy trên FB Quỳnh mới check-in bên Genève (Thụy Sỹ) với Paris ngầu ghê! Chuyến đó có gì vui và đáng nhớ nhất kể Hiếu nghe với?"_
+- _"Làm việc ở hãng Emirates chắc bay quốc tế suốt ha, môi trường bên đó thế nào Quỳnh? Có vất vả chuyện lệch múi giờ (jetlag) không?"_
+- _"Quỳnh bắt đầu mê chạy bộ từ khi nào? Có phải chạy bộ giúp Quỳnh duy trì sức bền khi đi bay không? Giải nào Quỳnh nhớ nhất?"_
+- _"6 năm rồi, Quỳnh thấy mình thay đổi nhiều nhất ở điểm nào so với cô gái hồi 2020?"_
 
 → Khi Quỳnh kể: **hỏi tiếp vào chi tiết** ("Rồi sao nữa?", "Lúc đó Quỳnh thấy thế nào?"),
 đừng vội chuyển sang chuyện của mình.
