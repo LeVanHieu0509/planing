@@ -15,7 +15,13 @@ T01/2020    Gặp Quỳnh lần đầu - đi ăn nướng.
             Giai đoạn nhắn tin rất nhiều. Trong ~10 tháng gặp nhau 4 lần.
 ~T10/2020   Hiếu tỏ tình ở quán nhậu → Quỳnh từ chối, muốn chỉ làm bạn.
             (Nhìn lại: lúc đó mình còn trẻ, cách tỏ tình còn vội.)
-2021 → 2025 Gần như không nhắn tin. Mỗi năm chỉ 1-2 câu, chủ yếu lời chúc 20/10.
+2021 → 2025 Giữ liên lạc văn minh, ấm áp: Mỗi năm nhắn 1-2 dịp đặc biệt (20/10, sinh nhật 17/11, chúc Tết Dương lịch).
+            - 20/10/2023: Chúc 20/10, Quỳnh cảm ơn vui vẻ.
+            - 17/11/2023 (Sinh nhật Quỳnh): Quỳnh nhắn xúc động: "Awwwww. Cảm ơn Hiếu nhiều quá. Suốt thời gian qua ông vẫn luôn ở bên anh tui. Rất cảm ơn ông."
+            - 26/12/2023: Khen "Xinhh" → Quỳnh "Awwww. Cám ơn ôngggg".
+            - 01/01/2024: Chúc mừng năm mới, chia sẻ pháo bông.
+            - 30/07/2024: "Dạo này nhìn bà khác ghê" → "Tui vẫn y chang mà 😂😂".
+            - 09/04/2025: "Mỗi năm nt cho bà 1 tin nhắn, mới đó mà được 4 năm rồi".
 17/10/2026  Tối hôm đó Hiếu buồn, nhắn cho Quỳnh tâm sự.
             Quỳnh rủ đi ăn nướng luôn.
 25/10/2026  Quỳnh về Sài Gòn (25-26/10) → hẹn gặp lại sau ~6 năm.
@@ -27,12 +33,14 @@ T01/2020    Gặp Quỳnh lần đầu - đi ăn nướng.
 
 ```
 - Họ tên đầy đủ: Phan Đặng Như Quỳnh
+- Ngày sinh: 17/11
 - Facebook: [Phan Đặng Như Quỳnh (hoodiephan)](https://www.facebook.com/hoodiephan)
 - Học vấn: Cựu sinh viên Học viện Hàng không Việt Nam (VAA).
 - Nơi làm việc / Nghề nghiệp: Hãng hàng không quốc tế Emirates (Dubai). Thường xuyên bay các chuyến quốc tế (vừa check-in Genève - Thụy Sỹ, Paris - Pháp). Về Sài Gòn chỉ 2 ngày (25–26/10).
 - Tình trạng hiển thị: Độc thân.
-- Bạn chung: Nguyễn Cảnh Tạo (và mạng lưới bạn bè chung).
-- Sở thích & Phong cách: Đam mê chạy bộ marathon (tham gia nhiều giải chạy), du lịch khắp nơi, tính cách vui vẻ, hài hước, tếu táo, năng động.
+- Cách xưng hô tự nhiên: "Ông - Tui" (thân thiện, bình đẳng, ấm áp).
+- Điểm gắn kết đặc biệt: Hiếu luôn ở bên cạnh và đồng hành cùng người anh của Quỳnh ("Suốt thời gian qua ông vẫn luôn ở bên anh tui") → Quỳnh luôn dành cho Hiếu sự tôn trọng và biết ơn sâu sắc.
+- Sở thích & Phong cách: Đam mê chạy bộ marathon, du lịch khám phá thế giới, tính cách vui vẻ, hoạt bát, dễ thương, hài hước.
 ```
 
 ---
