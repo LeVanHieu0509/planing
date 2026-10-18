@@ -83,6 +83,27 @@ Có thể kết lại bằng một câu thật lòng: _"Vui ghê, 6 năm rồi m
 
 ---
 
+## 🧠 BỘ CÂU HỎI THU THẬP INSIGHT TÂM LÝ PHỤ NỮ (USER RESEARCH & EQ BUILDING)
+
+> **Mục tiêu của Hiếu:** Thu thập góc nhìn chân thực của phái nữ để tích lũy kiến thức thấu hiểu phụ nữ (EQ), khắc phục tính khô khan logic của dân kỹ thuật. Quỳnh đóng vai trò "Quân sư tâm lý / Wingwoman" đáng tin cậy.
+
+### 1. Về sự khác biệt tư duy: Lắng nghe vs Tìm giải pháp
+- *"Hiếu làm dev nên não hay bị tật tự động đi tìm giải pháp logic mỗi khi nghe ai kể vấn đề gì. Theo góc nhìn của Quỳnh, khi con gái tâm sự một chuyện buồn hoặc bực mình, điều họ thực sự cần nhất là gì? Khi nào con gái mới cần giải pháp?"*
+- *"Làm sao để một người bạn nam biết cách an ủi đúng cách mà không bị biến thành 'giáo viên dạy đời'?"*
+
+### 2. Về tiêu chuẩn đàn ông trưởng thành (Tuổi 25–26)
+- *"Ở độ tuổi 25–26 này, con gái bọn Quỳnh nhìn vào một người đàn ông thì điều gì làm Quỳnh thấy người đó thực sự trưởng thành và tạo được cảm giác an tâm? (Ngoại hình, chí tiến thủ, sự điềm tĩnh hay cách chăm sóc?)"*
+- *"Có điểm gì ở đàn ông mà con gái thấy cực kỳ 'mất điểm' (Red Flags) dù anh đó có điều kiện tốt không?"*
+
+### 3. Về sự ngô nghê trong quá khứ & Bài học hẹn hò
+- *"Nhìn lại hồi 2020, Hiếu thấy mình tỏ tình vừa vội vừa ngố tàu ghê (cười). Quỳnh là người trong cuộc, hồi đó Hiếu có điểm gì ngô nghê làm Quỳnh thấy chưa sẵn sàng không? Chia sẻ thật để Hiếu rút kinh nghiệm cho hành trình sau này!"*
+- *"Theo Quỳnh, điều tinh tế nhất một chàng trai có thể làm trong những buổi hẹn đầu là gì để con gái thấy tự nhiên, thoải mái nhất?"*
+
+### 4. Học hỏi từ mối quan hệ hiện tại của Quỳnh
+- *"Người yêu hiện tại của Quỳnh có điểm gì hay nhất làm Quỳnh cảm thấy gắn bó và tin tưởng? (Cách bạn ấy lắng nghe, chia sẻ hay tính cách?)"*
+
+---
+
 ## 💭 ĐIỀU HIẾU CHỌN
 
 > Quỳnh đã có người yêu. Buổi này là **bạn bè lâu năm gặp lại**, đi chơi để ủng hộ nhau.
