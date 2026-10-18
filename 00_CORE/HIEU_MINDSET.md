@@ -225,7 +225,7 @@ _Cập nhật: 01/10/2026 - Tích hợp triết lý từ Transcript "The Hidden 
 ### 5. Động Lực Tối Thượng: Sức Khỏe Của Ba Mẹ (Responsibility as Leverage)
 * **Chân lý cốt lõi:** *"Thu nhập 8-10 triệu/tháng có thể đủ cho hiện tại, nhưng tương lai ba má bệnh bất cứ lúc nào, bắt buộc phải có những khoản tiền lớn dự phòng."*
 * **Quy tắc của Hiếu:**
-  * [QUY_ME_500TR.md](../01_ROADMAPS/M5_RELATIONSHIPS/QUY_ME_500TR.md) (2tr/tháng, nâng 5tr từ T02/2027) là khoản chi ưu tiên số 1, không bao giờ cắt giảm.
+  * [QUY_ME_500TR.md](../01_ROADMAPS/M2_FINANCE/QUY_ME_500TR.md) (2tr/tháng, nâng 5tr từ T02/2027) là khoản chi ưu tiên số 1, không bao giờ cắt giảm.
   * Đàn ông có trách nhiệm lớn trên vai thì không có thời gian cho sự lười biếng hay bàn lùi.
 
 ---
@@ -334,7 +334,7 @@ _Cập nhật: 01/10/2026 - Tích hợp triết lý từ Transcript "The Hidden 
   * **Tự do tài chính là sự chủ động:** Không phải để ngừng lao động, mà là để được tự do chọn công việc mình yêu thích (nghiên cứu Thạc sĩ, giảng dạy Đại học, xây dựng sản phẩm công nghệ tử tế) mà không bị đồng tiền chi phối hay ép buộc.
   * **Nền tảng kép:**
     1. *Dòng tiền ổn định:* Thu nhập từ TMA + BIT vượt xa nhu cầu sinh hoạt tối thiểu.
-    2. *Tấm khiên an toàn:* [QUY_ME_500TR.md](../01_ROADMAPS/M5_RELATIONSHIPS/QUY_ME_500TR.md) bảo vệ gia đình + Quỹ học phí Thạc sĩ 43M + Danh mục đầu tư tăng trưởng có kiểm soát rủi ro.
+    2. *Tấm khiên an toàn:* [QUY_ME_500TR.md](../01_ROADMAPS/M2_FINANCE/QUY_ME_500TR.md) bảo vệ gia đình + Quỹ học phí Thạc sĩ 43M + Danh mục đầu tư tăng trưởng có kiểm soát rủi ro.
 
 ---
 
@@ -371,7 +371,7 @@ _Cập nhật: 01/10/2026 - Tích hợp triết lý từ Transcript "The Hidden 
 * **Chân lý cốt lõi:**  
   > *"Khi bạn mua những thứ bạn không cần, sẽ đến lúc bạn phải bán những thứ bạn thực sự cần!"*
 * **Quy tắc của Hiếu:**
-  * **Quy tắc Trích lập tức thì:** Mùng 5 nhận lương ➔ Ngay lập tức trích chuyển khoản Quỹ mẹ (2tr, nâng 5tr từ T02/2027) và chuyển vào tài khoản tiết kiệm. Phần còn lại mới được chi tiêu sinh hoạt.
+  * **Quy tắc Trích lập tức thì:** Mùng 5 nhận lương ➔ Chuyển ngay tiền tiết kiệm; **ngày 11** chuyển Quỹ mẹ (2tr, nâng 5tr từ T02/2027) và chuyển vào tài khoản tiết kiệm. Phần còn lại mới được chi tiêu sinh hoạt.
   * Nói KHÔNG với tiêu dùng phô trương, chạy theo đồ công nghệ xa xỉ để mua sĩ diện.
 
 ---

@@ -60,7 +60,7 @@ Sự kiện tái cấu trúc toàn diện ngày 17/10/2026 thành mô hình **Hi
 * **ĐIỂM RẤT TỐT (Điểm sáng):**
   * **Chiến lược "Hai Mũi Giáp Công" hoàn hảo:**
     * *Mũi 1 (Giao tiếp phản xạ tự nhiên):* Khai giảng lớp **SAIGON SPECIAL Level 3 ngày 20/10/2026** (đã đóng học phí 100%).
-    * *Mũi 2 (Khảo thí học thuật):* Kế hoạch luyện đề ETS kết hợp **Coach 1:1 Kim Hân TOEIC 955 (Tân Phú)** từ T02/2027 đến T06/2027 (sẵn sàng ngân sách 12M).
+    * *Mũi 2 (Khảo thí học thuật):* Kế hoạch luyện đề ETS kết hợp **Coach 1:1 Kim Hân TOEIC 955 (Gò Vấp)** từ 27/02/2027 đến 27/06/2027 (chi tiết: [COACH_1ON1_KIM_HAN_2027.md](../01_ROADMAPS/M1_ENGLISH/toeic/COACH_1ON1_KIM_HAN_2027.md)).
   * **Ràng buộc sinh mệnh:** Bằng TOEIC 700+ không phải học cho vui, mà là **điều kiện bắt buộc nộp trước 15/11/2027 để thăng chức Senior Software Engineer tại TMA Solutions** và chuẩn bị đầu vào Thạc sĩ UIT.
   * **Tối ưu hóa học tập tại nhà:** Quyết định dùng **ChatGPT Voice Mode làm Study Buddy (5-10p/ngày)** để luyện phản xạ nói không sợ quê, không sợ sai trước khi lên lớp là nước đi tiên tiến.
 * **ĐIỂM CHƯA TỐT & CẠM BẪY CẦN PHÒNG VỆ:**

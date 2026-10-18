@@ -8,6 +8,7 @@
 > **GYM:** T2 tối + T6 tối + T7 sáng + CN sáng - 4 buổi/tuần (giữ năng lượng đỉnh cao).
 > **Lớp Tiếng Anh:** T3+T5 tối 19:15-20:45 | Phản Xạ CN chiều 15:00-16:30 (tại Gò Vấp)
 > **Làm TMA:** T3 + T5 lên văn phòng cả ngày · **T2 + T4: sáng văn phòng, chiều remote tại nhà** · **T6: remote cả ngày tại nhà**
+> **Từ 27/02/2027:** Coach TOEIC **chiều T7 + chiều CN** (tuần cafe anh em: T7 → T4 ghé học trên đường về) - xem [COACH_1ON1_KIM_HAN_2027.md](../01_ROADMAPS/M1_ENGLISH/toeic/COACH_1ON1_KIM_HAN_2027.md)
 > **Cập nhật:** 16/10/2026 - Kích hoạt chiến dịch 90 ngày All-in toàn bộ thời gian rảnh vào tiếng Anh.
 
 ---
@@ -172,4 +173,4 @@ TỔNG = 8h · Tối T4 + tối T6 + tối CN + chiều T7: KHÔNG làm BIT
 
 ---
 
-_Cập nhật: 15/10/2026 (V6.4 - T2 + T4 chiều remote tại nhà, T6 remote cả ngày → bỏ di chuyển, T6 sáng TOEIC 75p; V6.3 - Tối T4 + tối CN = relax, bỏ BIT 2 tối này; BIT đủ 8h/tuần: 3h song song lúc remote (T2/T4 chiều, T6) + 5h buổi tối, tối T6 + chiều T7 được giải phóng; thêm TOEIC Part 5/7 sáng T2 + T6). Trước đó: (V6.2 - Tích hợp slot làm BIT 7M buổi tối và kích hoạt thói quen Prompt AI bằng tiếng Anh)._
+_Cập nhật: 17/10/2026 (Thêm lịch Coach 2027). Trước đó: 15/10/2026 (V6.4 - T2 + T4 chiều remote tại nhà, T6 remote cả ngày → bỏ di chuyển, T6 sáng TOEIC 75p; V6.3 - Tối T4 + tối CN = relax, bỏ BIT 2 tối này; BIT đủ 8h/tuần: 3h song song lúc remote (T2/T4 chiều, T6) + 5h buổi tối, tối T6 + chiều T7 được giải phóng; thêm TOEIC Part 5/7 sáng T2 + T6). Trước đó: (V6.2 - Tích hợp slot làm BIT 7M buổi tối và kích hoạt thói quen Prompt AI bằng tiếng Anh)._

@@ -14,7 +14,7 @@ Tuổi:         25 (sinh nhật 05/09 - vừa tròn 25 tuổi năm 2026)
 Quê:          Nghệ An  ·  Sống tại: TP.HCM (Gò Vấp)
 Nghề:         Software Developer (4+ năm) - TMA Solutions (chính) + BIT (tối)
 Side project: Miracle POS - 🧊 đóng băng, dự kiến rã đông Q2/2027
-Cân nặng:     66.8kg (đo InBody 28/08/26) → mục tiêu 72-75kg, % mỡ 7-10% (đang đúng hướng)
+Cân nặng:     66.0kg (đo InBody 03/10/26, mỡ 13.3%) → mục tiêu 72-75kg, % mỡ 12-15% (đang đúng hướng)
 TOEIC:        535 (19/06/2026) → Đang theo học Tiếng Anh Immersion Level 3
 ```
 

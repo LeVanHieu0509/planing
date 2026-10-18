@@ -56,7 +56,7 @@ Xem [DAU_TU.md](../../M2_FINANCE/DAU_TU.md) - đang có trần không bơm thêm
 | ---------------- | ------------------- | --------------------------------- | ---------------------------- |
 | Bằng đại học     | Đúng/gần ngành CNTT | ✅ Có                             | Cần bản sao công chứng       |
 | Bảng điểm ĐH     | -                   | ✅ Có                             | Cần bản sao công chứng       |
-| Tiếng Anh        | Vượt qua bài thi trường hoặc chứng chỉ tương đương | ✅ TOEIC 535 (19/06/26) & B1 Aptis (22/06/2024) | ⚠️ Quy chế chung (TT 23/2021) thường chỉ nhận chứng chỉ ngoại ngữ trong 2 năm → B1 Aptis 22/06/2024 có thể đã hết hạn. Chốt 15/10/2026: nếu UIT không nhận thì **thi lại B1** trước T09/2027 |
+| Tiếng Anh        | Vượt qua bài thi trường hoặc chứng chỉ tương đương | ✅ TOEIC 535 (19/06/26) & B1 Aptis (22/06/2024) | ⚠️ Quy chế chung (TT 23/2021) thường chỉ nhận chứng chỉ ngoại ngữ trong 2 năm → B1 Aptis 22/06/2024 có thể đã hết hạn. **Chốt 17/10/2026: thi lại Aptis B1** (dễ) trước ngày nhập học T12/2027 - nên xong trước T09/2027 để kịp nộp kèm hồ sơ |
 | Kinh nghiệm      | Không bắt buộc      | ✅ 4+ năm dev                     | Lợi thế lớn ở phần Phỏng vấn chuyên môn |
 | Hình thức tuyển  | Xét tuyển + Phỏng vấn | ✅ Đã xác nhận                    | Đánh giá hồ sơ + Phỏng vấn trực tiếp |
 | Lịch tuyển sinh  | 2 đợt (T05 và T11)  | ✅ Đã xác nhận                    | Sẽ nhắm Đợt 2 (thông báo T08/2027) |
@@ -71,7 +71,7 @@ Xem [DAU_TU.md](../../M2_FINANCE/DAU_TU.md) - đang có trần không bơm thêm
 - [x] Hình thức tuyển:
   - Xét duyệt hồ sơ (có ưu tiên nếu điểm ĐH cao).
   - Phỏng vấn chuyên môn (lịch phỏng vấn thường vào giữa tháng 11).
-  - Thi năng lực Tiếng Anh đầu vào (được MIỄN vì đã có B1 Aptis).
+  - Thi năng lực Tiếng Anh đầu vào (được MIỄN nếu có chứng chỉ B1 còn hạn → **sẽ thi lại Aptis B1**).
 - [x] Lịch tuyển sinh Đợt 2 (theo mẫu 2026):
   - **T10:** Hạn chót nộp hồ sơ (khoảng đầu tháng 10).
   - **T11:** Đánh giá hồ sơ (đầu tháng) và Phỏng vấn (giữa tháng).
@@ -85,7 +85,7 @@ Xem [DAU_TU.md](../../M2_FINANCE/DAU_TU.md) - đang có trần không bơm thêm
 
 - [ ] **Bản sao Bằng tốt nghiệp đại học** (có chứng thực sao y)
 - [ ] **Bản sao Bảng điểm đại học** (có chứng thực sao y)
-- [ ] **Hỏi phòng SĐH UIT:** B1 Aptis 2024 còn được dùng để miễn ngoại ngữ không? Nếu không → đăng ký thi lại B1 (Aptis/VSTEP) trước T09/2027
+- [ ] **Thi lại Aptis B1** (chốt 17/10/2026) - trước ngày nhập học T12/2027; nên xong trước T09/2027 để nộp kèm hồ sơ
 - [ ] **Bản sao chứng chỉ B1** (2 bản, dùng để xét miễn ngoại ngữ, không cần sao y)
 - [ ] Sơ yếu lý lịch bản thân: In và xin chính quyền địa phương xác nhận lúc về quê ([Tải mẫu](https://sdh.uit.edu.vn/sites/default/files/uploads/images/202609/so_yeu_ly_lich.doc))
 - [ ] In Bìa hồ sơ xét tuyển trên giấy A4 ([Tải mẫu](https://sdh.uit.edu.vn/sites/default/files/uploads/images/202608/bia_ho_so.doc))
@@ -176,4 +176,4 @@ T12/2027       Khai giảng & Đóng học phí năm 1 (43tr)
 
 ---
 
-_Cập nhật: 15/10/2026 (B1 Aptis có thể hết hạn 2 năm → thi lại nếu UIT không nhận; Chốt ngành: Thạc sĩ Khoa học máy tính; Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027). Trước đó: 13/09/2026 (V4 - Chốt UIT ngành CNTT Quản lý, đăng ký T07/2027, học phí 70tr, dự phòng vay Hiệp. Thay thế hoàn toàn bản "Thạc sĩ CS 2028" cũ.)_
+_Cập nhật: 17/10/2026 (Chốt thi lại Aptis B1 trước nhập học). Trước đó: 15/10/2026 (B1 Aptis có thể hết hạn 2 năm → thi lại nếu UIT không nhận; Chốt ngành: Thạc sĩ Khoa học máy tính; Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027). Trước đó: 13/09/2026 (V4 - Chốt UIT ngành CNTT Quản lý, đăng ký T07/2027, học phí 70tr, dự phòng vay Hiệp. Thay thế hoàn toàn bản "Thạc sĩ CS 2028" cũ.)_

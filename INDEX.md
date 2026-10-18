@@ -56,7 +56,7 @@ graph TD
 ---
 
 ### 💪 M3 · THỂ CHẤT & SỨC KHỎE (INBODY 72–75KG)
-> *Đích đến: Cân nặng 72-75kg, body fat 7-10%, ngủ đúng 23:30, da mặt cải thiện.*
+> *Đích đến: Cân nặng 72-75kg, body fat 12-15%, ngủ đúng 23:30, da mặt cải thiện.*
 * 🏋️ **Giáo án Gym 4 buổi/tuần & Tracking InBody:** [GYM_PLAN.md](./01_ROADMAPS/M3_HEALTH/GYM_PLAN.md)
 * ⏰ **Nhịp sinh hoạt 24h & 2 Van xả stress:** [DAILY_SCHEDULE.md](./02_EXECUTION/DAILY_SCHEDULE.md)
 * 🛡️ **Bài học kỷ luật sức khỏe Dan Foolish (95kg ➔ 75kg):** [VUOT_QUA_SU_TRI_HOAN.md](./03_KNOWLEDGE/podcasts/dan_foolish/VUOT_QUA_SU_TRI_HOAN.md)
@@ -75,7 +75,7 @@ graph TD
 
 ### ❤️ M5 · GIA ĐÌNH & MỐI QUAN HỆ (QUỸ MẸ 500TR & BẠN ĐỜI)
 > *Đích đến: Báo hiếu mẹ 500tr (đã gửi 8tr luỹ kế, 2M/tháng); Xây dựng quan hệ bạn đời Win-Win vững chắc.*
-* 👵 **Quỹ phụng dưỡng Mẹ 500tr:** [QUY_ME_500TR.md](./01_ROADMAPS/M5_RELATIONSHIPS/QUY_ME_500TR.md) *(hoặc [M2_FINANCE/QUY_ME_500TR.md](./01_ROADMAPS/M2_FINANCE/QUY_ME_500TR.md))*
+* 👵 **Quỹ phụng dưỡng Mẹ 500tr:** [QUY_ME_500TR.md](./01_ROADMAPS/M2_FINANCE/QUY_ME_500TR.md)
 * 🤝 **Nguyên tắc gia đình, bạn bè & Tiêu chí bạn đời:** [RELATIONSHIPS.md](./01_ROADMAPS/M5_RELATIONSHIPS/RELATIONSHIPS.md)
 * 🐺 **Khí chất High-Value Man trong hẹn hò:** [DATING_CORE_PRINCIPLES.md](./01_ROADMAPS/M5_RELATIONSHIPS/dating/DATING_CORE_PRINCIPLES.md) | [HIEU_MINDSET.md](./00_CORE/HIEU_MINDSET.md)
 
@@ -133,7 +133,7 @@ graph TD
 | **Vừa tiêu tiền / Chuyển khoản** | [T10_2026_GIAO_DICH.md](./01_ROADMAPS/M2_FINANCE/trackers/T10_2026_GIAO_DICH.md) | Ghi nhận chi tiêu ngay lập tức. |
 | **Khi thấy nản / Mất động lực** | [00_CORE/HIEU_MINDSET.md](./00_CORE/HIEU_MINDSET.md) | Đọc lại Bộ Tam Kiếm Thực Thi & 3 Trụ Cột Động Lực. |
 | **Khi làm bài TOEIC bị điểm thấp** | [TOEIC_ERROR_MASTER.md](./01_ROADMAPS/M1_ENGLISH/toeic/TOEIC_ERROR_MASTER.md) | Tra cứu dạng bẫy và ghi nhận lỗi sai. |
-| **Đến ngày nhận lương (Mùng 5)** | [QUY_ME_500TR.md](./01_ROADMAPS/M5_RELATIONSHIPS/QUY_ME_500TR.md) | Chuyển khoản 2M cho mẹ ngay trước khi chi tiêu. |
+| **Ngày 11 hàng tháng** | [QUY_ME_500TR.md](./01_ROADMAPS/M2_FINANCE/QUY_ME_500TR.md) | Chuyển khoản 2M cho mẹ ngay trước khi chi tiêu. |
 | **Trước khi đi ngủ (23:00)** | [02_EXECUTION/DAILY_JOURNAL.md](./02_EXECUTION/DAILY_JOURNAL.md) | Viết vài dòng phản tỉnh ngắn cuối ngày. |
 | **Cuối tuần / Cuối Sprint (CN 21:00)** | [02_EXECUTION/SCRUM_FRAMEWORK.md](./02_EXECUTION/SCRUM_FRAMEWORK.md) | Check-in Sprint 15 phút, review kết quả. |
 

@@ -50,7 +50,7 @@ Hệ thống đã **BỎ HOÀN TOÀN** Story Points và Daily Standup. Mọi cô
 * **M1 · 🗣️ Tiếng Anh:**
   * Immersion L3 (SAIGON SPECIAL: 20/10/2026 → 12/01/2027, T3 + T5 tối + CN chiều).
   * Luyện Part 5 + Part 7 sáng T2 và T6 (chưa cày full test ETS trong giai đoạn L3).
-  * T02/2027 → T06/2027: Cày đề ETS kết hợp Coach 1:1 Offline (Kim Hân TOEIC 955, Tân Phú, 3 khóa = 36 buổi, 2 buổi/tuần T7-CN trong 4.5 tháng, sẵn sàng ngân sách 12tr ~ 2.66tr/tháng chia 3 đợt).
+  * T02/2027 → T06/2027: Cày đề ETS + Coach 1:1 Kim Hân (Gò Vấp, từ 27/02/2027). Lịch, học phí, giáo án: **chỉ xem tại** [COACH_1ON1_KIM_HAN_2027.md](./01_ROADMAPS/M1_ENGLISH/toeic/COACH_1ON1_KIM_HAN_2027.md).
   * **Thi TOEIC Cuối T06/2027** $\rightarrow$ **BẮT BUỘC nộp bằng 700+ cho TMA trước 15/11/2027 để lên Senior**.
 * **M2 · 💰 Tiền & Tài chính:**
   * Tích lũy **43,000,000 VNĐ học phí Thạc sĩ năm 1** (dự kiến cán mốc T11/2026, đóng T12/2027). Năm 2 (47M) tích luỹ trong 2028.

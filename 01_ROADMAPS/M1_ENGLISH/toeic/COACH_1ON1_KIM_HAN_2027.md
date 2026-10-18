@@ -1,7 +1,10 @@
 # 🎯 KẾ HOẠCH COACH TOEIC 1:1 (T02/2027 - T05/2027)
 
 > **Mục tiêu:** Bứt phá từ TOEIC 535 (L320, R215) lên **700+** để nộp TMA trước 15/11/2027 (Điều kiện bắt buộc lên Senior Developer).  
-> **Thời gian:** 3 tháng (Tháng 02/2027 → Tháng 05/2027) ngay sau khi tốt nghiệp Immersion L3 (12/01/2027).  
+> **Thời gian:** **27/02/2027 → 27/06/2027** (~4 tháng, tối đa 36 buổi = 3 chặng × 12 buổi), sau khi xong Immersion L3 (12/01/2027) và về quê ăn Tết.  
+> **Lịch học:** **Chiều T7 + chiều CN** · tuần có cafe anh em (2 tuần/lần) → buổi T7 dời sang **T4** (ghé học trên đường từ văn phòng về nhà).  
+> **Học phí:** đóng theo chặng (~4tr/12 buổi) · **Chặng 1 đóng vào T02/2027** · trần dự trù 12tr.  
+> 📌 **Đây là nguồn thông tin DUY NHẤT về Coach** - các file khác chỉ link về đây.  
 > **Hình thức:** Offline 1:1 trực tiếp (tập trung, sửa lỗi tức thì, không bị xao nhãng như online).
 
 ---
@@ -29,7 +32,7 @@ Thay vì ghép các khóa lẻ đại trà thông thường (bảng giá chuẩn
 
 - **Mục tiêu đầu ra:** Bứt phá từ TOEIC 535 lên **700+** để nộp TMA trước hạn 15/11/2027 (Điều kiện Senior Developer).
 - **Thời lượng:** Kéo dài từ cuối T02/2027 đến cuối T06/2027 (~3.5 đến 4.5 tháng, khoảng 30–36 buổi).
-- **Nhịp học:** **2 buổi/tuần** (Cố định Thứ 7 & Chủ Nhật; linh động dời ca tối trong tuần nếu bận việc TMA/BIT).
+- **Nhịp học:** **2 buổi/tuần: chiều T7 + chiều CN**. Tuần có cafe anh em (2 tuần/lần) → buổi T7 dời sang **T4** (T4 chiều remote, ghé học trên đường từ văn phòng về nhà).
   - _Lý do:_ Hiếu làm 2 job nên nhịp 2 buổi/tuần giúp vừa sức, đủ thời gian làm bài tập và ngấm kiến thức mà không bị quá tải. Coach Kim Hân đã đồng thuận phương án này.
 - **Nội dung chuyên biệt:**
   - Tập trung giải quyết **bộ đề Hacker TOEIC** (sát format đề thi nội bộ TMA và đề IIG mới nhất).
@@ -44,7 +47,7 @@ Thay vì ghép các khóa lẻ đại trà thông thường (bảng giá chuẩn
 - **Thực tế về mức giá:** Kim Hân **chưa hề báo giá 12 triệu**! Con số 12M là mức trần dự trù lý thuyết. Nếu Hân lên plan 3 tháng × 2 buổi/tuần = **~24 buổi**, mức giá trọn gói có thể chỉ nằm ở tầm **7.5M – 9.0M VNĐ**.
 - **Bóc tách đơn giá theo giờ:** Bảng giá chuẩn 4.000.000đ / 12 buổi (90 phút/buổi) = **333.000đ / buổi** $\rightarrow$ Chỉ **~220.000đ / giờ**. Đối với giáo viên TOEIC 955 kèm 1:1 trực tiếp tại Sài Gòn (mặt bằng chung 300k–500k/giờ), đây là mức giá rất mềm.
 - **Chiến thuật "Bỏ vốn từng chặng" — Không đóng một cục:**
-  - **Chặng 1 (Thử nghiệm 1.5 tháng):** Hiếu chỉ đóng trước **Đợt 1 (1 khóa ~3.5M – 4.0M, 12 buổi đầu)**.
+  - **Chặng 1 (Thử nghiệm 1.5 tháng):** Hiếu chỉ đóng trước **Đợt 1 (1 khóa ~3.5M – 4.0M, 12 buổi đầu)** - **đóng vào T02/2027** (trước buổi đầu 27/02), năm 2026 không chi gì cho Coach.
   - **Đánh giá sau 12 buổi:**
     - 👉 _Kịch bản A (Tự bơi được):_ Đã thông suốt bản chất ngữ pháp Part 5, nắm vững chiến thuật làm bài bộ Hacker, từ vựng vào guồng $\rightarrow$ **Dừng học, tự cày tiếp ở nhà, TIẾT KIỆM NGAY 7M – 8M!**
     - 👉 _Kịch bản B (Tiến bộ vượt bậc, muốn bứt phá đỉnh):_ Thấy điểm tăng vọt từ 535 lên 630-650, muốn cô kèm sát đề thi để chắc chắn 700+ $\rightarrow$ Đóng tiếp Chặng 2 mà hoàn toàn an tâm và tự tin.
@@ -82,7 +85,7 @@ _(Tham chiếu lịch chính thức: [TMA_HOLIDAYS_2027.md](../../M4_CAREER/tma/
                                            │
                                            ▼
 [27/02/2027] ──────────────────────────────────────────► [27/06/2027]
-      🎯 3 KHÓA COACH TOEIC 1:1 KIM HÂN (2 buổi/tuần: T7 & CN)
+      🎯 TỐI ĐA 3 CHẶNG COACH TOEIC 1:1 KIM HÂN (2 buổi/tuần: chiều T7 + chiều CN, xen kẽ T4)
       (Đúng 18 tuần = 36 buổi = Đồng hành xuyên suốt 4.5 tháng)
       - Khóa 1 (Buổi 1-12 | 27/02 → 04/04):  Ngữ pháp Part 5, phản xạ nghe Part 1-2.
       - Khóa 2 (Buổi 13-24 | 10/04 → 16/05): Bẻ bẫy Part 3-4, chiến thuật quét Part 7.
@@ -94,7 +97,7 @@ _(Tham chiếu lịch chính thức: [TMA_HOLIDAYS_2027.md](../../M4_CAREER/tma/
 ```
 
 - **Địa điểm:** Gần Lotte Mart Gò Vấp (Đường Phan Văn Trị / Nguyễn Văn Lượng, từ Topaz Home Q12 chạy xe chỉ 10-15p).
-- **Khung giờ tối ưu:** **Thứ 7 & Chủ Nhật ban ngày** (Sáng 09:30-11:00 hoặc Chiều 14:00-15:30; linh động 1 buổi chiều/tối trong tuần nếu bận).
+- **Khung giờ:** **Chiều T7 (~14:00-15:30) + chiều CN (~13:30-15:00)** · Tuần cafe anh em: buổi T7 → **T4** (ghé học trên đường về nhà, giờ cụ thể chốt với Hân). Không đụng gym sáng T7/CN, không đụng tối T4 relax.
 
 ---
 
@@ -105,10 +108,12 @@ _(Hiếu và Kim Hân đã thống nhất nguyên tắc ngày 17/10/2026: 2 bu�
 ```text
 "Hân ơi, mình sắp xếp xong lịch Tết rồi nhé!
 Đợt Tết mình về quê Nghệ An đến ngày 20/02 là bay vào lại Sài Gòn rồi. Mình muốn bắt đầu học buổi đầu tiên vào cuối tuần 27/02 (Thứ 7) luôn nha.
-Lịch cố định vẫn là 2 buổi/tuần vào cuối tuần (Thứ 7 & Chủ Nhật) tại chỗ Hân gần Lotte Mart Gò Vấp nhé.
+Lịch cố định là 2 buổi/tuần: chiều Thứ 7 + chiều Chủ Nhật tại chỗ Hân gần Lotte Mart Gò Vấp nhé. Tuần nào mình có hẹn cuối tuần thì dời buổi Thứ 7 sang Thứ 4 (mình ghé trên đường từ công ty về) được không Hân?
 Hôm trước Hân bảo lên plan thiết kế riêng và mức giá cho mình ấy, Hân gửi mình plan chi tiết với thông tin thanh toán/chuyển cọc để mình chốt lịch chính thức luôn nha bạn!"
 ```
 
 ---
 
-_Ghi chú hệ thống: Cập nhật ngày 17/10/2026. Thống nhất phương án may đo lộ trình riêng (Tailor-made Package) thay vì gộp các khóa lẻ thông thường. Kim Hân sẽ lên plan chi tiết và định giá riêng trọn gói cho Hiếu (dự trù ngân sách 10M–13M chia 2-3 đợt đóng). Nhịp học: 2 buổi/tuần tại Lotte Mart Gò Vấp, trọng tâm bộ Hacker TOEIC, push từ vựng mỗi ngày, học sâu bản chất để đạt 700+ nộp TMA._
+_Ghi chú hệ thống: Cập nhật ngày 17/10/2026. Thống nhất phương án may đo lộ trình riêng (Tailor-made Package) thay vì gộp các khóa lẻ thông thường. Kim Hân sẽ lên plan chi tiết và định giá riêng trọn gói cho Hiếu (trần ngân sách 12M = tối đa 3 chặng × ~4M, đóng từng chặng, chặng 1 vào T02/2027). Nhịp học: 2 buổi/tuần tại Lotte Mart Gò Vấp, trọng tâm bộ Hacker TOEIC, push từ vựng mỗi ngày, học sâu bản chất để đạt 700+ nộp TMA._
+
+_Cập nhật: 17/10/2026 (Gom thông tin Coach về 1 chỗ: lịch chiều T7 + chiều CN, xen kẽ T4; chặng 1 đóng T02/2027; thời gian 27/02 → 27/06/2027)._

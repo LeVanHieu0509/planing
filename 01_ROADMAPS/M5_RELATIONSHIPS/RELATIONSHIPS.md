@@ -120,13 +120,13 @@ TUYỆT ĐỐI KHÔNG HI SINH VÌ BẤT KỲ MỐI QUAN HỆ NÀO:
 | File                                                        | Vai trò                      |
 | ------------------------------------------------------------ | ------------------------------ |
 | [SELF_UNDERSTANDING.md](../../00_CORE/SELF_UNDERSTANDING.md)             | Hiểu bản thân, nguyên tắc gốc  |
-| [../finance/QUY_ME_500TR.md](./QUY_ME_500TR.md)     | Quỹ mẹ 500tr                   |
+| [QUY_ME_500TR.md](../M2_FINANCE/QUY_ME_500TR.md)     | Quỹ mẹ 500tr                   |
 | [../../MASTER_PLAN.md](../../MASTER_PLAN.md)                 | M5 trong 5 mục tiêu lớn        |
 | [../../02_EXECUTION/SPRINT_CALENDAR.md](../../02_EXECUTION/SPRINT_CALENDAR.md) | Mốc quý M5                 |
 
 ---
 
-_Cập nhật: 15/10/2026 (Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027; Đồng bộ số liệu giữa các file). Trước đó: 13/09/2026 (V4 - Viết lại toàn bộ theo hệ thống mới, bỏ Epic E6/Story Point. Thêm kế
+_Cập nhật: 17/10/2026 (Link quỹ mẹ về M2_FINANCE). Trước đó: 15/10/2026 (Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027; Đồng bộ số liệu giữa các file). Trước đó: 13/09/2026 (V4 - Viết lại toàn bộ theo hệ thống mới, bỏ Epic E6/Story Point. Thêm kế
 hoạch "Bạn đời" chốt 13/09/2026: ưu tiên phát triển bản thân trước, dự kiến tìm hiểu nghiêm túc
 cuối 2026, khu vực miền Trung (Nghệ An-Đà Nẵng, Nha Trang trở ra), ưu tiên nghề giáo viên/bác sĩ.
 Reset bảng tracking theo Sprint S1 mới.)_

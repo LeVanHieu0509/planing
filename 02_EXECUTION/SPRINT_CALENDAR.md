@@ -27,7 +27,7 @@
 | --- | ---------------------------------------------------------- | ----------------------------- |
 | M1  | Xong Level 3 (12/01) → Nghỉ xả hơi 2 tuần                  | Hoàn thành khoá               |
 | M5  | Về quê Nghệ An đón Tết (~3.5 tuần: 28/01 → 21/02/2027)      | Trọn vẹn với gia đình, remote TMA + BIT |
-| M1  | Khai xuân **Coach TOEIC 1:1 Kim Hân** (27/02, 2 buổi/tuần T7-CN) | Học đều 2 buổi/tuần           |
+| M1  | Khai xuân **Coach TOEIC 1:1 Kim Hân** (27/02, [chi tiết](../01_ROADMAPS/M1_ENGLISH/toeic/COACH_1ON1_KIM_HAN_2027.md)) | Học đều 2 buổi/tuần           |
 | M2  | Giữ đà tiết kiệm, ngân sách 12M cho 3 khóa TOEIC (chia 3 đợt) | MONTHLY_TRACKER T01-T03       |
 | M3  | Chỉ số InBody cải thiện (cơ tăng, mỡ không tăng)           | 3 lần đo                      |
 | M4  | Gom đủ hồ sơ: bằng ĐH, bảng điểm, theo dõi tuyển sinh UIT  | Checklist đủ tick             |
@@ -36,7 +36,7 @@
 
 | Mã  | Mốc quý                                                    | Đo bằng gì                    |
 | --- | ---------------------------------------------------------- | ----------------------------- |
-| M1  | Hoàn thành 3 khóa Coach 1:1 (36 buổi, kết thúc 27/06/2027) | Đi đủ 36 buổi                 |
+| M1  | Hoàn thành các chặng Coach đã đóng (tối đa 36 buổi, đến 27/06/2027) | Đi đủ 36 buổi                 |
 | M1  | **Thi TOEIC Cuối T06 hoặc đầu T07/2027** (Target 700+)      | Bảng điểm TOEIC 700+          |
 | M1  | Nộp chứng chỉ 700+ cho TMA xét thăng tiến Senior (hạn 15/11)| Đã nộp HR TMA                 |
 | M2  | Giữ quỹ 43tr học phí năm 1 nguyên vẹn + tiếp tục tiết kiệm | MONTHLY_TRACKER T06           |
@@ -120,5 +120,5 @@
 
 ---
 
-_Cập nhật: 15/10/2026 (Thi TOEIC T06/2027 nộp TMA luôn; Hạn nộp chứng chỉ TOEIC 700+ cho TMA: 15/11/2027; TOEIC 700+ = điều kiện bắt buộc lên Senior TMA năm 2027; Chốt ngành: Thạc sĩ Khoa học máy tính; Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027). Trước đó: 13/09/2026 (V9 - Đồng bộ mốc M5 sang quỹ mẹ 500tr/2036. Giữ nguyên: reset từ S1 =
+_Cập nhật: 17/10/2026 (Coach chỉ link về file Coach). Trước đó: 15/10/2026 (Thi TOEIC T06/2027 nộp TMA luôn; Hạn nộp chứng chỉ TOEIC 700+ cho TMA: 15/11/2027; TOEIC 700+ = điều kiện bắt buộc lên Senior TMA năm 2027; Chốt ngành: Thạc sĩ Khoa học máy tính; Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027). Trước đó: 13/09/2026 (V9 - Đồng bộ mốc M5 sang quỹ mẹ 500tr/2036. Giữ nguyên: reset từ S1 =
 14/09/2026, bảng Mốc Quý, đích đăng ký Thạc sĩ UIT T07/2027.)_

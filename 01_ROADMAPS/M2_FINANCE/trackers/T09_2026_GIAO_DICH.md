@@ -122,7 +122,7 @@
 | 21/9     | Chuyển tiền cho Tuấn                       | 200,000       | MB chuyển Tuấn                      |
 | **Tổng** |                                            | **3,200,000** |                                     |
 
-> 📌 **Quy tắc 2tr/tháng cho mẹ:** Đã hoàn thành 2,000,000 vào ngày 09/9 (ghi nhận vào [QUY_ME_500TR.md](../../M5_RELATIONSHIPS/QUY_ME_500TR.md)).
+> 📌 **Quy tắc 2tr/tháng cho mẹ:** Đã hoàn thành 2,000,000 vào ngày 09/9 (ghi nhận vào [QUY_ME_500TR.md](../QUY_ME_500TR.md)).
 
 ### Bản thân / Làm đẹp / Sức khoẻ
 

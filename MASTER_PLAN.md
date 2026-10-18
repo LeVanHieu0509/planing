@@ -35,7 +35,7 @@ Chiến lược 3 tháng tới (Q4/2026 - T01/2027):
            🔥 ALL-IN 100% THỜI GIAN RẢNH VÀO TIẾNG ANH (Giao tiếp Immersion + Ngữ pháp Logic Infographic)
            - Đến 12/01/2027: Dồn thời gian rảnh (trừ tối T4 + tối CN để relax) cho hệ sinh thái Immersion L3 (Nghe podcast đi đường, Active Recall 15p, sơ đồ logic Infographic kéo dài câu, Voice Memo, hồi sinh 24 chủ đề L2 cũ).
            - Song song trong L3: luyện Part 5 + Part 7 sáng T2 + T6 (gắn với vocabulary, chưa làm full test).
-           - T02/2027 → T06/2027 (Khai xuân sau Tết TMA): Cày đề ETS + Học Coach 1:1 Offline (Kim Hân TOEIC 955, Tân Phú, 3 khóa = 36 buổi, 2 buổi/tuần T7-CN trong 4.5 tháng, sẵn sàng trọn vẹn 12tr ~ 2.66tr/tháng) → THI TOEIC Cuối T06/2027 (Target 700+), nộp TMA trước hạn 15/11/2027 để lên Senior.
+           - T02/2027 → T06/2027 (Khai xuân sau Tết TMA): Cày đề ETS + Coach 1:1 Kim Hân (Gò Vấp, từ 27/02/2027) - chi tiết duy nhất: [COACH_1ON1_KIM_HAN_2027.md](./01_ROADMAPS/M1_ENGLISH/toeic/COACH_1ON1_KIM_HAN_2027.md)
 Tiền:      ✅ L2 và L3 đều đã thanh toán xong · Dự trù ngân sách T02/2027: 12tr cho 3 khóa Coach 1:1 TOEIC (chia 3 đợt đóng 4M / 1.5 tháng, chi tiết tại 01_ROADMAPS/M1_ENGLISH/toeic/COACH_1ON1_KIM_HAN_2027.md).
 Việc duy nhất: THAM GIA ĐỦ BUỔI IMMERSION + ĐẮM CHÌM TIẾNG ANH (chưa làm full test ETS; chỉ luyện Part 5 + Part 7). Tối T4 + tối CN để RELAX.
 ```
@@ -210,7 +210,7 @@ planing/
 | Mốc quý               | [02_EXECUTION/SPRINT_CALENDAR.md](./02_EXECUTION/SPRINT_CALENDAR.md)             |
 | Tiền                  | [01_ROADMAPS/M2_FINANCE/TAI_CHINH_2026_2028.md](./01_ROADMAPS/M2_FINANCE/TAI_CHINH_2026_2028.md) |
 | Đầu tư                | [01_ROADMAPS/M2_FINANCE/DAU_TU.md](./01_ROADMAPS/M2_FINANCE/DAU_TU.md)           |
-| Quỹ mẹ 500tr          | [01_ROADMAPS/M5_RELATIONSHIPS/QUY_ME_500TR.md](./01_ROADMAPS/M5_RELATIONSHIPS/QUY_ME_500TR.md) |
+| Quỹ mẹ 500tr          | [01_ROADMAPS/M2_FINANCE/QUY_ME_500TR.md](./01_ROADMAPS/M2_FINANCE/QUY_ME_500TR.md) |
 | Bạn đời / gia đình    | [01_ROADMAPS/M5_RELATIONSHIPS/RELATIONSHIPS.md](./01_ROADMAPS/M5_RELATIONSHIPS/RELATIONSHIPS.md) |
 | Thạc sĩ UIT           | [01_ROADMAPS/M4_CAREER/master_uit/THAC_SI_UIT_2027.md](./01_ROADMAPS/M4_CAREER/master_uit/THAC_SI_UIT_2027.md) |
 | Tiếng Anh             | [01_ROADMAPS/M1_ENGLISH/communication/IMMERSION_ROADMAP.md](./01_ROADMAPS/M1_ENGLISH/communication/IMMERSION_ROADMAP.md) |
@@ -218,4 +218,4 @@ planing/
 
 ---
 
-_Cập nhật: 15/10/2026 (Chi thực tế 8-10tr/tháng; 2 tỷ chỉ trông vào chốt W; Hạn nộp chứng chỉ TOEIC 700+ cho TMA: 15/11/2027; TOEIC 700+ = điều kiện bắt buộc lên Senior TMA năm 2027; Chốt ngành: Thạc sĩ Khoa học máy tính; Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027). Trước đó: 12/10/2026 (V10 - Stress test toàn bộ plan: Điều chỉnh mục tiêu % mỡ M3 xuống 12-15% để tránh sụt test/burnout; Dời lịch cày TOEIC sang T02/2027 để không bị overload với Immersion; Nhấn mạnh việc tìm hiểu quy chế thi đầu vào Thạc sĩ.)_
+_Cập nhật: 17/10/2026 (Gom Coach + Quỹ mẹ về 1 nguồn). Trước đó: 15/10/2026 (Chi thực tế 8-10tr/tháng; 2 tỷ chỉ trông vào chốt W; Hạn nộp chứng chỉ TOEIC 700+ cho TMA: 15/11/2027; TOEIC 700+ = điều kiện bắt buộc lên Senior TMA năm 2027; Chốt ngành: Thạc sĩ Khoa học máy tính; Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027). Trước đó: 12/10/2026 (V10 - Stress test toàn bộ plan: Điều chỉnh mục tiêu % mỡ M3 xuống 12-15% để tránh sụt test/burnout; Dời lịch cày TOEIC sang T02/2027 để không bị overload với Immersion; Nhấn mạnh việc tìm hiểu quy chế thi đầu vào Thạc sĩ.)_
