@@ -36,9 +36,13 @@ T01/2020    Gặp Quỳnh lần đầu - đi ăn nướng.
 ## 🍢 KẾ HOẠCH GẶP LẠI - TỐI CN 25/10/2026
 
 ```
-1. Ăn nướng ở Gò Vấp hoặc Tân Bình (tìm quán giống lần đầu gặp T01/2020)
-2. Sau đó nghe acoustic ở quán trên đường Phạm Văn Đồng
-3. Mang theo/lưu lại vài tấm ảnh hồi xưa để cùng nhìn lại
+1. Ăn nướng: Tiệm Lẩu Nướng Làng Chài
+   - Địa chỉ: 66-68 Dương Quảng Hàm, P.5, Gò Vấp, TP.HCM
+   - Hotline: 035 353 9479 · Facebook: /Tiemlaunuonglangchai
+   - Không gian lẩu nướng ốc bình dân, thoải mái, đúng vibe lần đầu gặp T01/2020.
+2. Nghe acoustic: Quán acoustic trên trục Phạm Văn Đồng
+   - Di chuyển từ Dương Quảng Hàm ra Phạm Văn Đồng chỉ mất 3-5 phút xe máy.
+3. Mang theo / lưu sẵn vài tấm ảnh hồi xưa (2019-2020) để cùng nhìn lại kỷ niệm.
 ```
 
 **Chủ đề dễ nói chuyện:** các giải chạy bộ của Quỳnh · cuộc sống 6 năm qua của mỗi người ·
