@@ -42,7 +42,7 @@ T01/2020    Gặp Quỳnh lần đầu - đi ăn nướng.
   - Địa chỉ: 66-68 Dương Quảng Hàm, P.5, Gò Vấp, TP.HCM
   - Hotline: 035 353 9479 · Facebook: /Tiemlaunuonglangchai
   - Không gian lẩu nướng ốc bình dân, thoải mái, đúng vibe lần đầu gặp T01/2020.
-- ~21:00: Di chuyển sang quán acoustic trên trục Phạm Văn Đồng (chạy xe từ Dương Quảng Hàm ra chỉ mất 3-5 phút).
+- ~21:00: Di chuyển sang quán cafe yên tĩnh, không gian chill/thoáng đãng trên trục Phạm Văn Đồng (chạy xe từ Dương Quảng Hàm ra chỉ 3-5 phút) để thoải mái ngồi tâm sự, hàn huyên chuyện 6 năm qua (tránh quán acoustic nhạc to khó nói chuyện).
 - Mang theo / lưu sẵn vài tấm ảnh hồi xưa (2019-2020) để cùng nhìn lại kỷ niệm.
 ```
 
@@ -88,7 +88,7 @@ Có thể kết lại bằng một câu thật lòng: _"Vui ghê, 6 năm rồi m
 > Quỳnh đã có người yêu. Buổi này là **bạn bè lâu năm gặp lại**, đi chơi để ủng hộ nhau.
 > 6 năm không dài cũng không ngắn - đủ để thành một tình bạn.
 >
-> **Không cần phải yêu nhau mới làm nhau vui.** Một buổi tối ăn nướng, nghe nhạc, nhắc lại
+> **Không cần phải yêu nhau mới làm nhau vui.** Một buổi tối ăn nướng, cafe tâm sự, nhắc lại
 > chuyện cũ - những trải nghiệm đẹp như vậy là đủ.
 
 **Nguyên tắc cho buổi gặp:**
