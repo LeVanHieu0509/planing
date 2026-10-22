@@ -39,6 +39,27 @@
 
 ---
 
+## 🎁 SỰ TINH TẾ - HỌC TỪ NGƯỜI XUNG QUANH
+
+### 20/10/2026 - Anh Hoà ở lớp L3 SAIGON SPECIAL
+
+```
+Buổi khai giảng L3 trùng đúng 20/10. Anh Hoà mua túi mù Labubu (blind bag) tặng
+các bạn nữ trong lớp → ai mở túi cũng vui, cả lớp rộn ràng.
+```
+
+**Bài học cho Hiếu:**
+- **Món quà nhỏ, đúng dịp > món quà to, sai thời điểm.** Túi mù rẻ, mô hình nhỏ xíu, nhưng giá trị cảm xúc nhận lại rất cao.
+- **Niềm vui nằm ở trải nghiệm** - khoảnh khắc xé túi, đoán xem ra con gì, cả nhóm cùng cười - chứ không nằm ở giá tiền.
+- **Nhạy với các dịp:** 8/3, 20/10, sinh nhật, Tết... Chỉ cần nhớ ngày và chuẩn bị trước 1-2 ngày là đủ ghi điểm.
+- **Tặng cả nhóm, không tặng riêng 1 người** → tự nhiên, không gây áp lực, ai cũng thoải mái nhận.
+
+**Áp dụng sắp tới:**
+- [ ] 17/11 - sinh nhật Quỳnh (xem [QUYNH_BAN_CU_2019.md](./friend/QUYNH_BAN_CU_2019.md))
+- [ ] Ghi các dịp quan trọng của người thân, bạn bè vào lịch điện thoại, nhắc trước 2 ngày
+
+---
+
 ## 💑 3. BẠN ĐỜI - KẾ HOẠCH CHỐT 13/09/2026
 
 ### Vì sao chưa bắt đầu ngay bây giờ
@@ -126,7 +147,7 @@ TUYỆT ĐỐI KHÔNG HI SINH VÌ BẤT KỲ MỐI QUAN HỆ NÀO:
 
 ---
 
-_Cập nhật: 17/10/2026 (Link quỹ mẹ về M2_FINANCE). Trước đó: 15/10/2026 (Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027; Đồng bộ số liệu giữa các file). Trước đó: 13/09/2026 (V4 - Viết lại toàn bộ theo hệ thống mới, bỏ Epic E6/Story Point. Thêm kế
+_Cập nhật: 20/10/2026 (Thêm mục "Sự tinh tế" - bài học túi mù Labubu của anh Hoà ngày 20/10). Trước đó: 17/10/2026 (Link quỹ mẹ về M2_FINANCE). Trước đó: 15/10/2026 (Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027; Đồng bộ số liệu giữa các file). Trước đó: 13/09/2026 (V4 - Viết lại toàn bộ theo hệ thống mới, bỏ Epic E6/Story Point. Thêm kế
 hoạch "Bạn đời" chốt 13/09/2026: ưu tiên phát triển bản thân trước, dự kiến tìm hiểu nghiêm túc
 cuối 2026, khu vực miền Trung (Nghệ An-Đà Nẵng, Nha Trang trở ra), ưu tiên nghề giáo viên/bác sĩ.
 Reset bảng tracking theo Sprint S1 mới.)_

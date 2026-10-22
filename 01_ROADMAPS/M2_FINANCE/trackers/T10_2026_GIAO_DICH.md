@@ -1,6 +1,18 @@
 # 💳 CHI TIẾT GIAO DỊCH THÁNG 10/2026
 
-> ⏳ **Dữ liệu cập nhật Realtime đến ngày 16/10/2026 (Khớp 100% BIDV, VCB, TCB & Tiền ví)**
+> 🆕 **SỐ DƯ CẬP NHẬT 22/10/2026 (đối chiếu app BIDV, VCB, TCB lúc 13:36-13:38)**
+>
+> | Tài khoản | Số dư | Ghi chú |
+> | --- | --- | --- |
+> | BIDV | **~37,646,117** | 39,285,193 - Dookki 450,360 + Tuấn 150k + Huy 150k - BHX 288,716 - chuyển sang TCB 500k (22/10) - vợt cầu lông 700k (22/10) |
+> | VCB | **11,948** | Khớp app VCB 22/10 |
+> | TCB | **527,297** | ✅ Khớp app TCB 13:41 22/10 (đã ghi đủ giao dịch TCB 20-22/10: 432k; còn lệch ~25k chưa rõ) |
+> | Ví | **500,000** | Giả định chưa tiêu |
+> | **Gross** | **38,685,362** | |
+> | - Tiền mẹ giữ hộ | -12,000,000 | |
+> | 💵 **Tiền mặt thực tế của Hiếu** | **~26,685,362** | Chưa trả: phí CC 900k, Shopee 1.5tr, Hiệp 1tr, Duy Tiên 1.5tr |
+>
+> ⏳ **Dữ liệu cập nhật Realtime đến ngày 16/10/2026 (Khớp 100% BIDV, VCB, TCB & Tiền ví)** _(ảnh chụp cũ, giữ để đối chiếu)_
 >
 > - 🏦 **SỐ DƯ CÁC TÀI KHOẢN NGÂN HÀNG & TIỀN MẶT:**
 >   - **BIDV:** **39,285,193 VND** _(Lương TMA, mẹ gửi thêm 3tr nhờ giữ hộ, trích 2tr đóng phường, trừ 500k cho bà ngoại)_
@@ -146,7 +158,9 @@
 | 09/10    | Chiếu đèn trị mụn (Phạm Bình Minh)  | TCB       | 80,000        | TCB trừ ngày 09/10   |
 | 07/10    | Tiệm hình Linh (2 lần gửi xe/in ấn) | TCB       | 8,000         | 4k + 4k              |
 | 09/10    | Bưu cục VNPost Hoà Hưng             | TCB       | 94,000        | 84k + 10k            |
-| **Tổng** |                                     |           | **1,297,000** |                      |
+| 17/10    | Cắt tóc (Lai Chi Nguyen)            | TCB       | 70,000        | hair cut             |
+| 20/10    | Thuốc (Phạm Thị Thuỳ)               | TCB       | 210,000       | chuyen tien thuoc    |
+| **Tổng** |                                     |           | **1,577,000** |                      |
 
 ### 4. Thức ăn & Siêu thị
 
@@ -165,10 +179,16 @@
 | 13/10    | Bánh mì (Trần Thị Hoàng Oanh)   | TCB       | 20,000        | LE VAN HIEU chuyen tien bmi   |
 | 14/10    | Bách Hoá Xanh                   | TCB       | 426,753       | CTY CP TM BACH HOA XANH       |
 | 15/10    | Ăn uống / QR (Nguyễn Thị Thanh) | TCB       | 15,000        | CHUYEN TIEN NHANH QUA QR      |
-| 18/10    | Ăn Dookki (lẩu tokbokki)        | **BIDV**  | 150,000       | Hiếu báo 19/10                |
+| 18/10    | Ăn Dookki (lẩu tokbokki)        | **BIDV**  | 150,360       | Trả cả bill 450,360, nhận lại 150k (Nguyễn N...) + 150k (Trịnh Huy) = thu hộ, phần Hiếu 150,360 |
 | 19/10    | Bánh mì Thổ Nhĩ Kỳ (sáng)       | TCB       | 20,000        | Hiếu báo 19/10 (trừ TCB 20k)  |
 | 19/10    | Bách Hoá Xanh                   | **BIDV**  | 288,716       | Hiếu báo 19/10                |
-| **Tổng** |                                 |           | **1,769,270** |                               |
+| 17/10    | Bách Hoá Xanh online (Ecom.EW)  | VCB       | 61,920        | Xác nhận 22/10                |
+| 19/10    | Bách Hoá Xanh online (Ecom.EW)  | VCB       | 144,192       | Xác nhận 22/10                |
+| 20/10    | Ăn uống QR (Nguyễn Thị Thanh)   | TCB       | 15,000        | Chuyển tiền nhanh qua QR      |
+| 20/10    | Bún bánh canh (Huỳnh Thị Thơ)   | TCB       | 70,000        | bun banh canh                 |
+| 22/10    | Cơm gà (Nguyễn Ngọc Cường)      | TCB       | 35,000        | com ga                        |
+| 22/10    | Tạp hoá Quang Tâm               | TCB       | 12,000        | QR                            |
+| **Tổng** |                                 |           | **2,107,742** |                               |
 
 ### 5. Cafe / Xăng / Khác / Subscription
 
@@ -189,7 +209,11 @@
 | 11/10    | Chi tiêu / Chuyển khoản           | VCB       | 86,000        | MBVCB.16482838375.06...                            |
 | 11/10    | Chi tiêu mua sắm / Dịch vụ        | VCB       | 120,073       | MBVCB.16485675204.62...                            |
 | 14/10    | Cho em trai Tuấn (Hiếu tự cho)    | VCB       | 200,000       | MBVCB.16537429880.571... (Tiền túi Hiếu cho em)    |
-| **Tổng** |                                   |           | **2,231,311** |                                                    |
+| 16/10    | HKD Điện nước Đức Thịnh 134       | TCB       | 90,000        | Mua đồ điện nước                                   |
+| 21/10    | MBVCB.16654859748.30...           | VCB       | 109,326       | ⚠️ Chưa rõ mục đích                                |
+| 22/10    | Vợt cầu lông                      | BIDV      | 700,000       | Hiếu báo 22/10 (khả năng cao trả BIDV)             |
+| 20/10    | Xăng Petrolimex Sài Gòn 17 (VNPay QR) | TCB   | 90,000        | T.Toan QR tai PLX SAI GON 17                       |
+| **Tổng** |                                   |           | **3,220,637** |                                                    |
 
 ### 6. Quỹ mẹ 500tr (Đóng phường định kỳ hàng tháng)
 
@@ -223,10 +247,10 @@
 | Chi phí phòng thực tế của Hiếu (1/4 phòng)         | 2,386,338       | 1/4 của tổng 9,545,350đ trọ 8M + điện 1.55M                         |
 | Mua giày                                           | 2,190,000       | Chuyển khoản bên bán giày (trừ VCB 10/10)                           |
 | Đóng phường tháng 10 (Quỹ mẹ 500tr)                | 2,000,000       | Đã chuyển đóng ngày 11/10 theo QUY_ME_500TR.md                      |
-| Skincare (Bác sĩ Sương + Thuốc Minh)               | 1,297,000       | VCB 1.115M + TCB 182k                                               |
-| Ăn uống, Bách hoá xanh (VCB + TCB + BIDV)          | 1,769,270       | Đã cộng BHX 426k, cơm Bảo, bánh mì, QR Thanh, Dookki 150k BIDV (18/10), bánh mì 20k TCB + BHX 288,716 BIDV (19/10) |
-| Cafe, mua sắm & chi tiêu khác / Sub                | 2,231,311       | Đã cộng Sub 480k, xe cầu lông 5k, các khoản VCB 86k, 120k, 200k     |
-| 🔴 **TỔNG CHI TIÊU THỰC SỰ CỦA HIẾU (CHI THUẦN)**  | **31,373,919**  | **Chi phí thực tế xuất từ túi Hiếu không lấy lại được**             |
+| Skincare, thuốc + cắt tóc                          | 1,577,000       | VCB 1.115M + TCB 182k + cắt tóc 70k (17/10) + thuốc 210k (20/10)    |
+| Ăn uống, Bách hoá xanh (VCB + TCB + BIDV)          | 2,107,742       | Đã cộng BHX 426k, BHX online VCB 61,920 + 144,192, bún bánh canh 70k + QR 15k (20/10), cơm gà 35k + tạp hoá 12k (22/10), cơm Bảo, bánh mì, QR Thanh, Dookki 150,360 BIDV (18/10), bánh mì 20k TCB + BHX 288,716 BIDV (19/10) |
+| Cafe, mua sắm & chi tiêu khác / Sub                | 3,220,637       | Đã cộng Sub 480k, xăng 90k (20/10), xe cầu lông 5k, VCB 86k/120k/200k, điện nước 90k, VCB 109,326 (chưa rõ), vợt cầu lông 700k |
+| 🔴 **TỔNG CHI TIÊU THỰC SỰ CỦA HIẾU (CHI THUẦN)**  | **32,981,717**  | **Chi phí thực tế xuất từ túi Hiếu không lấy lại được**             |
 | ───────────────────────────────────────────────    | ──────────────  | ──────────────────────────────────────────────────────────────────  |
 | 💎 **BẢNG CÂN ĐỐI TÀI SẢN RÒNG TOÀN DIỆN (16/10)** |                 |                                                                     |
 | + Tiền mặt thực tế của Hiếu                        | +28,776,876     | Tiền mặt T+0 thực có (sau khi đã hoàn tất đóng 8tr trọ)             |
@@ -251,6 +275,6 @@
 
 ---
 
-_Cập nhật: 19/10/2026 (Thêm chi ăn uống 18/10 Dookki 150k BIDV + 19/10 bánh mì 20k TCB + BHX 288,716 BIDV → chi thuần 31,373,919; số dư ngân hàng vẫn là ảnh chụp 16/10, chốt lại cuối tháng)._
+_Cập nhật: 22/10/2026 (Thêm 6 giao dịch TCB 20-22/10 = 432k: bún 70k, QR 15k, thuốc 210k, xăng 90k, cơm gà 35k, tạp hoá 12k → chi thuần 32,981,717; TCB còn lệch ~25k). Trước đó: 22/10/2026 (TCB thực 527,297; 2 khoản Ecom VCB = BHX online; thêm vợt cầu lông 700k; chi thuần 32,549,717; tiền mặt thực ~26.69tr (vợt trả BIDV); phí CC 900k chưa trả). Trước đó: 22/10/2026 (Đối chiếu app BIDV/VCB/TCB: thêm cắt tóc 70k, điện nước 90k, 3 khoản VCB chưa rõ mục đích 315,438; Dookki thực 150,360 (2 bạn trả lại 300k); BIDV→TCB 500k là chuyển nội bộ; chi thuần 31,849,717; tiền mặt thực ~27.84tr). Trước đó: 19/10/2026 (Thêm chi ăn uống 18/10 Dookki 150k BIDV + 19/10 bánh mì 20k TCB + BHX 288,716 BIDV → chi thuần 31,373,919; số dư ngân hàng vẫn là ảnh chụp 16/10, chốt lại cuối tháng)._
 
 _Cập nhật Realtime: 16/10/2026 — Đã đóng trọ thành công 8,000,000 VND qua VCB cho PHAM THI THOA, số dư VCB còn 327,386 VND._

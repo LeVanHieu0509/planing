@@ -49,9 +49,10 @@ graph TD
 > *Đích đến: Đủ 43tr học phí năm 1 T11/2026 (đóng T12/2027); Chạm trần tiền mặt 50M T12/2026; Đích xa 2 Tỷ 2031.*
 * 📊 **Kế hoạch tài chính 2026–2028:** [TAI_CHINH_2026_2028.md](./01_ROADMAPS/M2_FINANCE/TAI_CHINH_2026_2028.md)
 * 💎 **Chiến lược đầu tư & Danh mục W:** [DAU_TU.md](./01_ROADMAPS/M2_FINANCE/DAU_TU.md)
-* ⚖️ **Nguyên tắc kế toán & Phân tách tài sản:** [NGUYEN_TAC_KE_TOAN.md](./01_ROADMAPS/M2_FINANCE/NGUYEN_TAC_KE_TOAN.md)
+* ⚖️ **Nguyên tắc kế toán & Phân tách tài sản:** [NGUYEN_TAC_KE_TOAN.md](./01_ROADMAPS/M2_FINANCE/NGUYEN_TAC_KE_TOAN.md) (8 nguyên tắc, 10 danh mục + budget, quỹ dự trữ, quy trình chốt sổ)
+* 📦 **Sổ tài sản, khấu hao & bảo hành:** [TAI_SAN_KHAU_HAO.md](./01_ROADMAPS/M2_FINANCE/TAI_SAN_KHAU_HAO.md)
 * 📈 **Bảng tổng kết tài sản tháng:** [MONTHLY_TRACKER.md](./01_ROADMAPS/M2_FINANCE/MONTHLY_TRACKER.md)
-* 📝 **Nhật ký thu chi từng tháng:** [T10_2026_GIAO_DICH.md](./01_ROADMAPS/M2_FINANCE/trackers/T10_2026_GIAO_DICH.md) | [T09_...](./01_ROADMAPS/M2_FINANCE/trackers/T09_2026_GIAO_DICH.md) | [T08_...](./01_ROADMAPS/M2_FINANCE/trackers/T08_2026_GIAO_DICH.md)
+* 📝 **Nhật ký thu chi từng tháng:** [T11_2026_GIAO_DICH.md](./01_ROADMAPS/M2_FINANCE/trackers/T11_2026_GIAO_DICH.md) | [T10_2026_GIAO_DICH.md](./01_ROADMAPS/M2_FINANCE/trackers/T10_2026_GIAO_DICH.md) | [T09_...](./01_ROADMAPS/M2_FINANCE/trackers/T09_2026_GIAO_DICH.md) | [T08_...](./01_ROADMAPS/M2_FINANCE/trackers/T08_2026_GIAO_DICH.md)
 
 ---
 

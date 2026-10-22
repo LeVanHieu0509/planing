@@ -62,6 +62,7 @@
 - **Câu dài thực chiến (3-Tier Sentence):**
   > _[Ghép câu dài có because + which means that + especially when]_
 - **Voice Memo 60s (Tối T6 23/10):** ☐ Chưa thu / ☑ Đã thu âm
+- **Ghi chú buổi 1:** Trùng 20/10 - anh Hoà tặng túi mù Labubu cho các bạn nữ, cả lớp rất vui. Bài học tinh tế đã ghi ở [RELATIONSHIPS.md](../../M5_RELATIONSHIPS/RELATIONSHIPS.md).
 
 ---
 

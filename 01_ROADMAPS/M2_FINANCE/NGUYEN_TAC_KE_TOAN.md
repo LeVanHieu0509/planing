@@ -95,4 +95,91 @@ Những dòng tiền này **nằm trong tài khoản ngân hàng của Hiếu**,
 
 ---
 
-_Cập nhật: 15/10/2026 (Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027; Sửa nợ còn lại 2.5M → 4.0M cho khớp T10_2026_GIAO_DICH.md, thêm khoản Duy Tiên 1.5M)._
+## 📐 6. 8 NGUYÊN TẮC KẾ TOÁN ÁP DỤNG (CHUẨN TỪ T11/2026)
+
+| # | Nguyên tắc | Áp dụng cụ thể cho Hiếu |
+| - | ---------- | ----------------------- |
+| 1 | **Thực thể riêng** | Tiền của Hiếu ≠ tiền mẹ giữ hộ ≠ tiền phòng thu/chi hộ. Không bao giờ gộp. |
+| 2 | **Dồn tích (Accrual)** | Ghi chi phí vào **tháng phát sinh**, dù trả tháng sau (VD: phần 225k phí CC T10 ghi vào T10). Ghi "Phải trả" khi chưa trả. |
+| 3 | **Phù hợp & Khấu hao** | Món đồ **≥ 1,000,000đ và dùng ≥ 6 tháng = TÀI SẢN**, không phải chi tiêu tháng đó. Ghi vào [TAI_SAN_KHAU_HAO.md](./TAI_SAN_KHAU_HAO.md), khấu hao đều theo tháng. |
+| 4 | **Thận trọng** | Crypto/bot ghi theo **thị giá**, không tính lãi chưa chốt. Nợ ghi đủ ngay khi phát sinh. Thu nhập chỉ ghi khi **đã nhận tiền**. |
+| 5 | **Nhất quán** | Dùng đúng **10 danh mục chuẩn** (mục 7) cho mọi tháng, không tự đặt nhóm mới. |
+| 6 | **Trọng yếu** | Khoản < 20k gộp vào "Lặt vặt" được. Chênh lệch đối chiếu < 50k/tháng chấp nhận, ghi "Chênh lệch chưa rõ". |
+| 7 | **Đối chiếu (Reconciliation)** | **Mỗi CN tối** mở BIDV, VCB, TCB so số dư với sổ. Lệch > 50k → tìm cho ra. |
+| 8 | **Khoá sổ (Cut-off)** | Ngày cuối tháng chốt sổ theo quy trình mục 10. Sau khi khoá không sửa tháng cũ, sai thì điều chỉnh ở tháng sau. |
+
+---
+
+## 🗂️ 7. 10 DANH MỤC CHUẨN & BUDGET THÁNG
+
+> Chi tiêu sinh hoạt mục tiêu: **8–10tr/tháng** (gồm quỹ mẹ). Mua tài sản và khoản lớn có kế hoạch **tách riêng**, không tính vào budget sinh hoạt.
+
+| Mã | Danh mục | Budget T11/2026 | Ghi chú |
+| -- | -------- | --------------: | ------- |
+| C01 | 🏠 Nhà ở (1/4 trọ + điện nước + phí CC) | 2,650,000 | Chỉ phần của Hiếu |
+| C02 | 👩 Quỹ mẹ | 2,000,000 | Ngày 11, cố định (5tr từ T02/2027) |
+| C03 | 🍜 Ăn uống & siêu thị | 2,500,000 | ~83k/ngày |
+| C04 | 💆 Sức khoẻ & làm đẹp (thuốc, da, cắt tóc) | 800,000 | |
+| C05 | 🏍️ Đi lại (xăng, gửi xe) | 300,000 | |
+| C06 | ☕ Quan hệ & giải trí (cafe, đi chơi, quà) | 500,000 | |
+| C07 | 📱 Subscriptions & công nghệ | 400,000 | |
+| C08 | 💪 Thể thao (gym, sân cầu lông, đồ tập < 1tr) | 200,000 | Gym đã đóng tới T11 |
+| C09 | 🎓 Học tập (sách, lệ phí) | 0 | Coach/Aptis dùng quỹ dự trữ mục 8 |
+| C10 | 🔸 Lặt vặt & phát sinh | 150,000 | |
+| | **TỔNG BUDGET SINH HOẠT** | **9,500,000** | |
+
+**Quy tắc budget:** danh mục nào chạm **80%** trước ngày 20 → dừng chi danh mục đó, lấy từ C10. Vượt tổng → ghi lý do ở cuối sổ tháng.
+
+---
+
+## 🪣 8. QUỸ DỰ TRỮ CHO KHOẢN LỚN (SINKING FUNDS)
+
+> Khoản lớn **biết trước** thì để dành dần mỗi tháng, không để đến lúc trả mới "hụt". Tiền nằm trong tiền mặt, chỉ đánh dấu riêng trên sổ.
+
+| Quỹ | Cần | Hạn | Trích/tháng | Ghi chú |
+| --- | --: | --- | ----------: | ------- |
+| ✈️ Vé Tết 2027 | ~5,300,000 | T01/2027 | đủ ngay khi đặt | Chưa đặt |
+| 🎯 Coach TOEIC chặng 1 | ~4,000,000 | T02/2027 | 1,000,000 (T11→T02) | Chặng 2-3 nếu học tiếp: ~4tr/chặng |
+| 📝 Thi lại Aptis B1 | _(tra lệ phí)_ | trước T09/2027 | | |
+| 🎓 Học phí Thạc sĩ năm 1 | 43,000,000 | T12/2027 | đủ từ T11/2026 | Giữ nguyên, không đụng |
+| 📱 Thay điện thoại (khấu hao iPhone 15 Pro cũ) | 17,000,000 | ~T10/2028 | ~708,000 | Máy cũ, Apple hết bảo hành → dự trù thay sớm |
+| 🛡️ Bảo hiểm sức khoẻ/tai nạn | _(tìm hiểu)_ | Q1/2027 | | Chưa có - nên có |
+
+---
+
+## 🏦 9. VAI TRÒ TỪNG TÀI KHOẢN (1 TÀI KHOẢN = 1 VIỆC)
+
+| Tài khoản | Vai trò | Quy tắc |
+| --------- | ------- | ------- |
+| **BIDV** | Nhận lương TMA · Quỹ học phí & dự phòng | Không quẹt chi tiêu lặt vặt từ BIDV |
+| **TCB (Sinh lời tự động)** | Ví chi tiêu hằng ngày (QR ăn uống, xăng...) | Đầu tháng nạp đúng budget C03-C10 (~4tr), hết thì thôi |
+| **VCB** | Trả trọ, hoá đơn, đồ online | |
+| **Tiền của mẹ (12tr)** | ⚠️ Nên **tách hẳn** sang 1 tài khoản/sổ riêng | **Quyết định 22/10/2026: tạm để BIDV**, luôn trừ 12tr khi tính tiền mặt; tách khi mở được TK riêng |
+
+**Thứ tự khi nhận lương (05 hằng tháng) - Trả cho mình trước:**
+```
+1. Chuyển ngay phần TIẾT KIỆM (~15tr) vào phần quỹ học phí/dự phòng (không đụng)
+2. Trích các quỹ dự trữ (mục 8)
+3. Ngày 11: chuyển Quỹ mẹ
+4. Nạp budget chi tiêu sang TCB → phần còn lại mới được tiêu
+```
+
+---
+
+## 🔒 10. QUY TRÌNH CHỐT SỔ CUỐI THÁNG (30 PHÚT)
+
+```
+☐ 1. Chụp số dư BIDV · VCB · TCB · đếm tiền ví
+☐ 2. Đối chiếu từng tài khoản với sổ T{N}_GIAO_DICH.md, lệch > 50k phải tìm ra
+☐ 3. Phân loại hết giao dịch vào 10 danh mục, không còn dòng "chưa rõ"
+☐ 4. So thực chi với budget từng danh mục → ghi 1 dòng nhận xét
+☐ 5. Ghi khấu hao tháng ([TAI_SAN_KHAU_HAO.md](./TAI_SAN_KHAU_HAO.md))
+☐ 6. Cập nhật nợ phải trả / phải thu / quỹ dự trữ
+☐ 7. Cập nhật MONTHLY_TRACKER.md (thu, chi, tiết kiệm, tài sản ròng)
+☐ 8. Cập nhật DAU_TU.md (thị giá W, OKX) - chỉ xem 1 lần/tháng
+☐ 9. Tạo file T{N+1}_GIAO_DICH.md từ mẫu
+```
+
+---
+
+_Cập nhật: 22/10/2026 (Thêm mục 6-10: 8 nguyên tắc kế toán, 10 danh mục chuẩn + budget T11, quỹ dự trữ, vai trò tài khoản, quy trình chốt sổ). Trước đó: 15/10/2026 (Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027; Sửa nợ còn lại 2.5M → 4.0M cho khớp T10_2026_GIAO_DICH.md, thêm khoản Duy Tiên 1.5M)._
