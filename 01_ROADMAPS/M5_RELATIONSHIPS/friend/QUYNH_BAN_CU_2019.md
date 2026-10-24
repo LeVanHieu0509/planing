@@ -25,7 +25,7 @@ T01/2020    Gặp Quỳnh lần đầu - đi ăn nướng.
             - 09/04/2025: "Mỗi năm nt cho bà 1 tin nhắn, mới đó mà được 4 năm rồi".
 17/10/2026  Tối hôm đó Hiếu buồn, nhắn cho Quỳnh tâm sự.
             Quỳnh rủ đi ăn nướng luôn.
-25/10/2026  Quỳnh về Sài Gòn (25-26/10) → hẹn gặp lại sau ~6 năm.
+24/10/2026  Quỳnh về Sài Gòn → hẹn gặp lại sau ~6 năm (dời từ tối CN 25/10 lên tối T7 24/10).
 ```
 
 ---
@@ -37,7 +37,7 @@ T01/2020    Gặp Quỳnh lần đầu - đi ăn nướng.
 - Ngày sinh: 17/11
 - Facebook: [Phan Đặng Như Quỳnh (hoodiephan)](https://www.facebook.com/hoodiephan)
 - Học vấn: Cựu sinh viên Học viện Hàng không Việt Nam (VAA).
-- Nơi làm việc / Nghề nghiệp: Hãng hàng không quốc tế Emirates (Dubai). Thường xuyên bay các chuyến quốc tế (vừa check-in Genève - Thụy Sỹ, Paris - Pháp). Về Sài Gòn chỉ 2 ngày (25–26/10).
+- Nơi làm việc / Nghề nghiệp: Hãng hàng không quốc tế Emirates (Dubai). Thường xuyên bay các chuyến quốc tế (vừa check-in Genève - Thụy Sỹ, Paris - Pháp). Về Sài Gòn vài ngày (gặp tối T7 24/10/2026).
 - Tình trạng quan hệ: ĐÃ CÓ NGƯỜI YÊU (Hiếu đã xác nhận chính xác · Facebook chỉ là hiển thị chung).
 - Cách xưng hô & Giao tiếp: "Ông - Tui", cực kỳ tếu táo, không khoảng cách (từng gọi Hiếu là "Cha nội 😂"), đi học về là báo, thức khuya nói chuyện trước ngày thi.
 - Điểm gắn kết đặc biệt: Hiếu luôn ở bên cạnh và đồng hành cùng người anh của Quỳnh ("Suốt thời gian qua ông vẫn luôn ở bên anh tui") → Quỳnh luôn dành cho Hiếu sự tôn trọng và biết ơn sâu sắc.
@@ -46,96 +46,106 @@ T01/2020    Gặp Quỳnh lần đầu - đi ăn nướng.
 
 ---
 
-## 🍢 KẾ HOẠCH GẶP LẠI - TỐI CN 25/10/2026
+## 🍢 KẾ HOẠCH GẶP LẠI - TỐI T7 24/10/2026 (dời lịch từ CN 25/10)
+
+**Đi nhóm 4 người:** Hiếu · Quỳnh · em gái Quỳnh · 1 bạn nam (_có thể là người yêu Quỳnh - chưa chắc, đừng đoán ra miệng; Quỳnh giới thiệu thế nào thì gọi thế ấy_).
 
 ```
-- 17:45 - 19:15: Học lớp Phản Xạ Giao Tiếp tại Tiếng Anh Nghe Nói (Phan Văn Trị, Gò Vấp).
-- 19:15: Tan học, lấy xe máy chạy sang Dương Quảng Hàm (~1.5 km, chỉ mất 8-10 phút).
-- 19:30: Hẹn gặp Quỳnh tại Tiệm Lẩu Nướng Làng Chài:
+- BIT 2h tối T7 (19:30-21:30) dời lên chiều T7 24/10 (slot bù 16:30-18:00 + phần còn lại bù trong tuần 26/10-01/11).
+- 19:30: Tiệm Lẩu Nướng Làng Chài (giờ/quán theo chốt với Quỳnh):
   - Địa chỉ: 66-68 Dương Quảng Hàm, P.5, Gò Vấp, TP.HCM
   - Hotline: 035 353 9479 · Facebook: /Tiemlaunuonglangchai
-  - Không gian lẩu nướng ốc bình dân, thoải mái, đúng vibe lần đầu gặp T01/2020.
-- ~21:00: Di chuyển sang quán cafe yên tĩnh, không gian chill/thoáng đãng trên trục Phạm Văn Đồng (chạy xe từ Dương Quảng Hàm ra chỉ 3-5 phút) để thoải mái ngồi tâm sự, hàn huyên chuyện 6 năm qua (tránh quán acoustic nhạc to khó nói chuyện).
-- Mang theo / lưu sẵn vài tấm ảnh hồi xưa (2019-2020) để cùng nhìn lại kỷ niệm.
+- ~21:00: Cafe Phạm Văn Đồng nếu cả nhóm muốn đi tiếp (để nhóm quyết, không ép).
+- ~22:45: Về nhà, 23:30 tắt đèn ngủ (sáng CN 25/10 còn gym 09:00).
 ```
 
-**Chủ đề dễ nói chuyện:** cuộc sống bay quốc tế tại Emirates (chuyến đi Thụy Sỹ, Paris) · niềm đam mê chạy bộ marathon của Quỳnh · cuộc sống 6 năm qua của mỗi người · hành trình học tiếng Anh, gym, Thạc sĩ của Hiếu.
+---
+
+## 🎭 KỊCH BẢN HOÀ ĐỒNG KHI ĐI NHÓM 4 NGƯỜI
+
+> **Vai của Hiếu tối nay:** người bạn cũ dễ chịu, làm **cả bàn** thấy vui, không phải người "ôn lại kỷ niệm riêng" với Quỳnh.
+> Thước đo: cuối buổi, em gái và bạn nam cũng thấy _"ông Hiếu vui tính, dễ nói chuyện"_.
+
+### 1. Mở màn (5 phút đầu)
+
+- Tự giới thiệu với từng người, bắt tay bạn nam: _"Chào ông/bạn, Hiếu - bạn của Quỳnh từ hồi 2019."_
+- Hỏi tên, xưng hô ngay từ đầu (anh/em hay ông/tui) cho tự nhiên.
+- Câu phá băng: _"Mấy người tới đây lần nào chưa? Nghe nói ốc với lẩu ở đây ngon, chọn món đi."_ → để mọi người cùng chọn món.
+
+### 2. Hỏi bạn nam TRƯỚC - đây là điểm quan trọng nhất
+
+> Người lạ nhất bàn là bạn nam. Hiếu chủ động kéo bạn ấy vào câu chuyện → bạn ấy thoải mái → Quỳnh cũng thoải mái.
+
+- _"Ông làm bên mảng gì?"_ → hỏi tiếp vào công việc của bạn ấy.
+- _"Hai người quen nhau sao?"_ (**chỉ hỏi nếu Quỳnh đã giới thiệu là người yêu**).
+- Tìm điểm chung: đá banh, gym, cầu lông, game, xe, đồ ăn → _"Ông có chơi môn gì không? Tui đá banh tối T4 với cầu lông."_
+- Khen chân thành đúng việc (_"Ông chịu khó ghê"_), không khen ngoại hình Quỳnh trước mặt bạn ấy.
+
+### 3. Hỏi em gái Quỳnh
+
+- _"Em đang học/làm gì? Ở Sài Gòn hay ở quê?"_
+- _"Hồi nhỏ chị Quỳnh có hay bắt nạt em không?"_ → chủ đề chị em luôn vui, cả bàn cùng cười.
+- Nếu em còn đi học/mới đi làm: hỏi ngành, chia sẻ 1-2 kinh nghiệm thật ngắn **khi em hỏi**, không giảng giải.
+
+### 4. Chủ đề chung cho cả bàn (ai cũng góp được)
+
+| Chủ đề | Câu mở |
+| ------ | ------ |
+| ✈️ Đời bay của Quỳnh | _"Kể chuyến bay nào hài nhất đi, khách lạ nhất từng gặp?"_ |
+| 🌍 Du lịch | _"Ai ở đây thích đi đâu nhất? Nếu được đi 1 nước miễn phí thì chọn nước nào?"_ |
+| 🍜 Đồ ăn | _"Món ngon nhất Quỳnh ăn ở nước ngoài? Có nhớ đồ ăn Việt không?"_ |
+| 🏃 Chạy bộ / thể thao | _"Quỳnh chạy marathon, có ai trong nhóm bị Quỳnh lôi đi chạy chưa?"_ |
+| 🎬 Giải trí | Phim, nhạc, trend TikTok gần đây - chủ đề nhẹ, ai cũng góp được |
+
+### 5. Kỷ niệm cũ - dùng ít, chọn chuyện vui
+
+- Được: 1-2 chuyện vui chung (_"Hồi đó bà thức tới 1h sáng trước ngày thi đó"_) rồi **giải thích cho cả bàn hiểu** để ai cũng cười được.
+- Ảnh cũ 2019-2020: chỉ đưa ra nếu Quỳnh tự nhắc. Không cần chuẩn bị để chiếu.
+- Có thể nói 1 câu đẹp: _"Anh của Quỳnh là bạn thân của tui"_ - đây là sợi dây tự nhiên nhất.
+
+### 6. Hành xử nhỏ tạo thiện cảm
+
+- Nướng đồ, gắp đồ, rót nước cho cả bàn (không chỉ cho Quỳnh).
+- Cất điện thoại, chỉ lấy ra khi chụp ảnh nhóm.
+- Cuối buổi rủ chụp **1 tấm ảnh nhóm** làm kỷ niệm.
+- Thanh toán: hỏi trước _"Chia đều nha?"_; nếu muốn mời thì mời phần nước/cafe, đừng giành trả cả bữa (dễ làm bạn nam khó xử).
+- Về: chào cả nhóm, nhắn nhóm hoặc nhắn Quỳnh 1 câu _"Vui ghê, cảm ơn mấy người nha"_ là đủ.
+
+### ❌ TRÁNH TUYỆT ĐỐI TỐI NAY
+
+- Nhắc chuyện tỏ tình 2020, hay những tin nhắn riêng kiểu "4 năm nhắn 1 tin".
+- Chuyện buồn tối 17/10, chuyện Huyền, chuyện gia đình nặng nề.
+- Hỏi "insight tâm lý phụ nữ" (bộ câu hỏi bên dưới để dành, **không hỏi tối nay**).
+- Nói nhiều về tiền, lương, plan, Thạc sĩ, crypto.
+- Chỉ nói chuyện với Quỳnh, để 2 người kia ngồi nghe.
+- Quan sát / chấm điểm Quỳnh. Quỳnh là bạn, có người yêu.
 
 ---
 
-## 💬 CÂU CHUYỆN CHÍNH: 6 NĂM QUA MỖI NGƯỜI ĐÃ SỐNG THẾ NÀO
+## 🗄️ ĐỂ DÀNH: CÂU HỎI THU THẬP INSIGHT TÂM LÝ PHỤ NỮ (KHÔNG DÙNG TỐI 24/10)
 
-> Trò chuyện qua lại, không phải "báo cáo thành tích". **Nghe nhiều hơn nói (~60/40).**
+> Chỉ hỏi khi có dịp nói chuyện riêng thật tự nhiên (VD nhắn tin sau này) và Quỳnh thoải mái. Bỏ hẳn câu về chuyện tỏ tình 2020.
 
-### 👂 Câu hỏi mở để Quỳnh kể
-
-- _"Thấy trên FB Quỳnh mới check-in bên Genève (Thụy Sỹ) với Paris ngầu ghê! Chuyến đó có gì vui và đáng nhớ nhất kể Hiếu nghe với?"_
-- _"Làm việc ở hãng Emirates chắc bay quốc tế suốt ha, môi trường bên đó thế nào Quỳnh? Có vất vả chuyện lệch múi giờ (jetlag) không?"_
-- _"Quỳnh bắt đầu mê chạy bộ từ khi nào? Có phải chạy bộ giúp Quỳnh duy trì sức bền khi đi bay không? Giải nào Quỳnh nhớ nhất?"_
-- _"6 năm rồi, Quỳnh thấy mình thay đổi nhiều nhất ở điểm nào so với cô gái hồi 2020?"_
-
-→ Khi Quỳnh kể: **hỏi tiếp vào chi tiết** ("Rồi sao nữa?", "Lúc đó Quỳnh thấy thế nào?"),
-đừng vội chuyển sang chuyện của mình.
-
-### 🗣️ Khi tới lượt Hiếu: kể HÀNH TRÌNH, không kể CON SỐ
-
-| ✅ Nên kể                                                         | ❌ Không kể                           |
-| ----------------------------------------------------------------- | ------------------------------------- |
-| 4 năm làm dev, từng tự build một sản phẩm riêng                   | Tiền tiết kiệm, mục tiêu 2 tỷ, crypto |
-| Đi gym đều, người khoẻ hẳn                                        | Lịch làm việc chi tiết, plan, sprint  |
-| Đang học tiếng Anh giao tiếp, chuẩn bị Thạc sĩ năm sau            |                                       |
-| Cả lúc chật vật: năm nay từng quá tải, rồi học cách sống chậm lại |                                       |
-
-> Kể cả thất bại - người ta thấy gần gũi qua những lần mình vấp ngã, hơn là qua thành tích.
-
-### 🌙 Điều làm nên một buổi tối đẹp
-
-Không phải ai đạt được nhiều hơn, mà là **cả hai cùng thấy người kia đã lớn lên thế nào**.
-Có thể kết lại bằng một câu thật lòng: _"Vui ghê, 6 năm rồi mà nói chuyện vẫn như hồi đó."_
-
----
-
-## 🧠 BỘ CÂU HỎI THU THẬP INSIGHT TÂM LÝ PHỤ NỮ (USER RESEARCH & EQ BUILDING)
-
-> **Mục tiêu của Hiếu:** Thu thập góc nhìn chân thực của phái nữ để tích lũy kiến thức thấu hiểu phụ nữ (EQ), khắc phục tính khô khan logic của dân kỹ thuật. Quỳnh đóng vai trò "Quân sư tâm lý / Wingwoman" đáng tin cậy.
-
-### 1. Về sự khác biệt tư duy: Lắng nghe vs Tìm giải pháp
-
-- _"Hiếu làm dev nên não hay bị tật tự động đi tìm giải pháp logic mỗi khi nghe ai kể vấn đề gì. Theo góc nhìn của Quỳnh, khi con gái tâm sự một chuyện buồn hoặc bực mình, điều họ thực sự cần nhất là gì? Khi nào con gái mới cần giải pháp?"_
-- _"Làm sao để một người bạn nam biết cách an ủi đúng cách mà không bị biến thành 'giáo viên dạy đời'?"_
-
-### 2. Về tiêu chuẩn đàn ông trưởng thành (Tuổi 25–26)
-
-- _"Ở độ tuổi 25–26 này, con gái bọn Quỳnh nhìn vào một người đàn ông thì điều gì làm Quỳnh thấy người đó thực sự trưởng thành và tạo được cảm giác an tâm? (Ngoại hình, chí tiến thủ, sự điềm tĩnh hay cách chăm sóc?)"_
-- _"Có điểm gì ở đàn ông mà con gái thấy cực kỳ 'mất điểm' (Red Flags) dù anh đó có điều kiện tốt không?"_
-
-### 3. Về sự ngô nghê trong quá khứ & Bài học hẹn hò
-
-- _"Nhìn lại hồi 2020, Hiếu thấy mình tỏ tình vừa vội vừa ngố tàu ghê (cười). Quỳnh là người trong cuộc, hồi đó Hiếu có điểm gì ngô nghê làm Quỳnh thấy chưa sẵn sàng không? Chia sẻ thật để Hiếu rút kinh nghiệm cho hành trình sau này!"_
-- _"Theo Quỳnh, điều tinh tế nhất một chàng trai có thể làm trong những buổi hẹn đầu là gì để con gái thấy tự nhiên, thoải mái nhất?"_
-
-### 4. Học hỏi từ mối quan hệ hiện tại của Quỳnh
-
-- _"Người yêu hiện tại của Quỳnh có điểm gì hay nhất làm Quỳnh cảm thấy gắn bó và tin tưởng? (Cách bạn ấy lắng nghe, chia sẻ hay tính cách?)"_
+- _"Khi con gái tâm sự chuyện buồn, điều họ cần nhất là gì? Khi nào mới cần giải pháp?"_
+- _"Làm sao để an ủi đúng cách mà không thành 'giáo viên dạy đời'?"_
+- _"Ở tuổi 25-26, điều gì ở một người đàn ông làm con gái thấy trưởng thành, an tâm?"_
+- _"Điều tinh tế nhất một chàng trai có thể làm trong những buổi hẹn đầu là gì?"_
 
 ---
 
 ## ☕ GÓC CHIÊM NGHIỆM: CÂU CHUYỆN CÔ GIÁO TÂY NINH (23/10/2026)
 
-> _"Hôm nay ngồi nói chuyện với một cô giáo trường chuyên Tây Ninh đã về hưu 8 năm. Những lát cắt thực tế về gia đình, nghề giáo và hôn nhân đem lại góc nhìn rất đắt giá trước buổi gặp Quỳnh."_
+> _"Hôm nay ngồi nói chuyện với một cô giáo trường chuyên Tây Ninh đã về hưu 8 năm. Những lát cắt thực tế về gia đình, nghề giáo và hôn nhân."_
 
 ### 1. Lát cắt thực tế từ câu chuyện:
 - **Cặp đôi con cô:** Con gái làm đào tạo hàng không (lương ~30tr, mẹ giáo viên nên con làm đào tạo cực kỳ tự chủ, quyết đoán). Con rể là kỹ sư IT (lương ~15tr), chấp nhận lùi về sau phụ vợ chăm sóc, dạy dỗ con cái để vợ xông pha "chinh chiến".
 - **Lời khuyên của cô:** *"Không nên quen giáo viên vì dễ bị bệnh nghề nghiệp khiến tình yêu trở nên khó khăn. Giáo viên nên lấy giáo viên thì hay hơn lấy kỹ sư, vì kỹ sư dễ bị phụ thuộc vào vợ khá nhiều."*
 - **Triết lý "Biết đủ" tuổi xế chiều:** Cả một đời cô chú không có tham vọng gì thêm, cũng chẳng hoài bão lớn. Về già cô nhận lương hưu 12tr, chú nhận 15tr (= 27tr/tháng), mỗi ngày tiêu vài trăm nghìn ở quê là thấy thoải mái và đủ đầy cho một kiếp người.
 
-### 2. Bài học & Lăng kính quan sát cho Hiếu:
-- **Về "bệnh nghề nghiệp" của nghề dạy:** Người làm sư phạm/đào tạo quen đứng bục giảng dễ vô thức mang thói quen "uốn nắn, chấm bài, sửa lưng" về nhà. Đàn ông IT sống bằng logic và phản biện, nếu gặp người thích áp đặt khuôn mẫu mà thiếu sự tôn trọng thì rất dễ ngột ngạt.
-- **Về chênh lệch hoài bão vs an phận:** Triết lý "biết đủ 12–15 triệu" rất an yên ở tuổi 60+, nhưng sẽ là sự "kìm hãm" với người trẻ 25–26 tuổi đang có chí tiến thủ mạnh mẽ (học Master, chinh phục AI, quỹ mẹ 500tr, bứt phá tài chính). Đi đường dài, quan trọng nhất là hai người phải cùng nhịp độ và tôn trọng hoài bão của nhau.
-- **Lăng kính quan sát khi gặp Quỳnh (Chủ Nhật 25/10):**
-  - Quỳnh thuộc tuýp sư phạm an phận kiểu cũ hay tuýp đào tạo hiện đại, năng động, tự chủ?
-  - Cách Quỳnh trò chuyện có cởi mở, lắng nghe không, hay có xu hướng "chỉnh lời/thích dạy dỗ"?
-  - Góc nhìn của Quỳnh về vai trò, chí tiến thủ và sự nghiệp của người đàn ông.
+### 2. Bài học cho Hiếu (áp dụng khi tìm người yêu, không áp lên bạn bè):
+- **Lời khuyên của người lớn là 1 góc nhìn, không phải quy luật.** "Giáo viên thì khó yêu", "kỹ sư dễ phụ thuộc vợ" là trải nghiệm của một gia đình - đừng biến thành định kiến nghề nghiệp. Xem **con người cụ thể**: có tôn trọng, lắng nghe, cùng nhịp không.
+- **Chênh lệch hoài bão vs an phận:** "Biết đủ" rất an yên ở tuổi 60+, nhưng người trẻ 25-26 đang tiến lên (Master, quỹ mẹ 500tr, tài chính) cần người **cùng nhịp độ và tôn trọng hoài bão của nhau**.
+- **Vợ kiếm nhiều hơn chồng không phải thất bại** nếu hai người tự nguyện chia vai. Điều quan trọng là mình có đang làm chủ lựa chọn của mình không.
 
 ---
 
@@ -151,6 +161,7 @@ Có thể kết lại bằng một câu thật lòng: _"Vui ghê, 6 năm rồi m
 
 - Tôn trọng mối quan hệ hiện tại của Quỳnh: vui, thoải mái, đúng mức bạn bè.
 - Không mang theo kỳ vọng, không phân tích lại chuyện năm 2020.
+- Tối 24/10 đi nhóm 4 người: làm cả bàn vui, đặc biệt kéo bạn nam và em gái Quỳnh vào câu chuyện.
 - Đây là buổi gặp để **mình cũng được vui**, không phải để chứng minh điều gì.
 
 ---
@@ -159,5 +170,6 @@ Có thể kết lại bằng một câu thật lòng: _"Vui ghê, 6 năm rồi m
 
 >
 
-_Cập nhật: 23/10/2026 (Bổ sung mục "Góc chiêm nghiệm: Câu chuyện cô giáo Tây Ninh" về hôn nhân, nghề giáo và kỹ sư IT trước buổi hẹn 25/10/2026)._
+---
 
+_Cập nhật: 24/10/2026 (Dời buổi gặp lên tối T7 24/10, đi nhóm 4 người → thêm kịch bản hoà đồng; cất bộ câu hỏi insight; bỏ "lăng kính quan sát Quỳnh"; BIT tối T7 dời lên chiều). Trước đó: 23/10/2026 (Bổ sung mục "Góc chiêm nghiệm: Câu chuyện cô giáo Tây Ninh"); 18/10/2026 (Tạo file - ký ức về Quỳnh, kế hoạch gặp lại, mục "Câu chuyện chính: 6 năm qua")._
