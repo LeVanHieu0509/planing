@@ -76,15 +76,17 @@ Mẹ phải bù thêm:           ~181,000,000   để đạt 500tr
 
 ## 📊 THEO DÕI - GHI 1 DÒNG MỖI THÁNG
 
-| Tháng    | Số tiền gửi | Luỹ kế gốc | Ghi chú                                      |
-| -------- | ----------- | ---------- | -------------------------------------------- |
-| T08/2026 | 4,000,000   | 4,000,000  | Ghi là "hụi/đóng phường" - đã chốt là quỹ mẹ |
-| T09/2026 | 2,000,000   | 6,000,000  | "Nạp tiền phường" 09/9 ✅                    |
-| T10/2026 | 2,000,000   | 8,000,000  | "Đóng phường" 11/10 ✅                       |
-| T11/2026 |             |            |                                              |
-| T12/2026 |             |            |                                              |
+> ℹ️ **Cơ chế phường 2 suất (chốt 24/10/2026):** Hiếu đóng **suất của Hiếu** (2tr/tháng → theo dõi tại bảng này). Mẹ đóng **suất của mẹ** (2tr/tháng riêng → trừ vào tiền mẹ gửi nhờ giữ hộ). Tổng cả 2 suất = 4tr/tháng chuyển cho người cầm phường.
 
-**Luỹ kế gốc đến 11/10/2026: 8,000,000 VND**
+| Tháng    | Số tiền gửi | Luỹ kế gốc | Ghi chú                                                              |
+| -------- | ----------- | ---------- | -------------------------------------------------------------------- |
+| T08/2026 | 4,000,000   | 4,000,000  | Ghi là "hụi/đóng phường" - đã chốt là quỹ mẹ                        |
+| T09/2026 | 2,000,000   | 6,000,000  | "Nạp tiền phường" 09/9 ✅                                            |
+| T10/2026 | 2,000,000   | 8,000,000  | "Đóng phường" 11/10 ✅                                               |
+| T11/2026 | 2,000,000   | 10,000,000 | ✅ Đóng trước 23/10 — trong khoản 4M cho anh Nghĩa (không cần đóng lại) |
+| T12/2026 |             |            |                                                                      |
+
+**Luỹ kế gốc đến 23/10/2026: 10,000,000 VND** _(T11 đã đóng trước)_
 
 > _(Khoản 200k "cho ông bà" ngày 05/9 tính là chi tiêu bình thường, không thuộc quỹ này.)_
 
@@ -127,7 +129,7 @@ Khoản này khác. Và nó cũng là khoản dễ bị cắt nhất khi khó kh
 
 ---
 
-_Cập nhật: 15/10/2026 (Chốt: đủ 100tr gửi ngân hàng kỳ hạn 1 năm; Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027). Trước đó: 13/09/2026 (V2 - Chốt phương án B (10 năm, đến T08/2036, gốc 240tr). Chuyển file từ
+_Cập nhật: 24/10/2026 (Chốt cơ chế 2 suất; T11 đóng trước 23/10 trong khoản 4M cho anh Nghĩa; luỹ kế gốc lên 10M). Trước đó: 15/10/2026 (Chốt: đủ 100tr gửi ngân hàng kỳ hạn 1 năm; Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027). Trước đó: 13/09/2026 (V2 - Chốt phương án B (10 năm, đến T08/2036, gốc 240tr). Chuyển file từ
 `Claude outputs/` vào `01_ROADMAPS/M2_FINANCE/`. Đồng bộ mốc 2036 sang TAI_CHINH_2026_2028.md, MASTER_PLAN.md,
 START_HERE.md, MONTHLY_TRACKER.md. V1 gốc: Tách "gửi quê/đóng phường" thành quỹ riêng cho mẹ,
 mục tiêu 500tr. Khoản hụi 4tr T08 chốt là thuộc quỹ này, không lấy lại.)_
