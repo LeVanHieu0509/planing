@@ -1,6 +1,6 @@
 # 💳 CHI TIẾT GIAO DỊCH THÁNG 11/2026
 
-> **Tháng kiểm chứng:** không có khoản lớn (ngoài vé Tết nếu đặt) → thử giữ chi sinh hoạt **≤ 9,500,000**.
+> **Tháng kiểm chứng:** không có khoản lớn (vé Tết chiều đi đã trả 25/10; chỉ còn chiều vào nếu đặt) → thử giữ chi sinh hoạt **≤ 9,500,000**.
 > **Quy tắc:** ghi trong ngày · mỗi dòng có **Mã danh mục** (C01–C10, xem [NGUYEN_TAC_KE_TOAN.md](../NGUYEN_TAC_KE_TOAN.md) mục 7) · CN tối đối chiếu 3 app.
 
 ---
@@ -9,11 +9,11 @@
 
 | Tài khoản | Số dư | Ghi chú |
 | --------- | ----: | ------- |
-| BIDV | | Gồm 12tr tiền mẹ giữ hộ |
-| VCB | | |
+| BIDV | | 100% của Hiếu |
+| VCB | | Gồm 10tr tiền mẹ giữ hộ |
 | TCB | | |
 | Ví | | |
-| - Tiền mẹ giữ hộ | -12,000,000 | Ngoại bảng |
+| - Tiền mẹ giữ hộ | -10,000,000 | Ngoại bảng (trong VCB) |
 | **Tiền mặt thực của Hiếu** | | |
 
 ---
@@ -36,7 +36,7 @@
 | ---- | ------: | ----- |
 | Để riêng phần tiết kiệm (quỹ học phí/dự phòng) | ~15,000,000 | ☐ |
 | Trích quỹ dự trữ Coach TOEIC | 1,000,000 | ☐ |
-| Quỹ mẹ (ngày 11) | 2,000,000 | ☐ |
+| Quỹ mẹ (ngày 11) | 2,000,000 | ✅ Đã trả trước 23/10 (phường anh Nghĩa) - T11 không chuyển nữa |
 | Nạp budget chi tiêu sang TCB | ~4,000,000 | ☐ |
 
 ---
@@ -46,7 +46,7 @@
 | Mã | Danh mục | Budget | Thực chi | Còn lại | % |
 | -- | -------- | -----: | -------: | ------: | -: |
 | C01 | 🏠 Nhà ở (phần Hiếu) | 2,650,000 | | | |
-| C02 | 👩 Quỹ mẹ | 2,000,000 | | | |
+| C02 | 👩 Quỹ mẹ | 2,000,000 | 2,000,000 | 0 | 100% |
 | C03 | 🍜 Ăn uống & siêu thị | 2,500,000 | | | |
 | C04 | 💆 Sức khoẻ & làm đẹp | 800,000 | | | |
 | C05 | 🏍️ Đi lại | 300,000 | | | |
@@ -79,7 +79,8 @@
 
 | Ngày | Khoản | Số tiền | Từ quỹ nào | Ghi vào sổ tài sản? |
 | ---- | ----- | ------: | ---------- | ------------------- |
-| | Vé Tết 2027 (nếu đặt) | ~5,300,000 | Quỹ dự trữ vé Tết | Không |
+| | ✈️ Vé Tết chiều vào Vinh → SGN (nếu đặt trong T11) | ~3,000,000–3,100,000 | Quỹ dự trữ vé Tết | Không |
+| _25/10 (T10)_ | _Chiều đi SGN → Vinh 29/01/2027 - đã trả_ | _2,622,581_ | _BIDV_ | _Ghi ở sổ T10_ |
 
 ---
 
@@ -91,6 +92,7 @@
 | Shopee | 1,500,000 | | |
 | Duy Tiên | 1,500,000 | | |
 | Phí CC T10 (phần phòng, Hiếu đóng hộ) | 900,000 | | |
+| _Phải thu: BIT hoàn Claude Code_ | _+620,000_ | | _(nếu chưa về trong T10)_ |
 
 ---
 
@@ -108,4 +110,4 @@ Nhận xét 1 dòng:         ___________
 
 ---
 
-_Cập nhật: 22/10/2026 (Tạo mẫu sổ T11 theo hệ thống mới: 10 danh mục + budget, trả cho mình trước, tách thu hộ/chuyển nội bộ, khoản lớn, nợ)._
+_Cập nhật: 25/10/2026 (Vé Tết chiều đi đã trả 25/10; T11 chỉ còn chiều vào ~3tr nếu đặt). Trước đó: 24/10/2026 (Quỹ mẹ T11 đã trả trước 23/10; tiền mẹ 10tr nằm VCB; thêm phải thu BIT 620k). Trước đó: 22/10/2026 (Tạo mẫu sổ T11 theo hệ thống mới: 10 danh mục + budget, trả cho mình trước, tách thu hộ/chuyển nội bộ, khoản lớn, nợ)._

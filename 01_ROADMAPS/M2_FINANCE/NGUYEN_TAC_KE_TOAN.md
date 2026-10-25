@@ -13,26 +13,26 @@
 │                        TỔNG TÀI SẢN (ASSETS) = NỢ (LIABILITIES) + VỐN RÒNG (EQUITY)     │
 ├────────────────────────────────────────────────────────┬───────────────────────────────┤
 │ 1. TÀI SẢN THANH KHOẢN (T+0):                          │ 1. NỢ NGẮN HẠN & TRẢ GÓP:     │
-│    - BIDV (phần thực của Hiếu):        27,285,193 VND  │    - Vay Hiệp mua iPhone:     │
-│    - Vietcombank (9869660694):            327,386 VND  │      1,000,000 VND (đã trả 5M) │
-│    - Techcombank (19074255959012):        664,297 VND  │    - Nợ Shopee / SPayLater:   │
-│    - Tiền mặt trong ví:                   500,000 VND  │      1,500,000 VND            │
-│    ➡️ Tổng tiền mặt thực có:           28,776,876 VND  │    - Nợ Duy Tiên (500k/tháng): │
+│    - BIDV (100% của Hiếu):             17,398,536 VND  │    - Vay Hiệp mua iPhone:     │
+│    - Vietcombank (phần của Hiếu):       2,011,948 VND  │      1,000,000 VND (đã trả 5M) │
+│    - Techcombank (19074255959012):        527,297 VND  │    - Nợ Shopee / SPayLater:   │
+│    - Tiền mặt trong ví:                   420,000 VND  │      1,500,000 VND            │
+│    ➡️ Tổng tiền mặt thực có (25/10):   20,357,781 VND  │    - Nợ Duy Tiên (500k/tháng): │
 │                                                        │      1,500,000 VND            │
 │ 2. KHOẢN PHẢI THU (RECEIVABLES):                       │    ➡️ Tổng nợ phải trả:       │
-│    - Diễm mượn: 0 VND (✅ Đã thu hồi đủ 1M ngày 12/10) │       4,000,000 VND           │
+│    - BIT hoàn Claude Code:     620,000 VND (cuối T10)  │       4,000,000 VND           │
 │                                                        ├───────────────────────────────┤
 │ 3. ĐẦU TƯ LINH HOẠT (T+1/T+2):                         │ 2. VỐN CHỦ SỞ HỮU / TÀI SẢN   │
 │    - OKX Bot Trading (8M vốn tự động):  8,000,000 VND  │    RÒNG (NET WORTH):          │
 │                                                        │    - TS Ròng Hoạt động:       │
-│ 4. TÍCH SẢN DÀI HẠN (CRYPTO LOCKED):                   │      32,776,876 VND           │
+│ 4. TÍCH SẢN DÀI HẠN (CRYPTO LOCKED):                   │      24,977,781 VND           │
 │    - Binance (78,262.48 W - thị giá): 30,000,000 VND  │    - TS Ròng Toàn diện:       │
-│      (Vốn gốc nạp lịch sử: 111,495,612 VND)            │      62,776,876 VND           │
+│      (Vốn gốc nạp lịch sử: 111,495,612 VND)            │      54,977,781 VND           │
 │                                                        │    - Tiền mặt ròng tự do      │
 │                                                        │      (sau sạch trọ & tổng nợ):│
-│                                                        │      24,776,876 VND           │
+│                                                        │      16,357,781 VND           │
 ├────────────────────────────────────────────────────────┴───────────────────────────────┤
-│ 🏆 TỔNG TÀI SẢN NỘI BẢNG: 66,776,876 VND = NỢ 4.00M + TÀI SẢN RÒNG 62.78M              │
+│ 🏆 TỔNG TÀI SẢN NỘI BẢNG: 58,977,781 VND = NỢ 4.00M + TÀI SẢN RÒNG 54.98M              │
 └────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -44,9 +44,9 @@ Những dòng tiền này **nằm trong tài khoản ngân hàng của Hiếu**,
 
 | Hạng mục                        | Số tiền hiện tại             | Bản chất kế toán                   | Quy tắc ứng xử                                                                                                                           |
 | :------------------------------ | :--------------------------- | :--------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------- |
-| **Tiền mẹ gửi nhờ giữ hộ**      | **12,000,000 VND**           | **Ủy thác giữ hộ (Ký thác)**       | Nằm trong BIDV. Luôn trừ thẳng ra khỏi số dư ngân hàng khi tính tiền của Hiếu. Không bao giờ được tiêu phạm vào.                         |
+| **Tiền mẹ gửi nhờ giữ hộ**      | **10,000,000 VND**           | **Ủy thác giữ hộ (Ký thác)**       | Nằm trong VCB (chuyển từ BIDV 24/10). Luôn trừ thẳng ra khỏi số dư ngân hàng khi tính tiền của Hiếu. Không bao giờ được tiêu phạm vào.                         |
 | **Tiền phòng thu hộ từ anh em** | **Ngoại bảng (Pass-through)**| **Thu hộ / Chi hộ đại diện**       | Tổng tiền trọ & phí chung cư 8.9M (8M trọ + 900k phí CC) là của 4 người. Hiếu chỉ đại diện nộp hộ và chịu đúng 1/4 (2,225,000đ). Tuyệt đối không đội 8.9M vào chi tiêu của Hiếu. |
-| **Quỹ mẹ 500tr (Đóng phường)**  | **8,000,000 VND** _(lũy kế)_ | **Quỹ phụng dưỡng gia đình**       | Gửi đều 2M/tháng đến 2036. Không tính vào tài sản thanh khoản cá nhân. Mốc 100M trích lãi nuôi mẹ.                                       |
+| **Quỹ mẹ 500tr (Đóng phường)**  | **10,000,000 VND** _(lũy kế)_| **Quỹ phụng dưỡng gia đình**       | Gửi đều 2M/tháng đến 2036. Không tính vào tài sản thanh khoản cá nhân. Mốc 100M trích lãi nuôi mẹ.                                       |
 
 ---
 
@@ -69,26 +69,26 @@ Những dòng tiền này **nằm trong tài khoản ngân hàng của Hiếu**,
   - Thu dự án phát sinh: 5,000,000 VND (Yokopetworld)
   - Mẹ hỗ trợ quân sự: 2,500,000 VND
   - Tiền vào khác & Lãi TCB: 2,783,795 VND (Trí 2.19M, Eric 440k, Than Phu 100k, Lẻ 51k, Lãi 2.8k)
-- **Tổng chi thuần (B):** **30,915,203 VND**
-  - Chi tiêu tài sản / Nghĩa vụ lớn: 21,690,000 VND (iPhone 17M, Quân sự Hiếu chịu 2.5M, Giày 2.19M)
+- **Tổng chi thuần (B) - tạm tính đến 25/10:** **38,296,060 VND**
+  - Chi tiêu tài sản / Nghĩa vụ lớn: 24,312,581 VND (iPhone 17M, Quân sự Hiếu chịu 2.5M, Giày 2.19M, **vé Tết chiều đi 2,622,581**)
   - Chi phí chỗ ở thực tế của Hiếu (1/4): 2,386,338 VND
-  - Phụng dưỡng gia đình (Quỹ mẹ): 2,000,000 VND
-  - Skincare & Y tế: 1,297,000 VND
-  - Ăn uống & Siêu thị (BHX, cơm Bảo, bánh mì): 1,310,554 VND
-  - Sinh hoạt, Sub công nghệ, xe cộ, khác: 2,231,311 VND
-- ➡️ **Lợi nhuận thuần / Thặng dư tích lũy T10 (A - B):** **+4,002,745 VND**  
-  _(Dù tháng 10 mua sắm lớn điện thoại, nghĩa vụ quân sự và sắm giày, Hiếu vẫn thặng dư **+4.00M** nhờ thu nhập freelance đột phá)._
+  - Phụng dưỡng gia đình (Quỹ mẹ): 4,000,000 VND (T10 2M + **T11 trả trước 2M** ngày 23/10)
+  - Skincare & Y tế: 2,662,000 VND (gồm bs da liễu 1,085k ngày 23/10)
+  - Ăn uống & Siêu thị: 2,107,742 VND
+  - Sinh hoạt, Sub công nghệ, xe cộ, khác: 2,827,399 VND
+- ➡️ **Thặng dư / thâm hụt T10 (A - B):** **-3,378,112 VND**  
+  _(Nếu không tính 2 khoản trả trước cho tương lai - quỹ mẹ T11 2M + vé Tết 2.62M: **+1,244,469**. Tháng mua iPhone + giày + quân sự; theo nguyên tắc khấu hao mục 6, phần "chi sinh hoạt thật" nhỏ hơn nhiều.)_
 
 ---
 
 ## 🎯 5. NGUYÊN TẮC QUẢN TRỊ THANH KHOẢN & MỤC TIÊU LỚN
 
 1. **Ưu tiên 1 - Bảo vệ Quỹ Thạc sĩ UIT (Target 43M học phí năm 1, đóng T12/2027):**
-   - Tiền mặt thực tế hiện có: **28.78M** (sau khi đã nộp xong 8M trọ T10).
-   - Dự kiến cán mốc 43M tiền mặt: **T11/2026** (sớm trước hạn đóng khoảng 1 năm).
+   - Tiền mặt thực tế hiện có: **20.36M** (25/10/2026, đã trừ 10M tiền mẹ, đã trả vé Tết chiều đi).
+   - Dự kiến cán mốc 43M tiền mặt: **T12/2026** (sớm trước hạn đóng khoảng 1 năm).
 2. **Ưu tiên 2 - Quản trị nghĩa vụ trọ & nợ:**
    - Trọ T10 (8M): ✅ **Đã hoàn tất thanh toán 8,000,000đ** ngày 16/10 qua VCB cho PHAM THI THOA.
-   - Nợ ngắn hạn còn lại: 4.0M (Hiệp 1M + Shopee 1.5M + Duy Tiên 1.5M trả góp 500k/tháng). Tiền mặt tự do sau khi thanh toán hết vẫn còn tới **24.78M**.
+   - Nợ ngắn hạn còn lại: 4.0M (Hiệp 1M + Shopee 1.5M + Duy Tiên 1.5M trả góp 500k/tháng). Tiền mặt tự do sau khi thanh toán hết còn **16.36M** (25/10).
 3. **Ưu tiên 3 - Kỷ luật đầu tư (Trần 50M):**
    - Chỉ được mở trần bơm thêm vốn crypto/bot khi **Tiền mặt thực tế ≥ 50,000,000 VND**.
    - Hiện tại tuyệt đối không nạp thêm vốn vào Binance hay OKX.
@@ -138,10 +138,10 @@ Những dòng tiền này **nằm trong tài khoản ngân hàng của Hiếu**,
 
 | Quỹ | Cần | Hạn | Trích/tháng | Ghi chú |
 | --- | --: | --- | ----------: | ------- |
-| ✈️ Vé Tết 2027 | ~5,300,000 | T01/2027 | đủ ngay khi đặt | Chưa đặt |
+| ✈️ Vé Tết 2027 | ~5,700,000 | T01/2027 | đủ ngay khi đặt | ✅ Chiều đi 2,622,581 (25/10, dùng tín dụng VJ 1,004,600) · ⏳ chiều vào ~3–3.1tr chưa đặt |
 | 🎯 Coach TOEIC chặng 1 | ~4,000,000 | T02/2027 | 1,000,000 (T11→T02) | Chặng 2-3 nếu học tiếp: ~4tr/chặng |
 | 📝 Thi lại Aptis B1 | _(tra lệ phí)_ | trước T09/2027 | | |
-| 🎓 Học phí Thạc sĩ năm 1 | 43,000,000 | T12/2027 | đủ từ T11/2026 | Giữ nguyên, không đụng |
+| 🎓 Học phí Thạc sĩ năm 1 | 43,000,000 | T12/2027 | đủ từ T12/2026 | Giữ nguyên, không đụng |
 | 📱 Thay điện thoại (khấu hao iPhone 15 Pro cũ) | 17,000,000 | ~T10/2028 | ~708,000 | Máy cũ, Apple hết bảo hành → dự trù thay sớm |
 | 🛡️ Bảo hiểm sức khoẻ/tai nạn | _(tìm hiểu)_ | Q1/2027 | | Chưa có - nên có |
 
@@ -153,8 +153,8 @@ Những dòng tiền này **nằm trong tài khoản ngân hàng của Hiếu**,
 | --------- | ------- | ------- |
 | **BIDV** | Nhận lương TMA · Quỹ học phí & dự phòng | Không quẹt chi tiêu lặt vặt từ BIDV |
 | **TCB (Sinh lời tự động)** | Ví chi tiêu hằng ngày (QR ăn uống, xăng...) | Đầu tháng nạp đúng budget C03-C10 (~4tr), hết thì thôi |
-| **VCB** | Trả trọ, hoá đơn, đồ online | |
-| **Tiền của mẹ (12tr)** | ⚠️ Nên **tách hẳn** sang 1 tài khoản/sổ riêng | **Quyết định 22/10/2026: tạm để BIDV**, luôn trừ 12tr khi tính tiền mặt; tách khi mở được TK riêng |
+| **VCB** | Trả trọ, hoá đơn, đồ online · **đang giữ 10tr tiền mẹ** (từ 24/10) | Số dư VCB luôn trừ 10tr khi tính tiền của Hiếu |
+| **Tiền của mẹ (10tr)** | ⚠️ Nên **tách hẳn** sang 1 tài khoản/sổ riêng | **24/10/2026: đã chuyển sang VCB** (còn 10tr sau khi trừ 2tr phường T11 suất mẹ); VCB nên giữ ít tiền chi tiêu của Hiếu để không lẫn |
 
 **Thứ tự khi nhận lương (05 hằng tháng) - Trả cho mình trước:**
 ```
@@ -182,4 +182,4 @@ Những dòng tiền này **nằm trong tài khoản ngân hàng của Hiếu**,
 
 ---
 
-_Cập nhật: 22/10/2026 (Thêm mục 6-10: 8 nguyên tắc kế toán, 10 danh mục chuẩn + budget T11, quỹ dự trữ, vai trò tài khoản, quy trình chốt sổ). Trước đó: 15/10/2026 (Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027; Sửa nợ còn lại 2.5M → 4.0M cho khớp T10_2026_GIAO_DICH.md, thêm khoản Duy Tiên 1.5M)._
+_Cập nhật: 25/10/2026 (Ghi vé Tết chiều đi 2,622,581 (25/10): bảng cân đối, P&L T10 chi thuần 38,296,060, quỹ dự trữ vé Tết). Trước đó: 24/10/2026 (Đồng bộ số liệu 24/10: bảng cân đối, P&L T10 tạm tính chi thuần 35,673,479, tiền mẹ 10tr chuyển sang VCB, quỹ mẹ 10tr, mốc 43tr → T12/2026). Trước đó: 22/10/2026 (Thêm mục 6-10: 8 nguyên tắc kế toán, 10 danh mục chuẩn + budget T11, quỹ dự trữ, vai trò tài khoản, quy trình chốt sổ). Trước đó: 15/10/2026 (Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027; Sửa nợ còn lại 2.5M → 4.0M cho khớp T10_2026_GIAO_DICH.md, thêm khoản Duy Tiên 1.5M)._

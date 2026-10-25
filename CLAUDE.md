@@ -53,7 +53,7 @@ Hệ thống đã **BỎ HOÀN TOÀN** Story Points và Daily Standup. Mọi cô
   * T02/2027 → T06/2027: Cày đề ETS + Coach 1:1 Kim Hân (Gò Vấp, từ 27/02/2027). Lịch, học phí, giáo án: **chỉ xem tại** [COACH_1ON1_KIM_HAN_2027.md](./01_ROADMAPS/M1_ENGLISH/toeic/COACH_1ON1_KIM_HAN_2027.md).
   * **Thi TOEIC Cuối T06/2027** $\rightarrow$ **BẮT BUỘC nộp bằng 700+ cho TMA trước 15/11/2027 để lên Senior**.
 * **M2 · 💰 Tiền & Tài chính:**
-  * Tích lũy **43,000,000 VNĐ học phí Thạc sĩ năm 1** (dự kiến cán mốc T11/2026, đóng T12/2027). Năm 2 (47M) tích luỹ trong 2028.
+  * Tích lũy **43,000,000 VNĐ học phí Thạc sĩ năm 1** (dự kiến cán mốc T12/2026, đóng T12/2027). Năm 2 (47M) tích luỹ trong 2028.
   * Chi tiêu sinh hoạt kiểm soát: **8,000,000 – 10,000,000 VNĐ/tháng**. Tiết kiệm: **~15–17tr/tháng**.
   * Chạm trần tiền mặt **50,000,000 VNĐ** (T12/2026) mới mở lại quyền đầu tư.
   * Đích xa 2 Tỷ (2031): Nền an toàn từ lương (~0.75 tỷ), đột phá 2 tỷ phụ thuộc cú chốt lời danh mục **78,262 W** (Target 1: $0.70 thu ~715M; Target 2: $1.50 thu ~1.53 tỷ).
@@ -65,7 +65,7 @@ Hệ thống đã **BỎ HOÀN TOÀN** Story Points và Daily Standup. Mọi cô
   * Mốc: Nộp hồ sơ T09–T10/2027 (Đợt 2), phỏng vấn T11/2027, khai giảng & đóng 43tr năm 1 T12/2027.
   * Mục tiêu xa: Trở thành Giảng viên Đại học part-time (2029).
 * **M5 · ❤️ Gia đình:**
-  * Quỹ mẹ 500tr (gửi đều 2tr/tháng đến 2036, đã gửi 8tr gốc). Chạm 100M sẽ gửi tiết kiệm ngân hàng 1 năm tái tục, rút lãi hàng năm cho mẹ tiêu xài.
+  * Quỹ mẹ 500tr (gửi đều 2tr/tháng đến 2036, đã gửi 10tr gốc tính đến T11/2026). Chạm 100M sẽ gửi tiết kiệm ngân hàng 1 năm tái tục, rút lãi hàng năm cho mẹ tiêu xài.
 
 > 🧊 **DANH SÁCH ĐÓNG BĂNG (CẤM ĐƯA VÀO SPRINT):**
 > Miracle POS (đang đóng băng, chỉ fix critical bug nếu có), Kênh TikTok, Trade crypto/bot mới, Khóa học MBA lan man.

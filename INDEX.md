@@ -46,7 +46,7 @@ graph TD
 ---
 
 ### 💰 M2 · TÀI CHÍNH (43M THẠC SĨ UIT & TỰ DO 2 TỶ 2031)
-> *Đích đến: Đủ 43tr học phí năm 1 T11/2026 (đóng T12/2027); Chạm trần tiền mặt 50M T12/2026; Đích xa 2 Tỷ 2031.*
+> *Đích đến: Đủ 43tr học phí năm 1 T12/2026 (đóng T12/2027); Chạm trần tiền mặt 50M T12/2026; Đích xa 2 Tỷ 2031.*
 * 📊 **Kế hoạch tài chính 2026–2028:** [TAI_CHINH_2026_2028.md](./01_ROADMAPS/M2_FINANCE/TAI_CHINH_2026_2028.md)
 * 💎 **Chiến lược đầu tư & Danh mục W:** [DAU_TU.md](./01_ROADMAPS/M2_FINANCE/DAU_TU.md)
 * ⚖️ **Nguyên tắc kế toán & Phân tách tài sản:** [NGUYEN_TAC_KE_TOAN.md](./01_ROADMAPS/M2_FINANCE/NGUYEN_TAC_KE_TOAN.md) (8 nguyên tắc, 10 danh mục + budget, quỹ dự trữ, quy trình chốt sổ)
@@ -75,7 +75,7 @@ graph TD
 ---
 
 ### ❤️ M5 · GIA ĐÌNH & MỐI QUAN HỆ (QUỸ MẸ 500TR & BẠN ĐỜI)
-> *Đích đến: Báo hiếu mẹ 500tr (đã gửi 8tr luỹ kế, 2M/tháng); Xây dựng quan hệ bạn đời Win-Win vững chắc.*
+> *Đích đến: Báo hiếu mẹ 500tr (đã gửi 10tr luỹ kế, 2M/tháng); Xây dựng quan hệ bạn đời Win-Win vững chắc.*
 * 👵 **Quỹ phụng dưỡng Mẹ 500tr:** [QUY_ME_500TR.md](./01_ROADMAPS/M2_FINANCE/QUY_ME_500TR.md)
 * 🤝 **Nguyên tắc gia đình, bạn bè & Tiêu chí bạn đời:** [RELATIONSHIPS.md](./01_ROADMAPS/M5_RELATIONSHIPS/RELATIONSHIPS.md)
 * 🐺 **Khí chất High-Value Man trong hẹn hò:** [DATING_CORE_PRINCIPLES.md](./01_ROADMAPS/M5_RELATIONSHIPS/dating/DATING_CORE_PRINCIPLES.md) | [HIEU_MINDSET.md](./00_CORE/HIEU_MINDSET.md)
@@ -121,6 +121,7 @@ graph TD
 * [past_sprints/](./04_ARCHIVE/past_sprints/) — Lưu trữ các Sprint cũ thời kỳ thử nghiệm.
 * [frozen_projects/miracle/](./04_ARCHIVE/frozen_projects/miracle/) — Đề án VNDAX, Tín chỉ Carbon, Miracle POS (đang đóng băng).
 * [frozen_projects/tiktok/](./04_ARCHIVE/frozen_projects/tiktok/) — Dự án TikTok cũ đã dừng để dồn sức cho M1-M5.
+* [IDEAS_PARKING.md](./04_ARCHIVE/IDEAS_PARKING.md) — 🅿️ Ý tưởng để dành (TikTok duy trì, sản phẩm số cho sinh viên IT, startup AI) - mở lại T07/2027.
 * [business_mba/](./04_ARCHIVE/business_mba/) — Toàn bộ tài liệu học Quản trị kinh doanh, Marketing, Kinh tế vi mô.
 
 ---
@@ -141,3 +142,5 @@ graph TD
 ---
 
 _Hiếu Life OS v2.0 — Tái cấu trúc ngày 17/10/2026. Tối ưu hóa 100% cho tìm kiếm nhanh, liên kết chặt chẽ và thực thi kỷ luật._
+
+_Cập nhật: 24/10/2026 (Thêm IDEAS_PARKING.md; đồng bộ mốc 43tr → T12/2026, quỹ mẹ 10tr)._

@@ -1,23 +1,23 @@
 # 💳 CHI TIẾT GIAO DỊCH THÁNG 10/2026
 
-> ⏳ **Dữ liệu cập nhật đến ngày 24/10/2026**
+> ⏳ **Dữ liệu cập nhật đến ngày 25/10/2026** _(gốc: đối chiếu app BIDV/VCB/TCB 22/10 + giao dịch 23-25/10)_
 >
 > - 🏦 **SỐ DƯ CÁC TÀI KHOẢN NGÂN HÀNG & TIỀN MẶT:**
->   - **BIDV:** **20,960,193 VND** _(Sau 22/10: trừ 700k vợt cầu lông; sau 23/10: trừ bs da liễu 885k+120k, Claude Code 620k, phường T11 4M; sau 24/10: chuyển 12M tiền mẹ sang VCB)_
->   - **Vietcombank (9869660694):** **12,327,386 VND** _(Đã đóng 8M tiền trọ T10 ngày 16/10; nhận 12M tiền mẹ giữ hộ chuyển từ BIDV 24/10)_
->   - **Techcombank (19074255959012):** **664,297 VND** _(Khớp 100% app TCB đến ngày 16/10)_
+>   - **BIDV:** **17,398,536 VND** _(App 22/10 sau vợt: 37,646,117 → 23/10: trừ bs da liễu 885k + 120k, Claude Code 620k, phường T11 4M → 24/10: chuyển 12M sang VCB → 25/10: vé máy bay Tết chiều đi 2,622,581)_
+>   - **Vietcombank (9869660694):** **12,011,948 VND** _(App 22/10: 11,948 + nhận 12M từ BIDV 24/10 → trong đó **10M là tiền mẹ**, 2M là của Hiếu)_
+>   - **Techcombank (19074255959012):** **527,297 VND** _(Khớp app TCB 22/10; còn lệch ~25k chưa rõ)_
 >   - **Tiền mặt trong ví:** **420,000 VND** _(Trừ 80k tiền mặt bs da liễu 23/10)_
->   - ➡️ **TỔNG TIỀN MẶT HIỆN CÓ (GROSS):** **34,371,876 VND**
+>   - ➡️ **TỔNG TIỀN MẶT HIỆN CÓ (GROSS):** **30,357,781 VND**
 > - 👵 **TIỀN CỦA MẸ GỬI NHỜ GIỮ HỘ:** **15,000,000 VND** _(Đợt 1: 5M + Đợt 2: 7M + Đợt 3: 3M ngày 11/10)_
 >   - _Mẹ góp tiền chạy quân sự:_ **-2,500,000 VND**
 >   - _Mẹ chi cho bà ngoại:_ **-500,000 VND**
 >   - _Mẹ đóng phường T11 (suất mẹ, trừ từ tiền giữ hộ 23/10):_ **-2,000,000 VND**
 >   - ➡️ **Phần tiền của mẹ còn giữ hộ thực tế:** **10,000,000 VND** _(trong VCB, KHÔNG tính vào tài sản của Hiếu)_
 > - 💰 **Khoản phải thu (BIT refund Claude Code):** **+620,000 VND** _(BIT hoàn cuối T10/2026)_
-> - 💵 **TIỀN MẶT THỰC TẾ CỦA HIẾU:** `34,371,876 - 10,000,000` = **24,371,876 VND**
+> - 💵 **TIỀN MẶT THỰC TẾ CỦA HIẾU:** `30,357,781 - 10,000,000` = **20,357,781 VND**
 >   - _Tiền trọ tháng 10:_ ✅ **ĐÃ HOÀN TẤT ĐÓNG 8,000,000 VND** _(chuyển VCB lúc 00:19 16/10 cho PHAM THI THOA)_
->   - _Nợ ngắn hạn & trả góp:_ **4,000,000 VND** _(Nợ Hiệp 1M + Shopee 1.5M + Duy Tiên 1.5M trả góp 500k/tháng)_
->   - 🟢 **Tiền mặt ròng tự do (sau sạch trọ + sạch nợ):** `24,371,876 - 4,000,000` = **20,371,876 VND** _(+ 620k BIT refund đang về cuối T10)_
+>   - _Nợ ngắn hạn & trả góp:_ **4,000,000 VND** _(Nợ Hiệp 1M + Shopee 1.5M + Duy Tiên 1.5M trả góp 500k/tháng)_ · _Phí CC Topaz 900k (Hiếu đóng hộ phòng) chưa đóng_
+>   - 🟢 **Tiền mặt ròng tự do (sau sạch trọ + sạch nợ):** `20,357,781 - 4,000,000` = **16,357,781 VND** _(+ 620k BIT refund đang về cuối T10)_
 
 ---
 
@@ -75,7 +75,7 @@
 | Ngày  | Từ tài khoản | Sang tài khoản | Số tiền    | Ghi chú                                                                |
 | ----- | ------------ | -------------- | ---------- | ---------------------------------------------------------------------- |
 | 05/10 | BIDV         | Vietcombank    | 12,000,000 | BIDV trừ 23:07:38 (SMB-TkThe: 9869660...) ➡️ VCB nhận +12tr sáng 06/10 |
-| 24/10 | BIDV         | Vietcombank    | 12,000,000 | Chuyển nội bộ 12tr tiền mẹ gửi nhờ từ BIDV sang VCB để giữ hộ |
+| 24/10 | BIDV         | Vietcombank    | 12,000,000 | Chuyển nội bộ 12tr sang VCB: **10tr tiền mẹ giữ hộ** + 2tr của Hiếu |
 
 ---
 
@@ -109,7 +109,8 @@
 | T10      | Mua điện thoại iPhone | VCB (3M) + Tiền mặt + Vay | 17,000,000     | **Tổng 17tr** = 8tr + 3tr (trừ VCB 06/10) + 6tr vay Hiệp                 |
 | 05/10    | Chạy nghĩa vụ quân sự | **BIDV**                  | 5,000,000      | **Trừ BIDV 05/10 15:40** (MB-TKThe 40000003\_). Mẹ góp 2.5tr, Hiếu 2.5tr |
 | 10/10    | Mua giày              | **VCB**                   | 2,190,000      | Chuyển khoản thanh toán bên bán giày (MBVCB trừ ngày 10/10)              |
-| **Tổng** |                       |                           | **24,190,000** |                                                                          |
+| 25/10    | ✈️ Vé Tết chiều đi SGN → Vinh (VJ-226, 14:45 T6 29/01/2027) | **BIDV** | 2,622,581 | Traveloka ID 1403358579 · giá vé 3,627,181 − tín dụng du lịch VJ 1,004,600 · BIDV trừ 10:31:40, số tham chiếu 6298BIDVE25SQ2G8 · khoản lớn có kế hoạch (ngoài budget sinh hoạt) |
+| **Tổng** |                       |                           | **26,812,581** |                                                                          |
 
 ### 2. Trọ, Điện & Phí Chung Cư (Cơ chế Phòng 4 Anh Em chia đều)
 
@@ -209,7 +210,7 @@
 | 20/10    | Xăng Petrolimex Sài Gòn 17 (VNPay QR) | TCB       | 90,000        | T.Toan QR tai PLX SAI GON 17                       |
 | 21/10    | MBVCB.16654859748.30...                | VCB       | 109,326       | ⚠️ Chưa rõ mục đích                                |
 | 22/10    | Mua vợt cầu lông                       | BIDV      | 700,000       | 8807609263 LE VAN H... BIDV trừ 23:08:19           |
-| **Tổng** |                                        |           | **3,320,637** |                                                    |
+| **Tổng** |                                        |           | **2,827,399** |                                                    |
 
 ### 6. Quỹ mẹ 500tr (Đóng phường định kỳ — 2 suất: Hiếu 2tr + Mẹ 2tr = 4tr/tháng)
 
@@ -224,20 +225,20 @@
 
 ---
 
-## TỔNG KẾT TẠM TÍNH THÁNG 10/2026 (01/10 → 16/10)
+## TỔNG KẾT TẠM TÍNH THÁNG 10/2026 (01/10 → 25/10)
 
 | Hạng mục                                           | Số tiền         | Ghi chú                                                             |
 | -------------------------------------------------- | --------------- | ------------------------------------------------------------------- |
-| Tài khoản BIDV                                     | 39,285,193      | Lương TMA, mẹ gửi 3tr giữ hộ, trích phường, trừ 500k cho bà ngoại   |
-| Tài khoản Vietcombank (VCB)                        | 327,386         | Khớp 100% app VCB (đã trừ 8,000,000 VND đóng trọ T10 ngày 16/10)    |
-| Tài khoản Techcombank (TCB)                        | 664,297         | Khớp 100% app TCB (+1M MoMo Diễm trả, trừ BHX, cơm Bảo, bánh mì)    |
-| Tiền mặt trong ví                                  | 500,000         | Tiền mặt để ví sẵn sàng chi tiêu                                    |
-| **TỔNG TIỀN MẶT CÓ HIỆN TẠI (GROSS)**              | **40,776,876**  | Toàn bộ tiền mặt đang nắm giữ (3 ngân hàng + ví)                    |
-| _(Trừ phần tiền của mẹ gửi nhờ giữ hộ)_            | _(-12,000,000)_ | _15M mẹ gửi nhờ trừ đi 2.5M quân sự và 500k cho bà ngoại_           |
-| 💵 **TỔNG TIỀN MẶT THỰC TẾ THUỘC VỀ HIẾU**         | **28,776,876**  | **Tài sản tiền mặt thực sự của anh Hiếu**                           |
+| Tài khoản BIDV                                     | 17,398,536      | App 22/10 + giao dịch 23-25/10 (chuyển 12M sang VCB; vé Tết 2,622,581) |
+| Tài khoản Vietcombank (VCB)                        | 12,011,948      | App 22/10 (11,948) + 12M nhận từ BIDV 24/10 (10M của mẹ)            |
+| Tài khoản Techcombank (TCB)                        | 527,297         | Khớp app TCB 22/10 (còn lệch ~25k chưa rõ)                          |
+| Tiền mặt trong ví                                  | 420,000         | Trừ 80k bs da liễu 23/10                                            |
+| **TỔNG TIỀN MẶT CÓ HIỆN TẠI (GROSS)**              | **30,357,781**  | Toàn bộ tiền mặt đang nắm giữ (3 ngân hàng + ví)                    |
+| _(Trừ phần tiền của mẹ gửi nhờ giữ hộ)_            | _(-10,000,000)_ | _15M mẹ gửi − 2.5M quân sự − 500k bà ngoại − 2M phường T11 suất mẹ_ |
+| 💵 **TỔNG TIỀN MẶT THỰC TẾ THUỘC VỀ HIẾU**         | **20,357,781**  | **Tài sản tiền mặt thực sự của anh Hiếu**                           |
 | _(Trong đó: Tiền giữ đóng trọ T10)_                | _(0)_           | ✅ **Đã hoàn tất đóng 8,000,000đ ngày 16/10 cho PHAM THI THOA**     |
 | 🔴 **NỢ PHẢI TRẢ (HIỆP 1M + SHOPEE 1.5M + TIÊN 1.5M)**| **4,000,000**   | ✅ Đã trả Hiệp 5M ngày 15/10; còn nợ Hiệp 1M, Shopee 1.5M, Tiên 1.5M |
-| 🟢 **TIỀN MẶT TỰ DO SẠCH NỢ (SAU TRỌ + TỔNG NỢ)**  | **24,776,876**  | **Tiền mặt ròng hoàn toàn tự do sau khi thanh toán mọi nghĩa vụ**   |
+| 🟢 **TIỀN MẶT TỰ DO SẠCH NỢ (SAU TRỌ + TỔNG NỢ)**  | **16,357,781**  | **Tiền mặt ròng hoàn toàn tự do sau khi thanh toán mọi nghĩa vụ**   |
 | ───────────────────────────────────────────────    | ──────────────  | ──────────────────────────────────────────────────────────────────  |
 | **THU NHẬP THUẦN CỦA HIẾU**                        | **34,917,948**  | TMA 17.63M + BIT 7M + Yoko 5M + Mẹ góp 2.5M + Trí + Khác            |
 | _Thu hồi nợ cho mượn (Diễm trả)_                   | _1,000,000_     | _Thu hồi nợ về tiền mặt TCB (hoàn vốn, không tính thu nhập thuần)_  |
@@ -245,34 +246,36 @@
 | Mua iPhone                                         | 17,000,000      | 8tr + 3tr (trừ VCB) + 6tr (vay Hiệp)                                |
 | Chạy nghĩa vụ quân sự (phần Hiếu tự chi)           | 2,500,000       | 5tr tổng trừ 2.5tr mẹ góp                                           |
 | Chi phí phòng thực tế của Hiếu (1/4 phòng)         | 2,386,338       | 1/4 của tổng 9,545,350đ trọ 8M + điện 1.55M                         |
+| ✈️ Vé Tết chiều đi (29/01/2027)                    | 2,622,581       | Khoản lớn có kế hoạch: 3,627,181 − tín dụng VJ 1,004,600 (BIDV 25/10) |
 | Mua giày                                           | 2,190,000       | Chuyển khoản bên bán giày (trừ VCB 10/10)                           |
-| Đóng phường tháng 10 (Quỹ mẹ 500tr)                | 2,000,000       | Đã chuyển đóng ngày 11/10 theo QUY_ME_500TR.md                      |
-| Skincare, thuốc + cắt tóc                          | 1,577,000       | VCB 1.115M + TCB 182k + cắt tóc 70k (17/10) + thuốc 210k (20/10)    |
+| Đóng phường Quỹ mẹ (suất Hiếu)                     | 4,000,000       | T10 2M (11/10) + **T11 trả trước 2M (23/10)** → T11 không phải đóng nữa |
+| Skincare, thuốc, cắt tóc, da liễu                  | 2,662,000       | VCB 1.115M + TCB 182k + cắt tóc 70k + thuốc 210k + bs da liễu 1,085k (23/10) |
 | Ăn uống, Bách hoá xanh (VCB + TCB + BIDV)          | 2,107,742       | Đã cộng BHX 426k, BHX online VCB 61,920 + 144,192, bún bánh canh 70k + QR 15k (20/10), cơm gà 35k + tạp hoá 12k (22/10), cơm Bảo, bánh mì, QR Thanh, Dookki 150,360 BIDV (18/10), bánh mì 20k TCB + BHX 288,716 BIDV (19/10) |
-| Cafe, mua sắm & chi tiêu khác / Sub                | 3,220,637       | Đã cộng Sub 480k, xăng 90k (20/10), xe cầu lông 5k, VCB 86k/120k/200k, điện nước 90k, VCB 109,326 (chưa rõ), vợt cầu lông 700k |
-| 🔴 **TỔNG CHI TIÊU THỰC SỰ CỦA HIẾU (CHI THUẦN)**  | **32,981,717**  | **Chi phí thực tế xuất từ túi Hiếu không lấy lại được**             |
+| Cafe, mua sắm & chi tiêu khác / Sub                | 2,827,399       | Cộng đúng theo từng dòng mục 5: Sub 480k, xăng 90k, xe cầu lông 5k, VCB 86k/120k/200k, điện nước 90k, VCB 109,326 (chưa rõ), vợt 700k |
+| 🔴 **TỔNG CHI TIÊU THỰC SỰ CỦA HIẾU (CHI THUẦN)**  | **38,296,060**  | **Chi phí thực tế xuất từ túi Hiếu không lấy lại được** (gồm 2M quỹ mẹ T11 trả trước + 2.62M vé Tết; Claude Code 620k là phải thu BIT, không tính) |
 | ───────────────────────────────────────────────    | ──────────────  | ──────────────────────────────────────────────────────────────────  |
-| 💎 **BẢNG CÂN ĐỐI TÀI SẢN RÒNG TOÀN DIỆN (16/10)** |                 |                                                                     |
-| + Tiền mặt thực tế của Hiếu                        | +28,776,876     | Tiền mặt T+0 thực có (sau khi đã hoàn tất đóng 8tr trọ)             |
+| 💎 **BẢNG CÂN ĐỐI TÀI SẢN RÒNG TOÀN DIỆN (25/10)** |                 |                                                                     |
+| + Tiền mặt thực tế của Hiếu                        | +20,357,781     | Tiền mặt T+0 thực có (đã trừ 10M tiền mẹ)                           |
 | + Danh mục Binance (78,262.48 W tích sản)          | +30,000,000     | Thị giá đ383.33/W (Vốn gốc nạp: 111.5M từ 04/2024, thị giá 30M)     |
 | + Danh mục OKX Bot Trading                         | +8,000,000      | Toàn bộ 8M chạy bot tự động (tự kiếm lời/lỗ)                        |
-| + Khoản phải thu (Diễm mượn)                       | 0               | ✅ Đã thu hồi đủ 1,000,000đ ngày 12/10 qua MoMo                     |
+| + Khoản phải thu (BIT hoàn Claude Code)            | +620,000        | Diễm đã trả đủ 1M (12/10); BIT hoàn 620k cuối T10                   |
 | - Nợ ngắn hạn & trả góp (Hiệp 1M + Shopee 1.5M + Duy Tiên 1.5M)| -4,000,000 | Hiệp 1M, Shopee 1.5M, Duy Tiên 1.5M (trả 500k/tháng)                |
-| 🏆 **TỔNG TÀI SẢN RÒNG TOÀN DIỆN (NET WORTH)**     | **62,776,876**  | **Toàn bộ tài sản ròng tích lũy thuộc về bản thân Hiếu (SẠCH TRỌ)** |
+| 🏆 **TỔNG TÀI SẢN RÒNG TOÀN DIỆN (NET WORTH)**     | **54,977,781**  | **Toàn bộ tài sản ròng tích lũy thuộc về bản thân Hiếu (SẠCH TRỌ)** |
 | ───────────────────────────────────────────────    | ──────────────  | ──────────────────────────────────────────────────────────────────  |
-| 🌸 _Tài sản phụng dưỡng gia đình (Quỹ mẹ 500tr)_   | _8,000,000_     | _Đã tích lũy gốc 8M (T10 vừa đóng 2M), mốc 100M trích lãi nuôi mẹ_  |
-| 👵 _Tiền mẹ gửi nhờ giữ hộ trong VCB_              | _12,000,000_    | _Tài sản của mẹ, nợ ủy thác giữ hộ 100% (ngoại bảng); đã chuyển sang VCB 24/10_  |
+| 🌸 _Tài sản phụng dưỡng gia đình (Quỹ mẹ 500tr)_   | _10,000,000_    | _Luỹ kế gốc 10M (T10 + T11 trả trước 23/10), mốc 100M trích lãi nuôi mẹ_ |
+| 👵 _Tiền mẹ gửi nhờ giữ hộ trong VCB_              | _10,000,000_    | _Tài sản của mẹ, ngoại bảng; nằm trong VCB từ 24/10_                |
+| 📦 _Tài sản cố định (iPhone + giày, giá trị còn lại)_ | _18,299,167_ | _Không cộng vào Net Worth - xem [TAI_SAN_KHAU_HAO.md](../TAI_SAN_KHAU_HAO.md)_ |
 
 ---
 
 ## KẾ HOẠCH NỬA CUỐI THÁNG 10/2026
 
 - ✅ **Tiền trọ T10 (8,000,000 VND):** Đã hoàn tất chuyển khoản lúc 00:19 ngày 16/10 cho chủ nhà PHAM THI THOA.
-- ⏳ **Phí quản lý / dịch vụ chung cư Topaz Home (900,000 VND):** Dự kiến thanh toán vào ngày 17/10 hoặc 18/10.
+- ⏳ **Phí quản lý / dịch vụ chung cư Topaz Home (900,000 VND):** Chưa đóng (đến 24/10) - đóng trước 31/10.
 - ✅ **Thu tiền phòng 4 anh em:** Toàn bộ anh em (Minh, Tuấn, Triều, Phát) đã hoàn tất đóng tiền phòng T10 đủ 100%.
-- ✅ **Quỹ mẹ 2tr (Đóng phường):** Hoàn thành đóng 2,000,000 VND ngày 11/10 (Luỹ kế gốc đạt 8,000,000 VND).
-- 🔴 **Kế hoạch trả nợ:** Đã chuyển trả Hiệp 5,000,000 VND (15/10). Còn nợ Hiệp 1M, Shopee 1.5M và Duy Tiên 1.5M (trả góp 500k/tháng, tổng nợ 4M). Sạch trọ dứt điểm, tiền tự do còn 24.8M an toàn.
+- ✅ **Quỹ mẹ (Đóng phường suất Hiếu):** Đóng T10 2M ngày 11/10 + trả trước T11 2M ngày 23/10 → luỹ kế gốc 10,000,000 VND.
+- 🔴 **Kế hoạch trả nợ:** Đã chuyển trả Hiệp 5,000,000 VND (15/10). Còn nợ Hiệp 1M, Shopee 1.5M và Duy Tiên 1.5M (trả góp 500k/tháng, tổng nợ 4M). Sạch trọ dứt điểm, tiền tự do còn ~16.36M (25/10, sau khi trả vé Tết chiều đi).
 
 ---
 
-_Cập nhật: 24/10/2026 — Bổ sung giao dịch 22-24/10: vợt cầu lông 700k, bs da liễu (885k+120k BIDV + 80k tiền mặt), Claude Code 620k (khoản phải thu BIT), phường T11 4M cho anh Nghĩa (2M suất Hiếu + 2M suất mẹ). Chuyển 12M tiền mẹ từ BIDV → VCB. Tiền mẹ còn giữ hộ: 10M. Xác định cơ chế phường 2 suất (Hiếu + Mẹ mỗi người 2tr/tháng). Trước đó: 22/10/2026 (thêm 6 giao dịch TCB 20-22/10 = 432k: bún 70k, QR 15k, thuốc 210k, xăng 90k, cơm gà 35k, tạp hoá 12k; Dookki thực 150,360 (2 bạn trả lại 300k); BIDV→TCB 500k nội bộ). Trước đó: 16/10/2026 (Đã đóng trọ thành công 8M qua VCB cho PHAM THI THOA)._
+_Cập nhật: 25/10/2026 (Vé Tết chiều đi VJ-226 29/01/2027: trả 2,622,581 BIDV sau khi trừ tín dụng VJ 1,004,600 → BIDV 17,398,536, tiền mặt thực 20,357,781, chi thuần 38,296,060, Net Worth 54,977,781). Trước đó: 24/10/2026 (Đối soát lại: số dư lấy gốc app 22/10 thay vì ảnh 16/10 → BIDV 20,021,117 · VCB 12,011,948 · TCB 527,297 · ví 420k; tiền mặt thực 22,980,362; tổng mục 5 cộng lại theo dòng = 2,827,399; chi thuần 35,673,479; Net Worth 57,600,362). Trước đó: 24/10/2026 — Bổ sung giao dịch 22-24/10: vợt cầu lông 700k, bs da liễu (885k+120k BIDV + 80k tiền mặt), Claude Code 620k (khoản phải thu BIT), phường T11 4M cho anh Nghĩa (2M suất Hiếu + 2M suất mẹ). Chuyển 12M tiền mẹ từ BIDV → VCB. Tiền mẹ còn giữ hộ: 10M. Xác định cơ chế phường 2 suất (Hiếu + Mẹ mỗi người 2tr/tháng). Trước đó: 22/10/2026 (thêm 6 giao dịch TCB 20-22/10 = 432k: bún 70k, QR 15k, thuốc 210k, xăng 90k, cơm gà 35k, tạp hoá 12k; Dookki thực 150,360 (2 bạn trả lại 300k); BIDV→TCB 500k nội bộ). Trước đó: 16/10/2026 (Đã đóng trọ thành công 8M qua VCB cho PHAM THI THOA)._

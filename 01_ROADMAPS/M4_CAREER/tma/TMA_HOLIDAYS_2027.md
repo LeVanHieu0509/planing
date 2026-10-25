@@ -57,7 +57,14 @@
     * Tiền lệ dự án năm ngoái anh Đạt luôn approve cho anh em ở xa về quê remote bình thường. ✅ **Hiếu xác nhận 17/10/2026: năm trước anh Đạt cho nhiều người remote → coi như ổn.**
     * Quỹ phép năm còn 5–7 ngày sẵn sàng làm backup.
     * Nhắn anh Đạt xin phép làm việc **remote tuần trước Tết (01/02 → 03/02/2027)** và **tuần sau Tết (11/02 → 19/02/2027)**.
-  - **Quyết định đặt vé:** ⏳ **CHƯA ĐẶT - đang cân nhắc (17/10/2026).** Nếu đặt thì ưu tiên khứ hồi 1 lần:
+  - ✅ **CHIỀU ĐI ĐÃ ĐẶT (25/10/2026) - đổi sang T6 29/01 vì rẻ hơn ~100k:**
+    * **VJ-226 · Thứ Sáu 29/01/2027 (22 tháng Chạp) · 14:45 SGN → 16:35 Vinh** · hạng Khuyến mãi, **được hoàn/đổi lịch** (có phí - xem chính sách trong app).
+    * Traveloka ID **1403358579** · giá vé 3,627,181 − tín dụng du lịch VJ 1,004,600 = **thực trả 2,622,581** (BIDV 10:31 25/10, số tham chiếu 6298BIDVE25SQ2G8). Xách tay 7kg, chưa mua ký gửi.
+    * **Lịch ngày bay:** T5 28/01 đi văn phòng bình thường, tối soạn đồ → T6 29/01 sáng remote ở nhà, **xin phép 0.5 ngày buổi chiều**, ~12:30 ra sân bay → **ngủ lại Vinh 1 đêm** → **T7 30/01 (23 tháng Chạp) sáng sớm về nhà cúng ông Công ông Táo** (hỏi mẹ giờ cúng).
+    * Remote trước Tết chỉ còn **T2–T4 01/02 → 03/02/2027** (3 ngày).
+    * Đơn cũ 1403345241 (không áp được tín dụng) - bỏ, để tự hết hạn.
+  - ⏳ **CHIỀU VÀO (VII → SGN): CHƯA ĐẶT** - mặc định T7 20/02/2027 (Rằm) hoặc dời lên 13–14/02; ~3–3.1tr kèm ký gửi. _(Ghi chú cũ 17/10 bên dưới giữ để tham khảo.)_
+  - **Quyết định đặt vé (ghi 17/10/2026):** Nếu đặt thì ưu tiên khứ hồi 1 lần:
     * Khóa cứng giờ đẹp cả đi lẫn về, tránh nguy cơ vé chiều về sau Rằm bị tăng lên 3.8M–4.5M hoặc hết chuyến ban ngày.
     * Tổng thực chi khứ hồi: **~5.300.000 – 5.400.000 VNĐ** (Tiền mặt tự do còn ~19.5M, an toàn tuyệt đối).
 
@@ -76,6 +83,6 @@
 | **2. Phê duyệt Remote từ anh Đạt / TMA** | **Thấp - TB** | Anh Đạt hoặc dự án TMA chỉ duyệt remote 1 tuần thay vì cả 2 tuần (trước và sau Tết). | - **Phương án B:** Hiếu có quỹ ngày phép năm (Annual Leave). Nếu công ty không cho remote 3 ngày trước Tết (01/02–03/02), Hiếu dùng 3 ngày phép năm là xong.<br>- Sáng thứ 2 nhắn nhẹ anh Đạt xin định hướng trước, hoặc check tiền lệ dự án năm ngoái. |
 | **3. Chính sách Đổi ngày bay nếu có việc đột xuất** | **Thấp** | Đặt vé trước hơn 3 tháng, nếu công ty hoặc gia đình có việc thay đổi ngày. | - Vé Eco của Vietjet & Vietravel **cho phép đổi ngày giờ bay** (mất phí đổi + chênh lệch giá vé).<br>- Giữ thói quen mua thêm gói bảo hiểm chuyến bay trễ/hủy (~50k-80k) để an tâm tuyệt đối. |
 | **4. Kẹt xe ra sân bay Tân Sơn Nhất chiều 28/01** | **Thấp** | Chiều 21 tháng Chạp đường Cộng Hòa / Trường Chinh rất đông, chuyến bay 19:20 tối có thể bị trễ nếu ra muộn. | - Hiếu xin **nghỉ chiều Thứ Năm 28/01 (0.5 ngày phép)**.<br>- Ra sân bay sớm từ **16:30 – 17:00** (trước giờ bay 2.5 - 3 tiếng), gửi hành lý thong thả, ăn nhẹ trong phòng chờ. |
-| **5. Dòng tiền tháng 10 sau khi thanh toán** | **Không có** | Chi 5.3M có làm hụt tiền chi tiêu sinh hoạt không? | - Tiền mặt tự do hiện có: **24.8M**. Trừ 5.3M vé máy bay vẫn còn **~19.5M**.<br>- Quỹ sinh hoạt 8-10M/tháng hoàn toàn dư dả đến ngày nhận lương T10 (đầu tháng 11). Rủi ro tài chính = 0%. |
+| **5. Dòng tiền tháng 10 sau khi thanh toán** | **Không có** | Chi 5.3M có làm hụt tiền chi tiêu sinh hoạt không? | - ✅ Chiều đi đã trả 2,622,581 (25/10). Tiền mặt tự do còn **~16.4M**; chiều vào ~3tr nữa vẫn còn **~13.4M**.<br>- Quỹ sinh hoạt 8-10M/tháng vẫn đủ đến ngày nhận lương 05/11. Rủi ro tài chính = 0%. |
 
-_Cập nhật: 17/10/2026 (Vé Tết CHƯA đặt; ngày về chốt T7 20/02; remote quanh Tết đã xác nhận theo tiền lệ; thông tin Coach chỉ link về file Coach)._
+_Cập nhật: 25/10/2026 (Đã đặt chiều đi VJ-226 T6 29/01/2027 14:45, thực trả 2,622,581 sau tín dụng VJ; ngủ Vinh 1 đêm, 23 Chạp về cúng ông Táo; chiều vào chưa đặt). Trước đó: 24/10/2026 (Cập nhật tiền mặt tự do 24/10 ~19.0M). Trước đó: 17/10/2026 (Vé Tết CHƯA đặt; ngày về chốt T7 20/02; remote quanh Tết đã xác nhận theo tiền lệ; thông tin Coach chỉ link về file Coach)._
