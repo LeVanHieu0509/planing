@@ -54,6 +54,18 @@ các bạn nữ trong lớp → ai mở túi cũng vui, cả lớp rộn ràng.
 - **Nhạy với các dịp:** 8/3, 20/10, sinh nhật, Tết... Chỉ cần nhớ ngày và chuẩn bị trước 1-2 ngày là đủ ghi điểm.
 - **Tặng cả nhóm, không tặng riêng 1 người** → tự nhiên, không gây áp lực, ai cũng thoải mái nhận.
 
+### 24/10/2026 - Quỳnh "nhận đặt quán" thay Hiếu
+
+```
+Quán nướng Hiếu đặt ra món chậm ~50 phút, đồ ăn dở. Em gái họ của Quỳnh hỏi
+"ai đặt quán này vậy?" → Quỳnh nhanh trí nhận "Q đặt á" để giữ thể diện cho Hiếu.
+```
+
+**Bài học cho Hiếu:**
+- **Tinh tế = giữ thể diện cho người khác trước đám đông**, không chờ ai nhờ.
+- **Tôn trọng thể hiện ở việc nhỏ**, lúc người kia đang lúng túng nhất.
+- Hiếu muốn trở thành người làm được điều này cho bạn bè, đồng nghiệp và người yêu sau này.
+
 **Áp dụng sắp tới:**
 - [ ] 17/11 - sinh nhật Quỳnh (xem [QUYNH_BAN_CU_2019.md](./friend/QUYNH_BAN_CU_2019.md))
 - [ ] Ghi các dịp quan trọng của người thân, bạn bè vào lịch điện thoại, nhắc trước 2 ngày
@@ -147,7 +159,7 @@ TUYỆT ĐỐI KHÔNG HI SINH VÌ BẤT KỲ MỐI QUAN HỆ NÀO:
 
 ---
 
-_Cập nhật: 20/10/2026 (Thêm mục "Sự tinh tế" - bài học túi mù Labubu của anh Hoà ngày 20/10). Trước đó: 17/10/2026 (Link quỹ mẹ về M2_FINANCE). Trước đó: 15/10/2026 (Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027; Đồng bộ số liệu giữa các file). Trước đó: 13/09/2026 (V4 - Viết lại toàn bộ theo hệ thống mới, bỏ Epic E6/Story Point. Thêm kế
+_Cập nhật: 25/10/2026 (Thêm bài học tinh tế 24/10: Quỳnh nhận đặt quán để giữ thể diện cho Hiếu). Trước đó: 20/10/2026 (Thêm mục "Sự tinh tế" - bài học túi mù Labubu của anh Hoà ngày 20/10). Trước đó: 17/10/2026 (Link quỹ mẹ về M2_FINANCE). Trước đó: 15/10/2026 (Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027; Đồng bộ số liệu giữa các file). Trước đó: 13/09/2026 (V4 - Viết lại toàn bộ theo hệ thống mới, bỏ Epic E6/Story Point. Thêm kế
 hoạch "Bạn đời" chốt 13/09/2026: ưu tiên phát triển bản thân trước, dự kiến tìm hiểu nghiêm túc
 cuối 2026, khu vực miền Trung (Nghệ An-Đà Nẵng, Nha Trang trở ra), ưu tiên nghề giáo viên/bác sĩ.
 Reset bảng tracking theo Sprint S1 mới.)_

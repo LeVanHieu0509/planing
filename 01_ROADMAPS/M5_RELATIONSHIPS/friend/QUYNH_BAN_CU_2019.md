@@ -25,7 +25,8 @@ T01/2020    Gặp Quỳnh lần đầu - đi ăn nướng.
             - 09/04/2025: "Mỗi năm nt cho bà 1 tin nhắn, mới đó mà được 4 năm rồi".
 17/10/2026  Tối hôm đó Hiếu buồn, nhắn cho Quỳnh tâm sự.
             Quỳnh rủ đi ăn nướng luôn.
-24/10/2026  Quỳnh về Sài Gòn → hẹn gặp lại sau ~6 năm (dời từ tối CN 25/10 lên tối T7 24/10).
+24/10/2026  Gặp lại Quỳnh sau 4 năm (dời từ tối CN 25/10 lên tối T7 24/10). Quen nhau 6 năm, gặp đúng 3 lần
+            → càng lớn càng trân trọng thời gian gặp nhau. (Xem "Sau buổi gặp" bên dưới.)
 ```
 
 ---
@@ -48,7 +49,7 @@ T01/2020    Gặp Quỳnh lần đầu - đi ăn nướng.
 
 ## 🍢 KẾ HOẠCH GẶP LẠI - TỐI T7 24/10/2026 (dời lịch từ CN 25/10)
 
-**Đi nhóm 4 người:** Hiếu · Quỳnh · em gái Quỳnh · 1 bạn nam (_có thể là người yêu Quỳnh - chưa chắc, đừng đoán ra miệng; Quỳnh giới thiệu thế nào thì gọi thế ấy_).
+**Đi nhóm 4 người:** Hiếu · Quỳnh · **em gái họ của Quỳnh** · **bạn trai của em gái họ** _(thực tế 24/10: không phải người yêu Quỳnh; em gái và bạn ấy gặp lại Hiếu sau 2 năm)_.
 
 ```
 - BIT 2h tối T7 (19:30-21:30) dời lên chiều T7 24/10 (slot bù 16:30-18:00 + phần còn lại bù trong tuần 26/10-01/11).
@@ -166,10 +167,15 @@ T01/2020    Gặp Quỳnh lần đầu - đi ăn nướng.
 
 ---
 
-## 📝 SAU BUỔI GẶP (ghi 1-2 dòng)
+## 📝 SAU BUỔI GẶP (tối T7 24/10/2026)
 
->
+- **Ai đi:** Hiếu · Quỳnh (gặp lại sau 4 năm) · em gái họ của Quỳnh + bạn trai của em (gặp lại sau 2 năm).
+- **Câu chuyện chính:** Quỳnh kể rất nhiều về công việc và cuộc sống hiện tại - từng phải gồng một khoản nợ, giờ đã trả xong xuôi. Hiếu chủ yếu lắng nghe.
+- **Sự cố:** quán nướng Hiếu đặt (Làng Chài) **ra món chậm ~50 phút, đồ ăn dở**. Em gái họ hỏi _"ai đặt quán này vậy?"_ → **Quỳnh tự nhận "Q đặt á"** để cứu Hiếu.
+- **Điều Hiếu nhận được:** cảm giác **được tôn trọng** từ một người con gái - thứ mà trong mối quan hệ với Ngọc Diễm (2024-2025) Hiếu không có. → bài học ghi ở [DATING_CORE_PRINCIPLES.md](../dating/DATING_CORE_PRINCIPLES.md) mục 7–8.
+- **Giữ tình bạn này thế nào:** Quỳnh đã có người yêu → không nhắn nhiều, chỉ hỏi thăm đúng dịp (17/11 sinh nhật, Tết). Bạn lâu năm, ít gặp nhưng quý.
+- **Rút kinh nghiệm chọn quán:** lần sau đi nhóm → chọn quán đã từng ăn hoặc review tốt gần đây, tránh quán đông giờ cao điểm cuối tuần.
 
 ---
 
-_Cập nhật: 24/10/2026 (Dời buổi gặp lên tối T7 24/10, đi nhóm 4 người → thêm kịch bản hoà đồng; cất bộ câu hỏi insight; bỏ "lăng kính quan sát Quỳnh"; BIT tối T7 dời lên chiều). Trước đó: 23/10/2026 (Bổ sung mục "Góc chiêm nghiệm: Câu chuyện cô giáo Tây Ninh"); 18/10/2026 (Tạo file - ký ức về Quỳnh, kế hoạch gặp lại, mục "Câu chuyện chính: 6 năm qua")._
+_Cập nhật: 25/10/2026 (Ghi lại buổi gặp 24/10: gặp lại sau 4 năm, nhóm đi cùng là em gái họ + bạn trai của em; Quỳnh nhận đặt quán để cứu Hiếu). Trước đó: 24/10/2026 (Dời buổi gặp lên tối T7 24/10, đi nhóm 4 người → thêm kịch bản hoà đồng; cất bộ câu hỏi insight; bỏ "lăng kính quan sát Quỳnh"; BIT tối T7 dời lên chiều). Trước đó: 23/10/2026 (Bổ sung mục "Góc chiêm nghiệm: Câu chuyện cô giáo Tây Ninh"); 18/10/2026 (Tạo file - ký ức về Quỳnh, kế hoạch gặp lại, mục "Câu chuyện chính: 6 năm qua")._

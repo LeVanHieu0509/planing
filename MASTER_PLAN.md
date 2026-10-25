@@ -49,6 +49,7 @@ Hiện tại:  20,357,781 tiền mặt thực tế (25/10, đã trừ 10M tiền
 Tích sản:  78,262 W trên Binance (vốn nạp 111.5M - 🔒 KHÓA VỊ THẾ, KHÔNG MUA THÊM, thị giá hiện ~30tr) - kèo "nổ hũ" target $0.70 (~715M) & $1.50 (~1.53 tỷ)
 Tiết kiệm: ~15-17tr/tháng (chi 8-10tr; có người yêu +2tr) · từ T02/2027 -3tr vì quỹ mẹ lên 5tr
 Dự kiến đủ 43tr: T12/2026 (sớm hơn hạn đóng T12/2027 khoảng 1 năm; T10 chi lớn 38.3tr gồm cả vé Tết chiều đi nên lùi 1 tháng)
+Thưởng:    Lương tháng 13 TMA ≈ 1 tháng lương (~17.6tr), dự kiến trước Tết ~T01/2027 - chưa cộng vào dự phóng, chỉ ghi khi tiền về
 Trần:      KHÔNG bơm thêm crypto/bot đến khi tiền mặt ≥ 50tr
 ```
 
@@ -218,4 +219,4 @@ planing/
 
 ---
 
-_Cập nhật: 25/10/2026 (Trả vé Tết chiều đi 2.62tr: tiền mặt 20,357,781, Net Worth ~55.0M, lộ trình tiền mặt tính lại). Trước đó: 24/10/2026 (Đồng bộ tài chính 24/10: tiền mặt thực 22,980,362, Net Worth ~57.6M; lộ trình tiền mặt tính lại → đủ 43tr + trần 50tr T12/2026). Trước đó: 17/10/2026 (Gom Coach + Quỹ mẹ về 1 nguồn). Trước đó: 15/10/2026 (Chi thực tế 8-10tr/tháng; 2 tỷ chỉ trông vào chốt W; Hạn nộp chứng chỉ TOEIC 700+ cho TMA: 15/11/2027; TOEIC 700+ = điều kiện bắt buộc lên Senior TMA năm 2027; Chốt ngành: Thạc sĩ Khoa học máy tính; Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027). Trước đó: 12/10/2026 (V10 - Stress test toàn bộ plan: Điều chỉnh mục tiêu % mỡ M3 xuống 12-15% để tránh sụt test/burnout; Dời lịch cày TOEIC sang T02/2027 để không bị overload với Immersion; Nhấn mạnh việc tìm hiểu quy chế thi đầu vào Thạc sĩ.)_
+_Cập nhật: 25/10/2026 (Thêm dòng lương tháng 13 TMA ~17.6tr - thu nhập dự kiến). Trước đó: 25/10/2026 (Trả vé Tết chiều đi 2.62tr: tiền mặt 20,357,781, Net Worth ~55.0M, lộ trình tiền mặt tính lại). Trước đó: 24/10/2026 (Đồng bộ tài chính 24/10: tiền mặt thực 22,980,362, Net Worth ~57.6M; lộ trình tiền mặt tính lại → đủ 43tr + trần 50tr T12/2026). Trước đó: 17/10/2026 (Gom Coach + Quỹ mẹ về 1 nguồn). Trước đó: 15/10/2026 (Chi thực tế 8-10tr/tháng; 2 tỷ chỉ trông vào chốt W; Hạn nộp chứng chỉ TOEIC 700+ cho TMA: 15/11/2027; TOEIC 700+ = điều kiện bắt buộc lên Senior TMA năm 2027; Chốt ngành: Thạc sĩ Khoa học máy tính; Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027). Trước đó: 12/10/2026 (V10 - Stress test toàn bộ plan: Điều chỉnh mục tiêu % mỡ M3 xuống 12-15% để tránh sụt test/burnout; Dời lịch cày TOEIC sang T02/2027 để không bị overload với Immersion; Nhấn mạnh việc tìm hiểu quy chế thi đầu vào Thạc sĩ.)_

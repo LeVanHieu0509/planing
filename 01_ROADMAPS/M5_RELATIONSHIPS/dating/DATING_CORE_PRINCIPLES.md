@@ -59,6 +59,40 @@
 > 💬 Nhận sai là trưởng thành, nhưng không tự trách mãi. Lỗi nhịp độ sửa được ở lần sau.
 > Cái kết "Em cám ơn anh nha" cho thấy mình đã khép lại bằng sự tôn trọng - đó là chiến thắng.
 
+## 7. BÀI HỌC TỪ NGỌC DIỄM (09/03/2024 → 22/04/2025)
+
+### Chuyện gì đã xảy ra
+
+```
+- Yêu ~13.5 tháng. Mỗi cuối tuần Hiếu đi từ Q8 (Tạ Quang Bửu) lên ĐH Nông Lâm (Thủ Đức)
+  để ở với Diễm, rồi về Bình Tân chơi nhà chị gái Diễm.
+- Hiếu chủ yếu "phục vụ cảm xúc" cho Diễm, bị điều khiển hành vi, bị kiểm soát,
+  không có tiếng nói cá nhân trong mối quan hệ.
+- Diễm khó thể hiện tình cảm nam nữ, cá tính mạnh, cái tôi cao; không vừa ý là ra mặt
+  ngay (Hiếu làm sai hay chọn quán chưa ổn → thái độ tại chỗ).
+- 22/04/2025: hai người quyết định dừng lại.
+```
+
+### 4 bài học
+
+1. **Không hợp ≠ ai sai.** Diễm thẳng, cá tính mạnh; Hiếu cần sự nhẹ nhàng và tôn trọng. Hai nhu cầu không khớp → càng cố càng mệt. Không cần đi tìm câu trả lời "tại sao Diễm không như vậy".
+2. **Tôn trọng là thứ phải giữ từ phía mình.** Khi mình bỏ hết tiếng nói để chiều người kia, người kia sẽ quen với việc mình không có tiếng nói. Giữ ranh giới (thời gian, lịch, mục tiêu riêng) ngay từ đầu.
+3. **Yêu ≠ phục vụ.** Chăm sóc nhau là hai chiều; nếu chỉ một người đi, một người nhận suốt hơn 1 năm → mất cân bằng (xem mục 1).
+4. **Phản ứng khi có sự cố nói lên tất cả.** Người hợp với Hiếu sẽ cùng xử lý êm, giữ thể diện cho nhau trước người khác - không "ra mặt" ngay tại chỗ.
+
 ---
 
-_Cập nhật: 20/10/2026 (Thêm mục 6 - bài học khép lại case Huyền: nhịp độ, không nhắn khuya, cách kết thúc đẹp). Trước đó: 08/10/2026. Gấp lại các file cũ, reset năng lượng, tập trung vào IT, Gym, Tiếng Anh. Tình yêu cứ để tự nhiên như hơi thở!_
+## 8. THƯỚC ĐO SỐ 1: SỰ TÔN TRỌNG (đúc kết 25/10/2026)
+
+> _"Con trai chúng tôi chỉ cần sự tôn trọng là đủ."_ - Hiếu
+
+- **Mẫu đối chiếu:** tối 24/10, quán Hiếu đặt dở và chậm 50 phút, Quỳnh tự nhận là mình đặt để giữ thể diện cho Hiếu ([QUYNH_BAN_CU_2019.md](../friend/QUYNH_BAN_CU_2019.md)). Đó là cảm giác được tôn trọng Hiếu muốn có trong một mối quan hệ.
+- **Câu hỏi tự kiểm tra khi tìm hiểu ai đó:**
+  - Khi mình làm hỏng việc nhỏ (chọn quán dở, đến trễ), người ấy phản ứng thế nào - nhất là trước mặt người khác?
+  - Người ấy có tôn trọng lịch, mục tiêu riêng của mình (gym, tiếng Anh, 23:30 ngủ, tối T4/CN relax) không?
+  - Mình có còn tiếng nói của mình không, hay đang dần chỉ chạy theo cảm xúc người kia?
+- **Phải đo bằng gặp ngoài đời nhiều lần (1-2 tháng)**, không đo bằng 1 tuần nhắn tin.
+
+---
+
+_Cập nhật: 25/10/2026 (Thêm mục 7 - bài học Ngọc Diễm 2024-2025; mục 8 - tôn trọng là thước đo số 1). Trước đó: 20/10/2026 (Thêm mục 6 - bài học khép lại case Huyền: nhịp độ, không nhắn khuya, cách kết thúc đẹp). Trước đó: 08/10/2026. Gấp lại các file cũ, reset năng lượng, tập trung vào IT, Gym, Tiếng Anh. Tình yêu cứ để tự nhiên như hơi thở!_
