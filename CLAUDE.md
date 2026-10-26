@@ -36,7 +36,7 @@ AI có nghĩa vụ **"TUÝT CÒI" VÀ TỪ CHỐI NGAY LẬP TỨC** nếu Hiế
 | # | Vùng cấm | Quy tắc bất khả xâm phạm |
 | - | :--- | :--- |
 | 🚫 | **1. CẤM sửa plan trong Sprint** | Trong 2 tuần của Sprint, file Sprint chỉ mở ra cuối ngày để tick `✅` hoặc `☐`. Cấm ngồi tái cấu trúc, cấm vẽ thêm task, cấm đổi quy trình giữa chừng. Thời gian rảnh là để LÀM. |
-| 🚫 | **2. CẤM xâm phạm 2 van xả stress** | • **Tối Thứ 4 (sau đá banh):** RELAX 100% (không BIT, không học).<br>• **Tối Chủ Nhật (sau lớp phản xạ):** RELAX 100% (chỉ dành 15p check-in lúc 21:00 ở tuần cuối sprint). |
+| 🚫 | **2. CẤM xâm phạm 2 van xả stress** | • **Tối Thứ 4 (sau đá banh):** RELAX 100% (không BIT, không học).<br>• **Tối Chủ Nhật:** RELAX 100% (chỉ dành 15p check-in lúc 21:00 ở tuần cuối sprint). |
 | 🚫 | **3. CẤM thức khuya sau 23:30** | Mọi lịch trình làm việc và học tập phải kết thúc trước 22:45. Dành 30p đọc sách tiếng Anh wind down, 23:30 tắt đèn ngủ. Không có ngoại lệ "cố nốt task". |
 | 🚫 | **4. CẤM đầu tư khi Tiền mặt < 50M** | Tuyệt đối không bơm thêm tiền vào Binance, OKX hay Bot Trading cho đến khi Tiền mặt thực tế $\ge$ 50,000,000 VNĐ. Bảo vệ an toàn tuyệt đối cho quỹ học phí Thạc sĩ 43M. |
 | 🚫 | **5. CẤM cắt hoặc hoãn Quỹ mẹ 500tr** | Đúng ngày 11 hàng tháng chuyển 2,000,000 VNĐ (từ T02/2027 nâng lên 5,000,000 VNĐ) vào quỹ mẹ. Luôn là khoản đầu tiên chuyển đi mỗi tháng. |
@@ -48,7 +48,7 @@ AI có nghĩa vụ **"TUÝT CÒI" VÀ TỪ CHỐI NGAY LẬP TỨC** nếu Hiế
 Hệ thống đã **BỎ HOÀN TOÀN** Story Points và Daily Standup. Mọi công việc phải gắn trực tiếp với 5 mục tiêu:
 
 * **M1 · 🗣️ Tiếng Anh:**
-  * Immersion L3 (SAIGON SPECIAL: 20/10/2026 → 12/01/2027, T3 + T5 tối + CN chiều).
+  * Immersion L3 (SAIGON SPECIAL: 20/10/2026 → 12/01/2027, T3 + T5 tối; lớp Phản Xạ CN đã học xong, tạm bỏ khỏi lịch từ 26/10/2026).
   * Luyện Part 5 + Part 7 sáng T2 và T6 (chưa cày full test ETS trong giai đoạn L3).
   * T02/2027 → T06/2027: Cày đề ETS + Coach 1:1 Kim Hân (Gò Vấp, từ 27/02/2027). Lịch, học phí, giáo án: **chỉ xem tại** [COACH_1ON1_KIM_HAN_2027.md](./01_ROADMAPS/M1_ENGLISH/toeic/COACH_1ON1_KIM_HAN_2027.md).
   * **Thi TOEIC Cuối T06/2027** $\rightarrow$ **BẮT BUỘC nộp bằng 700+ cho TMA trước 15/11/2027 để lên Senior**.

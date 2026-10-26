@@ -6,7 +6,7 @@
 > **Dậy:** 07:00 (T2/T4/T6/T7/CN) | 07:15 (T3/T5 - lớp tối về muộn)
 > **Ngủ:** 23:30 mỗi đêm (không exception) - 30p trước khi ngủ dành cho việc ĐỌC SÁCH TIẾNG ANH.
 > **GYM:** T2 tối + T6 tối + T7 sáng + CN sáng - 4 buổi/tuần (giữ năng lượng đỉnh cao).
-> **Lớp Tiếng Anh:** T3+T5 tối 19:15-20:45 | Phản Xạ CN chiều 15:00-16:30 (tại Gò Vấp)
+> **Lớp Tiếng Anh:** T3+T5 tối 19:15-20:45 | ~~Phản Xạ CN~~ (đã học xong, tạm bỏ khỏi lịch từ 26/10/2026)
 > **Làm TMA:** T3 + T5 lên văn phòng cả ngày · **T2 + T4: sáng văn phòng, chiều remote tại nhà** · **T6: remote cả ngày tại nhà**
 > **Từ 27/02/2027:** Coach TOEIC **chiều T7 + chiều CN** (tuần cafe anh em: T7 → T4 ghé học trên đường về) - xem [COACH_1ON1_KIM_HAN_2027.md](../01_ROADMAPS/M1_ENGLISH/toeic/COACH_1ON1_KIM_HAN_2027.md)
 > **Cập nhật:** 16/10/2026 - Kích hoạt chiến dịch 90 ngày All-in toàn bộ thời gian rảnh vào tiếng Anh.
@@ -139,9 +139,8 @@
 09:00-10:00  ★ GYM sáng (buổi 4 - hoàn thành mục tiêu tuần)
 10:30-12:30  Cà phê / Thư giãn nhẹ nhàng
 12:30-13:30  Ăn trưa
-13:30-16:45  Nghỉ ngơi, việc cá nhân (Tuần cuối sprint: Check-in sprint 16:45-17:15)
-17:45-19:15  ★ LỚP PHẢN XẠ GIAO TIẾP (Chủ Nhật - tan lúc 19:15, Xả kho từ vựng & Chunks)
-19:30-22:30  🛋️ RELAX / đi chơi, hẹn hò, gặp bạn bè, xả stress (không BIT)
+13:30-18:00  Tự do: nghỉ ngơi, việc cá nhân, bạn bè, cầu lông (không xếp thêm task - lớp Phản Xạ đã học xong, tạm bỏ khỏi lịch từ 26/10/2026)
+18:00-22:30  🛋️ RELAX / đi chơi, hẹn hò, gặp bạn bè, xả stress (không BIT)
 22:30-23:15  🛋️ Về nhà thư giãn, chuẩn bị tuần mới nhẹ nhàng
 23:15-23:30  Vệ sinh cá nhân, tắt đèn
 23:30        Ngủ
@@ -173,4 +172,4 @@ TỔNG = 8h · Tối T4 + tối T6 + tối CN + chiều T7: KHÔNG làm BIT
 
 ---
 
-_Cập nhật: 17/10/2026 (Thêm lịch Coach 2027). Trước đó: 15/10/2026 (V6.4 - T2 + T4 chiều remote tại nhà, T6 remote cả ngày → bỏ di chuyển, T6 sáng TOEIC 75p; V6.3 - Tối T4 + tối CN = relax, bỏ BIT 2 tối này; BIT đủ 8h/tuần: 3h song song lúc remote (T2/T4 chiều, T6) + 5h buổi tối, tối T6 + chiều T7 được giải phóng; thêm TOEIC Part 5/7 sáng T2 + T6). Trước đó: (V6.2 - Tích hợp slot làm BIT 7M buổi tối và kích hoạt thói quen Prompt AI bằng tiếng Anh)._
+_Cập nhật: 26/10/2026 (Lớp Phản Xạ CN đã học xong, tạm bỏ khỏi lịch từ 26/10/2026; chiều CN thành thời gian tự do). Trước đó: 17/10/2026 (Thêm lịch Coach 2027). Trước đó: 15/10/2026 (V6.4 - T2 + T4 chiều remote tại nhà, T6 remote cả ngày → bỏ di chuyển, T6 sáng TOEIC 75p; V6.3 - Tối T4 + tối CN = relax, bỏ BIT 2 tối này; BIT đủ 8h/tuần: 3h song song lúc remote (T2/T4 chiều, T6) + 5h buổi tối, tối T6 + chiều T7 được giải phóng; thêm TOEIC Part 5/7 sáng T2 + T6). Trước đó: (V6.2 - Tích hợp slot làm BIT 7M buổi tối và kích hoạt thói quen Prompt AI bằng tiếng Anh)._

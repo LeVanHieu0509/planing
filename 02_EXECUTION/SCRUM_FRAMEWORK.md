@@ -86,7 +86,7 @@ Sprint nghỉ:   Cứ 3 sprint → 1 sprint nhẹ (S4, S8, S12...) - tối đa 2
 
 | Thói quen               | Tần suất      | Gắn với |
 | ----------------------- | ------------- | ------- |
-| Đi lớp tiếng Anh        | T3 + T5 + CN  | M1      |
+| Đi lớp tiếng Anh        | T3 + T5       | M1      |
 | Nghe podcast EN khi đi đường | Hàng ngày | M1      |
 | Gym                     | 4 buổi/tuần   | M3      |
 | Ngủ 23:30 - 07:00       | Hàng ngày     | M3      |
@@ -155,5 +155,5 @@ CHỦ NHẬT 21:00 - 21:15  (chỉ sprint cuối, tức 2 tuần/lần)
 
 ---
 
-_Cập nhật: 15/10/2026 (Chốt ngành: Thạc sĩ Khoa học máy tính; Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027; Đồng bộ số liệu giữa các file). Trước đó: 13/09/2026 (V7 - Đồng bộ M5 sang quỹ mẹ 500tr/2036. Giữ nguyên: bỏ SP, bỏ daily
+_Cập nhật: 26/10/2026 (Lớp Phản Xạ CN đã học xong, tạm bỏ khỏi lịch từ 26/10/2026). Trước đó: 15/10/2026 (Chốt ngành: Thạc sĩ Khoa học máy tính; Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027; Đồng bộ số liệu giữa các file). Trước đó: 13/09/2026 (V7 - Đồng bộ M5 sang quỹ mẹ 500tr/2036. Giữ nguyên: bỏ SP, bỏ daily
 standup, bỏ task TMA/BIT, 5 mục tiêu, tối đa 5 việc/sprint, mỗi việc phải gắn mốc dài hạn.)_

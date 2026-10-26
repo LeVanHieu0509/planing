@@ -110,7 +110,7 @@ T7  07:30 GYM  →  15:00 Hồi sinh bài L2 (LEVEL_2_RETROSPECTIVE.md)  →  19
 
 💻 BIT = 8 tiếng/tuần: 3h song song lúc remote (T2/T4 chiều, T6) + 5h tối (T2 · T3 · T5 1h, T7 2h) · tối T4/T6/CN không làm BIT
 🏠 TMA: T3 + T5 văn phòng · T2 + T4 sáng văn phòng, chiều remote tại nhà · T6 remote cả ngày
-CN  09:00 GYM  →  15:00 ★ LỚP PHẢN XẠ (Xả kho)  →  tối 🛋️ RELAX / đi chơi  (21:00 Check-in 15p cuối sprint)
+CN  09:00 GYM  →  chiều tự do (nghỉ, bạn bè, cầu lông)  →  tối 🛋️ RELAX / đi chơi  (21:00 Check-in 15p cuối sprint)
 ```
 
 Chi tiết: [02_EXECUTION/DAILY_SCHEDULE.md](./02_EXECUTION/DAILY_SCHEDULE.md)
@@ -124,7 +124,7 @@ Trường:     672A44 Phan Văn Trị, Gò Vấp · 0906 784 066
 Mã HV:      TANN-KH-2016 | Mã HĐ: TANN-HD-48
 Tên lớp:    SAIGON SPECIAL (báo tên lớp để nhân viên dẫn phòng mỗi buổi)
 Level 3:    20/10/2026 → 12/01/2027 · T3+T5 19:15-20:45 · Nghỉ lễ 24/11 · ✅ ĐÃ THANH TOÁN
-Phản Xạ:    Chủ nhật (tặng kèm)
+Phản Xạ:    Chủ nhật (tặng kèm) - ⛔ đã học xong, tạm bỏ khỏi lịch từ 26/10/2026
 Chính sách: Tối đa 4 buổi học bù (lớp 12 HV); bảo lưu 1 lần trong 6 tháng
 ```
 
@@ -134,7 +134,7 @@ Chính sách: Tối đa 4 buổi học bù (lớp 12 HV); bảo lưu 1 lần tro
 
 ## 🔥 5 ĐIỀU KHÔNG THỎA HIỆP
 
-1. **Đi lớp đủ buổi T3 + T5 + CN** - đã trả tiền cả L2 lẫn L3, bỏ buổi là đốt tiền
+1. **Đi lớp đủ buổi T3 + T5** - đã trả tiền cả L2 lẫn L3, bỏ buổi là đốt tiền
 2. **23:00 tắt màn hình → 23:30 ngủ** - mọi ngày
 3. **Gửi quê 2tr/tháng** - quỹ mẹ 500tr, cố định đến 2036, không bao giờ quên
 4. **Ghi sổ chi tiêu ngay khi tiêu** - tách rõ Chi tiêu / Đầu tư / Phải thu
@@ -170,6 +170,6 @@ Chính sách: Tối đa 4 buổi học bù (lớp 12 HV); bảo lưu 1 lần tro
 
 ---
 
-_Cập nhật: 25/10/2026 (Trả vé Tết chiều đi 2.62tr: tiền mặt ~20.4tr, Net Worth ~55.0tr). Trước đó: 24/10/2026 (Đồng bộ tài chính 24/10: tiền mặt thực ~23.0tr, Net Worth ~57.6tr, quỹ mẹ 10tr, đủ 43tr dời T12/2026). Trước đó: 15/10/2026 (Tối T4 + tối CN relax, TOEIC P5/P7 sáng T2+T6, chi 8-10tr/tháng; Hạn nộp chứng chỉ TOEIC 700+ cho TMA: 15/11/2027; TOEIC 700+ = điều kiện bắt buộc lên Senior TMA năm 2027; Chốt ngành: Thạc sĩ Khoa học máy tính; Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027; Đồng bộ số liệu giữa các file). Trước đó: 13/09/2026 (V8 - Chốt quỹ mẹ 500tr đến 2036, thêm link QUY_ME_500TR.md. Giữ nguyên:
+_Cập nhật: 26/10/2026 (Lớp Phản Xạ CN đã học xong, tạm bỏ khỏi lịch từ 26/10/2026). Trước đó: 25/10/2026 (Trả vé Tết chiều đi 2.62tr: tiền mặt ~20.4tr, Net Worth ~55.0tr). Trước đó: 24/10/2026 (Đồng bộ tài chính 24/10: tiền mặt thực ~23.0tr, Net Worth ~57.6tr, quỹ mẹ 10tr, đủ 43tr dời T12/2026). Trước đó: 15/10/2026 (Tối T4 + tối CN relax, TOEIC P5/P7 sáng T2+T6, chi 8-10tr/tháng; Hạn nộp chứng chỉ TOEIC 700+ cho TMA: 15/11/2027; TOEIC 700+ = điều kiện bắt buộc lên Senior TMA năm 2027; Chốt ngành: Thạc sĩ Khoa học máy tính; Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027; Đồng bộ số liệu giữa các file). Trước đó: 13/09/2026 (V8 - Chốt quỹ mẹ 500tr đến 2036, thêm link QUY_ME_500TR.md. Giữ nguyên:
 5 mục tiêu thay 6 epic, bỏ task công ty, Sprint S1 = 12/10/2026, mốc 70tr + Thạc sĩ UIT T07/2027 (nay đổi thành 43tr, nộp hồ sơ T09-T10/2027),
 L3 đã thanh toán.)_

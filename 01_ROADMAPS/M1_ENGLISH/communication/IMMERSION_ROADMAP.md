@@ -77,7 +77,7 @@ Mục tiêu đầu ra:
 >    - **15 phút Active Recall & ChatGPT Voice Mode:** Ôn 3-5 Chunks của buổi L3 vừa học; bật app ChatGPT Voice Mode đàm thoại trực tiếp 5-10 phút (AI đóng vai trò Bạn đồng hành 24/7 kiên nhẫn, không phán xét, ép dùng cụm từ mới và sửa lỗi ngữ pháp tự nhiên) hoặc thu âm Voice Memo 60-90s (theo [LEVEL_3_TOPIC_LOG.md](./LEVEL_3_TOPIC_LOG.md)).
 >    - **20 phút Ngữ pháp Logic Infographic:** Đọc sơ đồ cú pháp trong bộ sách *"Chinh phục toàn diện ngữ pháp tiếng Anh bằng Infographic"* để tra cứu các bộ liên từ ghép câu logic, trục thời gian quá khứ/hiện tại hoàn thành và mệnh đề quan hệ để kéo dài câu.
 >    - **15-20 phút Shadowing & Khẩu hình:** Nghe và nhại theo ngữ điệu native speaker.
-> 4. **Lớp 4: Lên lớp thực chiến tại Gò Vấp (T3, T5: 19:15-20:45 & CN: Chiều):** "Xả kho" toàn bộ từ vựng, chunks và cấu trúc logic đã nạp; xung phong nói liên tục, chấp nhận nói sai để được sửa.
+> 4. **Lớp 4: Lên lớp thực chiến tại Gò Vấp (T3, T5: 19:15-20:45; lớp Phản Xạ CN đã học xong, tạm bỏ khỏi lịch từ 26/10/2026):** "Xả kho" toàn bộ từ vựng, chunks và cấu trúc logic đã nạp; xung phong nói liên tục, chấp nhận nói sai để được sửa.
 > 5. **Lớp 5: Thư giãn trước khi ngủ (22:45-23:15):** Đọc sách hoặc tài liệu tiếng Anh (wind down không màn hình xanh).
 >
 > ⚡ **CHIẾN LƯỢC ACTIVE RECALL 15 PHÚT MỖI TUẦN CHO LEVEL 3 (Khắc phục quên từ & nói câu dài):**
@@ -86,7 +86,7 @@ Mục tiêu đầu ra:
 > 2. **Công thức 3 Nấc kéo dài câu:** `[Câu ngắn] + because (lý do) + which means that (hệ quả) + especially when (ví dụ)`.
 > 3. **Voice Memo 60-90s:** Tối T2 và T6 bật ghi âm nói to tóm tắt chủ đề buổi trước.
 > 4. **Hồi sinh 1 chủ đề Level 2 cũ (Thứ Bảy):** Mỗi tuần kích hoạt lại 1 chủ đề cũ theo [LEVEL_2_RETROSPECTIVE.md](./LEVEL_2_RETROSPECTIVE.md).
-> 5. **Xả từ vựng Chủ Nhật:** Dùng các cụm từ mới vào buổi lớp Phản Xạ cuối tuần.
+> 5. **Xả từ vựng tại lớp T3/T5:** Dùng các cụm từ mới ngay trong buổi lớp L3 (lớp Phản Xạ CN đã học xong, tạm bỏ khỏi lịch từ 26/10/2026).
 >    📝 **Sổ theo dõi chủ đề Level 3:** [LEVEL_3_TOPIC_LOG.md](./LEVEL_3_TOPIC_LOG.md) · **Ôn tập Level 2:** [LEVEL_2_RETROSPECTIVE.md](./LEVEL_2_RETROSPECTIVE.md)
 >
 > 📖 **HỌC NGỮ PHÁP LOGIC QUA BỘ SÁCH INFOGRAPHIC (2 TẬP - NXB ĐHQG HÀ NỘI):**
@@ -247,7 +247,7 @@ HÀNG NGÀY (không thể bỏ):
   ✅ Trước ngủ → đọc sách tiếng Anh 30p (trừ tối T4 + CN)
 
 HÀNG TUẦN:
-  ✅ CN chiều → Lớp Phản Xạ: xả kho chunks L2 + L3
+  ⛔ CN chiều → Lớp Phản Xạ: đã học xong, tạm bỏ khỏi lịch từ 26/10/2026 (xả chunks trong lớp T3/T5)
   📘 TOEIC: chưa làm full test; luyện Part 5 + Part 7 sáng T2 + T6 (gắn vocabulary) · thi thật T06/2027
   ✅ T6 → review ERROR LOG + ôn từ vựng tuần
 
@@ -337,5 +337,5 @@ _(Thêm hàng sau mỗi buổi học)_
 
 ---
 
-_Cập nhật: 15/10/2026 (Voice Memo T2+T6, tối T4 relax, luyện P5/P7 trong L3; TOEIC 700+ = điều kiện bắt buộc lên Senior TMA năm 2027; Đồng bộ số liệu giữa các file). Trước đó: 13/09/2026 (Level 3 đã thanh toán. Chỉ còn chờ trường báo lịch.)_
+_Cập nhật: 26/10/2026 (Lớp Phản Xạ CN đã học xong, tạm bỏ khỏi lịch từ 26/10/2026). Trước đó: 15/10/2026 (Voice Memo T2+T6, tối T4 relax, luyện P5/P7 trong L3; TOEIC 700+ = điều kiện bắt buộc lên Senior TMA năm 2027; Đồng bộ số liệu giữa các file). Trước đó: 13/09/2026 (Level 3 đã thanh toán. Chỉ còn chờ trường báo lịch.)_
 _Liên kết: [START_HERE.md](../../../START_HERE.md) | [MOCK_TEST_TRACKER.md](../toeic/MOCK_TEST_TRACKER.md)_
