@@ -223,6 +223,7 @@ BÀI HỌC 10: "Tự tin từ thực lực, khiêm tốn ở đáy để giữ a
 | [DAILY_SCHEDULE.md](../02_EXECUTION/DAILY_SCHEDULE.md)         | Lịch hàng ngày                       |
 | [../../MASTER_PLAN.md](../MASTER_PLAN.md)     | 5 mục tiêu lớn + số liệu             |
 | [../../00_CORE/EXPERT_REVIEW.md](./EXPERT_REVIEW.md) | Expert Review                        |
+| [./ASTROLOGY_NATAL_CHART.md](./ASTROLOGY_NATAL_CHART.md) | Bản đồ sao cá nhân & Synastry tương hợp |
 
 ---
 

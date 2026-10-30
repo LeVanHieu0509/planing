@@ -79,6 +79,7 @@ graph TD
 * 👵 **Quỹ phụng dưỡng Mẹ 500tr:** [QUY_ME_500TR.md](./01_ROADMAPS/M2_FINANCE/QUY_ME_500TR.md)
 * 🤝 **Nguyên tắc gia đình, bạn bè & Tiêu chí bạn đời:** [RELATIONSHIPS.md](./01_ROADMAPS/M5_RELATIONSHIPS/RELATIONSHIPS.md)
 * 🐺 **Khí chất High-Value Man trong hẹn hò:** [DATING_CORE_PRINCIPLES.md](./01_ROADMAPS/M5_RELATIONSHIPS/dating/DATING_CORE_PRINCIPLES.md) | [HIEU_MINDSET.md](./00_CORE/HIEU_MINDSET.md)
+* 🌌 **Bản đồ sao cá nhân & Đối sánh tương hợp (Synastry):** [ASTROLOGY_NATAL_CHART.md](./00_CORE/ASTROLOGY_NATAL_CHART.md)
 
 ---
 

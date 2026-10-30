@@ -153,6 +153,7 @@ TUYỆT ĐỐI KHÔNG HI SINH VÌ BẤT KỲ MỐI QUAN HỆ NÀO:
 | File                                                        | Vai trò                      |
 | ------------------------------------------------------------ | ------------------------------ |
 | [SELF_UNDERSTANDING.md](../../00_CORE/SELF_UNDERSTANDING.md)             | Hiểu bản thân, nguyên tắc gốc  |
+| [ASTROLOGY_NATAL_CHART.md](../../00_CORE/ASTROLOGY_NATAL_CHART.md)       | Bản đồ sao cá nhân & Synastry tương hợp |
 | [QUY_ME_500TR.md](../M2_FINANCE/QUY_ME_500TR.md)     | Quỹ mẹ 500tr                   |
 | [../../MASTER_PLAN.md](../../MASTER_PLAN.md)                 | M5 trong 5 mục tiêu lớn        |
 | [../../02_EXECUTION/SPRINT_CALENDAR.md](../../02_EXECUTION/SPRINT_CALENDAR.md) | Mốc quý M5                 |
