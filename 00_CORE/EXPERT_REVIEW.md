@@ -19,7 +19,7 @@ Sự kiện tái cấu trúc toàn diện ngày 17/10/2026 thành mô hình **Hi
 | # | Lĩnh vực chuyên môn | Điểm đánh giá | Trạng thái chuyển biến |
 | :-: | :--- | :-: | :--- |
 | 1 | **Tâm lý & Sức khỏe (Psychology & Fitness)** | **A+** | Điểm InBody 81/100, định vị High-Value Man điềm đạm, 2 van xả thép. |
-| 2 | **Tài chính & Đầu tư (Finance & Capital)** | **A+** | Sạch nợ 8M trọ T10, trả nợ Hiệp 5M từ dự án Yoko, tiền mặt tự do ~23.2M (27/10, đã trả vé Tết chiều đi, đã nhận lương BIT). |
+| 2 | **Tài chính & Đầu tư (Finance & Capital)** | **A+** | Sạch nợ 8M trọ T10, trả nợ Hiệp 5M từ dự án Yoko, tiền mặt tự do ~20.7M (30/10). |
 | 3 | **Ngôn ngữ & Khảo thí (English Mastery)** | **A-** | Khai giảng Level 3 (20/10), chốt Coach Kim Hân 955 TOEIC (T02/2027). |
 | 4 | **Sự nghiệp Kỹ thuật (Tech Career TMA)** | **A** | Mục tiêu Senior TMA 2027 định hình rõ, tư duy "luôn cần công ty" chuẩn mực. |
 | 5 | **Giáo dục & Học thuật (Academic UIT)** | **A** | Chuẩn hóa mốc UIT T09-T10/2027, quỹ học phí 43M năm 1 cán đích T11/2026. |
@@ -46,7 +46,7 @@ Sự kiện tái cấu trúc toàn diện ngày 17/10/2026 thành mô hình **Hi
   * **Minh bạch hóa kế toán & Hành động dứt khoát:**
     * Đã tất toán dứt điểm **8,000,000đ tiền trọ tháng 10** (ngày 16/10) cho chủ nhà.
     * Nhận 5,000,000đ tiền công dự án yokopetworld.com (ngày 15/10), bạn lập tức **chuyển trả Hiệp 5M để giảm nợ iPhone** (nợ Hiệp từ 6M rớt xuống chỉ còn đúng 1M).
-    * Bóc tách rõ 10.0tr tiền giữ hộ mẹ (trong VCB). Tiền mặt tự do sau khi trừ sạch mọi nghĩa vụ nợ ngắn hạn (Duy Tiên 1.5M + Shopee 1.5M + Hiệp 1M = 4M) đạt **23,232,781 VNĐ** (~23.2M, số dư 27/10 sau vé Tết chiều đi + lương BIT).
+    * Bóc tách rõ 13.0tr tiền giữ hộ mẹ (trong VCB). Tiền mặt tự do sau khi trừ sạch mọi nghĩa vụ nợ ngắn hạn (Duy Tiên 1.5M + Shopee 1.5M + Hiệp 1M = 4M) đạt **20,705,142 VNĐ** (~20.7M, số dư 30/10).
   * **Mục tiêu 43M Học phí Thạc sĩ UIT năm 1 (M2):** Với dòng tiền tiết kiệm đều đặn ~15M/tháng từ lương TMA + BIT, con số 43M sẽ **cán đích trong T12/2026** (trước hạn đóng T12/2027 tới tận 12 tháng!). Đây là thắng lợi chiến lược giúp giải phóng hoàn toàn áp lực tài chính cho việc học Thạc sĩ.
   * **Quỹ mẹ 500tr (M5):** Đã gửi luỹ kế gốc 10M (2M/tháng, T11 trả trước 23/10). Ý tưởng chạm mốc 100M sẽ trích tiền lãi định kỳ biếu mẹ tiêu vặt là đòn bẩy tâm lý hành vi thiên tài.
   * **Kèo đột phá Token W:** Danh mục 78,262 W (vốn 110M) được khóa vị thế (Target 1: $0.70 ~ 715M, Target 2: $1.50 ~ 1.53 Tỷ) đóng vai trò là "vé số nổ hũ" bất đối xứng, hướng tới 2 Tỷ 2031 mà không làm lung lay nền móng tích lũy an toàn từ lương.

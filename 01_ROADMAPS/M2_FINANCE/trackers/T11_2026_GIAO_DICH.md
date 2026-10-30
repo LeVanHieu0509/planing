@@ -10,11 +10,12 @@
 | Tài khoản | Số dư | Ghi chú |
 | --------- | ----: | ------- |
 | BIDV | | 100% của Hiếu |
-| VCB | | Gồm 10tr tiền mẹ giữ hộ |
+| VCB | | Gồm 13tr tiền mẹ giữ hộ |
 | TCB | | |
 | VietinBank | | Nhận lương BIT |
+| Timo | | Trả Claude Code BIT / nhận hoàn |
 | Ví | | |
-| - Tiền mẹ giữ hộ | -10,000,000 | Ngoại bảng (trong VCB) |
+| - Tiền mẹ giữ hộ | -13,000,000 | Ngoại bảng (trong VCB) |
 | **Tiền mặt thực của Hiếu** | | |
 
 ---
@@ -92,8 +93,9 @@
 | Hiệp | 1,000,000 | | |
 | Shopee | 1,500,000 | | |
 | Duy Tiên | 1,500,000 | | |
-| Phí CC T10 (phần phòng, Hiếu đóng hộ) | 900,000 | | |
-| _Phải thu: BIT hoàn Claude Code_ | _+620,000_ | | _(nếu chưa về trong T10)_ |
+| ~~Phí CC T10~~ | ✅ đã đóng 906,699 ngày 30/10 (T10) | | 0 |
+| _Phải thu: 3 anh em trả lại phí CC_ | _+680,024_ | | _~226,675/người, nhắc chuyển vào BIDV_ |
+| _Phải thu: BIT hoàn bill Claude Code 22/10–22/11_ | _+594,490_ | | _BIT hoàn trong T11_ |
 
 ---
 
@@ -111,4 +113,4 @@ Nhận xét 1 dòng:         ___________
 
 ---
 
-_Cập nhật: 27/10/2026 (Thêm VietinBank vào số dư đầu tháng; C07 có khoản cố định mạng 125k). Trước đó: 25/10/2026 (Vé Tết chiều đi đã trả 25/10; T11 chỉ còn chiều vào ~3tr nếu đặt). Trước đó: 24/10/2026 (Quỹ mẹ T11 đã trả trước 23/10; tiền mẹ 10tr nằm VCB; thêm phải thu BIT 620k). Trước đó: 22/10/2026 (Tạo mẫu sổ T11 theo hệ thống mới: 10 danh mục + budget, trả cho mình trước, tách thu hộ/chuyển nội bộ, khoản lớn, nợ)._
+_Cập nhật: 30/10/2026 (Phí CC T10 đã đóng 30/10; thêm phải thu anh em 680,024). Trước đó: 30/10/2026 (Tiền mẹ 13M; thêm Timo; phải thu BIT 594,490). Trước đó: 27/10/2026 (Thêm VietinBank vào số dư đầu tháng; C07 có khoản cố định mạng 125k). Trước đó: 25/10/2026 (Vé Tết chiều đi đã trả 25/10; T11 chỉ còn chiều vào ~3tr nếu đặt). Trước đó: 24/10/2026 (Quỹ mẹ T11 đã trả trước 23/10; tiền mẹ 10tr nằm VCB; thêm phải thu BIT 620k). Trước đó: 22/10/2026 (Tạo mẫu sổ T11 theo hệ thống mới: 10 danh mục + budget, trả cho mình trước, tách thu hộ/chuyển nội bộ, khoản lớn, nợ)._

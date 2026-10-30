@@ -32,15 +32,15 @@
 | Tổng học phí (2 năm)         | **90,000,000** (Năm 1: 43tr, Năm 2: 47tr) |
 | Tiền cần đóng lúc nhập học   | **~43,000,000**                 |
 | Mục tiêu tiền mặt tiết kiệm  | **43,000,000** (học phí năm 1, đóng T12/2027) |
-| Tiền mặt hiện có (27/10/26)  | 27,232,781                      |
-| Còn thiếu so với 43tr        | 15,767,219                      |
+| Tiền mặt hiện có (30/10/26)  | 24,705,142                      |
+| Còn thiếu so với 43tr        | 18,294,858                      |
 | Thời gian còn lại            | ~14 tháng (đến T12/2027)        |
-| Cần để dành mỗi tháng        | **~1.1tr**                      |
+| Cần để dành mỗi tháng        | **~1.3tr**                      |
 | Khả năng tiết kiệm thực tế   | **~15-17tr/tháng**              |
-| Dự kiến đủ 43tr              | **T11–T12/2026**                |
+| Dự kiến đủ 43tr              | **T12/2026**                    |
 
 > ✅ **PHÂN TÍCH TÀI CHÍNH:** Học phí tổng là 90tr, nhưng năm 1 chỉ cần đóng 43tr vào T12/2027.
-> Mục tiêu tiết kiệm **43tr** sẽ đạt sớm (T11-T12/2026), trước hạn đóng hơn 1 năm. Năm 2 (47tr, ~T12/2028) tích luỹ tiếp từ lương. Không cần vay Hiệp!
+> Mục tiêu tiết kiệm **43tr** sẽ đạt sớm (T12/2026), trước hạn đóng hơn 1 năm. Năm 2 (47tr, ~T12/2028) tích luỹ tiếp từ lương. Không cần vay Hiệp!
 
 **Nguyên tắc:** tiền học phí để ở **tiền mặt**, không bỏ vào crypto/bot.
 Xem [DAU_TU.md](../../M2_FINANCE/DAU_TU.md) - đang có trần không bơm thêm cho đến khi tiền mặt ≥ 50tr.
@@ -176,4 +176,4 @@ T12/2027       Khai giảng & Đóng học phí năm 1 (43tr)
 
 ---
 
-_Cập nhật: 27/10/2026 (Tiền mặt 27/10: 27,232,781 sau khi nhận lương BIT T10). Trước đó: 25/10/2026 (Tiền mặt 25/10: 27,232,781 sau khi trả vé Tết chiều đi). Trước đó: 24/10/2026 (Đồng bộ tiền mặt 24/10: 22,980,362, dự kiến đủ 43tr T12/2026). Trước đó: 17/10/2026 (Chốt thi lại Aptis B1 trước nhập học). Trước đó: 15/10/2026 (B1 Aptis có thể hết hạn 2 năm → thi lại nếu UIT không nhận; Chốt ngành: Thạc sĩ Khoa học máy tính; Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027). Trước đó: 13/09/2026 (V4 - Chốt UIT ngành CNTT Quản lý, đăng ký T07/2027, học phí 70tr, dự phòng vay Hiệp. Thay thế hoàn toàn bản "Thạc sĩ CS 2028" cũ.)_
+_Cập nhật: 30/10/2026 (Tiền mặt 30/10 sau phí CC: 24,705,142). Trước đó: 30/10/2026 (Tiền mặt 30/10: 24,705,142). Trước đó: 27/10/2026 (Tiền mặt 27/10: 25,852,628 sau khi nhận lương BIT T10). Trước đó: 25/10/2026 (Tiền mặt 25/10: 27,232,781 sau khi trả vé Tết chiều đi). Trước đó: 24/10/2026 (Đồng bộ tiền mặt 24/10: 22,980,362, dự kiến đủ 43tr T12/2026). Trước đó: 17/10/2026 (Chốt thi lại Aptis B1 trước nhập học). Trước đó: 15/10/2026 (B1 Aptis có thể hết hạn 2 năm → thi lại nếu UIT không nhận; Chốt ngành: Thạc sĩ Khoa học máy tính; Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027). Trước đó: 13/09/2026 (V4 - Chốt UIT ngành CNTT Quản lý, đăng ký T07/2027, học phí 70tr, dự phòng vay Hiệp. Thay thế hoàn toàn bản "Thạc sĩ CS 2028" cũ.)_

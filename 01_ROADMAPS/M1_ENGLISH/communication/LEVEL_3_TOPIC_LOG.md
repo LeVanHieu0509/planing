@@ -1,7 +1,7 @@
 # 🎙️ LEVEL 3 TOPIC & ACTIVE RECALL LOG (SAIGON SPECIAL)
 
 > **Học viên:** Lê Văn Hiếu · Lớp: **SAIGON SPECIAL** (Gò Vấp)  
-> **Thời gian:** 20/10/2026 → 12/01/2027 · T3 + T5 (19:15 - 20:45) + CN (Phản Xạ)  
+> **Thời gian:** 20/10/2026 → 12/01/2027 · T3 + T5 (19:15 - 20:45) _(Phản Xạ CN đã học xong, bỏ khỏi lịch từ 26/10/2026)_  
 > **Chiến dịch:** 🔥 **90 NGÀY ALL-IN ENGLISH** — Dồn thời gian rảnh vào tiếng Anh giao tiếp & ngữ pháp logic (trừ tối T4 + tối CN để relax)!  
 > **Mục tiêu cốt lõi:** Nói câu dài tự nhiên, biến từ vựng thụ động thành chủ động, giữ mạch hội thoại 5-10 phút.  
 > **Bộ não thứ hai:** Ghi lại 3-5 cụm từ (Chunks) + 1 câu dài ứng dụng sau mỗi buổi học.
@@ -67,13 +67,50 @@
 ---
 
 #### 🟢 Buổi 2 · Thứ Năm 22/10/2026
-- **Chủ đề (Topic):** _[Điền tên chủ đề sau buổi học]_
+- **Chủ đề (Topic):** **IF… - Câu điều kiện & tình huống giả định** (conditional / hypothetical situations) + trò chơi nhóm **STRANDED** (mắc kẹt trên đảo hoang)
+- **Ngữ pháp trọng tâm:** câu điều kiện loại 2 - `If + S + V2/ed (were/could/had)..., S + would + V`
+  - _If you **could** travel anywhere, where **would** you go?_ · _If you **were** an animal, what **would** you be?_
+- **13 câu hỏi trong handout (dùng để tự luyện nói):**
+  1. What would you do if you had unlimited money?
+  2. If you could travel anywhere in the world, where would you go?
+  3. If you could live anywhere in the world, where would you live?
+  4. If you had to get a tattoo, where would you get it?
+  5. If you could have dinner with anyone in the world, who would it be?
+  6. If you could only eat one food for the rest of your life, what would you choose?
+  7. What would you do if you had no money buying groceries (left your wallet at home)?
+  8. If you could have any superpower, which superpower would you choose?
+  9. What would you do if you woke up tomorrow as the opposite sex?
+  10. If you were an animal, what kind of animal would you be?
+  11. What would you do if you were stranded on a desert island?
+  12. If you found a magic lamp, what three wishes would you make?
+  13. If you could swap lives with one person for a day, who would it be?
+- **Trò chơi STRANDED:** cả nhóm mắc kẹt trên đảo hoang ≥ 3 tháng. Trên đảo có sẵn: nước ngọt, cá, dừa, khỉ dữ. Được chọn **5 món** mang theo.
+  - **Nhóm Hiếu chọn:** ① Cần câu (fishing pole) → ② Lều (tent) → ③ Đèn pin (flashlight) → ④ Dao (knife) → ⑤ Diêm (matches)
+  - Các món còn lại: dây thừng, súng săn, lưới, bộ sơ cứu, giấy vệ sinh, rượu/thuốc, bao cao su.
 - **3 - 5 Cụm từ đắt giá (Active Chunks):**
-  1. `...`
-  2. `...`
-  3. `...`
+  1. `be stranded on a desert island` - bị mắc kẹt trên đảo hoang
+  2. `What would you do if...?` - Bạn sẽ làm gì nếu...?
+  3. `If I could..., I would...` - Nếu tôi có thể..., tôi sẽ...
+  4. `It would take at least 3 months to be rescued` - Phải ít nhất 3 tháng mới được cứu
+  5. `Choose carefully / prioritize survival` - Chọn kỹ / ưu tiên sinh tồn
 - **Câu dài thực chiến (3-Tier Sentence):**
-  > _[Ghép câu dài ứng dụng]_
+  > _"If I were stranded on a desert island, I would bring a fishing pole first **because** fish is the most reliable source of protein there, **which means that** my team could survive for months without starving, **especially when** coconuts alone are not enough to keep us strong."_
+- **Tự luyện tối T2/T6:** chọn 3 câu trong 13 câu hỏi trên, trả lời bằng câu dài 3 tầng với ChatGPT Voice.
+- **🎤 Câu trả lời mẫu để nói với teacher (gắn với đời Hiếu - không học thuộc, chỉ nhớ ý + từ nối):**
+  1. **What would you do if you had unlimited money?**
+     > _"If I had unlimited money, I would buy a house for my parents in Nghe An first, **because** they have worked hard their whole lives. **Then** I would study abroad for my master's degree, **which means that** I could become a university lecturer later."_
+  2. **If you could live anywhere in the world, where would you live?**
+     > _"Honestly, I would live in Ho Chi Minh City but spend Tet in my hometown. I love the energy of Saigon, **but** home is where my family is."_
+  3. **If you could have dinner with anyone, who would it be?**
+     > _"I would have dinner with my mom, just the two of us, **because** I live far from home and we rarely have time to talk deeply."_
+  4. **If you could have any superpower, which one would you choose?**
+     > _"I would choose to speak every language fluently. **To be honest**, I'm studying for TOEIC right now, so that superpower would save me a lot of time!"_
+  5. **Stranded on a desert island - why a fishing pole first?**
+     > _"We chose a fishing pole first **because** there's fish on the island, **so** we would never run out of food. Then a tent for shelter, a flashlight for the night, a knife for coconuts, and matches to cook the fish."_
+- **🔁 Hỏi ngược lại teacher để giữ mạch hội thoại:**
+  - _"What about you, teacher? If you could live anywhere, where would you go?"_
+  - _"Would you choose the same items as our team?"_
+- **✅ Mẹo:** không học thuộc lòng · nhớ chuỗi từ nối **because → which means that → especially when** · sai would/could cứ nói tiếp, teacher sửa là lúc học nhanh nhất · luyện trước 2-3 câu với ChatGPT Voice tối T2/T6.
 - **Voice Memo 60s (Tối T2 26/10):** ☐ Chưa thu / ☑ Đã thu âm
 
 ---
@@ -125,4 +162,4 @@
 
 ---
 
-_Cập nhật: 15/10/2026 (Voice Memo/ChatGPT Voice chuyển sang tối T2 + T6; tối T4 để relax)._
+_Cập nhật: 30/10/2026 (Ghi buổi 2 - chủ đề IF (câu điều kiện loại 2) + trò chơi STRANDED). Trước đó: 15/10/2026 (Voice Memo/ChatGPT Voice chuyển sang tối T2 + T6; tối T4 để relax)._

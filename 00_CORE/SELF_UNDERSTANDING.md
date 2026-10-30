@@ -28,7 +28,7 @@ TOEIC:        535 (19/06/2026) → Đang theo học Tiếng Anh Immersion Level 
 **"Một Kỹ sư Phần mềm có Tư duy Chiến lược, Nhà Quản trị Tài chính xuất sắc và Giảng viên Đại học tương lai."**
 
 - **Vị thế Sự nghiệp:** 4+ năm thực chiến, tự build hệ thống từ A-Z. Đang nâng cấp vũ khí (Tiếng Anh Level 3 + Thạc sĩ Khoa học máy tính) để tiến vào giới Học thuật và Quản lý. **Tuyệt đối không còn là thợ gõ code outsource cày cuốc bán mạng.**
-- **Vị thế Tài chính:** Nắm trong tay ~61.9 triệu VNĐ tài sản ròng toàn diện (27/10/2026, W tính theo thị giá), dư dả 15tr/tháng. Sở hữu cái đầu lạnh (Kỷ luật Risk Management, Diamond Hands) và trái tim ấm (Quỹ báo hiếu mẹ 500tr).
+- **Vị thế Tài chính:** Nắm trong tay ~60.0 triệu VNĐ tài sản ròng toàn diện (30/10/2026, W tính theo thị giá), dư dả 15tr/tháng. Sở hữu cái đầu lạnh (Kỷ luật Risk Management, Diamond Hands) và trái tim ấm (Quỹ báo hiếu mẹ 500tr).
 - **Vị thế Cá nhân (High-Value Man):** Biết đầu tư vào "Tài sản cơ thể" (Gym, chăm sóc da). Nắm giữ sức mạnh **"Walk Away" (Dám bước đi)**: Không lụy tình, không over-analyze phụ nữ, đặt kỷ luật và mục tiêu cá nhân lên trên mọi mối quan hệ rủi ro.
 
 > _"Tôi đang xây dựng một đế chế cá nhân dựa trên **Kỷ luật, Sự bền vững và Trí tuệ**. Mọi thứ tôi làm hôm nay – từ việc học Tiếng Anh, nạp tiền Quỹ mẹ, đẩy tạ, đến việc giữ đúng 23:30 đi ngủ – đều là những viên gạch để xây lên tự do tài chính 2 Tỷ vào năm 2031 và vị thế của một Giảng viên Thạc sĩ."_
@@ -226,4 +226,4 @@ BÀI HỌC 10: "Tự tin từ thực lực, khiêm tốn ở đáy để giữ a
 
 ---
 
-_Cập nhật: 27/10/2026 (Tài sản ròng ~61.9tr sau khi nhận lương BIT). Trước đó: 25/10/2026 (Tài sản ròng ~55.0tr sau khi trả vé Tết chiều đi). Trước đó: 24/10/2026 (Đồng bộ tài sản ròng ~57.6tr ngày 24/10). Trước đó: 15/10/2026 (TOEIC 700+ = điều kiện bắt buộc lên Senior TMA năm 2027; Chốt ngành: Thạc sĩ Khoa học máy tính; Đồng bộ số liệu giữa các file). Trước đó: 12/10/2026 (V8 - Cập nhật bản Định vị bản thân mới. Loại bỏ tư duy PM trong hẹn hò (từ bài học rút ra sau case của Huyền). Xác định vị thế của một High-Value Man. Đổi Motto mới. Các mục tiêu về cân nặng và tài chính tiếp tục giữ vững đà tiến tới.)_
+_Cập nhật: 30/10/2026 (Tài sản ròng ~60.5tr (30/10)). Trước đó: 27/10/2026 (Tài sản ròng ~61.9tr sau khi nhận lương BIT). Trước đó: 25/10/2026 (Tài sản ròng ~55.0tr sau khi trả vé Tết chiều đi). Trước đó: 24/10/2026 (Đồng bộ tài sản ròng ~57.6tr ngày 24/10). Trước đó: 15/10/2026 (TOEIC 700+ = điều kiện bắt buộc lên Senior TMA năm 2027; Chốt ngành: Thạc sĩ Khoa học máy tính; Đồng bộ số liệu giữa các file). Trước đó: 12/10/2026 (V8 - Cập nhật bản Định vị bản thân mới. Loại bỏ tư duy PM trong hẹn hò (từ bài học rút ra sau case của Huyền). Xác định vị thế của một High-Value Man. Đổi Motto mới. Các mục tiêu về cân nặng và tài chính tiếp tục giữ vững đà tiến tới.)_
