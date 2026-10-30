@@ -45,10 +45,10 @@ Việc duy nhất: THAM GIA ĐỦ BUỔI IMMERSION + ĐẮM CHÌM TIẾNG ANH (c
 ```
 Đích gần:  43,000,000 học phí Thạc sĩ năm 1 (đóng T12/2027) · năm 2: 47tr (~T12/2028)
 Đích xa:   2 tỷ (2031) - chỉ trông vào chốt lời W · nền an toàn từ lương ~0.75 tỷ
-Hiện tại:  20,357,781 tiền mặt thực tế (25/10, đã trừ 10M tiền mẹ, đã trả vé Tết chiều đi) + 8M bot OKX + 0.62M BIT phải hoàn - 4.0M nợ (TS ròng hoạt động: ~25.0tr; tổng ròng gồm Binance W 30M: ~55.0M; tiền tự do sạch nợ: ~16.4M)
+Hiện tại:  27,232,781 tiền mặt thực tế (27/10, đã trừ 10M tiền mẹ, đã trả vé Tết chiều đi, đã nhận lương BIT T10) + 8M bot OKX + 0.62M BIT phải hoàn - 4.0M nợ (TS ròng hoạt động: ~31.9tr; tổng ròng gồm Binance W 30M: ~61.9M; tiền tự do sạch nợ: ~23.2M)
 Tích sản:  78,262 W trên Binance (vốn nạp 111.5M - 🔒 KHÓA VỊ THẾ, KHÔNG MUA THÊM, thị giá hiện ~30tr) - kèo "nổ hũ" target $0.70 (~715M) & $1.50 (~1.53 tỷ)
 Tiết kiệm: ~15-17tr/tháng (chi 8-10tr; có người yêu +2tr) · từ T02/2027 -3tr vì quỹ mẹ lên 5tr
-Dự kiến đủ 43tr: T12/2026 (sớm hơn hạn đóng T12/2027 khoảng 1 năm; T10 chi lớn 38.3tr gồm cả vé Tết chiều đi nên lùi 1 tháng)
+Dự kiến đủ 43tr: T11–T12/2026 (KH T11, thận trọng T12; sớm hơn hạn đóng T12/2027 khoảng 1 năm)
 Thưởng:    Lương tháng 13 TMA ≈ 1 tháng lương (~17.6tr), dự kiến trước Tết ~T01/2027 - chưa cộng vào dự phóng, chỉ ghi khi tiền về
 Trần:      KHÔNG bơm thêm crypto/bot đến khi tiền mặt ≥ 50tr
 ```
@@ -57,7 +57,7 @@ Trần:      KHÔNG bơm thêm crypto/bot đến khi tiền mặt ≥ 50tr
 
 ```
 Đích:      72-75kg · % mỡ 12-15% (Healthy & High Energy) · ngủ 23:30-07:00 · gym 4 buổi/tuần
-Hiện tại:  66.0kg (InBody 03/10/26: cơ 32.5kg, % mỡ 13.3%, Score 81/100) - siêu bứt phá!
+Hiện tại:  66.4kg (InBody 29/10/26: cơ 33.2kg, % mỡ 12.2%, Score 82/100) - % mỡ đã đạt, chuyển sang tăng cân sạch
            Đã đăng ký phòng gym 3 tháng (02/09/2026)
 Đo lường:  InBody 1 lần/tháng (bỏ cân hàng ngày, bỏ bảng tracking) - chi tiết ở GYM_PLAN.md
 ```
@@ -148,9 +148,9 @@ TIẾT KIỆM:         ~15,400,000 - 17,400,000
 
 | Mốc       | Số tiền     | Ý nghĩa                                              |
 | --------- | ----------- | ---------------------------------------------------- |
-| 25/10/26  | 20,357,781  | Hiện tại (tiền mặt thực tế sau trừ 10M tiền mẹ, đã trả vé Tết chiều đi) |
-| T11/2026  | ~34-36tr    | Tháng kiểm chứng chi ≤ 9.5tr (vé chiều vào nếu đặt: -3tr) |
-| T12/2026  | **~48-52tr**| ✅ Đủ học phí Thạc sĩ năm 1 · 🚧 trần 50tr: T12/2026 – T01/2027 → mở đầu tư |
+| 27/10/26  | 27,232,781  | Hiện tại (tiền mặt thực tế sau trừ 10M tiền mẹ, đã trả vé Tết chiều đi, đã nhận lương BIT T10) |
+| T11/2026  | ~41-43tr    | Tháng kiểm chứng chi ≤ 9.5tr · KH đủ 43tr (vé chiều vào nếu đặt: -3tr) |
+| T12/2026  | **~55-59tr**| ✅ Đủ học phí Thạc sĩ năm 1 · 🚧 chạm trần 50tr → mở đầu tư |
 | T09-T10/2027 | -         | 🎓 Nộp hồ sơ Thạc sĩ UIT (Đợt 2)                     |
 | T12/2027  | -           | 🎓 Khai giảng, trả 43tr học phí năm 1                |
 
@@ -219,4 +219,4 @@ planing/
 
 ---
 
-_Cập nhật: 25/10/2026 (Thêm dòng lương tháng 13 TMA ~17.6tr - thu nhập dự kiến). Trước đó: 25/10/2026 (Trả vé Tết chiều đi 2.62tr: tiền mặt 20,357,781, Net Worth ~55.0M, lộ trình tiền mặt tính lại). Trước đó: 24/10/2026 (Đồng bộ tài chính 24/10: tiền mặt thực 22,980,362, Net Worth ~57.6M; lộ trình tiền mặt tính lại → đủ 43tr + trần 50tr T12/2026). Trước đó: 17/10/2026 (Gom Coach + Quỹ mẹ về 1 nguồn). Trước đó: 15/10/2026 (Chi thực tế 8-10tr/tháng; 2 tỷ chỉ trông vào chốt W; Hạn nộp chứng chỉ TOEIC 700+ cho TMA: 15/11/2027; TOEIC 700+ = điều kiện bắt buộc lên Senior TMA năm 2027; Chốt ngành: Thạc sĩ Khoa học máy tính; Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027). Trước đó: 12/10/2026 (V10 - Stress test toàn bộ plan: Điều chỉnh mục tiêu % mỡ M3 xuống 12-15% để tránh sụt test/burnout; Dời lịch cày TOEIC sang T02/2027 để không bị overload với Immersion; Nhấn mạnh việc tìm hiểu quy chế thi đầu vào Thạc sĩ.)_
+_Cập nhật: 29/10/2026 (InBody 29/10/2026). Trước đó: 27/10/2026 (Nhận lương BIT 7M (VietinBank): tiền mặt 27,232,781, Net Worth ~61.9M; lộ trình tiền mặt tính lại). Trước đó: 25/10/2026 (Thêm dòng lương tháng 13 TMA ~17.6tr - thu nhập dự kiến). Trước đó: 25/10/2026 (Trả vé Tết chiều đi 2.62tr: tiền mặt 20,357,781, Net Worth ~55.0M, lộ trình tiền mặt tính lại). Trước đó: 24/10/2026 (Đồng bộ tài chính 24/10: tiền mặt thực 22,980,362, Net Worth ~57.6M; lộ trình tiền mặt tính lại → đủ 43tr + trần 50tr T12/2026). Trước đó: 17/10/2026 (Gom Coach + Quỹ mẹ về 1 nguồn). Trước đó: 15/10/2026 (Chi thực tế 8-10tr/tháng; 2 tỷ chỉ trông vào chốt W; Hạn nộp chứng chỉ TOEIC 700+ cho TMA: 15/11/2027; TOEIC 700+ = điều kiện bắt buộc lên Senior TMA năm 2027; Chốt ngành: Thạc sĩ Khoa học máy tính; Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027). Trước đó: 12/10/2026 (V10 - Stress test toàn bộ plan: Điều chỉnh mục tiêu % mỡ M3 xuống 12-15% để tránh sụt test/burnout; Dời lịch cày TOEIC sang T02/2027 để không bị overload với Immersion; Nhấn mạnh việc tìm hiểu quy chế thi đầu vào Thạc sĩ.)_

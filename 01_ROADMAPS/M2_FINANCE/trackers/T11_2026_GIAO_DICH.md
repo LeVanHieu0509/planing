@@ -12,6 +12,7 @@
 | BIDV | | 100% của Hiếu |
 | VCB | | Gồm 10tr tiền mẹ giữ hộ |
 | TCB | | |
+| VietinBank | | Nhận lương BIT |
 | Ví | | |
 | - Tiền mẹ giữ hộ | -10,000,000 | Ngoại bảng (trong VCB) |
 | **Tiền mặt thực của Hiếu** | | |
@@ -51,7 +52,7 @@
 | C04 | 💆 Sức khoẻ & làm đẹp | 800,000 | | | |
 | C05 | 🏍️ Đi lại | 300,000 | | | |
 | C06 | ☕ Quan hệ & giải trí | 500,000 | | | |
-| C07 | 📱 Subscriptions | 400,000 | | | |
+| C07 | 📱 Subscriptions (gồm gói 5G điện thoại 125k cố định) | 400,000 | | | |
 | C08 | 💪 Thể thao | 200,000 | | | |
 | C09 | 🎓 Học tập | 0 | | | |
 | C10 | 🔸 Lặt vặt | 150,000 | | | |
@@ -110,4 +111,4 @@ Nhận xét 1 dòng:         ___________
 
 ---
 
-_Cập nhật: 25/10/2026 (Vé Tết chiều đi đã trả 25/10; T11 chỉ còn chiều vào ~3tr nếu đặt). Trước đó: 24/10/2026 (Quỹ mẹ T11 đã trả trước 23/10; tiền mẹ 10tr nằm VCB; thêm phải thu BIT 620k). Trước đó: 22/10/2026 (Tạo mẫu sổ T11 theo hệ thống mới: 10 danh mục + budget, trả cho mình trước, tách thu hộ/chuyển nội bộ, khoản lớn, nợ)._
+_Cập nhật: 27/10/2026 (Thêm VietinBank vào số dư đầu tháng; C07 có khoản cố định mạng 125k). Trước đó: 25/10/2026 (Vé Tết chiều đi đã trả 25/10; T11 chỉ còn chiều vào ~3tr nếu đặt). Trước đó: 24/10/2026 (Quỹ mẹ T11 đã trả trước 23/10; tiền mẹ 10tr nằm VCB; thêm phải thu BIT 620k). Trước đó: 22/10/2026 (Tạo mẫu sổ T11 theo hệ thống mới: 10 danh mục + budget, trả cho mình trước, tách thu hộ/chuyển nội bộ, khoản lớn, nợ)._

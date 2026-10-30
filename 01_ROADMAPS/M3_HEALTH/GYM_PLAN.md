@@ -161,6 +161,7 @@ không tính mục tiêu tăng cơ.
 | 31/07/26  | 65.4kg   | 30.5kg          | 11.3kg  | 17.2% | InBody Score 77/100 · Vòng eo/hông 0.85 · mỡ nội tạng mức 4 |
 | 28/08/26  | 66.8kg   | 31.4kg          | 11.2kg  | 16.8% | InBody Score 78/100 · ✅ cơ tăng + mỡ giảm - đúng hướng · vòng eo/hông 0.84 |
 | 03/10/26  | 66.0kg   | 32.5kg          | 8.8kg   | 13.3% | 🔥 InBody Score 81/100 · Siêu bứt phá: Cơ +1.1kg (32.5kg), Mỡ -2.4kg (xuống 13.3%), Mỡ nội tạng xuống Level 3 |
+| 29/10/26  | 66.4kg   | 33.2kg          | 8.1kg   | 12.2% | InBody Score **82/100** · cơ +0.7kg, mỡ −0.7kg · mỡ nội tạng Level 2 · eo/hông 0.86 · BMR 1,629 kcal · ✅ **% mỡ đã vào vùng mục tiêu 12–15%** → chuyển sang tăng cân sạch (lean bulk) |
 |           |          |                 |         |       |                                                |
 
 **Cách đọc kết quả (chỉ cần nhìn 2 con số):**
@@ -170,6 +171,12 @@ không tính mục tiêu tăng cơ.
 ⚠️ XEM LẠI: Cân nặng tăng nhưng toàn mỡ  → ăn dư quá nhiều, giảm tinh bột
 ⚠️ XEM LẠI: Cơ không tăng sau 2 tháng     → tạ chưa đủ nặng hoặc thiếu protein
 ```
+
+> **Giai đoạn từ 29/10/2026 - TĂNG CÂN SẠCH (lean bulk):** % mỡ đã đạt (12.2%), còn thiếu ~6–9kg cân nặng và ~2–5kg cơ.
+> - Ăn **~2,700–2,900 kcal/ngày** (máy khuyến nghị 2,633 để giữ cân → dư thêm ~200–300 kcal) · protein **~120–130g/ngày** (~1.8–2g/kg).
+> - Mục tiêu tăng **~0.5kg/tháng**; nếu % mỡ vượt 15% → giảm tinh bột lại.
+> - Chân (99% chuẩn) yếu hơn tay/thân (107–111%) → ưu tiên squat, deadlift, lunges trong buổi chân.
+> - Dự kiến chạm 72kg khoảng T09–T10/2027 nếu đều tay.
 
 > **Quy tắc:** Đo xong ghi 1 dòng rồi đóng file. Không phân tích sâu, không lo lắng.
 > Cơ thể thay đổi theo tháng, không theo ngày.
@@ -208,7 +215,7 @@ DẤU HIỆU CẦN NGHỈ:
 
 ---
 
-_Cập nhật: 15/10/2026 (Đồng bộ số liệu giữa các file). Trước đó: 13/09/2026 (V6 - Điền 2 dòng InBody thật: 31/07 (65.4kg, cơ 30.5kg, mỡ 17.2%, score 77)
+_Cập nhật: 29/10/2026 (InBody 29/10: 66.4kg, cơ 33.2kg, mỡ 12.2%, score 82 - % mỡ đạt mục tiêu, chuyển lean bulk). Trước đó: 15/10/2026 (Đồng bộ số liệu giữa các file). Trước đó: 13/09/2026 (V6 - Điền 2 dòng InBody thật: 31/07 (65.4kg, cơ 30.5kg, mỡ 17.2%, score 77)
 và 28/08 (66.8kg, cơ 31.4kg, mỡ 16.8%, score 78) - xu hướng đúng: cơ tăng, mỡ giảm. Thêm target
 ghi tay trên phiếu: 72-75kg / SMM 35-38kg / mỡ 7-10%. Giữ nguyên: đăng ký gym 3 tháng từ 02/09,
 đo InBody 1 lần/tháng.)_

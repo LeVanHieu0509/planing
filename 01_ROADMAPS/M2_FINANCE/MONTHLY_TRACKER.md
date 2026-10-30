@@ -18,16 +18,16 @@
 | T07/26 | 2,167,000    | 4,606,338      | 0          | 0         | 9,679,662              | 9,679,662         | 9,679,662              |
 | T08/26 | 43,913,000   | 23,846,383     | 10,600,000 | 1,000,000 | 17,981,979             | 29,581,979        | 29,581,979             |
 | T09/26 | 35,891,708   | 27,617,198     | 5,400,000  | 1,000,000 | 281,227 (TCB)          | 34,681,227        | 34,681,227             |
-| T10/26 | 34,917,948\* | 38,296,060\*   | 0          | 620,000   | 20,357,781 (thực có)\* | 24,977,781 (Nợ:4.0M)| **54,977,781\***      |
+| T10/26 | 34,917,948\* | 38,421,060\*   | 0          | 620,000   | 27,232,781 (thực có)\* | 31,852,781 (Nợ:4.0M)| **61,852,781\***      |
 | T11/26 |              |                |            |           |                        |                   |                        |
 | T12/26 |              |                |            |           |                        |                   |                        |
 
-_\* T10 tạm tính đến 25/10 (chốt sổ 31/10):_
-_- Thu thuần Hiếu: 34.92M (thêm 5M từ job Yokopetworld); Chi thuần Hiếu: 38.30M (gồm 2M quỹ mẹ T11 trả trước + 2.62M vé Tết chiều đi + 1.09M da liễu); Mẹ gửi nhờ giữ hộ: 10.0M trong VCB (ngoại bảng)._
+_\* T10 tạm tính đến 27/10 (chốt sổ 31/10):_
+_- Thu thuần Hiếu: 34.92M (thêm 5M từ job Yokopetworld); Chi thuần Hiếu: 38.42M (gồm mạng 125k, 2M quỹ mẹ T11 trả trước + 2.62M vé Tết chiều đi + 1.09M da liễu); Mẹ gửi nhờ giữ hộ: 10.0M trong VCB (ngoại bảng)._
 _- Tiền trọ T10: Đã hoàn tất chuyển 8.0M ngày 16/10 (chi phí chỗ ở thực của Hiếu chỉ là ~2.39M)._
 _- Thu hồi nợ: Diễm đã trả đủ 1.0M qua MoMo ngày 12/10 (Khoản phải thu về 0)._
-_- Tiền mặt thực tế: 20.36M sau khi đóng trọ, trả vé Tết chiều đi và trừ tiền mẹ; Nợ ngắn hạn & trả góp: 4.0M (Đã trả Hiệp 5M ngày 15/10, còn nợ Hiệp 1M + Shopee 1.5M + Duy Tiên 1.5M trả góp 500k/tháng). Tiền mặt tự do sạch nợ: 16.36M. Phải thu: BIT hoàn Claude Code 620k._
-_- **Tổng TS Ròng Toàn diện:** 54,977,781 VND (đã cộng danh mục 78,262 W trên Binance thị giá 30.0M VND; vốn gốc nạp 111.5M từ 04/2024; tổng vốn tích luỹ lịch sử đạt 136.5M)._
+_- Tiền mặt thực tế: 27.23M sau khi đóng trọ, trả vé Tết chiều đi, nhận lương BIT T10 (VietinBank 26/10) và trừ tiền mẹ; Nợ ngắn hạn & trả góp: 4.0M (Đã trả Hiệp 5M ngày 15/10, còn nợ Hiệp 1M + Shopee 1.5M + Duy Tiên 1.5M trả góp 500k/tháng). Tiền mặt tự do sạch nợ: 23.23M. Phải thu: BIT hoàn Claude Code 620k._
+_- **Tổng TS Ròng Toàn diện:** 61,852,781 VND (đã cộng danh mục 78,262 W trên Binance thị giá 30.0M VND; vốn gốc nạp 111.5M từ 04/2024; tổng vốn tích luỹ lịch sử đạt 143.3M)._
 
 ---
 
@@ -210,6 +210,6 @@ DỰ KIẾN CUỐI T09:    ~29,500,000 tiền mặt
 
 ---
 
-_Cập nhật: 25/10/2026 (T10 tạm tính 25/10: thêm vé Tết chiều đi 2,622,581 → chi thuần 38,296,060, tiền mặt 20,357,781, Net Worth 54,977,781). Trước đó: 24/10/2026 (T10 tạm tính đến 24/10: chi thuần 35,673,479, tiền mặt thực 22,980,362, Net Worth 57,600,362). Trước đó: 15/10/2026 (Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027). Trước đó: 13/09/2026 (V7 - Chốt hụi 4tr T08 thuộc quỹ mẹ 500tr (xem QUY_ME_500TR.md). Giữ nguyên:
+_Cập nhật: 27/10/2026 (T10 tạm tính 27/10: lương BIT 7M về VietinBank, mạng 125k → tiền mặt 27,232,781, Net Worth 61,852,781). Trước đó: 25/10/2026 (T10 tạm tính 25/10: thêm vé Tết chiều đi 2,622,581 → chi thuần 38,421,060, tiền mặt 27,232,781, Net Worth 61,852,781). Trước đó: 24/10/2026 (T10 tạm tính đến 24/10: chi thuần 35,673,479, tiền mặt thực 22,980,362, Net Worth 57,600,362). Trước đó: 15/10/2026 (Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027). Trước đó: 13/09/2026 (V7 - Chốt hụi 4tr T08 thuộc quỹ mẹ 500tr (xem QUY_ME_500TR.md). Giữ nguyên:
 tách 3 cột Chi tiêu/Đầu tư/Phải thu, đính chính T08 chênh thật 2.2tr, 3,749,181 = chi không
 kiểm soát, Shopee = đồ dùng cá nhân, mốc 70tr T07/2027.)_

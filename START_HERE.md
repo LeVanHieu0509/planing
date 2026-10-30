@@ -17,8 +17,8 @@ SIDE:     Miracle POS (đang đóng băng - chỉ fix bug)
 
 ★ MỐC LỚN NHẤT SẮP TỚI:
   🎓 NỘP HỒ SƠ THẠC SĨ KHOA HỌC MÁY TÍNH - UIT (ĐHQG TP.HCM) · T09-T10/2027 · khai giảng T12/2027
-     → Cần 43tr học phí năm 1 (đóng T12/2027) · đã có ~20.4tr tiền mặt thực tế (25/10/2026, đã trừ 10tr tiền mẹ, đã trả vé Tết chiều đi) · dự kiến đủ vào T12/2026
-     → Tổng tài sản ròng toàn diện: ~55.0M (theo thị giá: 20.4M tiền mặt + 30.0M Binance W + 8M OKX Bot + 0.62M BIT phải hoàn - 4.0M nợ; tổng vốn tích luỹ lịch sử: ~136.5M)
+     → Cần 43tr học phí năm 1 (đóng T12/2027) · đã có ~27.2tr tiền mặt thực tế (27/10/2026, đã trừ 10tr tiền mẹ, đã trả vé Tết chiều đi) · dự kiến đủ vào T11–T12/2026
+     → Tổng tài sản ròng toàn diện: ~61.9M (theo thị giá: 27.2M tiền mặt + 30.0M Binance W + 8M OKX Bot + 0.62M BIT phải hoàn - 4.0M nợ; tổng vốn tích luỹ lịch sử: ~143.3M)
      → Quỹ mẹ 500tr: Đã nạp luỹ kế gốc 10M (gồm T11 trả trước 23/10; định kỳ 2M/tháng, mốc 100M trích lãi nuôi mẹ)
 
 TẦM NHÌN:
@@ -170,6 +170,6 @@ Chính sách: Tối đa 4 buổi học bù (lớp 12 HV); bảo lưu 1 lần tro
 
 ---
 
-_Cập nhật: 26/10/2026 (Lớp Phản Xạ CN đã học xong, tạm bỏ khỏi lịch từ 26/10/2026). Trước đó: 25/10/2026 (Trả vé Tết chiều đi 2.62tr: tiền mặt ~20.4tr, Net Worth ~55.0tr). Trước đó: 24/10/2026 (Đồng bộ tài chính 24/10: tiền mặt thực ~23.0tr, Net Worth ~57.6tr, quỹ mẹ 10tr, đủ 43tr dời T12/2026). Trước đó: 15/10/2026 (Tối T4 + tối CN relax, TOEIC P5/P7 sáng T2+T6, chi 8-10tr/tháng; Hạn nộp chứng chỉ TOEIC 700+ cho TMA: 15/11/2027; TOEIC 700+ = điều kiện bắt buộc lên Senior TMA năm 2027; Chốt ngành: Thạc sĩ Khoa học máy tính; Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027; Đồng bộ số liệu giữa các file). Trước đó: 13/09/2026 (V8 - Chốt quỹ mẹ 500tr đến 2036, thêm link QUY_ME_500TR.md. Giữ nguyên:
+_Cập nhật: 27/10/2026 (Nhận lương BIT 7M (VietinBank): tiền mặt ~27.2tr, Net Worth ~61.9tr). Trước đó: 26/10/2026 (Lớp Phản Xạ CN đã học xong, tạm bỏ khỏi lịch từ 26/10/2026). Trước đó: 25/10/2026 (Trả vé Tết chiều đi 2.62tr: tiền mặt ~20.4tr, Net Worth ~55.0tr). Trước đó: 24/10/2026 (Đồng bộ tài chính 24/10: tiền mặt thực ~23.0tr, Net Worth ~57.6tr, quỹ mẹ 10tr, đủ 43tr dời T12/2026). Trước đó: 15/10/2026 (Tối T4 + tối CN relax, TOEIC P5/P7 sáng T2+T6, chi 8-10tr/tháng; Hạn nộp chứng chỉ TOEIC 700+ cho TMA: 15/11/2027; TOEIC 700+ = điều kiện bắt buộc lên Senior TMA năm 2027; Chốt ngành: Thạc sĩ Khoa học máy tính; Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027; Đồng bộ số liệu giữa các file). Trước đó: 13/09/2026 (V8 - Chốt quỹ mẹ 500tr đến 2036, thêm link QUY_ME_500TR.md. Giữ nguyên:
 5 mục tiêu thay 6 epic, bỏ task công ty, Sprint S1 = 12/10/2026, mốc 70tr + Thạc sĩ UIT T07/2027 (nay đổi thành 43tr, nộp hồ sơ T09-T10/2027),
 L3 đã thanh toán.)_
