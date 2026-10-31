@@ -87,7 +87,7 @@ graph TD
 
 ```
 02_EXECUTION/
-├── SPRINT HIỆN TẠI:        sprints/S1.md (12/10 → 25/10/2026 - Mỗi sáng mở 1 phút)
+├── SPRINT HIỆN TẠI:        sprints/S2.md (26/10 → 08/11/2026 - Mỗi sáng mở 1 phút)
 ├── LỊCH TRÌNH 24H:         DAILY_SCHEDULE.md (Lịch chi tiết, 2 van xả T4 & CN)
 ├── NHẬT KÝ CUỘC ĐỜI:       DAILY_JOURNAL.md (Ghi lại hành trình từ 24 tuổi)
 ├── QUY CHẾ SCRUM:          SCRUM_FRAMEWORK.md (Chu kỳ 2 tuần, check-in CN 21:00)
@@ -131,9 +131,9 @@ graph TD
 
 | Tình huống thực tế của Hiếu | Mở ngay file này | Mục đích |
 | :--- | :--- | :--- |
-| **Mỗi sáng thức dậy (07:00)** | [02_EXECUTION/sprints/S1.md](./02_EXECUTION/sprints/S1.md) | Xem task trọng tâm hôm nay (1 phút). |
+| **Mỗi sáng thức dậy (07:00)** | [02_EXECUTION/sprints/S2.md](./02_EXECUTION/sprints/S2.md) | Xem task trọng tâm hôm nay (1 phút). |
 | **Quên lịch sinh hoạt / Giờ giấc** | [02_EXECUTION/DAILY_SCHEDULE.md](./02_EXECUTION/DAILY_SCHEDULE.md) | Xem khung giờ 24h & nguyên tắc 2 van xả. |
-| **Vừa tiêu tiền / Chuyển khoản** | [T10_2026_GIAO_DICH.md](./01_ROADMAPS/M2_FINANCE/trackers/T10_2026_GIAO_DICH.md) | Ghi nhận chi tiêu ngay lập tức. |
+| **Vừa tiêu tiền / Chuyển khoản** | [T11_2026_GIAO_DICH.md](./01_ROADMAPS/M2_FINANCE/trackers/T11_2026_GIAO_DICH.md) | Ghi nhận chi tiêu ngay lập tức. |
 | **Khi thấy nản / Mất động lực** | [00_CORE/HIEU_MINDSET.md](./00_CORE/HIEU_MINDSET.md) | Đọc lại Bộ Tam Kiếm Thực Thi & 3 Trụ Cột Động Lực. |
 | **Khi làm bài TOEIC bị điểm thấp** | [TOEIC_ERROR_MASTER.md](./01_ROADMAPS/M1_ENGLISH/toeic/TOEIC_ERROR_MASTER.md) | Tra cứu dạng bẫy và ghi nhận lỗi sai. |
 | **Ngày 11 hàng tháng** | [QUY_ME_500TR.md](./01_ROADMAPS/M2_FINANCE/QUY_ME_500TR.md) | Chuyển khoản 2M cho mẹ ngay trước khi chi tiêu. |
@@ -144,4 +144,4 @@ graph TD
 
 _Hiếu Life OS v2.0 — Tái cấu trúc ngày 17/10/2026. Tối ưu hóa 100% cho tìm kiếm nhanh, liên kết chặt chẽ và thực thi kỷ luật._
 
-_Cập nhật: 24/10/2026 (Thêm IDEAS_PARKING.md; đồng bộ mốc 43tr → T12/2026, quỹ mẹ 10tr)._
+_Cập nhật: 31/10/2026 (Chuyển Sprint hiện tại sang S2 · 26/10 → 08/11/2026 và sổ giao dịch sang T11_2026_GIAO_DICH.md). Trước đó: 24/10/2026 (Thêm IDEAS_PARKING.md; đồng bộ mốc 43tr → T12/2026, quỹ mẹ 10tr)._

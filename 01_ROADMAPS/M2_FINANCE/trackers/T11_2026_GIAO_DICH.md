@@ -5,18 +5,19 @@
 
 ---
 
-## 🏦 SỐ DƯ ĐẦU THÁNG (01/11/2026)
+## 🏦 SỐ DƯ ĐẦU THÁNG (01/11/2026 — Chuyển giao từ chốt sổ 31/10/2026)
 
 | Tài khoản | Số dư | Ghi chú |
 | --------- | ----: | ------- |
-| BIDV | | 100% của Hiếu |
-| VCB | | Gồm 13tr tiền mẹ giữ hộ |
-| TCB | | |
-| VietinBank | | Nhận lương BIT |
-| Timo | | Trả Claude Code BIT / nhận hoàn |
-| Ví | | |
-| - Tiền mẹ giữ hộ | -13,000,000 | Ngoại bảng (trong VCB) |
-| **Tiền mặt thực của Hiếu** | | |
+| BIDV | 15,111,684 | 100% của Hiếu (Quỹ học phí & dự phòng) |
+| VCB | 15,012,296 | Gồm 13,000,000 tiền mẹ giữ hộ + 2,012,296 của Hiếu |
+| TCB | 27,297 | Tài khoản chi tiêu hàng ngày |
+| VietinBank | 4,702,443 | Nhận lương BIT (khả dụng 4,652,443 - đã trả Shopee 1,827,637 ngày 31/10) |
+| Timo | 603,785 | Trả Claude Code BIT / nhận hoàn |
+| Ví | 45,000 | Tiền mặt trong ví |
+| **Tổng Gross** | **35,502,505** | 5 ngân hàng + ví |
+| - Tiền mẹ giữ hộ | -13,000,000 | Ngoại bảng (nằm trong VCB) |
+| **Tiền mặt thực của Hiếu** | **22,502,505** | **Sạch trọ, sạch phí CC, sạch phải thu; tự do sau nợ 2.8M = 19,702,505** |
 
 ---
 
@@ -32,14 +33,29 @@
 
 ---
 
-## 🔁 TRẢ CHO MÌNH TRƯỚC (NGÀY NHẬN LƯƠNG)
+## 🔁 TRẢ CHO MÌNH TRƯỚC & CHIA HŨ CHI TIÊU TIMO (NGÀY NHẬN LƯƠNG 05/11)
 
-| Việc | Số tiền | Xong? |
-| ---- | ------: | ----- |
-| Để riêng phần tiết kiệm (quỹ học phí/dự phòng) | ~15,000,000 | ☐ |
-| Trích quỹ dự trữ Coach TOEIC | 1,000,000 | ☐ |
-| Quỹ mẹ (ngày 11) | 2,000,000 | ✅ Đã trả trước 23/10 (phường anh Nghĩa) - T11 không chuyển nữa |
-| Nạp budget chi tiêu sang TCB | ~4,000,000 | ☐ |
+> 💡 **Chiến lược kỷ luật Tháng 11 (chốt 31/10/2026):** Dùng tính năng **Hũ chi tiêu (Money Pot) của Timo** để chia sẵn ngân sách từng hạng mục. Khi tiêu mục nào chỉ quẹt/chuyển từ đúng Hũ đó — **hết tiền trong Hũ là dừng chi tuyệt đối**, giữ tiền tiết kiệm nằm yên bên BIDV!
+
+| Việc | Tài khoản đích | Số tiền | Xong? |
+| ---- | -------------- | ------: | ----- |
+| 1. Giữ lại phần Tiết kiệm (Quỹ học phí 43tr & dự phòng) | **BIDV** (Khóa chặt, cấm quẹt lẻ) | ~15,000,000 | ☐ |
+| 2. Trích Quỹ dự trữ Coach TOEIC (chặng 1 T02/2027) | **BIDV** (Ghi chú riêng) | 1,000,000 | ☐ |
+| 3. Quỹ mẹ tháng 11 | **Anh Nghĩa** (Phường) | 2,000,000 | ✅ Đã trả trước 23/10 (T11 không cần chuyển nữa) |
+| 4. Chuyển phần Nhà ở 1/4 của Hiếu (trọ + điện nước + phí CC) | **VCB** (Gom cùng 3 anh em để đóng trọ) | 2,650,000 | ☐ |
+| 5. **Nạp tổng ngân sách chi tiêu cá nhân sang TIMO để chia 6 Hũ** | **Timo (Chia vào 6 Hũ bên dưới)** | **4,725,000** | ☐ |
+
+### 🏺 CƠ CẤU 6 HŨ CHI TIÊU TRÊN TIMO (TỔNG CHI CÁ NHÂN TỐI ĐA: `4,725,000đ`)
+
+| Hũ trên Timo (Money Pot) | Mã | Hạn mức tháng 11 | Quy tắc kỷ luật |
+| ------------------------ | -- | ---------------: | --------------- |
+| **Hũ 1 · 🍜 Ăn uống & Siêu thị** | C03 | **2,500,000** | ~83k/ngày (cơm trưa, bánh mì, Bách Hoá Xanh). Không vượt hạn mức. |
+| **Hũ 2 · 💆 Sức khoẻ & Làm đẹp** | C04 | **800,000** | Khám da liễu, thuốc, cắt tóc. |
+| **Hũ 3 · ☕ Quan hệ & Giải trí** | C06 | **500,000** | Cafe, gặp gỡ bạn bè, mở rộng mối quan hệ chất lượng. |
+| **Hũ 4 · 🏍️ Đi lại (Xăng & Xe)** | C05 | **300,000** | Đổ xăng, gửi xe. |
+| **Hũ 5 · 💪 Thể thao & Lặt vặt** | C08 + C10 | **350,000** | Thể thao 200k (cầu lông/nước; Gym đã đóng hết T11) + Dự phòng lặt vặt 150k. |
+| **Hũ 6 · 📱 Subscriptions cá nhân** | C07 | **275,000** | Phần sub cá nhân (gói 5G Viettel 125k trừ bên VietinBank; ~603k có sẵn ở Timo dùng xoay vòng bill Claude Code BIT). |
+| **TỔNG 6 HŨ CHI TIÊU TIMO** | | **4,725,000** | **Cộng Nhà ở (2.65M) + Quỹ mẹ (2M đã trả) + 5G (125k) = Đúng chuẩn 9,500,000đ!** |
 
 ---
 
@@ -91,11 +107,9 @@
 | Đối tượng | Đầu tháng | Trả/thu trong tháng | Cuối tháng |
 | --------- | --------: | ------------------: | ---------: |
 | Hiệp | 1,000,000 | | |
-| Shopee | 1,500,000 | | |
+| Shopee (SPayLater kỳ cuối) | 300,000 | | |
 | Duy Tiên | 1,500,000 | | |
-| ~~Phí CC T10~~ | ✅ đã đóng 906,699 ngày 30/10 (T10) | | 0 |
-| _Phải thu: 3 anh em trả lại phí CC_ | _+680,024_ | | _~226,675/người, nhắc chuyển vào BIDV_ |
-| _Phải thu: BIT hoàn bill Claude Code 22/10–22/11_ | _+594,490_ | | _BIT hoàn trong T11_ |
+| _Phải thu (3 anh em phí CC & BIT Claude Code)_ | _0_ | _✅ Đã tất toán xong trong T10_ | _0_ |
 
 ---
 
@@ -113,4 +127,4 @@ Nhận xét 1 dòng:         ___________
 
 ---
 
-_Cập nhật: 30/10/2026 (Phí CC T10 đã đóng 30/10; thêm phải thu anh em 680,024). Trước đó: 30/10/2026 (Tiền mẹ 13M; thêm Timo; phải thu BIT 594,490). Trước đó: 27/10/2026 (Thêm VietinBank vào số dư đầu tháng; C07 có khoản cố định mạng 125k). Trước đó: 25/10/2026 (Vé Tết chiều đi đã trả 25/10; T11 chỉ còn chiều vào ~3tr nếu đặt). Trước đó: 24/10/2026 (Quỹ mẹ T11 đã trả trước 23/10; tiền mẹ 10tr nằm VCB; thêm phải thu BIT 620k). Trước đó: 22/10/2026 (Tạo mẫu sổ T11 theo hệ thống mới: 10 danh mục + budget, trả cho mình trước, tách thu hộ/chuyển nội bộ, khoản lớn, nợ)._
+_Cập nhật: 31/10/2026 (Đã thanh toán Shopee 1,827,637 ngày 31/10 qua VietinBank → VietinBank đầu tháng 4,702,443, tiền mặt thực 22,502,505, nợ Shopee T11 chỉ còn 300,000, tổng nợ 2.8M). Trước đó: 30/10/2026 (Phí CC T10 đã đóng 30/10; thêm phải thu anh em 680,024). Trước đó: 30/10/2026 (Tiền mẹ 13M; thêm Timo; phải thu BIT 594,490). Trước đó: 27/10/2026 (Thêm VietinBank vào số dư đầu tháng; C07 có khoản cố định mạng 125k). Trước đó: 25/10/2026 (Vé Tết chiều đi đã trả 25/10; T11 chỉ còn chiều vào ~3tr nếu đặt). Trước đó: 24/10/2026 (Quỹ mẹ T11 đã trả trước 23/10; tiền mẹ 10tr nằm VCB; thêm phải thu BIT 620k). Trước đó: 22/10/2026 (Tạo mẫu sổ T11 theo hệ thống mới: 10 danh mục + budget, trả cho mình trước, tách thu hộ/chuyển nội bộ, khoản lớn, nợ)._

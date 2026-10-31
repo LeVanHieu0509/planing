@@ -39,31 +39,31 @@ CHÊNH THẬT:                   ~2,200,000   (không phải 13tr)
 
 ### 1. Bảng tài sản chi tiết
 
-| Nhóm tài sản             | Khoản mục / Nền tảng       | Giá vốn (VND)   | Thị giá (30/10) | Thanh khoản   | Tính chất & Ghi chú                                             |
+| Nhóm tài sản             | Khoản mục / Nền tảng       | Giá vốn (VND)   | Thị giá (31/10) | Thanh khoản   | Tính chất & Ghi chú                                             |
 | :----------------------- | :------------------------- | :-------------- | :-------------- | :------------ | :-------------------------------------------------------------- |
-| 💵 **Tiền mặt thực**     | BIDV, VCB, TCB, Ví         | 24,705,142      | **24,705,142**  | Ngay (T+0)    | Tổng có 37.71M - 13.0M tiền mẹ gửi nhờ (24/10)                   |
+| 💵 **Tiền mặt thực**     | 5 NH + Ví (45k)            | 22,502,505      | **22,502,505**  | Ngay (T+0)    | Tổng có 35.50M - 13.0M tiền mẹ gửi nhờ (chốt sổ 31/10, đã trả Shopee 1.83M) |
 | 🤖 **Bot Trading OKX**   | OKX - Vốn chạy bot tự động | 8,000,000       | **8,000,000**   | 1-2 ngày      | Toàn bộ 8M cho chạy bot tự động, tự kiếm lợi nhuận hoặc chịu lỗ |
 | 💎 **Tích sản Crypto**   | **Binance (78,262.48 W)**  | **111,495,612** | **30,000,000**  | Biến động cao | **Vốn gốc nạp 111.5M** từ 04/2024. Thị giá 30M (cập nhật 15/10) |
 | 🤝 **Phải thu ngắn hạn** | Cho Diễm mượn              | 1,000,000       | **0**           | Đã thu        | ✅ Đã thu hồi đủ 1,000,000đ ngày 12/10 qua MoMo (về TCB)        |
-| 🤝 **Phải thu ngắn hạn** | Anh em phòng (phí CC T10)  | 680,024         | **680,024**     | T11/2026      | Hiếu đóng hộ 906,699 ngày 30/10, 3 người trả lại                |
-| 🤝 **Phải thu ngắn hạn** | BIT hoàn Claude Code       | 594,490         | **594,490**     | T11/2026      | Bill 22/10–22/11 (trả qua Timo); bill cũ 578,275 đã hoàn 29/10  |
+| 🤝 **Phải thu ngắn hạn** | Anh em phòng (phí CC T10)  | 680,024         | **0**           | Đã thu        | ✅ Anh em đã chuyển gộp từ đầu tháng cùng tiền phòng            |
+| 🤝 **Phải thu ngắn hạn** | BIT hoàn Claude Code       | 594,490         | **0**           | Đã thu        | ✅ BIT đã hoàn 578,275 về Timo ngày 29–30/10 (tất toán xong)    |
 | 🔴 **Nợ ngắn hạn**       | Vay Hiệp mua iPhone        | -6,000,000      | **-1,000,000**  | Cần trả       | ✅ Đã trả 5M ngày 15/10 từ job Yokopetworld, còn nợ 1M          |
-| 🔴 **Nợ ngắn hạn**       | Nợ Shopee / SPayLater      | -1,500,000      | **-1,500,000**  | Cần trả       | ⏳ Trích tiền mặt trả dứt điểm                                  |
+| 🔴 **Nợ ngắn hạn**       | Nợ Shopee / SPayLater      | -2,127,637      | **-300,000**    | Trả T11       | ✅ Đã trả 1,827,637đ ngày 31/10 qua VietinBank; còn 300k trả T11 |
 | 🔴 **Nợ trả góp**        | Nợ Duy Tiên                | -1,500,000      | **-1,500,000**  | Trả góp       | Kế hoạch trả góp 500,000đ/tháng (trong 3 tháng)                 |
 
 ---
 
-### 2. Các cấp độ Tài sản ròng (Net Worth) - Cập nhật 30/10/2026
+### 2. Các cấp độ Tài sản ròng (Net Worth) - Chốt sổ 31/10/2026
 
 ```
 ┌────────────────────────────────────────────────────────────────────────────────────────┐
-│ ① TIỀN MẶT RÒNG TỰ DO (Free Net Cash - sau sạch trọ & tổng nợ 4.0M):    20,705,142 VND  │
-│ ② TÀI SẢN RÒNG HOẠT ĐỘNG (Tiền mặt + OKX + Phải thu 1.27M - Nợ 4M):     29,979,656 VND │
-│ ③ TỔNG TÀI SẢN RÒNG TOÀN DIỆN (Comprehensive Net Worth - theo Thị giá): 59,979,656 VND │
-│    ↳ (= Tài sản hoạt động 30.0M + Thị giá Binance W 30.0M - ĐÃ SẠCH TIỀN TRỌ 100%)     │
+│ ① TIỀN MẶT RÒNG TỰ DO (Free Net Cash - sau sạch trọ & tổng nợ 2.8M):    19,702,505 VND  │
+│ ② TÀI SẢN RÒNG HOẠT ĐỘNG (Tiền mặt + OKX + Phải thu 0 - Nợ 2.8M):       27,702,505 VND  │
+│ ③ TỔNG TÀI SẢN RÒNG TOÀN DIỆN (Comprehensive Net Worth - theo Thị giá): 57,702,505 VND  │
+│    ↳ (= Tài sản hoạt động 27.70M + Thị giá Binance W 30.0M - ĐÃ SẠCH TIỀN TRỌ & PHẢI THU)│
 │ ────────────────────────────────────────────────────────────────────────────────────── │
-│ 💎 TỔNG VỐN TÍCH LUỸ LỊCH SỬ ĐÃ ĐẦU TƯ & TIỀN MẶT:                    141,475,268 VND  │
-│    ↳ (= Tiền mặt 24.7M + OKX 8M + Vốn gốc Binance W 111.5M + Phải thu 1.27M - Nợ 4.0M) │
+│ 💎 TỔNG VỐN TÍCH LUỸ LỊCH SỬ ĐÃ ĐẦU TƯ & TIỀN MẶT:                    139,198,117 VND  │
+│    ↳ (= Tiền mặt 22.50M + OKX 8M + Vốn gốc Binance W 111.5M - Nợ 2.8M)                 │
 │ 🌸 Quỹ mẹ 500tr (Ủy thác phụng dưỡng - đã nạp luỹ kế gốc):             10,000,000 VND  │
 └────────────────────────────────────────────────────────────────────────────────────────┘
 ```
@@ -78,14 +78,14 @@ CHÊNH THẬT:                   ~2,200,000   (không phải 13tr)
 >    - **Phân loại kế toán:** Tài sản tích sản dài hạn biến động cao. Bảng cân đối tài sản ròng ghi nhận theo **Giá thị trường hiện tại (30.0M)** để đảm bảo nguyên tắc Thận trọng, tuyệt đối **KHÔNG tính vào tiền mặt để tiêu**, không dùng để thay thế cho Quỹ học phí Thạc sĩ 43M.
 > 3. **Quỹ mẹ 500tr (đã gửi 10tr):** Thuộc về mẹ theo [QUY_ME_500TR.md](./QUY_ME_500TR.md) (đóng T10 ngày 11/10 + trả trước T11 ngày 23/10), không tính vào tài sản cá nhân để tiêu xài. Khi đạt 100M sẽ rút lãi nuôi mẹ.
 
-### Cơ cấu tài sản ròng toàn diện theo thị giá (~60.0tr - cập nhật 30/10/2026)
+### Cơ cấu tài sản ròng toàn diện theo thị giá (~57.7tr - cập nhật 31/10/2026)
 
 ```
-Tiền mặt thực tế:        ~24.7tr  ████████░░░░░░░░░░░░  41.2%  (Sạch trọ, đã trả vé Tết chiều đi, đã nhận lương BIT; tự do sau nợ 20.7tr)
-Binance W (thị giá):     ~30.0tr  ██████████░░░░░░░░░░  50.0%  (Vốn gốc 111.5M, thị giá hiện 30M)
-OKX Bot Trading:           8.0tr  ███░░░░░░░░░░░░░░░░░  13.3%  (Toàn bộ 8M chạy bot tự động)
-Phải thu (BIT + phòng):    1.3tr  ░░░░░░░░░░░░░░░░░░░░   2.1%  (Bill Claude 594,490 + anh em phí CC 680,024)
-Nợ phải trả (trừ ra):     -4.0tr  - - - - - - - - - -  -6.6%   (Hiệp 1M + Shopee 1.5M + Duy Tiên 1.5M)
+Tiền mặt thực tế:        ~22.5tr  ████████░░░░░░░░░░░░  39.0%  (Sạch trọ, đã trả vé Tết chiều đi & Shopee 1.83M; tự do sau nợ 19.7tr)
+Binance W (thị giá):     ~30.0tr  ██████████░░░░░░░░░░  52.0%  (Vốn gốc 111.5M, thị giá hiện 30M)
+OKX Bot Trading:           8.0tr  ███░░░░░░░░░░░░░░░░░  13.9%  (Toàn bộ 8M chạy bot tự động)
+Phải thu (BIT + phòng):    0.0tr  ░░░░░░░░░░░░░░░░░░░░   0.0%  (Đã tất toán 100%)
+Nợ phải trả (trừ ra):     -2.8tr  - - - - - - - - - -  -4.9%   (Hiệp 1M + Shopee 300k + Duy Tiên 1.5M)
 ```
 
 ---
@@ -98,8 +98,8 @@ Nợ phải trả (trừ ra):     -4.0tr  - - - - - - - - - -  -6.6%   (Hiệp 1
 ║  cho đến khi TIỀN MẶT ≥ 50,000,000 VND                        ║
 ╚═══════════════════════════════════════════════════════════════╝
 
-Tiền mặt hiện tại:  24,705,142  (30/10/2026, khớp 5 ngân hàng)
-Cần thêm:          ~25,300,000
+Tiền mặt hiện tại:  22,502,505  (31/10/2026, khớp 5 ngân hàng + ví)
+Cần thêm:          ~27,500,000
 Dự kiến chạm trần:  T12/2026 – T01/2027  (tiết kiệm ~15-17tr/tháng; chiều vào vé Tết ~3tr nếu đặt trong T11)
 ```
 
@@ -276,5 +276,5 @@ cá nhân của anh. Đã bỏ khỏi bảng tổng tài sản phía trên.
 
 ---
 
-_Cập nhật: 30/10/2026 (Đóng phí CC: tiền mặt 24,705,142, phải thu 1,274,514, Net Worth 59,979,656). Trước đó: 30/10/2026 (Tiền mẹ 13M; Timo + BIT hoàn 578k: tiền mặt 24,705,142, Net Worth 59,979,656). Trước đó: 30/10/2026 (Đối chiếu TCB 30/10: tiền mặt 25,611,841, Net Worth 60,206,331). Trước đó: 30/10/2026 (Đối chiếu VietinBank 30/10: tiền mặt 25,007,708, Net Worth 59,627,708). Trước đó: 30/10/2026 (Đối chiếu BIDV 30/10: tiền mặt 25,507,708, Net Worth 60,127,708). Trước đó: 27/10/2026 (Nhận lương BIT 7M vào VietinBank, mạng 125k: tiền mặt 25,852,628, Net Worth 60,472,628). Trước đó: 25/10/2026 (Trả vé Tết chiều đi 2.62tr: tiền mặt 27,232,781, Net Worth 61,852,781, trần 50tr T12/2026–T01/2027). Trước đó: 24/10/2026 (Đồng bộ số liệu 24/10: tiền mặt thực 22,980,362, phải thu BIT 620k, Net Worth 57,600,362, quỹ mẹ 10M, tiền mẹ giữ hộ 10M trong VCB). Trước đó: 15/10/2026 (Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027). Trước đó: 13/09/2026 (V2 - Chốt hụi 4tr T08 thuộc quỹ mẹ 500tr, bỏ khỏi bảng tài sản (còn 46.4tr).
+_Cập nhật: 31/10/2026 (Thanh toán Shopee 1,827,637 qua VietinBank: tiền mặt 22,502,505, nợ còn 2.8M, tiền tự do 19,702,505, Net Worth 57,702,505). Trước đó: 30/10/2026 (Đóng phí CC: tiền mặt 24,705,142, phải thu 1,274,514, Net Worth 59,979,656). Trước đó: 30/10/2026 (Tiền mẹ 13M; Timo + BIT hoàn 578k: tiền mặt 24,705,142, Net Worth 59,979,656). Trước đó: 30/10/2026 (Đối chiếu TCB 30/10: tiền mặt 25,611,841, Net Worth 60,206,331). Trước đó: 30/10/2026 (Đối chiếu VietinBank 30/10: tiền mặt 25,007,708, Net Worth 59,627,708). Trước đó: 30/10/2026 (Đối chiếu BIDV 30/10: tiền mặt 25,507,708, Net Worth 60,127,708). Trước đó: 27/10/2026 (Nhận lương BIT 7M vào VietinBank, mạng 125k: tiền mặt 25,852,628, Net Worth 60,472,628). Trước đó: 25/10/2026 (Trả vé Tết chiều đi 2.62tr: tiền mặt 27,232,781, Net Worth 61,852,781, trần 50tr T12/2026–T01/2027). Trước đó: 24/10/2026 (Đồng bộ số liệu 24/10: tiền mặt thực 22,980,362, phải thu BIT 620k, Net Worth 57,600,362, quỹ mẹ 10M, tiền mẹ giữ hộ 10M trong VCB). Trước đó: 15/10/2026 (Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027). Trước đó: 13/09/2026 (V2 - Chốt hụi 4tr T08 thuộc quỹ mẹ 500tr, bỏ khỏi bảng tài sản (còn 46.4tr).
 Giữ nguyên: tách bạch Tiền mặt/Đầu tư/Phải thu, trần đầu tư 50tr, Bot OKX = dự án cá nhân.)_

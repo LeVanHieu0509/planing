@@ -66,9 +66,9 @@
 
 | Sprint  | Từ         | Đến        | Loại            |
 | ------- | ---------- | ---------- | --------------- |
-| **S1**  | 12/10/2026 | 25/10/2026 | 🏃 Khởi động lại (L3 + sạch nợ) |
-| S2      | 26/10/2026 | 08/11/2026 | 🏃              |
-| S3      | 09/11/2026 | 22/11/2026 | 🏃 (Đủ 43tr học phí năm 1) |
+| S1      | 12/10/2026 | 25/10/2026 | ✅ Đã xong (L3 khai giảng + giảm nợ về 2.8M) |
+| **S2**  | 26/10/2026 | 08/11/2026 | 🏃 **Đang chạy** (Chốt sổ T10 + Kiểm chứng chi T11 ≤ 9.5M) |
+| S3      | 09/11/2026 | 22/11/2026 | 🏃 (Sát mốc 43tr học phí năm 1) |
 | **S4**  | 23/11/2026 | 06/12/2026 | 🔋 **NGHỈ**     |
 | S5      | 07/12/2026 | 20/12/2026 | 🏃 (Chạm trần 50tr) |
 | S6      | 21/12/2026 | 03/01/2027 | 🏃 (Tết Dương lịch) |
@@ -115,10 +115,10 @@
 | File                                             | Vai trò                   |
 | ------------------------------------------------ | ------------------------- |
 | [SCRUM_FRAMEWORK.md](./SCRUM_FRAMEWORK.md)       | Luật chơi + mẫu sprint    |
-| [sprints/S1.md](./sprints/S1.md)                 | Sprint đang chạy          |
+| [sprints/S2.md](./sprints/S2.md)                 | Sprint đang chạy          |
 | [../MASTER_PLAN.md](../MASTER_PLAN.md)           | 5 mục tiêu lớn            |
 
 ---
 
-_Cập nhật: 17/10/2026 (Coach chỉ link về file Coach). Trước đó: 15/10/2026 (Thi TOEIC T06/2027 nộp TMA luôn; Hạn nộp chứng chỉ TOEIC 700+ cho TMA: 15/11/2027; TOEIC 700+ = điều kiện bắt buộc lên Senior TMA năm 2027; Chốt ngành: Thạc sĩ Khoa học máy tính; Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027). Trước đó: 13/09/2026 (V9 - Đồng bộ mốc M5 sang quỹ mẹ 500tr/2036. Giữ nguyên: reset từ S1 =
+_Cập nhật: 31/10/2026 (Hoàn tất S1, chuyển sang S2 · 26/10 → 08/11/2026). Trước đó: 17/10/2026 (Coach chỉ link về file Coach). Trước đó: 15/10/2026 (Thi TOEIC T06/2027 nộp TMA luôn; Hạn nộp chứng chỉ TOEIC 700+ cho TMA: 15/11/2027; TOEIC 700+ = điều kiện bắt buộc lên Senior TMA năm 2027; Chốt ngành: Thạc sĩ Khoa học máy tính; Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027). Trước đó: 13/09/2026 (V9 - Đồng bộ mốc M5 sang quỹ mẹ 500tr/2036. Giữ nguyên: reset từ S1 =
 14/09/2026, bảng Mốc Quý, đích đăng ký Thạc sĩ UIT T07/2027.)_

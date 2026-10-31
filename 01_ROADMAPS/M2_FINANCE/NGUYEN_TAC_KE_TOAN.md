@@ -16,26 +16,25 @@
 │    - BIDV (100% của Hiếu):             15,111,684 VND  │    - Vay Hiệp mua iPhone:     │
 │    - Vietcombank (phần của Hiếu):       2,012,296 VND  │      1,000,000 VND (đã trả 5M) │
 │    - Techcombank (19074255959012):        27,297 VND  │    - Nợ Shopee / SPayLater:   │
-│    - VietinBank (lương BIT):            6,530,080 VND  │                               │
-│    - Timo (trả Claude Code BIT):          603,785 VND  │                               │
-│    - Tiền mặt trong ví:                   420,000 VND  │      1,500,000 VND            │
-│    ➡️ Tổng tiền mặt thực có (30/10):   24,705,142 VND  │    - Nợ Duy Tiên (500k/tháng): │
-│                                                        │      1,500,000 VND            │
-│ 2. KHOẢN PHẢI THU (RECEIVABLES):                       │    ➡️ Tổng nợ phải trả:       │
-│    - BIT hoàn Claude Code:     594,490 VND (T11)       │
-│    - Anh em phòng (phí CC):    680,024 VND             │       4,000,000 VND           │
-│                                                        ├───────────────────────────────┤
-│ 3. ĐẦU TƯ LINH HOẠT (T+1/T+2):                         │ 2. VỐN CHỦ SỞ HỮU / TÀI SẢN   │
-│    - OKX Bot Trading (8M vốn tự động):  8,000,000 VND  │    RÒNG (NET WORTH):          │
-│                                                        │    - TS Ròng Hoạt động:       │
-│ 4. TÍCH SẢN DÀI HẠN (CRYPTO LOCKED):                   │      29,979,656 VND           │
-│    - Binance (78,262.48 W - thị giá): 30,000,000 VND  │    - TS Ròng Toàn diện:       │
-│      (Vốn gốc nạp lịch sử: 111,495,612 VND)            │      59,979,656 VND           │
-│                                                        │    - Tiền mặt ròng tự do      │
+│    - VietinBank (lương BIT):            4,702,443 VND  │      300,000 VND (trả T11)    │
+│    - Timo (trả Claude Code BIT):          603,785 VND  │      (đã trả 1,827,637 31/10) │
+│    - Tiền mặt trong ví:                    45,000 VND  │    - Nợ Duy Tiên (500k/tháng): │
+│    ➡️ Tổng tiền mặt thực có (31/10):   22,502,505 VND  │      1,500,000 VND            │
+│                                                        │    ➡️ Tổng nợ phải trả:       │
+│ 2. KHOẢN PHẢI THU (RECEIVABLES):                       │       2,800,000 VND           │
+│    - BIT & Anh em phòng:                        0 VND  │                               │
+│      (Đã tất toán 100%)                                ├───────────────────────────────┤
+│                                                        │ 2. VỐN CHỦ SỞ HỮU / TÀI SẢN   │
+│ 3. ĐẦU TƯ LINH HOẠT (T+1/T+2):                         │    RÒNG (NET WORTH):          │
+│    - OKX Bot Trading (8M vốn tự động):  8,000,000 VND  │    - TS Ròng Hoạt động:       │
+│                                                        │      27,702,505 VND           │
+│ 4. TÍCH SẢN DÀI HẠN (CRYPTO LOCKED):                   │    - TS Ròng Toàn diện:       │
+│    - Binance (78,262.48 W - thị giá): 30,000,000 VND  │      57,702,505 VND           │
+│      (Vốn gốc nạp lịch sử: 111,495,612 VND)            │    - Tiền mặt ròng tự do      │
 │                                                        │      (sau sạch trọ & tổng nợ):│
-│                                                        │      20,705,142 VND           │
+│                                                        │      19,702,505 VND           │
 ├────────────────────────────────────────────────────────┴───────────────────────────────┤
-│ 🏆 TỔNG TÀI SẢN NỘI BẢNG: 63,979,656 VND = NỢ 4.00M + TÀI SẢN RÒNG 59.98M              │
+│ 🏆 TỔNG TÀI SẢN NỘI BẢNG: 60,502,505 VND = NỢ 2.80M + TÀI SẢN RÒNG 57.70M              │
 └────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -88,11 +87,11 @@ Những dòng tiền này **nằm trong tài khoản ngân hàng của Hiếu**,
 ## 🎯 5. NGUYÊN TẮC QUẢN TRỊ THANH KHOẢN & MỤC TIÊU LỚN
 
 1. **Ưu tiên 1 - Bảo vệ Quỹ Thạc sĩ UIT (Target 43M học phí năm 1, đóng T12/2027):**
-   - Tiền mặt thực tế hiện có: **24.71M** (30/10/2026, đã trừ 13M tiền mẹ, đã trả vé Tết chiều đi, đã nhận lương BIT T10).
+   - Tiền mặt thực tế hiện có: **22.50M** (`22,502,505` ngày 31/10/2026, đã trừ 13M tiền mẹ, đã trả vé Tết chiều đi, đã nhận lương BIT T10, đã trả Shopee 1,827,637).
    - Dự kiến cán mốc 43M tiền mặt: **T12/2026** (sớm trước hạn đóng khoảng 1 năm).
 2. **Ưu tiên 2 - Quản trị nghĩa vụ trọ & nợ:**
-   - Trọ T10 (8M): ✅ **Đã hoàn tất thanh toán 8,000,000đ** ngày 16/10 qua VCB cho PHAM THI THOA.
-   - Nợ ngắn hạn còn lại: 4.0M (Hiệp 1M + Shopee 1.5M + Duy Tiên 1.5M trả góp 500k/tháng). Tiền mặt tự do sau khi thanh toán hết còn **20.71M** (30/10, đã đóng phí CC).
+   - Trọ T10 (8M) & Phí CC (906,699): ✅ **Đã hoàn tất thanh toán 100%**.
+   - Nợ ngắn hạn còn lại: **2.8M** (Hiệp 1M + Shopee 300k trả T11 [đã trả 1,827,637 ngày 31/10] + Duy Tiên 1.5M trả góp 500k/tháng). Tiền mặt tự do sau khi thanh toán hết còn **19.70M** (`19,702,505` ngày 31/10).
 3. **Ưu tiên 3 - Kỷ luật đầu tư (Trần 50M):**
    - Chỉ được mở trần bơm thêm vốn crypto/bot khi **Tiền mặt thực tế ≥ 50,000,000 VND**.
    - Hiện tại tuyệt đối không nạp thêm vốn vào Binance hay OKX.
@@ -156,18 +155,18 @@ Những dòng tiền này **nằm trong tài khoản ngân hàng của Hiếu**,
 | Tài khoản | Vai trò | Quy tắc |
 | --------- | ------- | ------- |
 | **BIDV** | Nhận lương TMA · Quỹ học phí & dự phòng | Không quẹt chi tiêu lặt vặt từ BIDV |
-| **Timo / BVBank** (9021121314454) | Trả bill Claude Code cho BIT, nhận BIT hoàn | Chỉ dùng cho việc BIT, không tiêu cá nhân |
+| **Timo / BVBank** (9021121314454) | **Ngân hàng chia Hũ chi tiêu (Money Pots) cho toàn bộ ngân sách sinh hoạt (C03–C10: 4,725,000đ/tháng)** + xoay vòng bill Claude Code BIT (~603k có sẵn) | Đầu tháng nhận lương nạp đúng `4,725,000đ` chia vào 6 Hũ (Ăn uống 2.5M, Sức khoẻ 800k, Quan hệ 500k, Đi lại 300k, Thể thao & Lặt vặt 350k, Sub 275k). Hết hũ nào dừng chi mục đó! |
 | **VietinBank** (103869984032) | Nhận lương BIT (7tr/tháng) · nạp Viettel cho gói 5G 125k/tháng · luôn giữ 50k số dư tối thiểu | Nhận lương xong chuyển phần tiết kiệm sang BIDV, chỉ giữ lại tiền gói mạng |
-| **TCB (Sinh lời tự động)** | Ví chi tiêu hằng ngày (QR ăn uống, xăng...) | Đầu tháng nạp đúng budget C03-C10 (~4tr), hết thì thôi |
-| **VCB** | Trả trọ, hoá đơn, đồ online · **đang giữ 13tr tiền mẹ** (cập nhật 30/10) | Số dư VCB luôn trừ 13tr khi tính tiền của Hiếu |
-| **Tiền của mẹ (13tr)** | ⚠️ Nên **tách hẳn** sang 1 tài khoản/sổ riêng | **24/10/2026: đã chuyển sang VCB** (còn 10tr sau khi trừ 2tr phường T11 suất mẹ); VCB nên giữ ít tiền chi tiêu của Hiếu để không lẫn |
+| **TCB (Sinh lời tự động)** | Tài khoản phụ / trung gian (hiện còn 27,297đ) | Đã chuyển vai trò quản lý ngân sách chi tiêu hàng ngày sang các **Hũ Timo** từ T11/2026 |
+| **VCB** | Trả trọ, hoá đơn, đồ online · **đang giữ 13tr tiền mẹ** (cập nhật 31/10) | Số dư VCB luôn trừ 13tr khi tính tiền của Hiếu |
+| **Tiền của mẹ (13tr)** | ⚠️ Nên **tách hẳn** sang 1 tài khoản/sổ riêng | Đang nằm trong VCB; luôn loại trừ khỏi số dư của Hiếu |
 
 **Thứ tự khi nhận lương (05 hằng tháng) - Trả cho mình trước:**
 ```
-1. Chuyển ngay phần TIẾT KIỆM (~15tr) vào phần quỹ học phí/dự phòng (không đụng)
-2. Trích các quỹ dự trữ (mục 8)
-3. Ngày 11: chuyển Quỹ mẹ
-4. Nạp budget chi tiêu sang TCB → phần còn lại mới được tiêu
+1. Giữ ngay phần TIẾT KIỆM (~15tr) trong BIDV làm quỹ học phí/dự phòng (tuyệt đối không đụng)
+2. Trích các quỹ dự trữ (mục 8) & chuyển phần nhà ở (2.65M) sang VCB để gom đóng trọ
+3. Ngày 11: chuyển Quỹ mẹ (riêng T11 đã đóng trước từ 23/10)
+4. Nạp đúng 4,725,000đ sang TIMO và chia ngay vào 6 Hũ chi tiêu (Money Pots) → chỉ tiêu trong từng Hũ!
 ```
 
 ---
@@ -188,4 +187,4 @@ Những dòng tiền này **nằm trong tài khoản ngân hàng của Hiếu**,
 
 ---
 
-_Cập nhật: 30/10/2026 (Đóng phí CC 906,699: tiền mặt 24,705,142, phải thu anh em 680,024). Trước đó: 30/10/2026 (VCB: tiền mẹ 13M; thêm Timo 603,785; BIT hoàn 578,275; phải thu 594,490; tiền mặt 24,705,142). Trước đó: 30/10/2026 (Đối chiếu TCB 30/10: tiền mặt 25,611,841, chi T10 40,942,067). Trước đó: 30/10/2026 (Đối chiếu VietinBank 30/10: tiền mặt 25,007,708, P&L T10 thu 35,163,802 / chi 40,942,067). Trước đó: 30/10/2026 (Đối chiếu BIDV 30/10: tiền mặt 25,507,708, P&L T10 chi 40,442,067 / thu 35,163,802). Trước đó: 27/10/2026 (Thêm VietinBank (lương BIT) vào bảng cân đối và vai trò tài khoản; P&L T10 thêm mạng 125k). Trước đó: 25/10/2026 (Ghi vé Tết chiều đi 2,622,581 (25/10): bảng cân đối, P&L T10 chi thuần 38,421,060, quỹ dự trữ vé Tết). Trước đó: 24/10/2026 (Đồng bộ số liệu 24/10: bảng cân đối, P&L T10 tạm tính chi thuần 35,673,479, tiền mẹ 10tr chuyển sang VCB, quỹ mẹ 10tr, mốc 43tr → T12/2026). Trước đó: 22/10/2026 (Thêm mục 6-10: 8 nguyên tắc kế toán, 10 danh mục chuẩn + budget T11, quỹ dự trữ, vai trò tài khoản, quy trình chốt sổ). Trước đó: 15/10/2026 (Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027; Sửa nợ còn lại 2.5M → 4.0M cho khớp T10_2026_GIAO_DICH.md, thêm khoản Duy Tiên 1.5M)._
+_Cập nhật: 31/10/2026 (Thanh toán Shopee 1,827,637 qua VietinBank: tiền mặt thực 22,502,505, nợ còn 2.8M, tiền tự do 19,702,505, Net Worth 57,702,505). Trước đó: 30/10/2026 (Đóng phí CC 906,699: tiền mặt 24,705,142, phải thu anh em 680,024). Trước đó: 30/10/2026 (VCB: tiền mẹ 13M; thêm Timo 603,785; BIT hoàn 578,275; phải thu 594,490; tiền mặt 24,705,142). Trước đó: 30/10/2026 (Đối chiếu TCB 30/10: tiền mặt 25,611,841, chi T10 40,942,067). Trước đó: 30/10/2026 (Đối chiếu VietinBank 30/10: tiền mặt 25,007,708, P&L T10 thu 35,163,802 / chi 40,942,067). Trước đó: 30/10/2026 (Đối chiếu BIDV 30/10: tiền mặt 25,507,708, P&L T10 chi 40,442,067 / thu 35,163,802). Trước đó: 27/10/2026 (Thêm VietinBank (lương BIT) vào bảng cân đối và vai trò tài khoản; P&L T10 thêm mạng 125k). Trước đó: 25/10/2026 (Ghi vé Tết chiều đi 2,622,581 (25/10): bảng cân đối, P&L T10 chi thuần 38,421,060, quỹ dự trữ vé Tết). Trước đó: 24/10/2026 (Đồng bộ số liệu 24/10: bảng cân đối, P&L T10 tạm tính chi thuần 35,673,479, tiền mẹ 10tr chuyển sang VCB, quỹ mẹ 10tr, mốc 43tr → T12/2026). Trước đó: 22/10/2026 (Thêm mục 6-10: 8 nguyên tắc kế toán, 10 danh mục chuẩn + budget T11, quỹ dự trữ, vai trò tài khoản, quy trình chốt sổ). Trước đó: 15/10/2026 (Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027; Sửa nợ còn lại 2.5M → 4.0M cho khớp T10_2026_GIAO_DICH.md, thêm khoản Duy Tiên 1.5M)._

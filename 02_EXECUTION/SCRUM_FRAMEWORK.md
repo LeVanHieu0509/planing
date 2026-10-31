@@ -149,11 +149,11 @@ CHỦ NHẬT 21:00 - 21:15  (chỉ sprint cuối, tức 2 tuần/lần)
 | File                                                                   | Vai trò                    |
 | ---------------------------------------------------------------------- | -------------------------- |
 | [SPRINT_CALENDAR.md](./SPRINT_CALENDAR.md)                             | Lịch sprint + mốc quý      |
-| [sprints/S1.md](./sprints/S1.md)                                       | Sprint đang chạy           |
+| [sprints/S2.md](./sprints/S2.md)                                       | Sprint đang chạy           |
 | [../MASTER_PLAN.md](../MASTER_PLAN.md)                                 | 5 mục tiêu lớn             |
 | [../me/lifestyle/SELF_UNDERSTANDING.md](../00_CORE/SELF_UNDERSTANDING.md) | Hiểu bản thân       |
 
 ---
 
-_Cập nhật: 26/10/2026 (Lớp Phản Xạ CN đã học xong, tạm bỏ khỏi lịch từ 26/10/2026). Trước đó: 15/10/2026 (Chốt ngành: Thạc sĩ Khoa học máy tính; Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027; Đồng bộ số liệu giữa các file). Trước đó: 13/09/2026 (V7 - Đồng bộ M5 sang quỹ mẹ 500tr/2036. Giữ nguyên: bỏ SP, bỏ daily
+_Cập nhật: 31/10/2026 (Chuyển link sprint hiện tại sang S2.md). Trước đó: 26/10/2026 (Lớp Phản Xạ CN đã học xong, tạm bỏ khỏi lịch từ 26/10/2026). Trước đó: 15/10/2026 (Chốt ngành: Thạc sĩ Khoa học máy tính; Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027; Đồng bộ số liệu giữa các file). Trước đó: 13/09/2026 (V7 - Đồng bộ M5 sang quỹ mẹ 500tr/2036. Giữ nguyên: bỏ SP, bỏ daily
 standup, bỏ task TMA/BIT, 5 mục tiêu, tối đa 5 việc/sprint, mỗi việc phải gắn mốc dài hạn.)_

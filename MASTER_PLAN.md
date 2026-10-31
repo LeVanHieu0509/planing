@@ -15,7 +15,7 @@
                  ↓
         📍 MỐC QUÝ          → 02_EXECUTION/SPRINT_CALENDAR.md
                  ↓
-        🏃 SPRINT 2 TUẦN    → 02_EXECUTION/sprints/S1.md   (tối đa 5 việc)
+        🏃 SPRINT 2 TUẦN    → 02_EXECUTION/sprints/S2.md   (tối đa 5 việc)
                  ↓
         🔁 THÓI QUEN HÀNG NGÀY
 ```
@@ -45,10 +45,10 @@ Việc duy nhất: THAM GIA ĐỦ BUỔI IMMERSION + ĐẮM CHÌM TIẾNG ANH (c
 ```
 Đích gần:  43,000,000 học phí Thạc sĩ năm 1 (đóng T12/2027) · năm 2: 47tr (~T12/2028)
 Đích xa:   2 tỷ (2031) - chỉ trông vào chốt lời W · nền an toàn từ lương ~0.75 tỷ
-Hiện tại:  24,705,142 tiền mặt thực tế (30/10, đã trừ 13M tiền mẹ, đã trả vé Tết chiều đi, đã nhận lương BIT T10) + 8M bot OKX + 1.27M phải thu (BIT + anh em phòng) - 4.0M nợ (TS ròng hoạt động: ~30.0tr; tổng ròng gồm Binance W 30M: ~60.0M; tiền tự do sạch nợ: ~20.7M)
+Hiện tại:  22,502,505 tiền mặt thực tế (chốt sổ 31/10, đã trừ 13M tiền mẹ, đã trả vé Tết chiều đi, đã trả Shopee 1,827,637, đã nhận lương BIT T10, sạch phải thu) + 8M bot OKX - 2.8M nợ (TS ròng hoạt động: ~27.70tr; tổng ròng gồm Binance W 30M: ~57.70M; tiền tự do sạch nợ: ~19.70M)
 Tích sản:  78,262 W trên Binance (vốn nạp 111.5M - 🔒 KHÓA VỊ THẾ, KHÔNG MUA THÊM, thị giá hiện ~30tr) - kèo "nổ hũ" target $0.70 (~715M) & $1.50 (~1.53 tỷ)
 Tiết kiệm: ~15-17tr/tháng (chi 8-10tr; có người yêu +2tr) · từ T02/2027 -3tr vì quỹ mẹ lên 5tr
-Dự kiến đủ 43tr: T12/2026 (cuối T11 sát mốc ~40–42tr; sớm hơn hạn đóng T12/2027 khoảng 1 năm)
+Dự kiến đủ 43tr: T12/2026 (cuối T11 sát mốc ~36.5–38.5tr; sớm hơn hạn đóng T12/2027 khoảng 1 năm)
 Thưởng:    Lương tháng 13 TMA ≈ 1 tháng lương (~17.6tr), dự kiến trước Tết ~T01/2027 - chưa cộng vào dự phóng, chỉ ghi khi tiền về
 Trần:      KHÔNG bơm thêm crypto/bot đến khi tiền mặt ≥ 50tr
 ```
@@ -148,9 +148,9 @@ TIẾT KIỆM:         ~15,400,000 - 17,400,000
 
 | Mốc       | Số tiền     | Ý nghĩa                                              |
 | --------- | ----------- | ---------------------------------------------------- |
-| 30/10/26  | 24,705,142  | Hiện tại (tiền mặt thực tế sau trừ 13M tiền mẹ, đã trả vé Tết chiều đi, đã nhận lương BIT T10) |
-| T11/2026  | ~40-42tr    | Tháng kiểm chứng chi ≤ 9.5tr · sát mốc 43tr (vé chiều vào nếu đặt: -3tr) |
-| T12/2026  | **~54-58tr**| ✅ Đủ học phí Thạc sĩ năm 1 · 🚧 chạm trần 50tr → mở đầu tư |
+| 31/10/26  | 22,502,505  | Hiện tại (tiền mặt thực tế sau trừ 13M tiền mẹ, đã trả vé Tết chiều đi, đã trả Shopee 1.83M, đã nhận lương BIT T10) |
+| T11/2026  | ~36.5-38.5tr| Tháng kiểm chứng chi ≤ 9.5tr · sát mốc 43tr (vé chiều vào nếu đặt: -3tr) |
+| T12/2026  | **~50.5-54.5tr**| ✅ Đủ học phí Thạc sĩ năm 1 · 🚧 chạm trần 50tr → mở đầu tư |
 | T09-T10/2027 | -         | 🎓 Nộp hồ sơ Thạc sĩ UIT (Đợt 2)                     |
 | T12/2027  | -           | 🎓 Khai giảng, trả 43tr học phí năm 1                |
 
@@ -205,7 +205,7 @@ planing/
 | Cần gì                | Mở file                                                                          |
 | --------------------- | -------------------------------------------------------------------------------- |
 | Bản đồ tra cứu siêu tốc | [INDEX.md](./INDEX.md)                                                           |
-| Hôm nay làm gì        | [02_EXECUTION/sprints/S1.md](./02_EXECUTION/sprints/S1.md)                       |
+| Hôm nay làm gì        | [02_EXECUTION/sprints/S2.md](./02_EXECUTION/sprints/S2.md)                       |
 | Lịch 24h & Van xả     | [02_EXECUTION/DAILY_SCHEDULE.md](./02_EXECUTION/DAILY_SCHEDULE.md)               |
 | Luật chơi sprint      | [02_EXECUTION/SCRUM_FRAMEWORK.md](./02_EXECUTION/SCRUM_FRAMEWORK.md)             |
 | Mốc quý               | [02_EXECUTION/SPRINT_CALENDAR.md](./02_EXECUTION/SPRINT_CALENDAR.md)             |
@@ -219,4 +219,4 @@ planing/
 
 ---
 
-_Cập nhật: 30/10/2026 (Đóng phí CC: tiền mặt 24,705,142, Net Worth ~60.0M). Trước đó: 30/10/2026 (Tiền mẹ 13M, Timo, BIT hoàn: tiền mặt 24,705,142, Net Worth ~60.2M). Trước đó: 30/10/2026 (Đối chiếu TCB 30/10: tiền mặt 25,611,841, Net Worth ~59.6M). Trước đó: 30/10/2026 (Đối chiếu VietinBank 30/10: tiền mặt 25,007,708, Net Worth ~60.1M). Trước đó: 30/10/2026 (Đối chiếu BIDV 30/10: tiền mặt 25,507,708, Net Worth ~60.5M). Trước đó: 29/10/2026 (InBody 29/10/2026). Trước đó: 27/10/2026 (Nhận lương BIT 7M (VietinBank): tiền mặt 27,232,781, Net Worth ~61.9M; lộ trình tiền mặt tính lại). Trước đó: 25/10/2026 (Thêm dòng lương tháng 13 TMA ~17.6tr - thu nhập dự kiến). Trước đó: 25/10/2026 (Trả vé Tết chiều đi 2.62tr: tiền mặt 20,357,781, Net Worth ~55.0M, lộ trình tiền mặt tính lại). Trước đó: 24/10/2026 (Đồng bộ tài chính 24/10: tiền mặt thực 22,980,362, Net Worth ~57.6M; lộ trình tiền mặt tính lại → đủ 43tr + trần 50tr T12/2026). Trước đó: 17/10/2026 (Gom Coach + Quỹ mẹ về 1 nguồn). Trước đó: 15/10/2026 (Chi thực tế 8-10tr/tháng; 2 tỷ chỉ trông vào chốt W; Hạn nộp chứng chỉ TOEIC 700+ cho TMA: 15/11/2027; TOEIC 700+ = điều kiện bắt buộc lên Senior TMA năm 2027; Chốt ngành: Thạc sĩ Khoa học máy tính; Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027). Trước đó: 12/10/2026 (V10 - Stress test toàn bộ plan: Điều chỉnh mục tiêu % mỡ M3 xuống 12-15% để tránh sụt test/burnout; Dời lịch cày TOEIC sang T02/2027 để không bị overload với Immersion; Nhấn mạnh việc tìm hiểu quy chế thi đầu vào Thạc sĩ.)_
+_Cập nhật: 31/10/2026 (Thanh toán Shopee 1,827,637 qua VietinBank: tiền mặt 22,502,505, nợ còn 2.8M, tiền tự do 19,702,505, Net Worth ~57.70M). Trước đó: 30/10/2026 (Đóng phí CC: tiền mặt 24,705,142, Net Worth ~60.0M). Trước đó: 30/10/2026 (Tiền mẹ 13M, Timo, BIT hoàn: tiền mặt 24,705,142, Net Worth ~60.2M). Trước đó: 30/10/2026 (Đối chiếu TCB 30/10: tiền mặt 25,611,841, Net Worth ~59.6M). Trước đó: 30/10/2026 (Đối chiếu VietinBank 30/10: tiền mặt 25,007,708, Net Worth ~60.1M). Trước đó: 30/10/2026 (Đối chiếu BIDV 30/10: tiền mặt 25,507,708, Net Worth ~60.5M). Trước đó: 29/10/2026 (InBody 29/10/2026). Trước đó: 27/10/2026 (Nhận lương BIT 7M (VietinBank): tiền mặt 27,232,781, Net Worth ~61.9M; lộ trình tiền mặt tính lại). Trước đó: 25/10/2026 (Thêm dòng lương tháng 13 TMA ~17.6tr - thu nhập dự kiến). Trước đó: 25/10/2026 (Trả vé Tết chiều đi 2.62tr: tiền mặt 20,357,781, Net Worth ~55.0M, lộ trình tiền mặt tính lại). Trước đó: 24/10/2026 (Đồng bộ tài chính 24/10: tiền mặt thực 22,980,362, Net Worth ~57.6M; lộ trình tiền mặt tính lại → đủ 43tr + trần 50tr T12/2026). Trước đó: 17/10/2026 (Gom Coach + Quỹ mẹ về 1 nguồn). Trước đó: 15/10/2026 (Chi thực tế 8-10tr/tháng; 2 tỷ chỉ trông vào chốt W; Hạn nộp chứng chỉ TOEIC 700+ cho TMA: 15/11/2027; TOEIC 700+ = điều kiện bắt buộc lên Senior TMA năm 2027; Chốt ngành: Thạc sĩ Khoa học máy tính; Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027). Trước đó: 12/10/2026 (V10 - Stress test toàn bộ plan: Điều chỉnh mục tiêu % mỡ M3 xuống 12-15% để tránh sụt test/burnout; Dời lịch cày TOEIC sang T02/2027 để không bị overload với Immersion; Nhấn mạnh việc tìm hiểu quy chế thi đầu vào Thạc sĩ.)_

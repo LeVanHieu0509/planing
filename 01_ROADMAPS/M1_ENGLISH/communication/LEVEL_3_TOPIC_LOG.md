@@ -135,8 +135,7 @@
 - **Câu dài thực chiến:**
 - **Voice Memo (T2):** ☐
 
-#### 🎯 Chủ Nhật 01/11/2026 (Lớp Phản Xạ)
-- **Review & Sử dụng từ:** ☐
+> _(Lớp Phản Xạ CN đã hoàn tất khóa tặng kèm vào 25/10/2026 — từ 26/10 xả trực tiếp từ vựng trong lớp L3 tối T3/T5)_
 
 ---
 
@@ -158,8 +157,8 @@
 
 ## 🔗 LIÊN KẾT
 - Lộ trình tổng thể: [IMMERSION_ROADMAP.md](./IMMERSION_ROADMAP.md)
-- Sprint hiện tại: [../../02_EXECUTION/sprints/S1.md](../../../02_EXECUTION/sprints/S1.md)
+- Sprint hiện tại: [../../02_EXECUTION/sprints/S2.md](../../../02_EXECUTION/sprints/S2.md)
 
 ---
 
-_Cập nhật: 30/10/2026 (Ghi buổi 2 - chủ đề IF (câu điều kiện loại 2) + trò chơi STRANDED). Trước đó: 15/10/2026 (Voice Memo/ChatGPT Voice chuyển sang tối T2 + T6; tối T4 để relax)._
+_Cập nhật: 31/10/2026 (Bỏ mục Phản Xạ CN từ 26/10, trỏ link sang Sprint S2). Trước đó: 30/10/2026 (Ghi buổi 2 - chủ đề IF (câu điều kiện loại 2) + trò chơi STRANDED). Trước đó: 15/10/2026 (Voice Memo/ChatGPT Voice chuyển sang tối T2 + T6; tối T4 để relax)._

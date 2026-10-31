@@ -142,8 +142,8 @@ TUYỆT ĐỐI KHÔNG HI SINH VÌ BẤT KỲ MỐI QUAN HỆ NÀO:
 
 | Sprint | Gia đình (call) | Bạn bè (CF/đá banh) | Ghi chú |
 | ------ | ---------------- | --------------------- | ------- |
-| S1     | [ ]              | [ ]                    |         |
-| S2     | [ ]              | [ ]                    |         |
+| S1     | [x]              | [x]                   | Gặp nhóm Quỳnh 24/10 (bài học tinh tế giữ thể diện), đóng trước Quỹ mẹ T11 |
+| S2     | [ ]              | [ ]                   |         |
 | S3     | [ ]              | [ ]                    |         |
 
 ---
@@ -160,7 +160,7 @@ TUYỆT ĐỐI KHÔNG HI SINH VÌ BẤT KỲ MỐI QUAN HỆ NÀO:
 
 ---
 
-_Cập nhật: 25/10/2026 (Thêm bài học tinh tế 24/10: Quỳnh nhận đặt quán để giữ thể diện cho Hiếu). Trước đó: 20/10/2026 (Thêm mục "Sự tinh tế" - bài học túi mù Labubu của anh Hoà ngày 20/10). Trước đó: 17/10/2026 (Link quỹ mẹ về M2_FINANCE). Trước đó: 15/10/2026 (Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027; Đồng bộ số liệu giữa các file). Trước đó: 13/09/2026 (V4 - Viết lại toàn bộ theo hệ thống mới, bỏ Epic E6/Story Point. Thêm kế
+_Cập nhật: 31/10/2026 (Tick hoàn thành Tracking S1). Trước đó: 25/10/2026 (Thêm bài học tinh tế 24/10: Quỳnh nhận đặt quán để giữ thể diện cho Hiếu). Trước đó: 20/10/2026 (Thêm mục "Sự tinh tế" - bài học túi mù Labubu của anh Hoà ngày 20/10). Trước đó: 17/10/2026 (Link quỹ mẹ về M2_FINANCE). Trước đó: 15/10/2026 (Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027; Đồng bộ số liệu giữa các file). Trước đó: 13/09/2026 (V4 - Viết lại toàn bộ theo hệ thống mới, bỏ Epic E6/Story Point. Thêm kế
 hoạch "Bạn đời" chốt 13/09/2026: ưu tiên phát triển bản thân trước, dự kiến tìm hiểu nghiêm túc
 cuối 2026, khu vực miền Trung (Nghệ An-Đà Nẵng, Nha Trang trở ra), ưu tiên nghề giáo viên/bác sĩ.
 Reset bảng tracking theo Sprint S1 mới.)_
