@@ -14,8 +14,8 @@ Tuổi:         25 (sinh nhật 05/09 - vừa tròn 25 tuổi năm 2026)
 Quê:          Nghệ An  ·  Sống tại: TP.HCM (Gò Vấp)
 Nghề:         Software Developer (4+ năm) - TMA Solutions (chính) + BIT (tối)
 Side project: Miracle POS - 🧊 đóng băng, dự kiến rã đông Q2/2027
-Cân nặng:     66.0kg (đo InBody 03/10/26, mỡ 13.3%) → mục tiêu 72-75kg, % mỡ 12-15% (đang đúng hướng)
-TOEIC:        535 (19/06/2026) → Đang theo học Tiếng Anh Immersion Level 3
+Cân nặng:     66.4kg (đo InBody 29/10/26: cơ 33.2kg, mỡ 12.2%, Score 82/100) → mục tiêu 72-75kg, % mỡ 12-15% (đang Lean Bulk)
+TOEIC:        535 (19/06/2026) → Đang theo học Tiếng Anh Immersion Level 3 (đã học 4/24 buổi)
 ```
 
 > 5 mục tiêu lớn hiện tại (M1-M5), số liệu tài chính, mốc Thạc sĩ: xem [MASTER_PLAN.md](../MASTER_PLAN.md).
@@ -42,7 +42,7 @@ TOEIC:        535 (19/06/2026) → Đang theo học Tiếng Anh Immersion Level 
 
 ```
 ✅ Đang điều trị da mặt (bắt đầu T09/2026) - song song với gym
-✅ Tiếp tục gym 4 buổi/tuần, cải thiện vóc dáng (66.8kg → 72-75kg, đang đúng hướng theo InBody)
+✅ Tiếp tục gym 4 buổi/tuần, cải thiện vóc dáng (66.4kg → 72-75kg, % mỡ 12.2% đã đạt đích, chuyển sang Lean Bulk)
 🔜 Dự định dùng thời gian rảnh (khi có, không ép lịch) để làm nghiên cứu/đọc sâu 1 chủ đề
    - mở rộng hiểu biết về cuộc sống, chưa chọn chủ đề cụ thể, chưa đưa vào sprint
 ```
@@ -73,7 +73,7 @@ TOEIC:        535 (19/06/2026) → Đang theo học Tiếng Anh Immersion Level 
 | 1   | **Ôm đồm quá nhiều**              | Burnout, chất lượng giảm                      | Tối đa 5 việc/sprint, sprint nghỉ mỗi 3 sprint                 |
 | 2   | **Chạy marathon ở tốc độ sprint** | Kiệt sức sau 2-3 tháng (đã xảy ra T08-T09)    | Hệ thống V6 nhẹ hơn, bỏ SP/standup                             |
 | 3   | **Tiếng Anh chưa tự nhiên**       | Giới hạn cơ hội career, lương                 | Immersion 6 tháng (14/07 → 14/01/27), lớp Nghe Nói             |
-| 4   | **Chưa đạt cân nặng mục tiêu**    | 66.8kg, còn cách 72-75kg                      | Gym 4x/tuần + ăn đủ đạm, đo InBody 1 lần/tháng                 |
+| 4   | **Chưa đạt cân nặng mục tiêu**    | 66.4kg (cơ 33.2kg, mỡ 12.2%), còn cách 72-75kg | Gym 4x/tuần + Lean Bulk 2,700–2,900 kcal/ngày, đo InBody 1 lần/tháng |
 | 5   | **Khó nói "không"**               | Nhận thêm việc, mất thời gian                 | Quy tắc: mỗi việc phải gắn được 1 mốc mới đưa vào sprint       |
 | 6   | **Hay tự code thêm feature**      | Lãng phí thời gian ở Miracle POS              | Miracle đóng băng - chỉ fix bug, không code feature mới        |
 | 7   | **Ghi sổ tài chính hay bỏ sót**   | Gây hiểu nhầm "hụt tiền" (vụ T08)             | Hệ 3 cột Chi tiêu/Đầu tư/Phải thu, ghi trong ngày              |

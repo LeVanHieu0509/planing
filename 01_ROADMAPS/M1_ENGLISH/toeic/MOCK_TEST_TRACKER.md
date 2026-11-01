@@ -1,9 +1,10 @@
-# 📊 MOCK TEST TRACKER - CẬP NHẬT 04/07/2026
+# 📊 MOCK TEST TRACKER - CẬP NHẬT 02/11/2026
 
-> **Tần suất:** 1 full test/tuần trên dautoeic.com (CN hàng tuần)
-> **Nguồn chính:** [dautoeic.com](https://dautoeic.com/mock-test) - ETS 2024 + ETS 2026
-> **Mục tiêu:** Theo dõi tiến độ trong 6 tháng immersion (20/07/2026 → 20/01/2027)
-> **Thi chính thức:** ~~T07-T11~~ ❌ HỦY - **535 đã nộp cho công ty**
+> **Chiến lược hiện tại (2 Pha):**
+> - **Pha 1 (`20/10/2026 → 12/01/2027` — Song song Immersion L3):** **KHÔNG làm Full Mock Test 200 câu** (tránh burnout). Chỉ luyện bấm giờ cụm nhỏ trong cả **3 buổi WFH tại nhà**: **Chiều T2** (`15 câu Part 5`), **Chiều T4** (`10 câu Part 5 + 1 đoạn Part 6`), và **Full ngày T6** (`2–3 đoạn Part 7 + lọc Paraphrase`).
+> - **Pha 2 (`27/02/2027 → 27/06/2027` — Học Coach 1:1 Kim Hân + Hacker TOEIC):** Giải **Full Mock Test (ETS / Hacker)** định kỳ cuối mỗi tháng từ `T03 → T06/2027` để thi thật đạt **700+** vào cuối **T06/2027**.
+> **Nguồn chính:** [dautoeic.com](https://dautoeic.com/mock-test) (ETS 2024/2026) & [study4.com](https://study4.com/tests/toeic/)
+> **Baseline chính thức (19/06/2026):** **535** (`Listening: 320` · `Reading: 215`) — Đã nộp công ty năm 2026 ✅ · Mục tiêu nộp bằng **700+** trước **`15/11/2027`** để xét **Senior Developer**.
 
 ---
 
@@ -92,24 +93,18 @@ Sau mỗi mock phải ghi 3 action items cho sprint/ngày tiếp theo.
 > dùng 6 tháng đó để học tiếng Anh THẬT SỰ - giao tiếp, tư duy, nghe nói đọc viết immersion.
 > TOEIC 700+ sẽ tự đến khi tiếng Anh thật sự tốt.
 
-### Roadmap dài hạn 700+
+### Roadmap Full Mock Tests Giai đoạn 2 (Chinh phục 700+ — T03 → T06/2027)
 
-| #       | Tháng      | Sprint  | Target   | Đề Study4               | L Score | R Score | Tổng | Đạt? | Ghi chú         |
-| ------- | ---------- | ------- | -------- | ----------------------- | ------- | ------- | ---- | ---- | --------------- |
-| Mini    | T06/26     | S8      | -        | Study4 Mini (30 câu)    |         |         |      | [ ]  | Baseline check  |
-| 1       | T06/26     | S8      | 480+     | New Economy Test 1      |         |         |      | [ ]  | Baseline        |
-| 2       | T07/26     | S12     | 500+     | New Economy Test 2      |         |         |      | [ ]  | Vocab + Grammar |
-| 3       | T08/26     | S16     | 520+     | New Economy Test 3      |         |         |      | [ ]  | Listening focus |
-| 4       | T09/26     | S20     | 540+     | New Economy Test 4      |         |         |      | [ ]  | Full balanced   |
-| 5       | T10/26     | S24     | 560+     | New Economy Test 5      |         |         |      | [ ]  | Reading speed   |
-| 6       | T11/26     | S28     | 580+     | New Economy Test 6      |         |         |      | [ ]  | Accuracy        |
-| 7       | T12/26     | S32     | 600+     | New Economy Test 7      |         |         |      | [ ]  | Full strategies |
-| 8       | T01/27     | S36     | 620+     | New Economy Test 8      |         |         |      | [ ]  | Weak points     |
-| 9       | T02/27     | S40     | 640+     | New Economy Test 9      |         |         |      | [ ]  | Time mgmt       |
-| 10      | T02/27     | S44     | 660+     | New Economy Test 10     |         |         |      | [ ]  | Sprint mode     |
-| 11      | T03/27     | S48     | 680+     | Economy 4 Test 1 (old)  |         |         |      | [ ]  | Final prep      |
-| 12      | T03/27     | S52     | 700+     | Economy 5 Test 3 (old)  |         |         |      | [ ]  | **FINAL MOCK**  |
-| **THI** | **T05/27** | **S56** | **700+** | **IIG Official (Vinh)** |         |         |      | [ ]  | **OFFICIAL**    |
+| #        | Thời điểm          | Giai đoạn             | Target       | Bộ đề dự kiến                 | L Score | R Score | Tổng | Đạt? | Ghi chú                                              |
+| -------- | ------------------ | --------------------- | ------------ | ----------------------------- | ------- | ------- | ---- | ---- | ---------------------------------------------------- |
+| **Pha 1**| T10/2026 → T01/27  | Song song Immersion L3| P5 ≥ 80%     | Mini-drill P5/P6/P7 khi WFH (T2/T4/T6)| —       | —       | —    | 🟢   | Không giải full đề 200 câu để chống burnout          |
+| **Mock 1**| Cuối T03/2027     | Sau 1 tháng Coach 1:1 | **600+**     | ETS / Hacker Test 1           |         |         |      | [ ]  | Kiểm tra tốc độ Part 5 ≤ 12p (không bỏ câu cuối P7)  |
+| **Mock 2**| Cuối T04/2027     | Sau 2 tháng Coach 1:1 | **640+**     | ETS / Hacker Test 2           |         |         |      | [ ]  | Tối ưu Scanning & Paraphrase Part 7                  |
+| **Mock 3**| Giữa T05/2027     | Nước rút tháng 3      | **660+**     | ETS / Hacker Test 3           |         |         |      | [ ]  | Giả lập phòng thi 120p                               |
+| **Mock 4**| Cuối T05/2027     | Nước rút tháng 3      | **680+**     | ETS / Hacker Test 4           |         |         |      | [ ]  | L ≥ 380 · R ≥ 300                                    |
+| **Mock 5**| Đầu T06/2027      | Tổng duyệt #1         | **700+**     | ETS Final Mock 1              |         |         |      | [ ]  | L ≥ 385 · R ≥ 315                                    |
+| **Mock 6**| Giữa T06/2027     | Tổng duyệt #2         | **700–730+** | ETS Final Mock 2              |         |         |      | [ ]  | Sẵn sàng thi thật                                    |
+| **THI**  | **Cuối T06/2027**  | **OFFICIAL 2 (IIG)**  | **≥ 700+**   | **IIG Official (HCM)**        |         |         |      | [ ]  | **Nộp HR TMA trước 15/11/2027 để lên Senior**        |
 
 ---
 
@@ -236,4 +231,4 @@ Listening: GIỮ NGUYÊN, không cần đầu tư thêm.
 
 ---
 
-_Cập nhật: 19/06/2026 (V6 - Official 1: 535đ L:320/R:215 - Kết quả thi thật tốt nhất từ trước đến nay)_
+_Cập nhật: 02/11/2026 (Đồng bộ lộ trình Mock Test theo Chiến lược 2 Pha: Pha 1 luyện mini-drill bấm giờ sáng T2/T6, Pha 2 giải 6 Full Mock Tests cùng Coach 1:1 Kim Hân từ T03 → T06/2027 để thi đạt 700+). Trước đó: 19/06/2026 (V6 - Official 1: 535đ L:320/R:215 - Kết quả thi thật tốt nhất từ trước đến nay)._

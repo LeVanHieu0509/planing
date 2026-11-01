@@ -1,35 +1,53 @@
-# 📚 TOEIC ROADMAP - LỘ TRÌNH 13 THÁNG FINAL (V5)
+# 📚 TOEIC ROADMAP - CHIẾN LƯỢC 2 PHA CHINH PHỤC 700+ (V6)
 
-> **Thời gian:** S1 (04/05/2026) → S56 (T05/2027)
-> **Mục tiêu:** TOEIC 450 → 700+ & Tự tin giao tiếp phỏng vấn outsource
-> **Giờ học:** 70p sáng (06:40-07:50) + 30p nghe thụ động commute
-> **Tổng giờ:** ~740 giờ (330 ngày × 2.25h)
-> **Cập nhật:** 03/05/2026 (V5 - Hoàn thiện Tips 7/7 Part: Listening 1-4 + Reading 5-7)
-
----
-
-## 🔗 CHUỖI LIÊN KẾT - THỨ TỰ HỌC TRONG TUẦN
-
-```
-T2: VOCABULARY (70p) - Đầu tuần, não tươi → nhớ tốt nhất
-  ↓ (Từ mới được học)
-T3: LISTENING  (70p) - Áp dụng từ mới vào nghe context
-  ↓ (Nghe từ trong câu thật)
-T4: GRAMMAR   (70p) - Học cấu trúc câu chứa từ đó
-  ↓ (Hiểu cấu trúc)
-T5: READING   (70p) - Đọc và nhận diện tất cả
-  ↓ (Tổng hợp 4 kỹ năng)
-T6: REVIEW ALL(70p) - Ôn lại 4 ngày trước
-T7: NGHỈ TOEIC       - Não cần nghỉ để consolidate
-CN: Mock Test (1/tháng)
-+ Hàng ngày: Nghe Spotlight/Podcast 30p lúc di chuyển
-```
+> **Baseline chính thức (19/06/2026):** **TOEIC 535** (`Listening: 320` · `Reading: 215`)
+> **Mục tiêu:** **TOEIC 700+** (`Listening ≥ 380` [+60đ] · `Reading ≥ 320` [+105đ])
+> **Mốc thi thật:** **Cuối T06 / đầu T07/2027** — Nộp chứng chỉ cho HR TMA trước hạn chót **`15/11/2027`** để xét **Senior Developer** (`+3M → +5M/tháng`) & miễn/chuẩn đầu ra Ngoại ngữ Thạc sĩ UIT.
+> **Chiến lược 2 Pha (Thiết kế chống Burnout — Không ép dậy sớm buổi sáng):**
+> - **Pha 1 (`20/10/2026 → 12/01/2027` — Song song Immersion Level 3):** Dồn lực chính cho Giao tiếp L3 tối T3/T5; TOEIC chỉ **giữ nhiệt Reading (Part 5, 6, 7) trong cả 3 buổi WFH tại nhà (`Chiều T2` · `Chiều T4` · `Full ngày T6` — tận dụng thời gian không phải chạy xe đi về)** kết hợp tra bộ 2 cuốn *"Chinh phục toàn diện ngữ pháp tiếng Anh bằng Infographic"* và nghe Podcast EN đi đường. **Tuyệt đối không giải đề full 200 câu** trong Pha 1.
+> - **Pha 2 (`27/02/2027 → 27/06/2027` — Sau Tết, đã tốt nghiệp L3):** Cày bộ **Hacker TOEIC** + Học kèm **Coach 1:1 Nguyễn Vũ Kim Hân** (chi tiết tại [COACH_1ON1_KIM_HAN_2027.md](./COACH_1ON1_KIM_HAN_2027.md)) + Giải full đề ETS bấm giờ thực chiến.
+> **Cập nhật:** 02/11/2026 (V6 - Đồng bộ Chiến lược 2 Pha, gắn cố định 3 buổi tự học TOEIC vào 3 ngày WFH tại nhà: Chiều T2, Chiều T4, Full ngày T6 để sáng ngủ đủ giấc)
 
 ---
 
-## 🎯 CHIẾN THUẬT PART 5 - ÁP DỤNG TỪ S1 (theo Helen English)
+## 🔗 QUY TRÌNH HỌC HÀNG TUẦN THEO 2 PHA
 
-> ⭐ Mỗi buổi Reading (T5), **TRƯỚC KHI LÀM BÀI**, luôn áp dụng quy trình 3 bước:
+### 🟢 PHA 1: GIỮ NHIỆT READING TRONG 3 BUỔI WFH TẠI NHÀ (20/10/2026 → 12/01/2027)
+
+```
+BUỔI 1 — CHIỀU THỨ HAI WFH TẠI NHÀ (18:00 - 18:30 hoặc lúc vơi việc chiều | 30 phút - Chuyên Part 5 & Ngữ pháp Infographic):
+  ├─ BƯỚC 1 (05p): Bấm giờ làm 15 câu Part 5 (tối đa 20 giây/câu, áp dụng 3 bước phân loại).
+  ├─ BƯỚC 2 (15p): Chữa kỹ từng câu sai → Mở sách "Ngữ pháp Infographic" xem đúng sơ đồ chủ điểm đó.
+  └─ BƯỚC 3 (10p): Ghi câu sai + công thức rút gọn vào TOEIC_ERROR_MASTER.md.
+
+BUỔI 2 — CHIỀU THỨ TƯ WFH TẠI NHÀ (17:30 - 18:00 trước khi đi đá banh hoặc lúc vơi việc chiều | 30 phút - Chuyên Part 5 + Part 6):
+  ├─ BƯỚC 1 (08p): Bấm giờ làm 10 câu Part 5 + 1 đoạn Part 6 (4 câu).
+  ├─ BƯỚC 2 (15p): Chữa câu sai + Tra sơ đồ Ngữ pháp Infographic (Liên từ / Giới từ / Thì trong Part 6).
+  └─ BƯỚC 3 (07p): Ghi chú từ vựng / cấu trúc mới vào TOEIC_ERROR_MASTER.md.
+
+BUỔI 3 — THỨ SÁU WFH FULL NGÀY TẠI NHÀ (18:00 - 18:45 hoặc lúc vơi việc ban ngày | 45 phút - Chuyên Part 7 & Tổng ôn tuần):
+  ├─ BƯỚC 1 (15p): Bấm giờ giải 2–3 bài đọc đơn/kép Part 7 (~8-10 câu).
+  ├─ BƯỚC 2 (20p): Đọc kỹ lại bài Part 7, gạch chân & trích xuất 5 cặp Paraphrase / Collocations đắt giá.
+  └─ BƯỚC 3 (10p): Tổng ôn lại các lỗi của Chiều T2 & Chiều T4 trong TOEIC_ERROR_MASTER.md.
+
+HÀNG NGÀY ĐI ĐƯỜNG (T2 - T5 | 30-60 phút/ngày):
+  └─ 🎧 Nghe thụ động 100% Podcast tiếng Anh / Spotlight → Nuôi phản xạ Listening tự nhiên từ 320 lên 380+.
+```
+
+### 🔥 PHA 2: TĂNG TỐC HACKER TOEIC & COACH 1:1 (27/02/2027 → 27/06/2027)
+
+```
+- Lịch học Coach 1:1 (Nguyễn Vũ Kim Hân - Gò Vấp): 2 buổi/tuần (Chiều T7 + Chiều CN; tuần cafe anh em chuyển T7 sang T4).
+  → Xem chi tiết học phí, lịch trình và giáo trình tại: COACH_1ON1_KIM_HAN_2027.md
+- 3 buổi WFH tại nhà (Chiều T2 / Chiều T4 / Full ngày T6): Giải bài tập về nhà Hacker TOEIC (Part 5, 6, 7) + ôn từ vựng.
+- Cuối tuần (Từ T04 → T06/2027): Bấm giờ giải Full Test ETS (120 phút liên tục) → Sửa lỗi sâu vào TOEIC_ERROR_MASTER.md.
+```
+
+---
+
+## 🎯 CHIẾN THUẬT PART 5 - ÁP DỤNG MỖI BUỔI WFH T2 & T4 (theo Helen English)
+
+> ⭐ Mỗi buổi WFH **Chiều Thứ Hai & Chiều Thứ Tư**, **TRƯỚC KHI LÀM BÀI**, luôn áp dụng quy trình 3 bước:
 
 ```
 BƯỚC 1: Nhìn 4 đáp án TRƯỚC → Phân loại NGAY (1 giây):
@@ -48,18 +66,35 @@ BƯỚC 3: Loại 2 đáp án sai NGAY → chọn trong 2 còn lại
 
 ---
 
-## ⏱️ PHÂN BỔ THỜI GIAN READING THEO RELEASE
+## ⏱️ PHÂN BỔ THỜI GIAN READING (75 PHÚT PHÒNG THI)
 
-| Release             | Part 5  | Part 6 | Part 7 | Ghi chú                        |
-| ------------------- | ------- | ------ | ------ | ------------------------------ |
-| **R1** (S1-S10)     | **20p** | -      | -      | Mới bắt đầu, ưu tiên chính xác |
-| **R2** (S11-S23)    | **15p** | 12p    | 48p    | Bắt đầu bấm giờ                |
-| **R3** (S24-S36)    | **12p** | 10p    | 53p    | Rút dần Part 5, dồn cho Part 7 |
-| **R4-R5** (S37-S56) | **10p** | 8p     | 57p    | Tốc độ thi thật                |
+| Giai đoạn                                | Part 5 (30 câu) | Part 6 (16 câu) | Part 7 (54 câu) | Ghi chú                                                 |
+| ---------------------------------------- | --------------- | --------------- | --------------- | ------------------------------------------------------- |
+| **Baseline (19/06/2026 - R215)**         | ~18–20p         | ~15p            | ~40p (hụt giờ)  | Chưa phân loại nhanh Part 5, thiếu giờ cho Part 7       |
+| **Pha 1 (T10/2026 → T01/2027)**          | **5p / 15 câu** | -               | **10p / 2 bài** | Luyện mini-drill bấm giờ từng cụm nhỏ khi WFH (T2 & T6) |
+| **Pha 2 - Giữa kỳ (T03 → T04/2027)**     | **12p**         | **10p**         | **53p**         | Rút ngắn Part 5–6 để dành trọn 53p cho Part 7           |
+| **Pha 2 - Về đích 700+ (T05 → T06/2027)**| **10–11p**      | **8–9p**        | **55–57p**      | Tốc độ thi thật: Reading ≥ 320 (đúng ≥ 65/100 câu)      |
 
 ---
 
-## 📊 5 RELEASES - CHI TIẾT TỪNG SPRINT
+## 📈 LỘ TRÌNH CỘT MỐC & MOCK TEST (2026–2027)
+
+| Giai đoạn / Tháng         | Hoạt động trọng tâm                                                  | Mục tiêu điểm số                        | Tài liệu / Ghi chú                                      |
+| ------------------------- | -------------------------------------------------------------------- | --------------------------------------- | ------------------------------------------------------- |
+| **19/06/2026 (Baseline)** | **Thi thật lần 1 (IIG)**                                             | **535** (`L: 320` · `R: 215`) ✅        | Đã xác lập điểm xuất phát thực tế                       |
+| **T10/2026 → T01/2027**   | **Pha 1:** Mini-drill P5/P7 khi WFH (Chiều T2 & Ngày T6) + Infographic| Giữ vững P5 ≥ 80% đúng, tăng tốc đọc P7 | Không làm Full Mock Test để dồn sức cho Immersion L3    |
+| **27/02/2027 (Khai giảng)**| **Pha 2:** Bắt đầu Coach 1:1 Kim Hân + Bộ đề Hacker TOEIC            | Rà soát lỗ hổng Reading 215 → 260+      | [COACH_1ON1_KIM_HAN_2027.md](./COACH_1ON1_KIM_HAN_2027.md) |
+| **Cuối T03/2027**         | **Full Mock Test #1 (ETS)** sau 1 tháng học Coach                    | **600+** (`L ≥ 350` · `R ≥ 250`)        | Chấm điểm + ghi sổ [TOEIC_ERROR_MASTER.md](./TOEIC_ERROR_MASTER.md) |
+| **Cuối T04/2027**         | **Full Mock Test #2 (ETS)** sau 2 tháng học Coach                    | **640+** (`L ≥ 365` · `R ≥ 275`)        | Tối ưu chiến thuật Scanning & Paraphrase Part 7         |
+| **Cuối T05/2027**         | **Full Mock Test #3 & #4 (ETS)** giai đoạn nước rút                  | **680+** (`L ≥ 380` · `R ≥ 300`)        | Giả lập áp lực phòng thi 120 phút liên tục              |
+| **Nửa đầu T06/2027**      | **Final Mock Tests (#5 & #6)**                                       | **700–730+** (`L ≥ 385` · `R ≥ 320`)    | Sẵn sàng đăng ký thi IIG                                |
+| **Cuối T06 / Đầu T07/27** | 🎯 **THI THẬT OFFICIAL (IIG)**                                       | **≥ 700+**                              | Kịp nộp HR TMA trước 15/11/2027 để lên Senior           |
+
+---
+
+## 📊 KHO CHỦ ĐỀ TỪ VỰNG & NGỮ PHÁP THAM CHIẾU (ARCHIVE LỘ TRÌNH 5 RELEASES V5)
+
+> 💡 **Lưu ý:** Bảng 5 Releases (`R1 → R5`) dưới đây được giữ lại làm **ngân hàng chủ đề Từ vựng & Ngữ pháp theo thứ tự từ dễ đến khó** để tra cứu khi tự học trong 3 buổi WFH (`Chiều T2 · Chiều T4 · Full ngày T6`) và trong Pha 2 (mốc ngày tháng `S1–S56` cũ của bản V5 tháng 05/2026 đã được thay thế bởi lịch 2 Pha ở trên).
 
 ### R1: NỀN TẢNG (S1-S10) - TOEIC 450→520 (Từ vựng DỄ)
 
@@ -168,87 +203,67 @@ BƯỚC 3: Loại 2 đáp án sai NGAY → chọn trong 2 còn lại
 
 ---
 
-## 📈 12 MOCK TESTS + 1 OFFICIAL
-
-| #       | Tháng         | Sprint  | Target   | Tài liệu       |
-| ------- | ------------- | ------- | -------- | -------------- |
-| 1       | T06/26        | S8      | 480+     | docs/Test 1/   |
-| 2       | T07/26        | S12     | 500+     | docs/Test 2/   |
-| 3       | T08/26        | S16     | 520+     | docs/Test 3/   |
-| 4       | T09/26        | S20     | 540+     | docs/Test 4/   |
-| 5       | T10/26        | S24     | 560+     | docs/Test 5/   |
-| 6       | T11/26        | S28     | 580+     | Đề mới         |
-| 7       | T12/26        | S32     | 600+     | Đề mới         |
-| 8       | T01/27        | S36     | 620+     | Đề mới         |
-| 9       | T02/27        | S40     | 640+     | Đề mới         |
-| 10      | T02/27        | S44     | 660+     | Đề mới         |
-| 11      | T03/27        | S48     | 680+     | Đề mới         |
-| 12      | T03/27        | S52     | 700+     | **FINAL MOCK** |
-| **THI** | **T04-05/27** | **S56** | **700+** | **OFFICIAL**   |
-
----
-
-## ⚠️ LƯU Ý QUAN TRỌNG
+## ⚠️ NGUYÊN TẮC KỶ LUẬT (PHA 1 & PHA 2)
 
 ```
 KHÔNG BAO GIỜ:
-  ❌ Học quá 15 từ mới/ngày
-  ❌ Bỏ ôn từ cũ (PHẢI Spaced Repetition)
-  ❌ Học liên tục >45 phút không nghỉ
-  ❌ Bỏ tracking >2 ngày liên tiếp
-  ❌ Bỏ Mock Test hàng tháng
-  ❌ Làm Part 5 mà KHÔNG phân loại 3 dạng câu hỏi trước
+  ❌ Giải full đề 200 câu trong Pha 1 (đang học Immersion L3 → dễ quá tải & bỏ cuộc)
+  ❌ Làm Part 5 mà KHÔNG nhìn 4 đáp án phân loại 3 dạng trước (Word Form / Grammar / Vocab)
+  ❌ Sa đà quá 20 giây vào 1 câu Part 5 khó
+  ❌ Làm xong chỉ đếm câu đúng/sai mà KHÔNG tra sơ đồ Ngữ pháp Infographic & ghi lỗi
 
 LUÔN LUÔN:
-  ✅ Mở Lark Sheet MỖI NGÀY (sáng + tối)
-  ✅ Review từ cũ TRƯỚC KHI học từ mới
-  ✅ Nghỉ giải lao 5-10p giữa mỗi 30p
-  ✅ Chấm điểm + phân tích NGAY SAU Mock Test
-  ✅ Ngủ đủ 7-8 tiếng/đêm
-  ✅ Nhìn 4 đáp án Part 5 TRƯỚC KHI đọc câu (Helen method)
+  ✅ Tận dụng 2 buổi WFH tại nhà (Chiều T2 & Ngày T6 - tiết kiệm thời gian đi về) để học TOEIC
+  ✅ Bấm giờ nghiêm ngặt ngay cả khi làm cụm nhỏ (15 câu P5 = 5 phút; 2 bài P7 = 10 phút)
+  ✅ Ghi lại mọi câu sai đáng nhớ và cặp Paraphrase vào TOEIC_ERROR_MASTER.md
+  ✅ Tận dụng 100% thời gian đi đường (commute) để nghe Podcast EN
+  ✅ Ngủ đủ giấc đến 07:45–08:00 sáng để giữ năng lượng cho công việc, Gym và lớp L3 buổi tối
 ```
 
 ---
 
-## 🎯 ĐÁNH GIÁ KHẢ NĂNG ĐẠT 700+
+## 🎯 ĐÁNH GIÁ KHẢ NĂNG ĐẠT 700+ (TỪ BASELINE 535)
 
 ```
-Tổng giờ học: ~740 giờ (330 ngày × 2.25h)
-Benchmark ETS: 400-600 giờ cho 250 điểm tăng → DƯ!
+Baseline hiện tại (19/06/2026): 535 điểm (Listening 320 · Reading 215)
+Khoảng cách cần bù: +165 điểm (Listening +60đ → 380+ · Reading +105đ → 320+)
 
-Best Case (20%):   720-750+ (completion ≥90%)
-Likely Case (55%): 680-720  (completion 80-85%)
-Worst Case (25%):  620-680  (completion <75%)
+Động lực tăng điểm:
+  1. Immersion L2 + L3 (6 tháng nghe nói thực chiến + Podcast hàng ngày):
+     → Tự động kéo Listening từ 320 lên 370-390 mà không cần cày đề nặng ở Pha 1.
+  2. Giữ nhiệt Part 5/7 khi WFH tại nhà (Chiều T2 & Ngày T6) + Ngữ pháp Infographic (Pha 1):
+     → Xây nền ngữ pháp & tốc độ đọc, nâng Reading từ 215 lên ~250-260 trước Tết.
+  3. 4 tháng Coach 1:1 Kim Hân + Bộ đề Hacker TOEIC (Pha 2: T02 → T06/2027):
+     → Đột phá kỹ thuật giải đề & bẫy Paraphrase, kéo Reading từ 260 lên 320-340+.
 
-→ TỔNG KHẢ NĂNG ĐẠT 700+: 75-80%
-→ YẾU TỐ QUYẾT ĐỊNH: CONSISTENCY ≥85%
+→ TỔNG KHẢ NĂNG ĐẠT 700+ TRƯỚC T07/2027: 85-90% (dư 4 tháng trước hạn nộp TMA 15/11/2027)
 ```
 
 ---
 
 ## 🔗 LIÊN KẾT
 
-| File                                                                 | Vai trò                                             |
-| -------------------------------------------------------------------- | --------------------------------------------------- |
-| [VOCABULARY_52_WEEKS.md](./VOCABULARY_52_WEEKS.md)                   | 1,190 từ chi tiết                                   |
-| [TOEIC_VOCABULARY_1000_PLUS.md](./TOEIC_VOCABULARY_1000_PLUS.md)     | Bộ từ vựng 1000+ chi tiết (62.5KB)                  |
-| [GRAMMAR_ROADMAP.md](./GRAMMAR_ROADMAP.md)                           | Ngữ pháp 12 thì + bài tập                           |
-| [LISTENING_READING_GUIDE.md](./LISTENING_READING_GUIDE.md)           | Kỹ thuật L+R + Bẫy                                  |
-| [PART1_LISTENING_TIPS.md](./PART1_LISTENING_TIPS.md)                 | Mẹo Part 1 chi tiết (10 trang)                      |
-| [PART2_LISTENING_TIPS.md](./PART2_LISTENING_TIPS.md)                 | Mẹo Part 2 - WH-questions + 4 bẫy (7 trang)         |
-| [PART3_LISTENING_TIPS.md](./PART3_LISTENING_TIPS.md)                 | Mẹo Part 3 - Hội thoại 2-3 người + bẫy (4 trang)    |
-| [PART4_LISTENING_TIPS.md](./PART4_LISTENING_TIPS.md)                 | Mẹo Part 4 - Short Talks + 2 bẫy (5 trang)          |
-| [PART5_READING_TIPS.md](./PART5_READING_TIPS.md)                     | Mẹo Part 5 - 3 dạng + 3 bẫy + cặp từ nhầm (4 trang) |
-| [PART6_READING_TIPS.md](./PART6_READING_TIPS.md)                     | Mẹo Part 6 - 3 mẹo + 5 ví dụ ETS 2022 (8 trang)     |
-| [PART7_READING_TIPS.md](./PART7_READING_TIPS.md)                     | Mẹo Part 7 - 5 dạng + 8 ví dụ thực tế (16 trang)    |
-| [SPEAKING_GUIDE.md](./SPEAKING_GUIDE.md)                             | Speaking scripts                                    |
-| [MOCK_TEST_TRACKER.md](./MOCK_TEST_TRACKER.md)                       | Tracking Mock Tests                                 |
-| [TOEIC_DETAILED_SCHEDULE.md](./TOEIC_DETAILED_SCHEDULE.md)           | Lộ trình Helen English 3 giai đoạn                  |
-| [HELEN_ENGLISH_STRATEGY.md](./HELEN_ENGLISH_STRATEGY.md)             | Chiến lược làm bài 7 Part (Helen)                   |
-| [TOEIC_TEST_STRATEGY_700_PLUS.md](./TOEIC_TEST_STRATEGY_700_PLUS.md) | Chiến thuật thi 591 dòng                            |
-| [COACH_1ON1_KIM_HAN_2027.md](./COACH_1ON1_KIM_HAN_2027.md)           | Kế hoạch Coach 1:1 Kim Hân (T02-T05/2027)           |
-| [../spotlight/README.md](../../../03_KNOWLEDGE/engineering/ci-cd/flutter/README.md)                     | Spotlight English                                   |
+| File                                                                 | Vai trò                                                      |
+| -------------------------------------------------------------------- | ------------------------------------------------------------ |
+| [COACH_1ON1_KIM_HAN_2027.md](./COACH_1ON1_KIM_HAN_2027.md)           | Kế hoạch Coach 1:1 Kim Hân Pha 2 (27/02 → 27/06/2027)        |
+| [TOEIC_ERROR_MASTER.md](./TOEIC_ERROR_MASTER.md)                     | Sổ tay tổng hợp lỗi sai & 30 quy tắc vàng Part 5-7           |
+| [HELEN_ENGLISH_STRATEGY.md](./HELEN_ENGLISH_STRATEGY.md)             | Chiến lược làm bài 7 Part (Helen)                            |
+| [TOEIC_TEST_STRATEGY_700_PLUS.md](./TOEIC_TEST_STRATEGY_700_PLUS.md) | Chiến thuật thi 700+ chi tiết (591 dòng)                     |
+| [PART1_LISTENING_TIPS.md](./PART1_LISTENING_TIPS.md)                 | Mẹo Part 1 chi tiết (10 trang)                               |
+| [PART2_LISTENING_TIPS.md](./PART2_LISTENING_TIPS.md)                 | Mẹo Part 2 - WH-questions + 4 bẫy (7 trang)                  |
+| [PART3_LISTENING_TIPS.md](./PART3_LISTENING_TIPS.md)                 | Mẹo Part 3 - Hội thoại 2-3 người + bẫy (4 trang)             |
+| [PART4_LISTENING_TIPS.md](./PART4_LISTENING_TIPS.md)                 | Mẹo Part 4 - Short Talks + 2 bẫy (5 trang)                   |
+| [PART5_READING_TIPS.md](./PART5_READING_TIPS.md)                     | Mẹo Part 5 - 3 dạng + 3 bẫy + cặp từ nhầm (4 trang)          |
+| [PART6_READING_TIPS.md](./PART6_READING_TIPS.md)                     | Mẹo Part 6 - 3 mẹo + 5 ví dụ ETS 2022 (8 trang)              |
+| [PART7_READING_TIPS.md](./PART7_READING_TIPS.md)                     | Mẹo Part 7 - 5 dạng + 8 ví dụ thực tế (16 trang)             |
+| [GRAMMAR_ROADMAP.md](./GRAMMAR_ROADMAP.md)                           | Ngữ pháp 12 thì + bài tập                                    |
+| [LISTENING_READING_GUIDE.md](./LISTENING_READING_GUIDE.md)           | Kỹ thuật L+R + Bẫy                                           |
+| [VOCABULARY_52_WEEKS.md](./VOCABULARY_52_WEEKS.md)                   | 1,190 từ chi tiết theo chủ đề                                |
+| [TOEIC_VOCABULARY_1000_PLUS.md](./TOEIC_VOCABULARY_1000_PLUS.md)     | Bộ từ vựng 1000+ chi tiết (62.5KB)                           |
+| [MOCK_TEST_TRACKER.md](./MOCK_TEST_TRACKER.md)                       | Tracking kết quả các kỳ thi & Mock Tests                     |
+| [TOEIC_DETAILED_SCHEDULE.md](./TOEIC_DETAILED_SCHEDULE.md)           | Tài liệu tham khảo lộ trình Helen English 3 giai đoạn        |
+| [SPEAKING_GUIDE.md](./SPEAKING_GUIDE.md)                             | Speaking scripts                                             |
 
 ---
 
-_Cập nhật: 03/05/2026 (V5 - Hoàn thiện Tips 7/7 Part: Listening 1-4 + Reading 5-7)_
+_Cập nhật: 02/11/2026 (V6 - Đồng bộ Chiến lược 2 Pha chống Burnout: Pha 1 giữ nhiệt Reading sáng T2/T6 song song Immersion L3, Pha 2 tăng tốc Coach 1:1 Kim Hân + Hacker TOEIC từ 27/02/2027 để thi đạt 700+ vào cuối T06/2027). Trước đó: 03/05/2026 (V5 - Hoàn thiện Tips 7/7 Part: Listening 1-4 + Reading 5-7)._

@@ -34,7 +34,7 @@ Hiện tại:  TOEIC 535 (19/06/2026) · Đang theo học Tiếng Anh Immersion 
 Chiến lược 3 tháng tới (Q4/2026 - T01/2027): 
            🔥 ALL-IN 100% THỜI GIAN RẢNH VÀO TIẾNG ANH (Giao tiếp Immersion + Ngữ pháp Logic Infographic)
            - Đến 12/01/2027: Dồn thời gian rảnh (trừ tối T4 + tối CN để relax) cho hệ sinh thái Immersion L3 (Nghe podcast đi đường, Active Recall 15p, sơ đồ logic Infographic kéo dài câu, Voice Memo, hồi sinh 24 chủ đề L2 cũ).
-           - Song song trong L3: luyện Part 5 + Part 7 sáng T2 + T6 (gắn với vocabulary, chưa làm full test).
+           - Song song trong L3: tận dụng cả 3 buổi WFH tại nhà (Chiều T2 · Chiều T4 · Full ngày T6) để luyện Part 5, 6, 7 + Ngữ pháp Infographic (30-45p/buổi, không ép dậy sớm buổi sáng, chưa làm full test).
            - T02/2027 → T06/2027 (Khai xuân sau Tết TMA): Cày đề ETS + Coach 1:1 Kim Hân (Gò Vấp, từ 27/02/2027) - chi tiết duy nhất: [COACH_1ON1_KIM_HAN_2027.md](./01_ROADMAPS/M1_ENGLISH/toeic/COACH_1ON1_KIM_HAN_2027.md)
 Tiền:      ✅ L2 và L3 đều đã thanh toán xong · Dự trù ngân sách T02/2027: 12tr cho 3 khóa Coach 1:1 TOEIC (chia 3 đợt đóng 4M / 1.5 tháng, chi tiết tại 01_ROADMAPS/M1_ENGLISH/toeic/COACH_1ON1_KIM_HAN_2027.md).
 Việc duy nhất: THAM GIA ĐỦ BUỔI IMMERSION + ĐẮM CHÌM TIẾNG ANH (chưa làm full test ETS; chỉ luyện Part 5 + Part 7). Tối T4 + tối CN để RELAX.
@@ -56,7 +56,7 @@ Trần:      KHÔNG bơm thêm crypto/bot đến khi tiền mặt ≥ 50tr
 ### M3 · 💪 SỨC KHOẺ
 
 ```
-Đích:      72-75kg · % mỡ 12-15% (Healthy & High Energy) · ngủ 23:30-07:00 · gym 4 buổi/tuần
+Đích:      72-75kg · % mỡ 12-15% (Healthy & High Energy) · ngủ 23:30-07:45 (~8h) · gym 4 buổi/tuần
 Hiện tại:  66.4kg (InBody 29/10/26: cơ 33.2kg, % mỡ 12.2%, Score 82/100) - % mỡ đã đạt, chuyển sang tăng cân sạch
            Đã đăng ký phòng gym 3 tháng (02/09/2026)
 Đo lường:  InBody 1 lần/tháng (bỏ cân hàng ngày, bỏ bảng tracking) - chi tiết ở GYM_PLAN.md
@@ -136,7 +136,7 @@ TIẾT KIỆM:         ~15,400,000 - 17,400,000
 >    - Tiền tổng chuyển trả chủ nhà / điện nước: **KHÔNG tính toàn bộ vào chi tiêu cá nhân** (tránh đội chi phí ảo).
 >    - Hiếu chỉ ghi nhận đúng **1/4 phần thực tế (~2.64M)** vào chi tiêu thuần của bản thân.
 > 
-> 2. **Tiền của mẹ gửi nhờ giữ hộ trong tài khoản (Hiện là 12,000,000 VND / 12.0M):**
+> 2. **Tiền của mẹ gửi nhờ giữ hộ trong tài khoản (Hiện là 13,000,000 VND / 13.0M nằm trọn 100% trong VCB):**
 >    - Mẹ gửi nhờ giữ hộ trong tài khoản: **TUYỆT ĐỐI KHÔNG tính vào thu nhập**, cũng **KHÔNG tính vào tài sản của Hiếu**.
 >    - Luôn **trừ thẳng số tiền mẹ gửi nhờ ra khỏi số dư ngân hàng** để xác định chính xác số dư tiền mặt thực có.
 >    - Tiền mẹ hỗ trợ (như 2.5M tiền quân sự): Được trừ trực tiếp vào chi phí phát sinh, Hiếu chỉ ghi nhận phần mình tự chi.

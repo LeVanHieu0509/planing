@@ -112,7 +112,7 @@ Mục tiêu đầu ra:
 ```
 Mục tiêu đầu ra:
   ✅ Thuyết trình, tư duy phản biện bằng tiếng Anh
-  ✅ Đủ điều kiện học Thạc sĩ CS 2028 (giảng dạy bằng EN)
+  ✅ Đủ điều kiện đọc tài liệu học thuật & học Thạc sĩ KHMT UIT (khai giảng T12/2027)
   ✅ Giao tiếp tự nhiên như tiếng mẹ đẻ thứ hai
 ```
 
@@ -125,8 +125,8 @@ T07/26      T10/26      T01/27      T04/27      T07/27+
   |--L2+PX--|----L3-----|----L4-----|---L5-L6--->
 
   [====== 6 tháng immersion ======]
-                         [outsource interview]
-                                    [Thạc sĩ 2028 prep]
+                         [Coach TOEIC 700+ & Outsource interview]
+                                    [Thạc sĩ UIT T09-T12/2027]
 ```
 
 ---
@@ -243,12 +243,12 @@ Tuần 9-12:  Phỏng vấn xin việc, thương lượng, giải quyết vấn 
 HÀNG NGÀY (không thể bỏ):
   ✅ Di chuyển → Podcast/BBC/Spotlight EN (không nghe nhạc Việt)
   ✅ Giờ nghỉ TMA → đọc 1 article EN ngắn (TechCrunch, BBC, Medium)
-  ✅ Sáng 07:30 → TOEIC Part 5 + 7 (T2/T6) · lướt chunks (T3/T5) · nghe thụ động (T4)
+  ✅ Các buổi WFH tại nhà (Chiều T2 · Chiều T4 · Full ngày T6) → 30-45p TOEIC Part 5/6/7 + Ngữ pháp Infographic
   ✅ Trước ngủ → đọc sách tiếng Anh 30p (trừ tối T4 + CN)
 
 HÀNG TUẦN:
   ⛔ CN chiều → Lớp Phản Xạ: đã học xong, tạm bỏ khỏi lịch từ 26/10/2026 (xả chunks trong lớp T3/T5)
-  📘 TOEIC: chưa làm full test; luyện Part 5 + Part 7 sáng T2 + T6 (gắn vocabulary) · thi thật T06/2027
+  📘 TOEIC: chưa làm full test; luyện Part 5, 6, 7 trong 3 buổi WFH tại nhà (Chiều T2 · Chiều T4 · Full ngày T6) · thi thật T06/2027
   ✅ T6 → review ERROR LOG + ôn từ vựng tuần
 
 KHÔNG BAO GIỜ (6 tháng):
@@ -295,22 +295,7 @@ _(Thêm hàng sau mỗi buổi học)_
 
 ## 📊 TRACKING TIẾN BỘ
 
-### Mock TOEIC hàng tuần (dautoeic.com - CN sáng)
-
-| Tuần | Ngày  | Tổng | L   | R   | Ghi chú                   |
-| ---- | ----- | ---- | --- | --- | ------------------------- |
-| W1   | 14/07 |      |     |     | Baseline trước khai giảng |
-| W2   | 27/07 |      |     |     |                           |
-| W3   | 03/08 |      |     |     |                           |
-| W4   | 10/08 |      |     |     |                           |
-| W5   | 17/08 |      |     |     |                           |
-| W6   | 24/08 |      |     |     |                           |
-| W7   | 31/08 |      |     |     |                           |
-| W8   | 07/09 |      |     |     |                           |
-| W9   | 14/09 |      |     |     |                           |
-| W10  | 21/09 |      |     |     |                           |
-| W11  | 28/09 |      |     |     |                           |
-| W12  | 05/10 |      |     |     | Cuối L2                   |
+> ℹ️ **Cập nhật chiến lược (từ 02/11/2026):** Trong 3 tháng học Level 3 (`20/10/2026 → 12/01/2027`), **không làm Mock Test TOEIC full đề hàng tuần** và **không ép dậy sớm buổi sáng** để tránh quá tải, chỉ luyện **Part 5, 6, 7 trong 3 buổi WFH tại nhà (`Chiều T2 · Chiều T4 · Full ngày T6`)** gắn với từ vựng/ngữ pháp Infographic. Giai đoạn cày full đề ETS được dời sang **T02–T06/2027** cùng [COACH_1ON1_KIM_HAN_2027.md](../toeic/COACH_1ON1_KIM_HAN_2027.md).
 
 ### Tự đánh giá Speaking (1-5) - cuối mỗi tháng
 
@@ -326,16 +311,16 @@ _(Thêm hàng sau mỗi buổi học)_
 
 ## 🎯 MỤC TIÊU THEO THÁNG
 
-| Tháng    | Mốc kiểm tra cụ thể                                 | Đạt? |
-| -------- | --------------------------------------------------- | ---- |
-| T08/2026 | Tự giới thiệu bản thân 3 phút không cần chuẩn bị    | [ ]  |
-| T09/2026 | Kể chuyện cuối tuần, mô tả công việc tech 5 phút    | [ ]  |
-| T10/2026 | Hoàn thành L2 - nói daily life tự nhiên, không ngắc | [ ]  |
-| T11/2026 | Thảo luận chủ đề work/startup 5-7 phút              | [ ]  |
-| T12/2026 | Mock phỏng vấn outsource bằng EN (record lại nghe)  | [ ]  |
-| T01/2027 | Hoàn thành L3 - tổng kết 6 tháng immersion          | [ ]  |
+| Tháng    | Mốc kiểm tra cụ thể                                 | Đạt?   |
+| -------- | --------------------------------------------------- | ------ |
+| T08/2026 | Tự giới thiệu bản thân 3 phút không cần chuẩn bị    | [x] ✅ |
+| T09/2026 | Kể chuyện cuối tuần, mô tả công việc tech 5 phút    | [x] ✅ |
+| T10/2026 | Hoàn thành L2 - nói daily life tự nhiên, không ngắc | [x] ✅ |
+| T11/2026 | Thảo luận chủ đề work/startup 5-7 phút (Level 3)    | [ ]    |
+| T12/2026 | Mock phỏng vấn outsource bằng EN (record lại nghe)  | [ ]    |
+| T01/2027 | Hoàn thành L3 - tổng kết 6 tháng immersion          | [ ]    |
 
 ---
 
-_Cập nhật: 26/10/2026 (Lớp Phản Xạ CN đã học xong, tạm bỏ khỏi lịch từ 26/10/2026). Trước đó: 15/10/2026 (Voice Memo T2+T6, tối T4 relax, luyện P5/P7 trong L3; TOEIC 700+ = điều kiện bắt buộc lên Senior TMA năm 2027; Đồng bộ số liệu giữa các file). Trước đó: 13/09/2026 (Level 3 đã thanh toán. Chỉ còn chờ trường báo lịch.)_
+_Cập nhật: 01/11/2026 (Đồng bộ mốc Thạc sĩ KHMT UIT T12/2027, bỏ bảng Mock TOEIC hàng tuần cũ để khớp chiến lược dời full test sang T02/2027, tick hoàn thành L2). Trước đó: 26/10/2026 (Lớp Phản Xạ CN đã học xong, tạm bỏ khỏi lịch từ 26/10/2026). Trước đó: 15/10/2026 (Voice Memo T2+T6, tối T4 relax, luyện P5/P7 trong L3; TOEIC 700+ = điều kiện bắt buộc lên Senior TMA năm 2027; Đồng bộ số liệu giữa các file). Trước đó: 13/09/2026 (Level 3 đã thanh toán. Chỉ còn chờ trường báo lịch.)_
 _Liên kết: [START_HERE.md](../../../START_HERE.md) | [MOCK_TEST_TRACKER.md](../toeic/MOCK_TEST_TRACKER.md)_

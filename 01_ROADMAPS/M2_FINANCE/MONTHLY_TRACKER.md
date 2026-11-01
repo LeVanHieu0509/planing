@@ -3,24 +3,25 @@
 > **Cách dùng:** Điền vào cuối mỗi tháng (ngày 28-30)
 > **Quy tắc 1 (V6):** Luôn tách **3 cột** — Chi tiêu thuần / Đầu tư / Phải thu. Đầu tư KHÔNG phải chi tiêu.
 > **Quy tắc 2 (Nguyên tắc kế toán Thu hộ / Chi hộ & Tiền giữ hộ):**
+>
 > - **Tiền phòng (~10.5M):** Thu/chi hộ tách riêng 100%. Tiền anh em chuyển vào KHÔNG tính thu nhập; tiền nộp trọ tổng KHÔNG tính toàn bộ vào chi tiêu. Hiếu chỉ ghi nhận đúng 1/4 (~2.64M) vào Chi tiêu thuần.
-> - **Tiền mẹ gửi giữ hộ (Hiện là 12.0M):** Tuyệt đối KHÔNG tính vào thu nhập và KHÔNG tính vào tiền mặt của Hiếu. Luôn trừ thẳng ra khỏi số dư ngân hàng khi chốt số dư tiền mặt thực có.
+> - **Tiền mẹ gửi giữ hộ (Hiện là 13.0M nằm trọn 100% trong VCB):** Tuyệt đối KHÔNG tính vào thu nhập và KHÔNG tính vào tiền mặt của Hiếu. Luôn trừ thẳng ra khỏi số dư ngân hàng khi chốt số dư tiền mặt thực có.
 > - **Khoản mẹ hỗ trợ chi phí:** Trừ trực tiếp vào chi phí thực xuất từ túi Hiếu (ví dụ mẹ góp 2.5M tiền nghĩa vụ quân sự).
 > - **Quỹ mẹ 2tr/tháng:** Khoản riêng theo [QUY_ME_500TR.md](./QUY_ME_500TR.md).
-> **Cập nhật:** 16/10/2026
+>   **Cập nhật:** 01/11/2026
 
 ---
 
 ## 📊 BẢNG TỔNG - TÁCH 3 CỘT
 
-| Tháng  | Tổng thu     | Chi tiêu thuần | Đầu tư     | Phải thu  | Tiền mặt cuối kỳ       | TS Ròng Hoạt động | Tổng TS Ròng Toàn diện |
-| ------ | ------------ | -------------- | ---------- | --------- | ---------------------- | ----------------- | ---------------------- |
-| T07/26 | 2,167,000    | 4,606,338      | 0          | 0         | 9,679,662              | 9,679,662         | 9,679,662              |
-| T08/26 | 43,913,000   | 23,846,383     | 10,600,000 | 1,000,000 | 17,981,979             | 29,581,979        | 29,581,979             |
-| T09/26 | 35,891,708   | 27,617,198     | 5,400,000  | 1,000,000 | 281,227 (TCB)          | 34,681,227        | 34,681,227             |
-| T10/26 | 35,742,425 ✅ | 41,791,742 ✅  | 0          | 0         | 22,254,505 (thực có) ✅| 27,454,505 (Nợ:2.8M)| **57,454,505 ✅**      |
-| T11/26 | 35 (tạm tính) | 35,000 (01/11) | 0          | 0         | 22,219,540 (01/11)     | 27,419,540 (Nợ:2.8M)| 57,419,540 (01/11)     |
-| T12/26 |              |                |            |           |                        |                   |                        |
+| Tháng  | Tổng thu      | Chi tiêu thuần | Đầu tư     | Phải thu  | Tiền mặt cuối kỳ        | TS Ròng Hoạt động    | Tổng TS Ròng Toàn diện |
+| ------ | ------------- | -------------- | ---------- | --------- | ----------------------- | -------------------- | ---------------------- |
+| T07/26 | 2,167,000     | 4,606,338      | 0          | 0         | 9,679,662               | 9,679,662            | 9,679,662              |
+| T08/26 | 43,913,000    | 23,846,383     | 10,600,000 | 1,000,000 | 17,981,979              | 29,581,979           | 29,581,979             |
+| T09/26 | 35,891,708    | 27,617,198     | 5,400,000  | 1,000,000 | 281,227 (TCB)           | 34,681,227           | 34,681,227             |
+| T10/26 | 35,742,425 ✅ | 41,791,742 ✅  | 0          | 0         | 22,254,505 (thực có) ✅ | 27,454,505 (Nợ:2.8M) | **57,454,505 ✅**      |
+| T11/26 | 35 (tạm tính) | 35,000 (01/11) | 0          | 0         | 22,219,540 (01/11)      | 27,419,540 (Nợ:2.8M) | 57,419,540 (01/11)     |
+| T12/26 |               |                |            |           |                         |                      |                        |
 
 _\* T10 ĐÃ CHỐT SỔ (31/10/2026):_
 _- Thu thuần Hiếu: 35.74M (gồm BIT hoàn bill Claude 578k, 5M từ job Yokopetworld); Chi thuần Hiếu: 41.79M (gồm 1/4 phí CC 226,675, TCB 26-28/10 500k, BIDV 25–30/10 1.52M + VietinBank chuyển đi 500k, nạp Viettel 130k, 375k tiền mặt ví đổ xăng/ăn/cf, 248k Timo tối 31/10 [ăn thực chi 150k sau khi Tuấn trả 200k + CGV 98k], 2M quỹ mẹ T11 trả trước + 2.62M vé Tết chiều đi + 1.09M da liễu); Mẹ gửi nhờ giữ hộ: 13.0M trong VCB (gửi thêm 5M, rút 2M cuối T10) (ngoại bảng)._
@@ -33,13 +34,13 @@ _- **Tổng TS Ròng Toàn diện cuối T10:** 57,454,505 VND (Tiền mặt 22.
 
 ## 🎯 MỐC TÀI CHÍNH
 
-| Mốc                            | Dự kiến      | Thực tế            | Đạt?   |
-| ------------------------------ | ------------ | ------------------ | ------ |
-| Emergency Fund 30tr            | T07/2026     | Đầu T08            | [x] ✅ |
-| Tiền mặt 50tr (mở trần đầu tư) | T12/2026     |                    | [ ]    |
-| Tiền mặt 43tr (học phí năm 1)  | T12/2026     |                    | [ ]    |
-| **Đóng 43tr học phí Thạc sĩ năm 1** | **T12/2027** |               | [ ]    |
-| Lũy kế 200tr                   | T09/2027     |                    | [ ]    |
+| Mốc                                 | Dự kiến      | Thực tế | Đạt?   |
+| ----------------------------------- | ------------ | ------- | ------ |
+| Emergency Fund 30tr                 | T07/2026     | Đầu T08 | [x] ✅ |
+| Tiền mặt 50tr (mở trần đầu tư)      | T12/2026     |         | [ ]    |
+| Tiền mặt 43tr (học phí năm 1)       | T12/2026     |         | [ ]    |
+| **Đóng 43tr học phí Thạc sĩ năm 1** | **T12/2027** |         | [ ]    |
+| Lũy kế 200tr                        | T09/2027     |         | [ ]    |
 
 ---
 
@@ -201,12 +202,12 @@ DỰ KIẾN CUỐI T09:    ~29,500,000 tiền mặt
 
 ## 🔗 LIÊN KẾT
 
-| File                                               | Vai trò                      |
-| -------------------------------------------------- | ---------------------------- |
-| [DAU_TU.md](./DAU_TU.md)                           | Danh mục đầu tư & trần 50tr  |
-| [QUY_ME_500TR.md](./QUY_ME_500TR.md)               | Quỹ tiết kiệm cho mẹ - 500tr |
-| [TAI_CHINH_2026_2028.md](./TAI_CHINH_2026_2028.md) | Kế hoạch tài chính tổng      |
-| [T09_2026_GIAO_DICH.md](./trackers/T09_2026_GIAO_DICH.md)   | Giao dịch chi tiết T09       |
+| File                                                      | Vai trò                      |
+| --------------------------------------------------------- | ---------------------------- |
+| [DAU_TU.md](./DAU_TU.md)                                  | Danh mục đầu tư & trần 50tr  |
+| [QUY_ME_500TR.md](./QUY_ME_500TR.md)                      | Quỹ tiết kiệm cho mẹ - 500tr |
+| [TAI_CHINH_2026_2028.md](./TAI_CHINH_2026_2028.md)        | Kế hoạch tài chính tổng      |
+| [T09_2026_GIAO_DICH.md](./trackers/T09_2026_GIAO_DICH.md) | Giao dịch chi tiết T09       |
 
 ---
 

@@ -1,11 +1,11 @@
-# 💪 GYM PLAN - 66.8→75KG | 4 BUỔI/TUẦN
+# 💪 GYM PLAN - 66.4→75KG | 4 BUỔI/TUẦN (LEAN BULK)
 
-> **Lịch gym:** T2 tối + T6 tối + T7 sáng + CN
-> **Phòng gym:** Đã đăng ký 3 tháng từ 02/09/2026 (900k)
+> **Lịch gym:** T2 tối (19:30) + T6 tối (19:30) + T7 sáng (07:30) + CN sáng (09:00)
+> **Phòng gym:** Đã đăng ký 3 tháng từ 02/09/2026 (900k — hạn 02/12/2026)
 > **Mục tiêu:** 72-75kg · khối cơ (SMM) 35-38kg · % mỡ 12-15% (chốt 12/10/2026 theo MASTER_PLAN - target cũ 7-10% ghi tay trên phiếu InBody đã bỏ vì dễ burnout)
 > **Theo dõi:** **Đo InBody 1 lần/tháng** - không cân hàng ngày, không ghi bảng hàng tuần
 > **Gắn với mục tiêu:** M3 - Sức khoẻ
-> **Cập nhật:** 13/09/2026 (có số liệu InBody 31/07 và 28/08)
+> **Cập nhật:** 01/11/2026 (InBody 29/10 đạt 82 điểm, mỡ 12.2% → chuyển sang thực đơn Lean Bulk 2,700–2,900 kcal/ngày)
 
 ---
 
@@ -91,7 +91,7 @@ Tổng: ~60 phút
 ### CN sáng - FULL BODY / YẾU ĐIỂM (09:00-10:00)
 
 ```
-Khởi động 5p rồi tập (chiều CN còn lớp Phản Xạ 15:00):
+Khởi động 5p rồi tập (chiều CN nghỉ ngơi tự do — lớp Phản Xạ CN đã hoàn tất từ 26/10):
 
 1. Push-up thường / biến thể   4×15-20    (ngực)
 2. Body Row hoặc Pull-up       3×10-12    (lưng)
@@ -105,44 +105,38 @@ Khởi động 5p rồi tập (chiều CN còn lớp Phản Xạ 15:00):
 
 ---
 
-## 🍽️ DINH DƯỠNG TĂNG CÂN
+## 🍽️ DINH DƯỠNG TĂNG CÂN SẠCH (LEAN BULK: 2,700–2,900 KCAL/NGÀY)
 
 ```
-MỤC TIÊU: 2,400-2,900 kcal/ngày
-PROTEIN: ~198g/ngày (64kg × 1.6-2.2g = 102-141g, đang nạp dư → OK)
-GYM: Buổi TỐI (18:30-19:30)
-NGUYÊN TẮC: ❌ KHÔNG TẬP ĐÓI + Ăn sau tập trong 1 tiếng
+MỤC TIÊU: 2,700-2,900 kcal/ngày (BMR 1,629 kcal · Giữ cân 2,633 kcal → thặng dư ~200-300 kcal để tăng ~0.5kg cơ/tháng)
+PROTEIN:  ~150-190g/ngày (66.4kg × 2.0-2.5g — dư dả để xây cơ SMM từ 33.2kg → 35-38kg)
+GYM:      T2/T6 tối (19:30-20:30) · T7 sáng (07:30-08:30) · CN sáng (09:00-10:00)
+NGUYÊN TẮC: ❌ KHÔNG TẬP ĐÓI + Tăng tinh bột sạch (cơm/khoai/yến mạch/chuối) + Ăn sau tập trong 45-60 phút
 
-SÁNG (07:00):
-  → 1.5 chén cơm + 2 trứng vịt + rau
-  → ~500 kcal | ~22g protein
+SÁNG (07:45):
+  → 2 chén cơm (hoặc phở/bánh canh thịt + 2 trứng) + 2 trứng vịt + rau
+  → ~650 kcal | ~28g protein
 
 TRƯA (12:00):
-  → 1.5 chén cơm + 200g ức gà + rau
-  → ~580 kcal | ~66g protein
+  → 2.5 chén cơm + 200g ức gà/thịt bò/cá + rau + 1 trái chuối
+  → ~800 kcal | ~68g protein
 
-XẾ (15:00):
-  → 1 ly sữa không đường + 1 sữa chua ít đường
-  → ~185 kcal | ~14g protein
+XẾ (15:30):
+  → 1 hộp sữa tươi không đường + 1 sữa chua + 1 nắm hạt / khoai lang
+  → ~320 kcal | ~16g protein
 
-TRƯỚC TẬP (17:30-18:00) ← KHÔNG ĐƯỢC BỎ!
-  → 1 ly sữa không đường + 1 chuối/bánh mì
-  → ~250 kcal | ~12g protein
+TRƯỚC TẬP (18:15-18:45 — trước ca tập 19:30) ← KHÔNG ĐƯỢC BỎ!
+  → 1 ly sữa không đường + 2 quả chuối / 1 ổ bánh mì / khoai lang
+  → ~350 kcal | ~14g protein
 
-🏋️ GYM (18:30-19:30): Tập 45-60 phút
+🏋️ GYM (19:30-20:30): Tập 55-60 phút
 
-SAU TẬP (19:30-20:00) ← 🔥 KHUNG GIỜ VÀNG:
-  → 200g ức gà + 2 trứng vịt + rau
-  → ~520 kcal | ~80g protein
+SAU TẬP / BỮA TỐI (20:30-21:15) ← 🔥 KHUNG GIỜ VÀNG PHỤC HỒI CƠ:
+  → 1.5 chén cơm + 200g ức gà/thịt nạc + 2 trứng + rau
+  → ~650 kcal | ~65g protein
 
-KHUYA (21:00):
-  → 1 sữa chua ít đường
-  → ~60 kcal | ~4g protein
-
-TỔNG: ~2,095 kcal | ~198g protein
-(Thêm cơm/khoai lang nếu cần đẩy calo lên 2,400+)
+TỔNG: ~2,770 kcal | ~191g protein (Chuẩn Lean Bulk 2,700–2,900 kcal)
 ```
-
 
 ---
 
@@ -156,13 +150,13 @@ TỔNG: ~2,095 kcal | ~198g protein
 % mỡ 7-10%. Cao hơn "Target Weight" máy tự đề xuất (65.8kg) vì đó là công thức chuẩn theo BMI,
 không tính mục tiêu tăng cơ.
 
-| Ngày đo   | Cân nặng | Khối cơ (SMM) | Khối mỡ | % mỡ  | Ghi chú ngắn |
-| --------- | -------- | -------------- | ------- | ----- | -------------------------------------------- |
-| 31/07/26  | 65.4kg   | 30.5kg          | 11.3kg  | 17.2% | InBody Score 77/100 · Vòng eo/hông 0.85 · mỡ nội tạng mức 4 |
-| 28/08/26  | 66.8kg   | 31.4kg          | 11.2kg  | 16.8% | InBody Score 78/100 · ✅ cơ tăng + mỡ giảm - đúng hướng · vòng eo/hông 0.84 |
-| 03/10/26  | 66.0kg   | 32.5kg          | 8.8kg   | 13.3% | 🔥 InBody Score 81/100 · Siêu bứt phá: Cơ +1.1kg (32.5kg), Mỡ -2.4kg (xuống 13.3%), Mỡ nội tạng xuống Level 3 |
-| 29/10/26  | 66.4kg   | 33.2kg          | 8.1kg   | 12.2% | InBody Score **82/100** · cơ +0.7kg, mỡ −0.7kg · mỡ nội tạng Level 2 · eo/hông 0.86 · BMR 1,629 kcal · ✅ **% mỡ đã vào vùng mục tiêu 12–15%** → chuyển sang tăng cân sạch (lean bulk) |
-|           |          |                 |         |       |                                                |
+| Ngày đo  | Cân nặng | Khối cơ (SMM) | Khối mỡ | % mỡ  | Ghi chú ngắn                                                                                                                                                                           |
+| -------- | -------- | ------------- | ------- | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 31/07/26 | 65.4kg   | 30.5kg        | 11.3kg  | 17.2% | InBody Score 77/100 · Vòng eo/hông 0.85 · mỡ nội tạng mức 4                                                                                                                            |
+| 28/08/26 | 66.8kg   | 31.4kg        | 11.2kg  | 16.8% | InBody Score 78/100 · ✅ cơ tăng + mỡ giảm - đúng hướng · vòng eo/hông 0.84                                                                                                            |
+| 03/10/26 | 66.0kg   | 32.5kg        | 8.8kg   | 13.3% | 🔥 InBody Score 81/100 · Siêu bứt phá: Cơ +1.1kg (32.5kg), Mỡ -2.4kg (xuống 13.3%), Mỡ nội tạng xuống Level 3                                                                          |
+| 29/10/26 | 66.4kg   | 33.2kg        | 8.1kg   | 12.2% | InBody Score **82/100** · cơ +0.7kg, mỡ −0.7kg · mỡ nội tạng Level 2 · eo/hông 0.86 · BMR 1,629 kcal · ✅ **% mỡ đã vào vùng mục tiêu 12–15%** → chuyển sang tăng cân sạch (lean bulk) |
+|          |          |               |         |       |                                                                                                                                                                                        |
 
 **Cách đọc kết quả (chỉ cần nhìn 2 con số):**
 
@@ -173,6 +167,7 @@ không tính mục tiêu tăng cơ.
 ```
 
 > **Giai đoạn từ 29/10/2026 - TĂNG CÂN SẠCH (lean bulk):** % mỡ đã đạt (12.2%), còn thiếu ~6–9kg cân nặng và ~2–5kg cơ.
+>
 > - Ăn **~2,700–2,900 kcal/ngày** (máy khuyến nghị 2,633 để giữ cân → dư thêm ~200–300 kcal) · protein **~120–130g/ngày** (~1.8–2g/kg).
 > - Mục tiêu tăng **~0.5kg/tháng**; nếu % mỡ vượt 15% → giảm tinh bột lại.
 > - Chân (99% chuẩn) yếu hơn tay/thân (107–111%) → ưu tiên squat, deadlift, lunges trong buổi chân.
@@ -186,8 +181,8 @@ không tính mục tiêu tăng cơ.
 ## 💤 SLEEP & RECOVERY
 
 ```
-NGỦ: 23:30 → 07:00 (7.5 giờ) - KHÔNG THỎA HIỆP
-  → T3/T5 về lớp muộn → dậy 07:15 thay vì 07:00
+NGỦ: 23:30 → 07:45 (~8 giờ) - KHÔNG THỎA HIỆP (Phục hồi cơ bắp tối đa cho Lean Bulk)
+  → T6 WFH cả ngày → dậy 08:00 · T7/CN đi Gym sáng → dậy 07:30
   → Target: ≥5/7 ngày/tuần đúng giờ
   → Nếu < 6 giờ ngủ → HÔM SAU skip gym, chỉ đi bộ nhẹ
 
@@ -207,15 +202,15 @@ DẤU HIỆU CẦN NGHỈ:
 
 ## 🔗 LIÊN KẾT
 
-| File                                                           | Vai trò            |
-| -------------------------------------------------------------- | ------------------ |
-| [DAILY_SCHEDULE.md](../../02_EXECUTION/DAILY_SCHEDULE.md)                       | Lịch hàng ngày     |
-| [../../02_EXECUTION/SPRINT_CALENDAR.md](../../02_EXECUTION/SPRINT_CALENDAR.md) | Mốc quý M3        |
-| [../../MASTER_PLAN.md](../../MASTER_PLAN.md)                   | 5 mục tiêu lớn     |
+| File                                                                           | Vai trò        |
+| ------------------------------------------------------------------------------ | -------------- |
+| [DAILY_SCHEDULE.md](../../02_EXECUTION/DAILY_SCHEDULE.md)                      | Lịch hàng ngày |
+| [../../02_EXECUTION/SPRINT_CALENDAR.md](../../02_EXECUTION/SPRINT_CALENDAR.md) | Mốc quý M3     |
+| [../../MASTER_PLAN.md](../../MASTER_PLAN.md)                                   | 5 mục tiêu lớn |
 
 ---
 
-_Cập nhật: 29/10/2026 (InBody 29/10: 66.4kg, cơ 33.2kg, mỡ 12.2%, score 82 - % mỡ đạt mục tiêu, chuyển lean bulk). Trước đó: 15/10/2026 (Đồng bộ số liệu giữa các file). Trước đó: 13/09/2026 (V6 - Điền 2 dòng InBody thật: 31/07 (65.4kg, cơ 30.5kg, mỡ 17.2%, score 77)
+_Cập nhật: 01/11/2026 (Cập nhật thực đơn Lean Bulk ~2,770 kcal/ngày khớp với chỉ số InBody 29/10 và khung giờ tập 19:30–20:30; bỏ ghi chú lớp Phản Xạ CN cũ). Trước đó: 29/10/2026 (InBody 29/10: 66.4kg, cơ 33.2kg, mỡ 12.2%, score 82 - % mỡ đạt mục tiêu, chuyển lean bulk). Trước đó: 15/10/2026 (Đồng bộ số liệu giữa các file). Trước đó: 13/09/2026 (V6 - Điền 2 dòng InBody thật: 31/07 (65.4kg, cơ 30.5kg, mỡ 17.2%, score 77)
 và 28/08 (66.8kg, cơ 31.4kg, mỡ 16.8%, score 78) - xu hướng đúng: cơ tăng, mỡ giảm. Thêm target
 ghi tay trên phiếu: 72-75kg / SMM 35-38kg / mỡ 7-10%. Giữ nguyên: đăng ký gym 3 tháng từ 02/09,
 đo InBody 1 lần/tháng.)_
