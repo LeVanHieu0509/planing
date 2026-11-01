@@ -5,111 +5,118 @@
 
 ---
 
-## 🏦 SỐ DƯ ĐẦU THÁNG (01/11/2026 — Chuyển giao từ chốt sổ 31/10/2026)
+## 🏦 SỐ DƯ ĐẦU THÁNG & HIỆN TẠI (01/11/2026 — Đã gom hết ngân sách T11 về Timo)
 
-| Tài khoản | Số dư | Ghi chú |
-| --------- | ----: | ------- |
-| BIDV | 15,111,684 | 100% của Hiếu (Quỹ học phí & dự phòng) |
-| VCB | 15,012,296 | Gồm 13,000,000 tiền mẹ giữ hộ + 2,012,296 của Hiếu |
-| TCB | 27,297 | Tài khoản chi tiêu hàng ngày |
-| VietinBank | 4,702,443 | Nhận lương BIT (khả dụng 4,652,443 - đã trả Shopee 1,827,637 ngày 31/10) |
-| Timo | 603,785 | Trả Claude Code BIT / nhận hoàn |
-| Ví | 45,000 | Tiền mặt trong ví |
-| **Tổng Gross** | **35,502,505** | 5 ngân hàng + ví |
-| - Tiền mẹ giữ hộ | -13,000,000 | Ngoại bảng (nằm trong VCB) |
-| **Tiền mặt thực của Hiếu** | **22,502,505** | **Sạch trọ, sạch phí CC, sạch phải thu; tự do sau nợ 2.8M = 19,702,505** |
+| Tài khoản                  | Đầu tháng (00:00 01/11) | Hiện tại (01/11) | Ghi chú                                                                                                |
+| -------------------------- | ----------------------: | ---------------: | ------------------------------------------------------------------------------------------------------ |
+| **BIDV**                   |              15,111,684 |   **14,473,980** | 🔒 **100% Két sắt Tiết kiệm & Học phí** (đã trích `637,704đ` sang Timo cho đủ tiền nhà T11)            |
+| **VCB**                    |              15,012,296 |   **13,000,000** | 🔒 **100% Tiền mẹ giữ hộ** (đã rút sạch `2,012,296đ` của Hiếu sang Timo — không còn lẫn tiền cá nhân!) |
+| TCB                        |                  27,297 |           27,297 | Tài khoản phụ / trung gian                                                                             |
+| VietinBank                 |                  50,036 |           50,036 | Giữ ~50k số dư tối thiểu                                                                               |
+| **Timo**                   |           **5,008,192** |    **7,623,227** | 🎯 **Chứa 100% Ngân sách T11 (`7,019,442đ` còn lại) + Quỹ BIT (`603,785đ`)**                           |
+| Ví                         |                  45,000 |           45,000 | Tiền mặt trong ví                                                                                      |
+| **Tổng Gross**             |          **35,254,505** |   **35,219,540** | 5 ngân hàng + ví                                                                                       |
+| - Tiền mẹ giữ hộ           |             -13,000,000 |      -13,000,000 | Ngoại bảng (nằm trọn 100% bên VCB)                                                                     |
+| **Tiền mặt thực của Hiếu** |          **22,254,505** |   **22,219,540** | **Sạch trọ, sạch phí CC, sạch phải thu; tự do sau nợ 2.8M = `19,419,540`**                             |
 
 ---
 
 ## 💰 THU NHẬP
 
-| Ngày | Nguồn | TK | Số tiền | Ghi chú |
-| ---- | ----- | -- | ------: | ------- |
-| 05/11 | Lương TMA | BIDV | | |
-| | Lương BIT | | | |
-| | **Tổng thu** | | | |
+| Ngày  | Nguồn                                    | TK   | Số tiền | Ghi chú                            |
+| ----- | ---------------------------------------- | ---- | ------: | ---------------------------------- |
+| 01/11 | Lãi không kỳ hạn Timo (Interest Applied) | Timo |      35 | Lãi tháng 10 Timo trả đầu tháng 11 |
+| 05/11 | Lương TMA                                | BIDV |         | Cộng thẳng vào Két sắt BIDV        |
+|       | Lương BIT                                |      |         |                                    |
+|       | **Tổng thu**                             |      |  **35** |                                    |
 
 > Thu hộ (tiền phòng anh em, bạn trả lại tiền ăn chung...) ghi ở bảng riêng bên dưới, **không** cộng vào thu nhập.
 
 ---
 
-## 🔁 TRẢ CHO MÌNH TRƯỚC & CHIA HŨ CHI TIÊU TIMO (NGÀY NHẬN LƯƠNG 05/11)
+## 🔁 TRẢ CHO MÌNH TRƯỚC & PHÂN HŨ TIMO TỐI ƯU (HOÀN TẤT 100% NGÀY 01/11)
 
-> 💡 **Chiến lược kỷ luật Tháng 11 (chốt 31/10/2026):** Dùng tính năng **Hũ chi tiêu (Money Pot) của Timo** để chia sẵn ngân sách từng hạng mục. Khi tiêu mục nào chỉ quẹt/chuyển từ đúng Hũ đó — **hết tiền trong Hũ là dừng chi tuyệt đối**, giữ tiền tiết kiệm nằm yên bên BIDV!
+> 💡 **Cấu trúc Tài khoản Tối ưu Tháng 11 (1 Tài khoản = 1 Nhiệm vụ tuyệt đối):**
+>
+> - **VCB (`13,000,000đ`):** 100% tiền giữ hộ của mẹ — đóng băng.
+> - **BIDV (`14,473,980đ`):** 100% két sắt Tiết kiệm học phí Thạc sĩ — đóng băng, chờ lương TMA (05/11) cộng thẳng vào.
+> - **Timo (`7,623,227đ`):** Chứa trọn vẹn **100% ngân sách Nhà ở + Sinh hoạt Tháng 11** (`7,019,442đ` còn lại sau 35k bánh canh) + **Quỹ xoay vòng BIT** (`603,785đ`). Không cần trích thêm 1 đồng nào từ lương tháng 11 vào chi tiêu nữa!
 
-| Việc | Tài khoản đích | Số tiền | Xong? |
-| ---- | -------------- | ------: | ----- |
-| 1. Giữ lại phần Tiết kiệm (Quỹ học phí 43tr & dự phòng) | **BIDV** (Khóa chặt, cấm quẹt lẻ) | ~15,000,000 | ☐ |
-| 2. Trích Quỹ dự trữ Coach TOEIC (chặng 1 T02/2027) | **BIDV** (Ghi chú riêng) | 1,000,000 | ☐ |
-| 3. Quỹ mẹ tháng 11 | **Anh Nghĩa** (Phường) | 2,000,000 | ✅ Đã trả trước 23/10 (T11 không cần chuyển nữa) |
-| 4. Chuyển phần Nhà ở 1/4 của Hiếu (trọ + điện nước + phí CC) | **VCB** (Gom cùng 3 anh em để đóng trọ) | 2,650,000 | ☐ |
-| 5. **Nạp tổng ngân sách chi tiêu cá nhân sang TIMO để chia 6 Hũ** | **Timo (Chia vào 6 Hũ bên dưới)** | **4,725,000** | ☐ |
+| Việc                                                            | Tài khoản đích                             |     Số tiền | Xong?                                                                             |
+| --------------------------------------------------------------- | ------------------------------------------ | ----------: | --------------------------------------------------------------------------------- |
+| 1. Khóa Két sắt Tiết kiệm (Quỹ học phí 43tr & dự phòng)         | **BIDV** (`14,473,980đ` + Lương TMA 05/11) | ~15,000,000 | ✅ Đã khóa két BIDV, chờ lương 05/11 cộng thêm                                    |
+| 2. Trích Quỹ dự trữ Coach TOEIC (chặng 1 T02/2027)              | **BIDV** (Ghi chú riêng trong két BIDV)    |   1,000,000 | ✅ Nằm trong két BIDV                                                             |
+| 3. Quỹ mẹ tháng 11 (`C02`)                                      | **Anh Nghĩa** (Phường)                     |   2,000,000 | ✅ Đã trả trước 23/10 (T11 không cần chuyển nữa)                                  |
+| 4. Phần Nhà ở 1/4 của Hiếu (`C01`)                              | **Timo — Hũ Nhà ở**                        |   2,650,000 | ✅ Đã chuyển `2,012,296đ` (VCB) + `637,704đ` (BIDV) sang Timo (01/11)             |
+| 5. Toàn bộ Sinh hoạt cá nhân `C03–C10` (`4,404,442đ`) + Quỹ BIT | **Timo — Các Hũ chi tiêu**                 |   4,973,227 | ✅ Đã gom đủ trên Timo (`7,623,227đ` tổng) — tiết kiệm hơn trần 9.5M được `445k`! |
 
-### 🏺 CƠ CẤU 6 HŨ CHI TIÊU TRÊN TIMO (TỔNG CHI CÁ NHÂN TỐI ĐA: `4,725,000đ`)
+### 🏺 BẢNG PHÂN HŨ TRỰC TIẾP TRÊN TIMO (`7,623,227 VND` — CHIA 1 LẦN DÙNG CẢ THÁNG)
 
-| Hũ trên Timo (Money Pot) | Mã | Hạn mức tháng 11 | Quy tắc kỷ luật |
-| ------------------------ | -- | ---------------: | --------------- |
-| **Hũ 1 · 🍜 Ăn uống & Siêu thị** | C03 | **2,500,000** | ~83k/ngày (cơm trưa, bánh mì, Bách Hoá Xanh). Không vượt hạn mức. |
-| **Hũ 2 · 💆 Sức khoẻ & Làm đẹp** | C04 | **800,000** | Khám da liễu, thuốc, cắt tóc. |
-| **Hũ 3 · ☕ Quan hệ & Giải trí** | C06 | **500,000** | Cafe, gặp gỡ bạn bè, mở rộng mối quan hệ chất lượng. |
-| **Hũ 4 · 🏍️ Đi lại (Xăng & Xe)** | C05 | **300,000** | Đổ xăng, gửi xe. |
-| **Hũ 5 · 💪 Thể thao & Lặt vặt** | C08 + C10 | **350,000** | Thể thao 200k (cầu lông/nước; Gym đã đóng hết T11) + Dự phòng lặt vặt 150k. |
-| **Hũ 6 · 📱 Subscriptions cá nhân** | C07 | **275,000** | Phần sub cá nhân (gói 5G Viettel 125k trừ bên VietinBank; ~603k có sẵn ở Timo dùng xoay vòng bill Claude Code BIT). |
-| **TỔNG 6 HŨ CHI TIÊU TIMO** | | **4,725,000** | **Cộng Nhà ở (2.65M) + Quỹ mẹ (2M đã trả) + 5G (125k) = Đúng chuẩn 9,500,000đ!** |
+> ⚡ **Nguyên tắc đơn giản nhất:** Chia hết 100% vào các Hũ ngay đầu tháng (không cần rút lắt nhắt theo tuần). Khi quét QR hoặc chuyển khoản trên Timo, tiêu mục nào thì **chọn nguồn tiền trực tiếp từ đúng Hũ đó** — hết Hũ nào dừng chi mục đó!
+
+| Hũ trên Timo (6 Hũ — `Spend Account = 0đ`) | Mã gắn kèm      | Hạn mức đầu T11 | Đã chi (01/11) | Số dư hiện tại (01/11) | Ghi chú sử dụng                                                                                           |
+| ------------------------------------------ | --------------- | --------------: | -------------: | ---------------------: | --------------------------------------------------------------------------------------------------------- |
+| **Hũ 1 · 🍽️ `Ăn uống`**                    | **C03**         |   **2,500,000** |     **35,000** |          **2,465,000** | Đã trừ `35,000đ` bánh canh sáng `01/11`. Còn **`2,465,000đ`** cho cả tháng (~85k/ngày).                   |
+| **Hũ 2 · 🏠 `Nhà ở`**                      | **C01**         |   **2,650,000** |          **0** |          **2,650,000** | Trọ `2M` (`16/11`) + Điện nước `~425k` (`08/11`) + Phí CC `~225k` (`30/11`).                              |
+| **Hũ 3 · 💆 `Bản thân & Sub`**             | **C04 + C07**   |   **1,000,000** |          **0** |          **1,000,000** | Gồm **`700,000đ` Sức khoẻ/Skincare/Cắt tóc** (`C04`) + **`300,000đ` 5G Viettel 125k & Sub 175k** (`C07`). |
+| **Hũ 4 · ☕ `Quan hệ & Dự phòng`**         | **C06+C08+C10** |     **604,442** |          **0** |            **604,442** | Gồm **`500,000đ` Cafe/Bạn bè/Giải trí** (`C06`) + **`104,442đ` Thể thao & Lặt vặt** (`C08+C10`).          |
+| **Hũ 5 · 🏍️ `Xăng xe` (Đi lại)**           | **C05**         |     **300,000** |          **0** |            **300,000** | Đổ xăng & gửi xe cả tháng.                                                                                |
+| **Hũ 6 · 💻 `Quỹ BIT`**                    | **Ngoại bảng**  |     **603,785** |          **0** |            **603,785** | 🔒 **Cấm đụng!** Dùng thanh toán bill Claude Code (~595k) cho BIT, sau đó BIT hoàn lại vào đây.           |
+| **TỔNG CỘNG TOÀN BỘ 6 HŨ TIMO**            |                 |   **7,658,227** |     **35,000** |          **7,623,227** | **Khớp chính xác 100% từng đồng (`7,019,442đ` ngân sách T11 còn lại + `603,785đ` quỹ BIT)!**              |
 
 ---
 
-## 📊 BUDGET vs THỰC CHI
+## 📊 BUDGET vs THỰC CHI (TỔNG BUDGET TỐI ƯU: `9,054,442 VND` — TIẾT KIỆM HƠN TRẦN 9.5M `445,558đ`)
 
-| Mã | Danh mục | Budget | Thực chi | Còn lại | % |
-| -- | -------- | -----: | -------: | ------: | -: |
-| C01 | 🏠 Nhà ở (phần Hiếu) | 2,650,000 | | | |
-| C02 | 👩 Quỹ mẹ | 2,000,000 | 2,000,000 | 0 | 100% |
-| C03 | 🍜 Ăn uống & siêu thị | 2,500,000 | | | |
-| C04 | 💆 Sức khoẻ & làm đẹp | 800,000 | | | |
-| C05 | 🏍️ Đi lại | 300,000 | | | |
-| C06 | ☕ Quan hệ & giải trí | 500,000 | | | |
-| C07 | 📱 Subscriptions (gồm gói 5G điện thoại 125k cố định) | 400,000 | | | |
-| C08 | 💪 Thể thao | 200,000 | | | |
-| C09 | 🎓 Học tập | 0 | | | |
-| C10 | 🔸 Lặt vặt | 150,000 | | | |
-| | **TỔNG** | **9,500,000** | | | |
+| Mã  | Danh mục                                              |        Budget |      Thực chi |       Còn lại |     % | Nơi giữ tiền trên Timo                                   |
+| --- | ----------------------------------------------------- | ------------: | ------------: | ------------: | ----: | -------------------------------------------------------- |
+| C01 | 🏠 Nhà ở (phần Hiếu)                                  |     2,650,000 |             0 |     2,650,000 |    0% | **Hũ 2 · 🏠 Nhà ở (`2,650,000đ`)**                       |
+| C02 | 👩 Quỹ mẹ (đã trả trước 23/10)                        |     2,000,000 |     2,000,000 |             0 |  100% | _Đã tất toán 23/10_                                      |
+| C03 | 🍜 Ăn uống & siêu thị                                 |     2,500,000 |        35,000 |     2,465,000 |  1.4% | **Hũ 1 · 🍽️ Ăn uống (`2,465,000đ`)**                     |
+| C04 | 💆 Sức khoẻ & làm đẹp                                 |       700,000 |             0 |       700,000 |    0% | **Hũ 3 · 💆 Bản thân & Sub (`700k / 1,000,000đ`)**       |
+| C05 | 🏍️ Đi lại (xăng & gửi xe)                             |       300,000 |             0 |       300,000 |    0% | **Hũ 5 · 🏍️ Xăng xe (`300,000đ`)**                       |
+| C06 | ☕ Quan hệ & giải trí                                 |       500,000 |             0 |       500,000 |    0% | **Hũ 4 · ☕ Quan hệ & Dự phòng (`500k / 604,442đ`)**     |
+| C07 | 📱 Subscriptions (gồm gói 5G Viettel 125k + Sub 175k) |       300,000 |             0 |       300,000 |    0% | **Hũ 3 · 💆 Bản thân & Sub (`300k / 1,000,000đ`)**       |
+| C08 | 💪 Thể thao & Lặt vặt (`C08 + C10`)                   |       104,442 |             0 |       104,442 |    0% | **Hũ 4 · ☕ Quan hệ & Dự phòng (`104,442đ / 604,442đ`)** |
+| C09 | 🎓 Học tập                                            |             0 |             0 |             0 |    0% | -                                                        |
+|     | **TỔNG NGÂN SÁCH T11**                                | **9,054,442** | **2,035,000** | **7,019,442** | 22.5% | **Toàn bộ `7,019,442đ` còn lại nằm gọn trong 6 Hũ Timo** |
 
 ---
 
 ## 🧾 NHẬT KÝ GIAO DỊCH
 
-| Ngày | Mô tả | Mã | TK | Số tiền | Ghi chú |
-| ---- | ----- | -- | -- | ------: | ------- |
-| | | | | | |
+| Ngày  | Mô tả                                    | Mã  | TK   | Số tiền | Ghi chú                           |
+| ----- | ---------------------------------------- | --- | ---- | ------: | --------------------------------- |
+| 01/11 | Ăn bánh canh (Huỳnh Thị Thơ - Ban h can) | C03 | Timo |  35,000 | Hũ Ăn uống còn `2,465,000 VND` ✅ |
 
 ---
 
 ## 🔄 THU HỘ / CHI HỘ / CHUYỂN NỘI BỘ (KHÔNG TÍNH THU CHI)
 
-| Ngày | Mô tả | Từ → Đến | Số tiền | Ghi chú |
-| ---- | ----- | -------- | ------: | ------- |
-| | | | | |
+| Ngày  | Mô tả                                                             | Từ → Đến    |   Số tiền | Ghi chú                                                                   |
+| ----- | ----------------------------------------------------------------- | ----------- | --------: | ------------------------------------------------------------------------- |
+| 01/11 | Rút toàn bộ tiền riêng của Hiếu tại VCB sang Timo lập Hũ Nhà ở    | VCB → Timo  | 2,012,296 | VCB còn đúng `13,000,000đ` (100% tiền mẹ giữ hộ)                          |
+| 01/11 | Trích bổ sung từ BIDV sang Timo cho đủ tròn `2,650,000đ` Hũ Nhà ở | BIDV → Timo |   637,704 | BIDV còn `14,473,980đ` (khóa két sắt Tiết kiệm); Timo lên `7,623,227đ` ✅ |
 
 ---
 
 ## 🧱 KHOẢN LỚN CÓ KẾ HOẠCH / MUA TÀI SẢN (TÁCH KHỎI BUDGET)
 
-| Ngày | Khoản | Số tiền | Từ quỹ nào | Ghi vào sổ tài sản? |
-| ---- | ----- | ------: | ---------- | ------------------- |
-| | ✈️ Vé Tết chiều vào Vinh → SGN (nếu đặt trong T11) | ~3,000,000–3,100,000 | Quỹ dự trữ vé Tết | Không |
-| _25/10 (T10)_ | _Chiều đi SGN → Vinh 29/01/2027 - đã trả_ | _2,622,581_ | _BIDV_ | _Ghi ở sổ T10_ |
+| Ngày          | Khoản                                              |              Số tiền | Từ quỹ nào        | Ghi vào sổ tài sản? |
+| ------------- | -------------------------------------------------- | -------------------: | ----------------- | ------------------- |
+|               | ✈️ Vé Tết chiều vào Vinh → SGN (nếu đặt trong T11) | ~3,000,000–3,100,000 | Quỹ dự trữ vé Tết | Không               |
+| _25/10 (T10)_ | _Chiều đi SGN → Vinh 29/01/2027 - đã trả_          |          _2,622,581_ | _BIDV_            | _Ghi ở sổ T10_      |
 
 ---
 
 ## 🤝 NỢ PHẢI TRẢ / PHẢI THU
 
-| Đối tượng | Đầu tháng | Trả/thu trong tháng | Cuối tháng |
-| --------- | --------: | ------------------: | ---------: |
-| Hiệp | 1,000,000 | | |
-| Shopee (SPayLater kỳ cuối) | 300,000 | | |
-| Duy Tiên | 1,500,000 | | |
-| _Phải thu (3 anh em phí CC & BIT Claude Code)_ | _0_ | _✅ Đã tất toán xong trong T10_ | _0_ |
+| Đối tượng                                      | Đầu tháng |             Trả/thu trong tháng | Cuối tháng |
+| ---------------------------------------------- | --------: | ------------------------------: | ---------: |
+| Hiệp                                           | 1,000,000 |                                 |            |
+| Shopee (SPayLater kỳ cuối)                     |   300,000 |                                 |            |
+| Duy Tiên                                       | 1,500,000 |                                 |            |
+| _Phải thu (3 anh em phí CC & BIT Claude Code)_ |       _0_ | _✅ Đã tất toán xong trong T10_ |        _0_ |
 
 ---
 
@@ -127,4 +134,4 @@ Nhận xét 1 dòng:         ___________
 
 ---
 
-_Cập nhật: 31/10/2026 (Đã thanh toán Shopee 1,827,637 ngày 31/10 qua VietinBank → VietinBank đầu tháng 4,702,443, tiền mặt thực 22,502,505, nợ Shopee T11 chỉ còn 300,000, tổng nợ 2.8M). Trước đó: 30/10/2026 (Phí CC T10 đã đóng 30/10; thêm phải thu anh em 680,024). Trước đó: 30/10/2026 (Tiền mẹ 13M; thêm Timo; phải thu BIT 594,490). Trước đó: 27/10/2026 (Thêm VietinBank vào số dư đầu tháng; C07 có khoản cố định mạng 125k). Trước đó: 25/10/2026 (Vé Tết chiều đi đã trả 25/10; T11 chỉ còn chiều vào ~3tr nếu đặt). Trước đó: 24/10/2026 (Quỹ mẹ T11 đã trả trước 23/10; tiền mẹ 10tr nằm VCB; thêm phải thu BIT 620k). Trước đó: 22/10/2026 (Tạo mẫu sổ T11 theo hệ thống mới: 10 danh mục + budget, trả cho mình trước, tách thu hộ/chuyển nội bộ, khoản lớn, nợ)._
+_Cập nhật: 01/11/2026 (Đối chiếu sao kê Timo 31/10 & 01/11: cập nhật số dư đầu tháng T11 chuẩn xác VietinBank 50,036 & Timo 5,008,192 [tổng tiền mặt thực đầu T11 = 22,254,505]; ghi nhận giao dịch 01/11 lãi Timo +35đ & ăn bánh canh -35,000đ → Timo hiện còn 4,973,227đ trong Spend Account, tiền mặt thực 22,219,540đ). Trước đó: 31/10/2026 (Đã thanh toán Shopee 1,827,637 qua VietinBank & chuyển 4,652,407 sang Timo để chia Hũ chi tiêu T11, nợ Shopee T11 chỉ còn 300,000, tổng nợ 2.8M). Trước đó: 30/10/2026 (Phí CC T10 đã đóng 30/10; tiền mẹ 13M; thêm Timo; BIT hoàn bill 578,275). Trước đó: 27/10/2026 (Thêm VietinBank vào số dư đầu tháng; C07 có khoản cố định mạng 125k). Trước đó: 25/10/2026 (Vé Tết chiều đi đã trả 25/10; T11 chỉ còn chiều vào ~3tr nếu đặt). Trước đó: 24/10/2026 (Quỹ mẹ T11 đã trả trước 23/10; tiền mẹ nằm VCB). Trước đó: 22/10/2026 (Tạo mẫu sổ T11 theo hệ thống mới: 10 danh mục + budget, trả cho mình trước, tách thu hộ/chuyển nội bộ, khoản lớn, nợ)._
