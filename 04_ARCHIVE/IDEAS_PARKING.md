@@ -32,64 +32,82 @@
 - Share (5K) ≈ 2× comment (2.6K) → người ta share câu trích dẫn để "nói hộ lòng mình", không hỏi mua.
 - **Công thức thắng:** phòng tối, màn hình code, 1 câu trích dẫn chạm cảm xúc, 15–30 giây.
 
-### Quyết định đến T06/2027: CHẾ ĐỘ DUY TRÌ
+### Quyết định chiến lược (Chốt 03/11/2026): ĐỊNH VỊ `MIRACLE` GẮN LIỀN VỚI ĐÚNG 3 SẢN PHẨM "BÀN CODE ĐÊM"
 
-- 1 video/tuần, tối đa 1h, slot **tối T6 21:00–22:00**.
-- Nội dung lấy từ chính tuần đó (L3, TOEIC, đi làm, ôn thạc sĩ) - hướng series **"Từ 7 nghiệp đến Thạc sĩ"**, kể **đúng sự thật** (từng thất nghiệp → đi làm lại → ôn thạc sĩ).
-- Kiếm tiền 0 giờ thêm: bio "Nhận làm web/app freelance", link affiliate sách/tool ở comment ghim của 3 video top.
-- ❌ Không làm: series giới thiệu tool, review đồ công nghệ, reup video Shopee, video quảng cáo sản phẩm.
+> 🎯 **Định vị Thương hiệu `Miracle` (Miracle Dev Setup):**
+> - Không bán tạp nham đủ thứ đồ công nghệ, cũng không làm tiếp sản phẩm số B2C (`ReflexAI`).
+> - **`Miracle` chỉ gắn liền với đúng 3 dòng sản phẩm cốt lõi phục vụ trực tiếp cho việc "Ngồi code 10–12 tiếng mỗi ngày"** (nhìn vào bất kỳ video nào của kênh cũng thấy đúng 3 món này):
+>   1. ⌨️ **Bàn phím cơ & Keycap (Tâm điểm):** Bắt đầu từ con **Keychron (2–3tr)** đang gõ hàng ngày + 1 dòng phím cơ giá sinh viên (500k–800k).
+>   2. 💡 **Đèn treo màn hình (Monitor Light Bar):** Tạo đúng luồng ánh sáng vàng/trắng ấm hắt xuống bàn phím trong phòng tối (đặc trưng nhận diện của kênh `@dev.lo.startup`) và bảo vệ mắt khi code đêm.
+>   3. 🪵 **Phụ kiện Công thái học bàn code (Kê tay bàn phím · Thảm Deskmat · Giá đỡ Laptop/Arm màn hình):** Những món bảo vệ cổ tay & cột sống cho dân IT.
 
-> _Cần chốt ở check-in S1 (25/10/2026): chuyển TikTok từ "đóng băng" sang "duy trì 1 video/tuần" trong CLAUDE.md._
-
----
-
-## 💰 2. SẢN PHẨM SỐ CHO TỆP SINH VIÊN IT (MỞ LẠI T07/2027)
-
-> **Nguyên tắc:** bán thứ giúp họ **có việc và lên level** - không phải tool, không phải app của Hiếu.
-
-| Thứ tự | Sản phẩm | Giá | Công làm | Ghi chú |
-| :----: | -------- | --: | -------- | ------- |
-| 1 | Checklist phỏng vấn Intern/Fresher IT (Notion ~15 trang: 30 câu hỏi, 10 lỗi CV, lộ trình 3 tháng, bài học 4 năm đi làm) | 99k | ~6–8h, một lần | Bán qua link bio → form + chuyển khoản → gửi link Notion |
-| 2 | Lộ trình tự học 3 tháng trước khi xin thực tập | 99–149k | ~6–8h | Rút từ con đường của chính Hiếu |
-| 3 | Review CV / mock phỏng vấn 1:1 | 200–300k/buổi | Theo giờ | Tối đa 1–2 buổi/tuần, chiều T7 |
-
-**Điều kiện đi tiếp:** checklist bán được **≥ 50 lượt** → mới tính bước sau.
+#### Lộ trình 2 bước thực tế (Không chôn vốn, Không ôm rủi ro bảo hành mạch điện):
+- **Bước 1 (Quý tới — Affiliate Tuyển Chọn 0đ vốn, 1–2 video/tuần):**
+  - Giữ nguyên công thức video 100K–259K views: Kể chuyện thật (đi làm TMA, học tiếng Anh L3, cày TOEIC 700+, ôn Thạc sĩ UIT) + góc quay màn hình & hai tay gõ con **Keychron** dưới ánh **Đèn màn hình** (thu âm tiếng phím ASMR bằng **iPhone 15 Pro**).
+  - Trong Trưng bày (Showcase) và khi làm video trả lời Comment: **Chỉ gắn duy nhất 3 nhóm sản phẩm trên** từ các Gian hàng Chính hãng (Shop tự lo đóng gói, giao hàng và bảo hành 100%).
+- **Bước 2 (Khi kênh đã bán mạnh — Đặt dấu ấn riêng `Miracle` lên nhóm Không Mạch Điện):**
+  - Với **Thân phím cơ & Đèn màn hình** (có mạch điện/pin): Giữ nguyên bán Affiliate chính hãng (hoặc hợp tác đại lý tự chịu trách nhiệm bảo hành phần cứng).
+  - Với nhóm **Không bao giờ hỏng mạch (Kê tay gỗ/da, Bộ Keycap PBT, Thảm Deskmat bàn code)**: Rất dễ đặt xưởng in/khắc logo **`Miracle`** riêng với số lượng nhỏ — vừa tạo được **sản phẩm vật lý mang tên `Miracle`**, vừa **0% rủi ro bảo hành**!
 
 ---
 
-## 🤖 3. HƯỚNG STARTUP AI (CHỈ KHI MỤC 2 ĐẠT SỐ)
+## 💥 2. BÀI HỌC XƯƠNG MÁU TỪ `REFLEXAI.SITE` (114 HỌC VIÊN - ĐÚC KẾT 03/11/2026)
 
-| Bước | Làm gì | Điều kiện đi tiếp |
-| ---- | ------ | ----------------- |
-| 1 | Bán checklist 99k (mục 2) | ≥ 50 lượt bán |
-| 2 | **AI phỏng vấn thử cho Intern IT**: dán JD + CV → AI hỏi như người phỏng vấn thật, chấm điểm, gợi ý sửa (Claude API, 2–3 cuối tuần) | ≥ 20 người trả 49–99k/tháng |
-| 3 | Mở rộng: review CV bằng AI, lộ trình cá nhân hoá, gói cho trung tâm dạy code | Doanh thu ổn định vài tháng liền |
-
-- Khoá học video (1–3tr): chỉ tính khi sản phẩm nhỏ bán > 50 lượt **và** kênh ≥ 10K follow.
-- Không làm tiếp ReflexAI/app tiếng Anh (thị trường đông, video flop); không mở lại Miracle POS.
+> **Sự thật phải nhìn thẳng:** Hệ thống **`reflexai.site` (Executive Life OS)** do một mình Hiếu tự code full-stack cực kỳ đồ sộ (12 modules: *Huấn luyện viên AI, Tiếng Anh Giao Tiếp L2, Từ vựng, Đọc truyện, Ngữ pháp, Trợ lý, Bảng IPA & Ngữ âm, Phân tích & Báo cáo AI, CRM Quản trị học viên, Marketing, Live Monitor*) đã thu hút được **114 học viên thực tế**, nhưng **thất bại về mặt Thương mại hoá (Monetization)**:
+> - **Bằng chứng số liệu:** Có **114 học viên** đăng ký, nhưng chạy theo mô hình mở FREE + kêu gọi *"Donate duy trì server AI"*, các video giới thiệu app trên TikTok chỉ đạt `2.8K – 14K views`, **doanh thu = $0**, trong khi càng có người dùng thì bản thân càng phải **tự bỏ tiền túi gánh chi phí Server & API/Token**.
+> - **Bài học cốt lõi:**
+>   1. **Thất bại ở Mô hình thu tiền B2C (chứ không phải năng lực code):** Tệp người dùng B2C phổ thông trên TikTok tại VN quen xài miễn phí, hầu như không donate và rất ngại trả tiền cho app giáo dục của cá nhân.
+>   2. **Bẫy "Over-building cho người dùng miễn phí":** Bỏ hàng trăm giờ thức đêm code 12 module cực đẹp và chuyên nghiệp như một SaaS thực thụ, nhưng không thu được tiền ➔ kiệt sức.
+> - **Cách xử lý khôn ngoan nhất với `reflexai.site`:**
+>   1. **Về mặt kiếm tiền trên TikTok:** **Dừng hoàn toàn** việc code thêm tính năng hay quảng bá B2C cho `reflexai.site` (khoá/giới hạn quota API để không tốn tiền server). Chuyển 100% hướng kiếm tiền trên kênh sang **Affiliate bộ Setup bàn code (Keychron + Đèn màn hình)**.
+>   2. **Tái sử dụng làm "Vũ khí Vàng" cho Sự nghiệp & Học thuật (M4):** Giao diện cực đẹp + kiến trúc 12 modules AI Education + 114 users thật của `reflexai.site` khớp 100% với định hướng **AI Agentic System for Education** của TMA Solutions và là **Đề tài / Portfolio thực chiến đắt giá nhất** khi bước vào phòng **Phỏng vấn Thạc sĩ Khoa học Máy tính UIT (T11/2027)**!
 
 ---
 
-## 🗑️ 4. Ý TƯỞNG ĐÃ LOẠI (24/10/2026) - KHÔNG NGHĨ LẠI
+## 🗑️ 3. Ý TƯỞNG ĐÃ LOẠI VĨNH VIỄN - KHÔNG NGHĨ LẠI
 
-| Ý tưởng | Lý do loại |
+| Ý tưởng | Lý do loại (Từ thực tế thất bại) |
 | ------- | ---------- |
-| Series giới thiệu tool / startup tool | Video tool trên kênh đều flop; tốn 2–3h/video; tệp sinh viên ít trả tiền tool |
-| Series người thành công ở Việt Nam | Kênh khác, làm loãng tệp follow |
-| Review đồ công nghệ | Kênh khác, cần mua đồ, đua trend |
-| Kiếm tiền từ Discord | Chưa có cộng đồng đủ lớn |
-| "Xây business riêng" | Quá mơ hồ |
-| Reup ~7k video Shopee bằng tool | Rủi ro bản quyền, khoá tài khoản - đốt 4.6K follow thật |
-| Series "7 nghiệp bán affiliate" | Affiliate chỉ là cách kiếm tiền gắn vào video, không phải series |
+| **Làm App AI / Sản phẩm số / SaaS B2C (ReflexAI, AI phỏng vấn, bán tài liệu/khoá học)** | **Thất bại thực tế từ ReflexAI:** Tốn công code, tốn tiền API/token, mở free còn khó giữ user, tệp TikTok không chịu trả tiền cho phần mềm/sản phẩm số cá nhân. |
+| **Tự sản xuất đồ điện tử có mạch/pin (như tự làm mạch phím cơ)** | Rủi ro tồn kho & **cơn ác mộng bảo hành mạch điện tử/pin/LED** (Thân phím & Đèn để hãng bảo hành qua Affiliate; `Miracle` chỉ đặt dấu ấn riêng lên nhóm không mạch điện như Kê tay, Keycap, Deskmat). |
+| Series giới thiệu tool / startup tool | Video tool trên kênh đều flop (`2.8K views`); tốn 2–3h/video; không ra tiền. |
+| Series người thành công ở Việt Nam | Kênh khác, làm loãng tệp follow. |
+| Bán tạp nham ngoài 3 dòng cốt lõi của Bàn Code Đêm | Làm nát định vị `Miracle` (chỉ gắn duy nhất 3 nhóm: **① Phím cơ & Keycap · ② Đèn treo màn hình · ③ Kê tay / Deskmat / Giá đỡ**). |
+| Kiếm tiền từ Discord | Chưa có cộng đồng đủ lớn. |
+| Reup ~7k video Shopee bằng tool | Rủi ro bản quyền, khoá tài khoản - đốt 4.6K follow thật. |
 
 ---
 
-## ✍️ Ý TƯỞNG MỚI (ghi 1 dòng, không làm)
+## ✍️ GHI CHÚ QUYẾT ĐỊNH (03/11/2026)
 
-| Ngày | Ý tưởng |
-| ---- | ------- |
-| | |
+| Ngày | Quyết định chốt |
+| ---- | --------------- |
+| 03/11/2026 | Khép lại bài học `ReflexAI.site` (giữ làm Portfolio vàng thi Thạc sĩ UIT & Senior TMA). Định vị **`Miracle`** trên kênh `@dev.lo.startup` chỉ gắn liền với **đúng 3 sản phẩm Bàn Code Đêm**: **① Phím cơ & Keycap (Keychron) · ② Đèn treo màn hình · ③ Phụ kiện công thái học (Kê tay / Deskmat / Giá đỡ)**. Bước 1 làm Affiliate chính hãng 0đ vốn; Bước 2 khi kênh lớn mới khắc thương hiệu `Miracle` lên nhóm không có mạch điện (Kê tay, Keycap, Deskmat) để 0% bảo hành. |
 
 ---
 
-_Cập nhật: 24/10/2026 (Tạo file - phân tích kênh @dev.lo.startup, chế độ duy trì TikTok, sản phẩm số & hướng startup AI để dành đến T07/2027, danh sách ý tưởng đã loại)._
+## 🎬 4. KỊCH BẢN CHI TIẾT SERIES: "LÀM AFFILIATE ĐỂ NUÔI STARTUP" (GHI NHẬN 03/11/2026)
+
+> 💡 **Sợi chỉ đỏ cảm xúc xuyên suốt Series ("Lấy ngắn nuôi dài — Làm Affiliate để nuôi Startup & Duy trì Server"):**
+> - **Tâm lý người xem:** Nếu chỉ nói "mình đi bán hàng kiếm tiền", người xem sẽ thờ ơ. Nhưng khi đặt vào mạch truyện thật của kênh: *"Web AI mình mở FREE cho hơn 100 anh em học mỗi ngày đang ngốn tiền server & token, thay vì thu phí anh em sinh viên thì mình mở rộng qua làm thêm mảng Affiliate (review chính những món đồ trên bàn code) để lấy tiền nuôi Startup!"* ➔ **Người xem vừa đồng cảm sâu sắc, vừa muốn bấm mua ủng hộ hành trình của Hiếu, vừa kết hợp câu gây tranh luận để đẩy thuật toán TikTok!**
+
+### 📹 Tập 1 (Day 1): Code 12 tiếng/ngày & Mở rộng qua làm Affiliate để nuôi Startup
+- **Mở đầu (Hook gắn từ khoá triệu view `"12 tiếng/ngày"` + chạm sự đồng cảm):**
+  - *"Ngồi code 12 tiếng mỗi ngày để làm startup ở tuổi 25 mà chưa thu về được đồng nào... Nên đây là Ngày 1 mình mở rộng lĩnh vực startup, chuyển từ chỉ ngồi code IT qua làm thêm affiliate TikTok để lấy tiền nuôi startup của mình."*
+- **Bước 1: Tìm sản phẩm để làm Affiliate:**
+  - *"Đầu tiên mình cần tìm sản phẩm. Mình đã nhắn tin với các brand lớn để cùng hợp tác làm affiliate (xin sản phẩm về review), nhưng vì kênh mình còn khá nhỏ nên chưa có brand nào đồng ý cả. Mình vẫn đang mong chờ cơ hội được hợp tác làm việc chung với các đối tác."*
+- **Bước 2: Review trước con Keychron gõ 12 tiếng/ngày vẫn bền (Gắn giỏ hàng):**
+  - *"Nên mình quyết định sẽ review từ chính các sản phẩm đang nằm trên bàn làm việc 12 tiếng mỗi ngày của mình. Vì có nhiều anh em hỏi bàn phím mình đang xài thì đây nha: con Keychron này mình mua cũng lâu rồi, ngày nào cũng gõ code 12 tiếng liên tục mà xài tới bây giờ vẫn cực bền và đầm tay."*
+  - *(Cận cảnh: Quay build bàn phím ➔ Quay các chế độ đèn LED trong phòng tối ➔ Dừng lời 3–5s thu âm tiếng gõ phím thật êm).*
+- **Bước 3: Tìm đồng đội về cùng làm thêm mảng Affiliate (Mồi lửa kéo Comment):**
+  - *"Vì nghề IT giờ khá là khó khăn, chỉ cắm đầu code 12 tiếng thôi là chưa đủ. Các bạn intern nếu muốn làm thêm về mảng affiliate để cùng nuôi dự án thì có thể inbox cho mình nha, mình cần 5–10 bạn về làm chung với mình. Tiếp tục series dev làm affiliate nuôi startup cùng với mình nhé!"*
+
+### 📹 Tập 2 (Day 2): Kết quả Ngày 1 "Cày Affiliate nuôi Startup" & Mảnh ghép thứ 2 trụ vững 12 tiếng/ngày
+- **Mở đầu Ngày 2 (Đón sóng đồng cảm & tranh luận từ Ngày 1):**
+  - *"Ngày 2 vừa làm việc 12 tiếng mỗi ngày vừa cày affiliate để nuôi startup: Sau 24h đầu tiên gắn giỏ hàng con bàn phím mình gõ code mỗi đêm, đây là kết quả đầu tiên để bù vào tiền server tháng này..."* + cập nhật xem các brand lớn đã hồi âm tin nhắn chưa.
+- **Nội dung sản phẩm Ngày 2:**
+  - Giải đáp các comment ở Ngày 1 hỏi về con Keychron (gắn kèm 1 phương án phím cơ giá mềm hơn cho anh em sinh viên IT ủng hộ) + giới thiệu món thứ 2 giúp mắt và cổ tay trụ nổi 12 tiếng/ngày ngồi trước màn hình (**Đèn treo màn hình / Kê tay**).
+
+---
+
+_Cập nhật: 03/11/2026 (Hoàn thiện kịch bản Day 1 & Day 2 Series "Làm Affiliate để nuôi Startup" kết hợp sự đồng cảm & mồi lửa kéo comment; định vị Miracle gắn với 3 sản phẩm Bàn Code Đêm). Trước đó: 24/10/2026._
