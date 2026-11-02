@@ -42,29 +42,29 @@
 > - **BIDV (`14,473,980đ`):** 100% két sắt Tiết kiệm học phí Thạc sĩ — đóng băng, chờ lương TMA (05/11) cộng thẳng vào.
 > - **Timo (`7,623,227đ`):** Chứa trọn vẹn **100% ngân sách Nhà ở + Sinh hoạt Tháng 11** (`7,019,442đ` còn lại sau 35k bánh canh) + **Quỹ xoay vòng BIT** (`603,785đ`). Không cần trích thêm 1 đồng nào từ lương tháng 11 vào chi tiêu nữa!
 
-| Việc                                                            | Tài khoản đích                             |     Số tiền | Xong?                                                                             |
-| --------------------------------------------------------------- | ------------------------------------------ | ----------: | --------------------------------------------------------------------------------- |
-| 1. Khóa Két sắt Tiết kiệm (Quỹ học phí 43tr & dự phòng)         | **BIDV** (`14,473,980đ` + Lương TMA 05/11) | ~15,000,000 | ✅ Đã khóa két BIDV, chờ lương 05/11 cộng thêm                                    |
-| 2. Trích Quỹ dự trữ Coach TOEIC (chặng 1 T02/2027)              | **BIDV** (Ghi chú riêng trong két BIDV)    |   1,000,000 | ✅ Nằm trong két BIDV                                                             |
-| 3. Quỹ mẹ tháng 11 (`C02`)                                      | **Anh Nghĩa** (Phường)                     |   2,000,000 | ✅ Đã trả trước 23/10 (T11 không cần chuyển nữa)                                  |
-| 4. Phần Nhà ở 1/4 của Hiếu (`C01`)                              | **Timo — Hũ Nhà ở**                        |   2,650,000 | ✅ Đã chuyển `2,012,296đ` (VCB) + `637,704đ` (BIDV) sang Timo (01/11)             |
-| 5. Toàn bộ Sinh hoạt cá nhân `C03–C10` (`4,404,442đ`) + Quỹ BIT | **Timo — Các Hũ chi tiêu**                 |   4,973,227 | ✅ Đã gom đủ trên Timo (`7,623,227đ` tổng) — tiết kiệm hơn trần 9.5M được `445k`! |
+| Việc                                                            | Tài khoản đích                             |     Số tiền | Xong?                                                                                               |
+| --------------------------------------------------------------- | ------------------------------------------ | ----------: | --------------------------------------------------------------------------------------------------- |
+| 1. Khóa Két sắt Tiết kiệm (Quỹ học phí 43tr & dự phòng)         | **BIDV** (`14,473,980đ` + Lương TMA 05/11) | ~15,000,000 | ✅ Đã khóa két BIDV, chờ lương 05/11 cộng thêm                                                      |
+| 2. Trích Quỹ dự trữ Coach TOEIC (chặng 1 T02/2027)              | **BIDV** (Ghi chú riêng trong két BIDV)    |   1,000,000 | ✅ Nằm trong két BIDV                                                                               |
+| 3. Quỹ mẹ tháng 11 (`C02`)                                      | **Anh Nghĩa** (Phường)                     |   2,000,000 | ✅ Đã trả trước 23/10 (T11 không cần chuyển nữa)                                                    |
+| 4. Phần Nhà ở 1/4 của Hiếu (`C01`)                              | **Timo — Hũ Nhà ở**                        |   2,650,000 | ✅ Đã chuyển `2,012,296đ` (VCB) + `637,704đ` (BIDV) sang Timo (01/11)                               |
+| 5. Toàn bộ Sinh hoạt cá nhân `C03–C10` (`4,404,442đ`) + Quỹ BIT | **Timo — Các Hũ chi tiêu**                 |   4,973,227 | ✅ Đã gom đủ trên Timo (`7,623,227đ` tổng) — tiết kiệm hơn trần 9.5M được `445k`!                   |
 | 6. **Trích lập Quỹ NY / Hẹn hò cố định (`2,000,000đ/tháng`)**   | **Timo — Hũ 7 · ❤️ Quỹ NY / Hẹn hò**       |   2,000,000 | ⏳ **Chờ nhận lương TMA (05/11) trích `2,000,000đ` từ BIDV sang Timo (dư tích lũy cho Lễ/Du lịch)** |
 
 ### 🏺 BẢNG PHÂN HŨ TRỰC TIẾP TRÊN TIMO (`7,623,227 VND` HIỆN TẠI + `2,000,000 VND` HŨ QUỸ NY MỞ NGÀY 05/11)
 
 > ⚡ **Nguyên tắc đơn giản nhất:** Chia hết 100% vào các Hũ ngay đầu tháng (không cần rút lắt nhắt theo tuần). Khi quét QR hoặc chuyển khoản trên Timo, tiêu mục nào thì **chọn nguồn tiền trực tiếp từ đúng Hũ đó** — hết Hũ nào dừng chi mục đó!
 
-| Hũ trên Timo (6 Hũ hiện tại + Hũ 7 mở ngày 05/11) | Mã gắn kèm      | Hạn mức đầu T11 | Đã chi (01/11) | Số dư hiện tại (01/11) | Ghi chú sử dụng                                                                                           |
-| ------------------------------------------ | --------------- | --------------: | -------------: | ---------------------: | --------------------------------------------------------------------------------------------------------- |
-| **Hũ 1 · 🍽️ `Ăn uống`**                    | **C03**         |   **2,500,000** |     **35,000** |          **2,465,000** | Đã trừ `35,000đ` bánh canh sáng `01/11`. Còn **`2,465,000đ`** cho cả tháng (~85k/ngày).                   |
-| **Hũ 2 · 🏠 `Nhà ở`**                      | **C01**         |   **2,650,000** |          **0** |          **2,650,000** | Trọ `2M` (`16/11`) + Điện nước `~425k` (`08/11`) + Phí CC `~225k` (`30/11`).                              |
-| **Hũ 3 · 💆 `Bản thân & Sub`**             | **C04 + C07**   |   **1,000,000** |          **0** |          **1,000,000** | Gồm **`700,000đ` Sức khoẻ/Skincare/Cắt tóc** (`C04`) + **`300,000đ` 5G Viettel 125k & Sub 175k** (`C07`). |
-| **Hũ 4 · ☕ `Quan hệ & Dự phòng`**         | **C06+C08+C10** |     **604,442** |          **0** |            **604,442** | Gồm **`500,000đ` Cafe/Bạn bè/Giải trí** (`C06`) + **`104,442đ` Thể thao & Lặt vặt** (`C08+C10`).          |
-| **Hũ 5 · 🏍️ `Xăng xe` (Đi lại)**           | **C05**         |     **300,000** |          **0** |            **300,000** | Đổ xăng & gửi xe cả tháng.                                                                                |
-| **Hũ 6 · 💻 `Quỹ BIT`**                    | **Ngoại bảng**  |     **603,785** |          **0** |            **603,785** | 🔒 **Cấm đụng!** Dùng thanh toán bill Claude Code (~595k) cho BIT, sau đó BIT hoàn lại vào đây.           |
-| **Hũ 7 · ❤️ `Quỹ NY / Hẹn hò`** *(05/11)*  | **C06 (Dating)**|   **2,000,000** |          **0** |      *(Chờ nạp 05/11)* | ⏳ **Nạp `2,000,000đ/tháng` khi lương TMA về (`05/11`)**. Tháng nào chưa tiêu hết giữ nguyên tích lũy trong Hũ! |
-| **TỔNG CỘNG HIỆN TẠI TRÊN TIMO (6 HŨ)**    |                 |   **7,658,227** |     **35,000** |          **7,623,227** | **Khớp chính xác 100% từng đồng (`7,019,442đ` ngân sách T11 còn lại + `603,785đ` quỹ BIT)!**              |
+| Hũ trên Timo (6 Hũ hiện tại + Hũ 7 mở ngày 05/11) | Mã gắn kèm       | Hạn mức đầu T11 | Đã chi (01/11) | Số dư hiện tại (01/11) | Ghi chú sử dụng                                                                                                 |
+| ------------------------------------------------- | ---------------- | --------------: | -------------: | ---------------------: | --------------------------------------------------------------------------------------------------------------- |
+| **Hũ 1 · 🍽️ `Ăn uống`**                           | **C03**          |   **2,500,000** |     **35,000** |          **2,465,000** | Đã trừ `35,000đ` bánh canh sáng `01/11`. Còn **`2,465,000đ`** cho cả tháng (~85k/ngày).                         |
+| **Hũ 2 · 🏠 `Nhà ở`**                             | **C01**          |   **2,650,000** |          **0** |          **2,650,000** | Trọ `2M` (`16/11`) + Điện nước `~425k` (`08/11`) + Phí CC `~225k` (`30/11`).                                    |
+| **Hũ 3 · 💆 `Bản thân & Sub`**                    | **C04 + C07**    |   **1,000,000** |          **0** |          **1,000,000** | Gồm **`700,000đ` Sức khoẻ/Skincare/Cắt tóc** (`C04`) + **`300,000đ` 5G Viettel 125k & Sub 175k** (`C07`).       |
+| **Hũ 4 · ☕ `Quan hệ & Dự phòng`**                | **C06+C08+C10**  |     **604,442** |          **0** |            **604,442** | Gồm **`500,000đ` Cafe/Bạn bè/Giải trí** (`C06`) + **`104,442đ` Thể thao & Lặt vặt** (`C08+C10`).                |
+| **Hũ 5 · 🏍️ `Xăng xe` (Đi lại)**                  | **C05**          |     **300,000** |          **0** |            **300,000** | Đổ xăng & gửi xe cả tháng.                                                                                      |
+| **Hũ 6 · 💻 `Quỹ BIT`**                           | **Ngoại bảng**   |     **603,785** |          **0** |            **603,785** | 🔒 **Cấm đụng!** Dùng thanh toán bill Claude Code (~595k) cho BIT, sau đó BIT hoàn lại vào đây.                 |
+| **Hũ 7 · ❤️ `Quỹ NY / Hẹn hò`** _(05/11)_         | **C06 (Dating)** |   **2,000,000** |          **0** |      _(Chờ nạp 05/11)_ | ⏳ **Nạp `2,000,000đ/tháng` khi lương TMA về (`05/11`)**. Tháng nào chưa tiêu hết giữ nguyên tích lũy trong Hũ! |
+| **TỔNG CỘNG HIỆN TẠI TRÊN TIMO (6 HŨ)**           |                  |   **7,658,227** |     **35,000** |          **7,623,227** | **Khớp chính xác 100% từng đồng (`7,019,442đ` ngân sách T11 còn lại + `603,785đ` quỹ BIT)!**                    |
 
 ---
 
