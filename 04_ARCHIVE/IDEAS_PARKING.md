@@ -32,14 +32,20 @@
 - Share (5K) ≈ 2× comment (2.6K) → người ta share câu trích dẫn để "nói hộ lòng mình", không hỏi mua.
 - **Công thức thắng:** phòng tối, màn hình code, 1 câu trích dẫn chạm cảm xúc, 15–30 giây.
 
-### Quyết định chiến lược (Chốt 03/11/2026): ĐỊNH VỊ `MIRACLE` GẮN LIỀN VỚI ĐÚNG 3 SẢN PHẨM "BÀN CODE ĐÊM"
+### Quyết định chiến lược (Chốt 03/11/2026): TẦM NHÌN THƯƠNG HIỆU `MIRACLE` & 3 SẢN PHẨM "BÀN CODE ĐÊM"
 
-> 🎯 **Định vị Thương hiệu `Miracle` (Miracle Dev Setup):**
-> - Không bán tạp nham đủ thứ đồ công nghệ, cũng không làm tiếp sản phẩm số B2C (`ReflexAI`).
-> - **`Miracle` chỉ gắn liền với đúng 3 dòng sản phẩm cốt lõi phục vụ trực tiếp cho việc "Ngồi code 10–12 tiếng mỗi ngày"** (nhìn vào bất kỳ video nào của kênh cũng thấy đúng 3 món này):
->   1. ⌨️ **Bàn phím cơ & Keycap (Tâm điểm):** Bắt đầu từ con **Keychron (2–3tr)** đang gõ hàng ngày + 1 dòng phím cơ giá sinh viên (500k–800k).
->   2. 💡 **Đèn treo màn hình (Monitor Light Bar):** Tạo đúng luồng ánh sáng vàng/trắng ấm hắt xuống bàn phím trong phòng tối (đặc trưng nhận diện của kênh `@dev.lo.startup`) và bảo vệ mắt khi code đêm.
->   3. 🪵 **Phụ kiện Công thái học bàn code (Kê tay bàn phím · Thảm Deskmat · Giá đỡ Laptop/Arm màn hình):** Những món bảo vệ cổ tay & cột sống cho dân IT.
+> 🌟 **TẦM NHÌN & LINH HỒN THƯƠNG HIỆU `MIRACLE` ("MIRACLES ARE BUILT 12 HOURS A DAY"):**
+> - **Triết lý cốt lõi (Why `Miracle`?):** *"Kỳ tích (`Miracle`) không đến từ may mắn hay thiên phú — Kỳ tích được tạo ra từ 12 tiếng cặm cụi ngồi trước bàn làm việc mỗi ngày."* Thương hiệu `Miracle` đại diện cho những người trẻ xuất phát điểm bình thường, từng vấp ngã nhưng tự tạo ra kỳ tích cho bản thân và gia đình bằng kỷ luật tự học.
+> - **Sứ mệnh sản phẩm:** Không bán đồ công nghệ màu mè để khoe mẽ. **`Miracle` cung cấp "Những vũ khí bền bỉ nhất cho bàn làm việc 12 tiếng mỗi ngày" (Built for the 12-Hour Grind)** — giúp anh em Dev/IT bảo vệ đôi mắt, cổ tay và giữ lửa cảm hứng mỗi khi bật đèn ngồi vào bàn cày cuốc ban đêm.
+> - **Tầm nhìn 3 Chặng (2026 → 2031):**
+>   1. **Chặng 1 (2026–2027 · `Miracle Curated` - Affiliate 0đ vốn):** Tuyển chọn và gắn giỏ hàng đúng những món đồ thực chiến trên bàn code của Hiếu (hãng tự ship & bảo hành 100%).
+>   2. **Chặng 2 (2027–2028 · `Miracle Signature` - 0% rủi ro mạch điện):** Ra mắt các sản phẩm mang thương hiệu `Miracle` không có mạch điện tử (**Kê tay gỗ/da khắc tuyên ngôn 12h, Bộ Keycap PBT cho Coder, Thảm Deskmat System Design**).
+>   3. **Chặng 3 (2029–2031 · `Miracle Brand`):** Trở thành thương hiệu biểu tượng về **Góc làm việc Deep Work & Văn hoá Tự học** cho sinh viên IT và lập trình viên trẻ tại Việt Nam.
+
+> 🎯 **3 Dòng sản phẩm cốt lõi gắn liền với `Miracle` (Nhìn vào bất kỳ video nào cũng thấy đúng 3 món này):**
+> 1. ⌨️ **Bàn phím cơ & Keycap (Tâm điểm):** Mở đầu từ con **Keychron (2–3tr)** gõ 12 tiếng/ngày vẫn bền + 1 dòng phím cơ giá sinh viên (500k–800k).
+> 2. 💡 **Đèn treo màn hình (Monitor Light Bar):** Tạo luồng ánh sáng tập trung hắt xuống bàn phím trong phòng tối (biểu tượng thị giác của kênh `@dev.lo.startup`) và bảo vệ mắt khi code đêm.
+> 3. 🪵 **Phụ kiện Công thái học bàn code (Kê tay bàn phím · Thảm Deskmat · Giá đỡ Laptop/Arm màn hình):** Bảo vệ cổ tay & cột sống cho người ngồi máy tính 10–12 tiếng/ngày.
 
 #### Lộ trình 2 bước thực tế (Không chôn vốn, Không ôm rủi ro bảo hành mạch điện):
 - **Bước 1 (Quý tới — Affiliate Tuyển Chọn 0đ vốn, 1–2 video/tuần):**
