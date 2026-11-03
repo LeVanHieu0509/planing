@@ -17,7 +17,7 @@ SIDE:     Miracle POS (đang đóng băng - chỉ fix bug)
 
 ★ MỐC LỚN NHẤT SẮP TỚI:
   🎓 NỘP HỒ SƠ THẠC SĨ KHOA HỌC MÁY TÍNH - UIT (ĐHQG TP.HCM) · T09-T10/2027 · khai giảng T12/2027
-     → Cần 43tr học phí năm 1 (đóng T12/2027) · đã có ~22.22tr tiền mặt thực tế (01/11/2026: 22,219,540đ; chốt sổ 31/10: 22,254,505đ, đã trừ 13tr tiền mẹ, đã trả vé Tết chiều đi & Shopee 1.83M) · dự kiến đủ vào T12/2026
+     → Cần 43tr học phí năm 1 (đóng T12/2027) · đã có ~22.22tr tiền mặt thực tế (01/11/2026: 22,219,540đ; chốt sổ 31/10: 22,254,505đ, đã trừ 12.5tr tiền mẹ, đã trả vé Tết chiều đi & Shopee 1.83M) · dự kiến đủ vào T12/2026
      → Tổng tài sản ròng toàn diện: ~57.42M (theo thị giá: 22.22M tiền mặt + 30.0M Binance W + 8M OKX Bot - 2.8M nợ; sạch phải thu; tổng vốn tích luỹ lịch sử: ~138.92M)
      → Quỹ mẹ 500tr: Đã nạp luỹ kế gốc 10M (gồm T11 trả trước 23/10; định kỳ 2M/tháng, mốc 100M trích lãi nuôi mẹ)
 
@@ -170,6 +170,6 @@ Chính sách: Tối đa 4 buổi học bù (lớp 12 HV); bảo lưu 1 lần tro
 
 ---
 
-_Cập nhật: 01/11/2026 (Đối chiếu sao kê Timo 31/10 & 01/11: chốt sổ 31/10 tiền mặt ~22.25tr, ngày 01/11 ~22.22tr, Net Worth ~57.42tr). Trước đó: 31/10/2026 (Thanh toán Shopee 1,827,637 qua VietinBank, nợ còn 2.8tr). Trước đó: 30/10/2026 (Đóng phí CC; tiền mẹ 13M, Timo, BIT hoàn; đối chiếu 5 NH). Trước đó: 27/10/2026 (Nhận lương BIT 7M VietinBank). Trước đó: 26/10/2026 (Lớp Phản Xạ CN đã học xong, tạm bỏ khỏi lịch từ 26/10/2026). Trước đó: 25/10/2026 (Trả vé Tết chiều đi 2.62tr). Trước đó: 24/10/2026 (Đồng bộ tài chính 24/10: quỹ mẹ 10tr, đủ 43tr dời T12/2026). Trước đó: 15/10/2026 (Tối T4 + tối CN relax, TOEIC P5/P7 sáng T2+T6, chi 8-10tr/tháng; Hạn nộp chứng chỉ TOEIC 700+ cho TMA: 15/11/2027; TOEIC 700+ = điều kiện bắt buộc lên Senior TMA năm 2027; Chốt ngành: Thạc sĩ Khoa học máy tính; Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027; Đồng bộ số liệu giữa các file). Trước đó: 13/09/2026 (V8 - Chốt quỹ mẹ 500tr đến 2036, thêm link QUY_ME_500TR.md. Giữ nguyên:
+_Cập nhật: 02/11/2026 (Mẹ lấy 500k từ VCB 02/11 (chuyển HO THI NHA) → tiền mẹ giữ hộ còn 12,500,000). Trước đó: 01/11/2026 (Đối chiếu sao kê Timo 31/10 & 01/11: chốt sổ 31/10 tiền mặt ~22.25tr, ngày 01/11 ~22.22tr, Net Worth ~57.42tr). Trước đó: 31/10/2026 (Thanh toán Shopee 1,827,637 qua VietinBank, nợ còn 2.8tr). Trước đó: 30/10/2026 (Đóng phí CC; tiền mẹ 13M, Timo, BIT hoàn; đối chiếu 5 NH). Trước đó: 27/10/2026 (Nhận lương BIT 7M VietinBank). Trước đó: 26/10/2026 (Lớp Phản Xạ CN đã học xong, tạm bỏ khỏi lịch từ 26/10/2026). Trước đó: 25/10/2026 (Trả vé Tết chiều đi 2.62tr). Trước đó: 24/10/2026 (Đồng bộ tài chính 24/10: quỹ mẹ 10tr, đủ 43tr dời T12/2026). Trước đó: 15/10/2026 (Tối T4 + tối CN relax, TOEIC P5/P7 sáng T2+T6, chi 8-10tr/tháng; Hạn nộp chứng chỉ TOEIC 700+ cho TMA: 15/11/2027; TOEIC 700+ = điều kiện bắt buộc lên Senior TMA năm 2027; Chốt ngành: Thạc sĩ Khoa học máy tính; Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027; Đồng bộ số liệu giữa các file). Trước đó: 13/09/2026 (V8 - Chốt quỹ mẹ 500tr đến 2036, thêm link QUY_ME_500TR.md. Giữ nguyên:
 5 mục tiêu thay 6 epic, bỏ task công ty, Sprint S1 = 12/10/2026, mốc 70tr + Thạc sĩ UIT T07/2027 (nay đổi thành 43tr, nộp hồ sơ T09-T10/2027),
 L3 đã thanh toán.)_

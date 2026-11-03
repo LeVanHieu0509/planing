@@ -10,13 +10,13 @@
 | Tài khoản                  | Đầu tháng (00:00 01/11) | Hiện tại (01/11) | Ghi chú                                                                                                |
 | -------------------------- | ----------------------: | ---------------: | ------------------------------------------------------------------------------------------------------ |
 | **BIDV**                   |              15,111,684 |   **14,473,980** | 🔒 **100% Két sắt Tiết kiệm & Học phí** (đã trích `637,704đ` sang Timo cho đủ tiền nhà T11)            |
-| **VCB**                    |              15,012,296 |   **13,000,000** | 🔒 **100% Tiền mẹ giữ hộ** (đã rút sạch `2,012,296đ` của Hiếu sang Timo — không còn lẫn tiền cá nhân!) |
+| **VCB**                    |              15,012,296 |   **12,500,000** | 🔒 **100% Tiền mẹ giữ hộ** (02/11 mẹ lấy 500k; đã rút sạch `2,012,296đ` của Hiếu sang Timo — không còn lẫn tiền cá nhân!) |
 | TCB                        |                  27,297 |           27,297 | Tài khoản phụ / trung gian                                                                             |
 | VietinBank                 |                  50,036 |           50,036 | Giữ ~50k số dư tối thiểu                                                                               |
 | **Timo**                   |           **5,008,192** |    **7,623,227** | 🎯 **Chứa 100% Ngân sách T11 (`7,019,442đ` còn lại) + Quỹ BIT (`603,785đ`)**                           |
 | Ví                         |                  45,000 |           45,000 | Tiền mặt trong ví                                                                                      |
-| **Tổng Gross**             |          **35,254,505** |   **35,219,540** | 5 ngân hàng + ví                                                                                       |
-| - Tiền mẹ giữ hộ           |             -13,000,000 |      -13,000,000 | Ngoại bảng (nằm trọn 100% bên VCB)                                                                     |
+| **Tổng Gross**             |          **35,254,505** |   **34,719,540** | 5 ngân hàng + ví                                                                                       |
+| - Tiền mẹ giữ hộ           |             -13,000,000 |      -12,500,000 | Ngoại bảng (nằm trọn 100% bên VCB)                                                                     |
 | **Tiền mặt thực của Hiếu** |          **22,254,505** |   **22,219,540** | **Sạch trọ, sạch phí CC, sạch phải thu; tự do sau nợ 2.8M = `19,419,540`**                             |
 
 ---
@@ -38,7 +38,7 @@
 
 > 💡 **Cấu trúc Tài khoản Tối ưu Tháng 11 (1 Tài khoản = 1 Nhiệm vụ tuyệt đối):**
 >
-> - **VCB (`13,000,000đ`):** 100% tiền giữ hộ của mẹ — đóng băng.
+> - **VCB (`12,500,000đ`):** 100% tiền giữ hộ của mẹ — đóng băng (02/11 mẹ lấy 500k).
 > - **BIDV (`14,473,980đ`):** 100% két sắt Tiết kiệm học phí Thạc sĩ — đóng băng, chờ lương TMA (05/11) cộng thẳng vào.
 > - **Timo (`7,623,227đ`):** Chứa trọn vẹn **100% ngân sách Nhà ở + Sinh hoạt Tháng 11** (`7,019,442đ` còn lại sau 35k bánh canh) + **Quỹ xoay vòng BIT** (`603,785đ`). Không cần trích thêm 1 đồng nào từ lương tháng 11 vào chi tiêu nữa!
 
@@ -99,6 +99,7 @@
 | ----- | ----------------------------------------------------------------- | ----------- | --------: | ------------------------------------------------------------------------- |
 | 01/11 | Rút toàn bộ tiền riêng của Hiếu tại VCB sang Timo lập Hũ Nhà ở    | VCB → Timo  | 2,012,296 | VCB còn đúng `13,000,000đ` (100% tiền mẹ giữ hộ)                          |
 | 01/11 | Trích bổ sung từ BIDV sang Timo cho đủ tròn `2,650,000đ` Hũ Nhà ở | BIDV → Timo |   637,704 | BIDV còn `14,473,980đ` (khóa két sắt Tiết kiệm); Timo lên `7,623,227đ` ✅ |
+| 02/11 | 👵 **Mẹ lấy 500k** - chuyển cho HO THI NHA (MB 0981180290) theo lời mẹ, mã GD 16827858384 | VCB → người nhận của mẹ | 500,000 | **Tiền của mẹ**, không phải chi tiêu của Hiếu · tiền mẹ giữ hộ còn `12,500,000đ` |
 
 ---
 
@@ -136,4 +137,4 @@ Nhận xét 1 dòng:         ___________
 
 ---
 
-_Cập nhật: 01/11/2026 (Đối chiếu sao kê Timo 31/10 & 01/11: cập nhật số dư đầu tháng T11 chuẩn xác VietinBank 50,036 & Timo 5,008,192 [tổng tiền mặt thực đầu T11 = 22,254,505]; ghi nhận giao dịch 01/11 lãi Timo +35đ & ăn bánh canh -35,000đ → Timo hiện còn 4,973,227đ trong Spend Account, tiền mặt thực 22,219,540đ). Trước đó: 31/10/2026 (Đã thanh toán Shopee 1,827,637 qua VietinBank & chuyển 4,652,407 sang Timo để chia Hũ chi tiêu T11, nợ Shopee T11 chỉ còn 300,000, tổng nợ 2.8M). Trước đó: 30/10/2026 (Phí CC T10 đã đóng 30/10; tiền mẹ 13M; thêm Timo; BIT hoàn bill 578,275). Trước đó: 27/10/2026 (Thêm VietinBank vào số dư đầu tháng; C07 có khoản cố định mạng 125k). Trước đó: 25/10/2026 (Vé Tết chiều đi đã trả 25/10; T11 chỉ còn chiều vào ~3tr nếu đặt). Trước đó: 24/10/2026 (Quỹ mẹ T11 đã trả trước 23/10; tiền mẹ nằm VCB). Trước đó: 22/10/2026 (Tạo mẫu sổ T11 theo hệ thống mới: 10 danh mục + budget, trả cho mình trước, tách thu hộ/chuyển nội bộ, khoản lớn, nợ)._
+_Cập nhật: 02/11/2026 (Mẹ lấy 500k từ VCB 02/11 (chuyển HO THI NHA) → tiền mẹ giữ hộ còn 12,500,000). Trước đó: 01/11/2026 (Đối chiếu sao kê Timo 31/10 & 01/11: cập nhật số dư đầu tháng T11 chuẩn xác VietinBank 50,036 & Timo 5,008,192 [tổng tiền mặt thực đầu T11 = 22,254,505]; ghi nhận giao dịch 01/11 lãi Timo +35đ & ăn bánh canh -35,000đ → Timo hiện còn 4,973,227đ trong Spend Account, tiền mặt thực 22,219,540đ). Trước đó: 31/10/2026 (Đã thanh toán Shopee 1,827,637 qua VietinBank & chuyển 4,652,407 sang Timo để chia Hũ chi tiêu T11, nợ Shopee T11 chỉ còn 300,000, tổng nợ 2.8M). Trước đó: 30/10/2026 (Phí CC T10 đã đóng 30/10; tiền mẹ 13M; thêm Timo; BIT hoàn bill 578,275). Trước đó: 27/10/2026 (Thêm VietinBank vào số dư đầu tháng; C07 có khoản cố định mạng 125k). Trước đó: 25/10/2026 (Vé Tết chiều đi đã trả 25/10; T11 chỉ còn chiều vào ~3tr nếu đặt). Trước đó: 24/10/2026 (Quỹ mẹ T11 đã trả trước 23/10; tiền mẹ nằm VCB). Trước đó: 22/10/2026 (Tạo mẫu sổ T11 theo hệ thống mới: 10 danh mục + budget, trả cho mình trước, tách thu hộ/chuyển nội bộ, khoản lớn, nợ)._

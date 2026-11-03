@@ -45,7 +45,7 @@ Việc duy nhất: THAM GIA ĐỦ BUỔI IMMERSION + ĐẮM CHÌM TIẾNG ANH (c
 ```
 Đích gần:  43,000,000 học phí Thạc sĩ năm 1 (đóng T12/2027) · năm 2: 47tr (~T12/2028)
 Đích xa:   2 tỷ (2031) - chỉ trông vào chốt lời W · nền an toàn từ lương ~0.75 tỷ
-Hiện tại:  22,219,540 tiền mặt thực tế (01/11; chốt sổ 31/10 là 22,254,505, đã trừ 13M tiền mẹ, đã trả vé Tết chiều đi, đã trả Shopee 1,827,637, đã nhận lương BIT T10, sạch phải thu) + 8M bot OKX - 2.8M nợ (TS ròng hoạt động: ~27.42tr; tổng ròng gồm Binance W 30M: ~57.42M; tiền tự do sạch nợ: ~19.42M)
+Hiện tại:  22,219,540 tiền mặt thực tế (01/11; chốt sổ 31/10 là 22,254,505, đã trừ 12.5M tiền mẹ, đã trả vé Tết chiều đi, đã trả Shopee 1,827,637, đã nhận lương BIT T10, sạch phải thu) + 8M bot OKX - 2.8M nợ (TS ròng hoạt động: ~27.42tr; tổng ròng gồm Binance W 30M: ~57.42M; tiền tự do sạch nợ: ~19.42M)
 Tích sản:  78,262 W trên Binance (vốn nạp 111.5M - 🔒 KHÓA VỊ THẾ, KHÔNG MUA THÊM, thị giá hiện ~30tr) - kèo "nổ hũ" target $0.70 (~715M) & $1.50 (~1.53 tỷ)
 Tiết kiệm: ~15-17tr/tháng (chi 8-10tr; có người yêu +2tr) · từ T02/2027 -3tr vì quỹ mẹ lên 5tr
 Dự kiến đủ 43tr: T12/2026 (cuối T11 sát mốc ~36.25–38.25tr; sớm hơn hạn đóng T12/2027 khoảng 1 năm)
@@ -136,7 +136,7 @@ TIẾT KIỆM:         ~15,400,000 - 17,400,000
 >    - Tiền tổng chuyển trả chủ nhà / điện nước: **KHÔNG tính toàn bộ vào chi tiêu cá nhân** (tránh đội chi phí ảo).
 >    - Hiếu chỉ ghi nhận đúng **1/4 phần thực tế (~2.64M)** vào chi tiêu thuần của bản thân.
 > 
-> 2. **Tiền của mẹ gửi nhờ giữ hộ trong tài khoản (Hiện là 13,000,000 VND / 13.0M nằm trọn 100% trong VCB):**
+> 2. **Tiền của mẹ gửi nhờ giữ hộ trong tài khoản (Hiện là 12,500,000 VND / 12.5M nằm trọn 100% trong VCB - 02/11 mẹ lấy 500k):**
 >    - Mẹ gửi nhờ giữ hộ trong tài khoản: **TUYỆT ĐỐI KHÔNG tính vào thu nhập**, cũng **KHÔNG tính vào tài sản của Hiếu**.
 >    - Luôn **trừ thẳng số tiền mẹ gửi nhờ ra khỏi số dư ngân hàng** để xác định chính xác số dư tiền mặt thực có.
 >    - Tiền mẹ hỗ trợ (như 2.5M tiền quân sự): Được trừ trực tiếp vào chi phí phát sinh, Hiếu chỉ ghi nhận phần mình tự chi.
@@ -148,7 +148,7 @@ TIẾT KIỆM:         ~15,400,000 - 17,400,000
 
 | Mốc       | Số tiền     | Ý nghĩa                                              |
 | --------- | ----------- | ---------------------------------------------------- |
-| 01/11/26  | 22,219,540  | Hiện tại (chốt sổ 31/10: 22,254,505; tiền mặt thực tế sau trừ 13M tiền mẹ, đã trả vé Tết chiều đi & Shopee 1.83M, đã nhận lương BIT T10) |
+| 01/11/26  | 22,219,540  | Hiện tại (chốt sổ 31/10: 22,254,505; tiền mặt thực tế sau trừ 12.5M tiền mẹ, đã trả vé Tết chiều đi & Shopee 1.83M, đã nhận lương BIT T10) |
 | T11/2026  | ~36.25-38.25tr| Tháng kiểm chứng chi ≤ 9.5tr · sát mốc 43tr (vé chiều vào nếu đặt: -3tr) |
 | T12/2026  | **~50.25-54.25tr**| ✅ Đủ học phí Thạc sĩ năm 1 · 🚧 chạm trần 50tr → mở đầu tư |
 | T09-T10/2027 | -         | 🎓 Nộp hồ sơ Thạc sĩ UIT (Đợt 2)                     |
@@ -219,4 +219,4 @@ planing/
 
 ---
 
-_Cập nhật: 01/11/2026 (Đối chiếu sao kê Timo 31/10 & 01/11: chốt sổ 31/10 tiền mặt 22,254,505, ngày 01/11 là 22,219,540, tiền tự do 19,419,540, Net Worth ~57.42M). Trước đó: 31/10/2026 (Thanh toán Shopee 1,827,637 qua VietinBank, nợ còn 2.8M). Trước đó: 30/10/2026 (Đóng phí CC; tiền mẹ 13M, Timo, BIT hoàn; đối chiếu 5 NH). Trước đó: 29/10/2026 (InBody 29/10/2026). Trước đó: 27/10/2026 (Nhận lương BIT 7M VietinBank). Trước đó: 25/10/2026 (Thêm dòng lương tháng 13 TMA ~17.6tr; trả vé Tết chiều đi 2.62tr). Trước đó: 24/10/2026 (Đồng bộ tài chính 24/10). Trước đó: 17/10/2026 (Gom Coach + Quỹ mẹ về 1 nguồn). Trước đó: 15/10/2026 (Chi thực tế 8-10tr/tháng; 2 tỷ chỉ trông vào chốt W; Hạn nộp chứng chỉ TOEIC 700+ cho TMA: 15/11/2027; TOEIC 700+ = điều kiện bắt buộc lên Senior TMA năm 2027; Chốt ngành: Thạc sĩ Khoa học máy tính; Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027). Trước đó: 12/10/2026 (V10 - Stress test toàn bộ plan: Điều chỉnh mục tiêu % mỡ M3 xuống 12-15% để tránh sụt test/burnout; Dời lịch cày TOEIC sang T02/2027 để không bị overload với Immersion; Nhấn mạnh việc tìm hiểu quy chế thi đầu vào Thạc sĩ.)_
+_Cập nhật: 02/11/2026 (Mẹ lấy 500k từ VCB 02/11 (chuyển HO THI NHA) → tiền mẹ giữ hộ còn 12,500,000). Trước đó: 01/11/2026 (Đối chiếu sao kê Timo 31/10 & 01/11: chốt sổ 31/10 tiền mặt 22,254,505, ngày 01/11 là 22,219,540, tiền tự do 19,419,540, Net Worth ~57.42M). Trước đó: 31/10/2026 (Thanh toán Shopee 1,827,637 qua VietinBank, nợ còn 2.8M). Trước đó: 30/10/2026 (Đóng phí CC; tiền mẹ 13M, Timo, BIT hoàn; đối chiếu 5 NH). Trước đó: 29/10/2026 (InBody 29/10/2026). Trước đó: 27/10/2026 (Nhận lương BIT 7M VietinBank). Trước đó: 25/10/2026 (Thêm dòng lương tháng 13 TMA ~17.6tr; trả vé Tết chiều đi 2.62tr). Trước đó: 24/10/2026 (Đồng bộ tài chính 24/10). Trước đó: 17/10/2026 (Gom Coach + Quỹ mẹ về 1 nguồn). Trước đó: 15/10/2026 (Chi thực tế 8-10tr/tháng; 2 tỷ chỉ trông vào chốt W; Hạn nộp chứng chỉ TOEIC 700+ cho TMA: 15/11/2027; TOEIC 700+ = điều kiện bắt buộc lên Senior TMA năm 2027; Chốt ngành: Thạc sĩ Khoa học máy tính; Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027). Trước đó: 12/10/2026 (V10 - Stress test toàn bộ plan: Điều chỉnh mục tiêu % mỡ M3 xuống 12-15% để tránh sụt test/burnout; Dời lịch cày TOEIC sang T02/2027 để không bị overload với Immersion; Nhấn mạnh việc tìm hiểu quy chế thi đầu vào Thạc sĩ.)_
