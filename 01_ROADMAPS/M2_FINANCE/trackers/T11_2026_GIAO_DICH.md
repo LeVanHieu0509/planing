@@ -26,7 +26,7 @@
 | Ngày  | Nguồn                                    | TK   | Số tiền | Ghi chú                            |
 | ----- | ---------------------------------------- | ---- | ------: | ---------------------------------- |
 | 01/11 | Lãi không kỳ hạn Timo (Interest Applied) | Timo |      35 | Lãi tháng 10 Timo trả đầu tháng 11 |
-| 05/11 | Lương TMA                                | BIDV |         | Cộng thẳng vào Két sắt BIDV        |
+| 05/11 | Lương TMA (đã gồm +1M Early Partial PA2026) | BIDV |         | New Total 18,750,000đ (net ~18.5M–18.8M) → Cộng thẳng vào Két sắt BIDV |
 |       | Lương BIT                                |      |         |                                    |
 |       | **Tổng thu**                             |      |  **35** |                                    |
 

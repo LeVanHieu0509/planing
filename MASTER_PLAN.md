@@ -31,7 +31,7 @@
 ```
 Đích:      Giao tiếp tự tin, phỏng vấn outsource được · TOEIC 700+ (BẮT BUỘC nộp TMA trước 15/11/2027 để lên Senior)
 Hiện tại:  TOEIC 535 (19/06/2026) · Đang theo học Tiếng Anh Immersion Level 3 (Khai giảng 20/10/2026)
-Chiến lược 3 tháng tới (Q4/2026 - T01/2027): 
+Chiến lược 3 tháng tới (Q4/2026 - T01/2027):
            🔥 ALL-IN 100% THỜI GIAN RẢNH VÀO TIẾNG ANH (Giao tiếp Immersion + Ngữ pháp Logic Infographic)
            - Đến 12/01/2027: Dồn thời gian rảnh (trừ tối T4 + tối CN để relax) cho hệ sinh thái Immersion L3 (Nghe podcast đi đường, Active Recall 15p, sơ đồ logic Infographic kéo dài câu, Voice Memo, hồi sinh 24 chủ đề L2 cũ).
            - Song song trong L3: tận dụng cả 3 buổi WFH tại nhà (Chiều T2 · Chiều T4 · Full ngày T6) để luyện Part 5, 6, 7 + Ngữ pháp Infographic (30-45p/buổi, không ép dậy sớm buổi sáng, chưa làm full test).
@@ -88,12 +88,12 @@ Chi tiết:  01_ROADMAPS/M2_FINANCE/QUY_ME_500TR.md · me/lifestyle/RELATIONSHIP
 
 ## 🧊 ĐANG ĐÓNG BĂNG
 
-| Việc            | Trạng thái                                      | Khi nào quay lại      |
-| --------------- | ----------------------------------------------- | --------------------- |
-| Miracle POS     | Chỉ fix bug khi user báo. Rã đông Q2/2027 | T02/2027 (xong tiếng Anh) |
-| TikTok/Discord  | Dừng hẳn (deal CollaNote huỷ)                   | Chưa xác định         |
-| QTKD            | Hoãn - học chung khi vào Thạc sĩ                | 2028                  |
-| Bot trading OKX | Dự án cá nhân · vốn 8tr đã nạp · không bơm thêm | Khi tiền mặt ≥ 50tr   |
+| Việc            | Trạng thái                                      | Khi nào quay lại          |
+| --------------- | ----------------------------------------------- | ------------------------- |
+| Miracle POS     | Chỉ fix bug khi user báo. Rã đông Q2/2027       | T02/2027 (xong tiếng Anh) |
+| TikTok/Discord  | Dừng hẳn (deal CollaNote huỷ)                   | Chưa xác định             |
+| QTKD            | Hoãn - học chung khi vào Thạc sĩ                | 2028                      |
+| Bot trading OKX | Dự án cá nhân · vốn 8tr đã nạp · không bơm thêm | Khi tiền mặt ≥ 50tr       |
 
 > ℹ️ **Plan này là plan CÁ NHÂN.** Công việc công ty không quản ở đây.
 
@@ -104,11 +104,11 @@ Chi tiết:  01_ROADMAPS/M2_FINANCE/QUY_ME_500TR.md · me/lifestyle/RELATIONSHIP
 ### Thu nhập / tháng
 
 ```
-Lương chính (2 nguồn):  24,500,000
+Lương chính (2 nguồn):  25,500,000   (TMA net ~18.5M sau Early Partial PA2026 +1M từ T10/2026 + BIT 7M)
 Gemini:                    700,000   (đã gồm 150k của Alex)
 Antigravity (net):         230,000
 ──────────────────────────────────
-TỔNG:                   25,430,000
+TỔNG:                   26,430,000
 ```
 
 ### Chi tiêu / tháng
@@ -130,29 +130,26 @@ TIẾT KIỆM:         ~15,400,000 - 17,400,000
 ```
 
 > ⚖️ **NGUYÊN TẮC KẾ TOÁN VÀNG (THU HỘ / CHI HỘ PHÒNG & TIỀN CỦA MẸ):**
-> 
+>
 > 1. **Dòng tiền phòng trọ (~10.5M - Thu hộ / Chi hộ):**
 >    - Tiền anh em phòng đóng chuyển vào tài khoản: **KHÔNG tính vào thu nhập cá nhân** (tránh ảo thu nhập).
 >    - Tiền tổng chuyển trả chủ nhà / điện nước: **KHÔNG tính toàn bộ vào chi tiêu cá nhân** (tránh đội chi phí ảo).
 >    - Hiếu chỉ ghi nhận đúng **1/4 phần thực tế (~2.64M)** vào chi tiêu thuần của bản thân.
-> 
 > 2. **Tiền của mẹ gửi nhờ giữ hộ trong tài khoản (Hiện là 12,500,000 VND / 12.5M nằm trọn 100% trong VCB - 02/11 mẹ lấy 500k):**
 >    - Mẹ gửi nhờ giữ hộ trong tài khoản: **TUYỆT ĐỐI KHÔNG tính vào thu nhập**, cũng **KHÔNG tính vào tài sản của Hiếu**.
 >    - Luôn **trừ thẳng số tiền mẹ gửi nhờ ra khỏi số dư ngân hàng** để xác định chính xác số dư tiền mặt thực có.
 >    - Tiền mẹ hỗ trợ (như 2.5M tiền quân sự): Được trừ trực tiếp vào chi phí phát sinh, Hiếu chỉ ghi nhận phần mình tự chi.
 >    - Quỹ tiết kiệm cho mẹ (2tr/tháng): Khoản gửi riêng cố định theo [QUY_ME_500TR.md](./01_ROADMAPS/M2_FINANCE/QUY_ME_500TR.md), không tính vào tài sản cá nhân của Hiếu.
 
-
-
 ### Lộ trình tiền mặt
 
-| Mốc       | Số tiền     | Ý nghĩa                                              |
-| --------- | ----------- | ---------------------------------------------------- |
-| 01/11/26  | 22,219,540  | Hiện tại (chốt sổ 31/10: 22,254,505; tiền mặt thực tế sau trừ 12.5M tiền mẹ, đã trả vé Tết chiều đi & Shopee 1.83M, đã nhận lương BIT T10) |
-| T11/2026  | ~36.25-38.25tr| Tháng kiểm chứng chi ≤ 9.5tr · sát mốc 43tr (vé chiều vào nếu đặt: -3tr) |
-| T12/2026  | **~50.25-54.25tr**| ✅ Đủ học phí Thạc sĩ năm 1 · 🚧 chạm trần 50tr → mở đầu tư |
-| T09-T10/2027 | -         | 🎓 Nộp hồ sơ Thạc sĩ UIT (Đợt 2)                     |
-| T12/2027  | -           | 🎓 Khai giảng, trả 43tr học phí năm 1                |
+| Mốc          | Số tiền            | Ý nghĩa                                                                                                                                  |
+| ------------ | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| 01/11/26     | 22,219,540         | Hiện tại (chốt sổ 31/10: 22,254,505; tiền mặt thực tế sau trừ 12.5M tiền mẹ, đã trả vé Tết chiều đi & Shopee 1.83M, đã nhận lương BIT T10) |
+| T11/2026     | ~36.25-38.25tr     | Tháng kiểm chứng chi ≤ 9.5tr · sát mốc 43tr (vé chiều vào nếu đặt: -3tr)                                                                 |
+| T12/2026     | **~50.25-54.25tr** | ✅ Đủ học phí Thạc sĩ năm 1 · 🚧 chạm trần 50tr → mở đầu tư                                                                              |
+| T09-T10/2027 | -                  | 🎓 Nộp hồ sơ Thạc sĩ UIT (Đợt 2)                                                                                                         |
+| T12/2027     | -                  | 🎓 Khai giảng, trả 43tr học phí năm 1                                                                                                    |
 
 Chi tiết: [01_ROADMAPS/M2_FINANCE/TAI_CHINH_2026_2028.md](./01_ROADMAPS/M2_FINANCE/TAI_CHINH_2026_2028.md) · [01_ROADMAPS/M2_FINANCE/DAU_TU.md](./01_ROADMAPS/M2_FINANCE/DAU_TU.md)
 
@@ -202,20 +199,20 @@ planing/
 
 ## 🔗 ĐƯỜNG DẪN NHANH
 
-| Cần gì                | Mở file                                                                          |
-| --------------------- | -------------------------------------------------------------------------------- |
-| Bản đồ tra cứu siêu tốc | [INDEX.md](./INDEX.md)                                                           |
-| Hôm nay làm gì        | [02_EXECUTION/sprints/S2.md](./02_EXECUTION/sprints/S2.md)                       |
-| Lịch 24h & Van xả     | [02_EXECUTION/DAILY_SCHEDULE.md](./02_EXECUTION/DAILY_SCHEDULE.md)               |
-| Luật chơi sprint      | [02_EXECUTION/SCRUM_FRAMEWORK.md](./02_EXECUTION/SCRUM_FRAMEWORK.md)             |
-| Mốc quý               | [02_EXECUTION/SPRINT_CALENDAR.md](./02_EXECUTION/SPRINT_CALENDAR.md)             |
-| Tiền                  | [01_ROADMAPS/M2_FINANCE/TAI_CHINH_2026_2028.md](./01_ROADMAPS/M2_FINANCE/TAI_CHINH_2026_2028.md) |
-| Đầu tư                | [01_ROADMAPS/M2_FINANCE/DAU_TU.md](./01_ROADMAPS/M2_FINANCE/DAU_TU.md)           |
-| Quỹ mẹ 500tr          | [01_ROADMAPS/M2_FINANCE/QUY_ME_500TR.md](./01_ROADMAPS/M2_FINANCE/QUY_ME_500TR.md) |
-| Bạn đời / gia đình    | [01_ROADMAPS/M5_RELATIONSHIPS/RELATIONSHIPS.md](./01_ROADMAPS/M5_RELATIONSHIPS/RELATIONSHIPS.md) |
-| Thạc sĩ UIT           | [01_ROADMAPS/M4_CAREER/master_uit/THAC_SI_UIT_2027.md](./01_ROADMAPS/M4_CAREER/master_uit/THAC_SI_UIT_2027.md) |
-| Tiếng Anh             | [01_ROADMAPS/M1_ENGLISH/communication/IMMERSION_ROADMAP.md](./01_ROADMAPS/M1_ENGLISH/communication/IMMERSION_ROADMAP.md) |
-| Khi nản / Cần định hướng | [00_CORE/HIEU_MINDSET.md](./00_CORE/HIEU_MINDSET.md) |
+| Cần gì                   | Mở file                                                                                                                  |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------ |
+| Bản đồ tra cứu siêu tốc  | [INDEX.md](./INDEX.md)                                                                                                   |
+| Hôm nay làm gì           | [02_EXECUTION/sprints/S2.md](./02_EXECUTION/sprints/S2.md)                                                               |
+| Lịch 24h & Van xả        | [02_EXECUTION/DAILY_SCHEDULE.md](./02_EXECUTION/DAILY_SCHEDULE.md)                                                       |
+| Luật chơi sprint         | [02_EXECUTION/SCRUM_FRAMEWORK.md](./02_EXECUTION/SCRUM_FRAMEWORK.md)                                                     |
+| Mốc quý                  | [02_EXECUTION/SPRINT_CALENDAR.md](./02_EXECUTION/SPRINT_CALENDAR.md)                                                     |
+| Tiền                     | [01_ROADMAPS/M2_FINANCE/TAI_CHINH_2026_2028.md](./01_ROADMAPS/M2_FINANCE/TAI_CHINH_2026_2028.md)                         |
+| Đầu tư                   | [01_ROADMAPS/M2_FINANCE/DAU_TU.md](./01_ROADMAPS/M2_FINANCE/DAU_TU.md)                                                   |
+| Quỹ mẹ 500tr             | [01_ROADMAPS/M2_FINANCE/QUY_ME_500TR.md](./01_ROADMAPS/M2_FINANCE/QUY_ME_500TR.md)                                       |
+| Bạn đời / gia đình       | [01_ROADMAPS/M5_RELATIONSHIPS/RELATIONSHIPS.md](./01_ROADMAPS/M5_RELATIONSHIPS/RELATIONSHIPS.md)                         |
+| Thạc sĩ UIT              | [01_ROADMAPS/M4_CAREER/master_uit/THAC_SI_UIT_2027.md](./01_ROADMAPS/M4_CAREER/master_uit/THAC_SI_UIT_2027.md)           |
+| Tiếng Anh                | [01_ROADMAPS/M1_ENGLISH/communication/IMMERSION_ROADMAP.md](./01_ROADMAPS/M1_ENGLISH/communication/IMMERSION_ROADMAP.md) |
+| Khi nản / Cần định hướng | [00_CORE/HIEU_MINDSET.md](./00_CORE/HIEU_MINDSET.md)                                                                     |
 
 ---
 
