@@ -5,6 +5,7 @@
 > **Lịch học:** **Chiều T7 + chiều CN** · tuần có cafe anh em (2 tuần/lần) → buổi T7 dời sang **T4** (ghé học trên đường từ văn phòng về nhà).  
 > **Học phí:** đóng theo chặng (~4tr/12 buổi) · **Chặng 1 đóng vào T02/2027** · trần dự trù 12tr.  
 > 📌 **Đây là nguồn thông tin DUY NHẤT về Coach** - các file khác chỉ link về đây.  
+> **Quyết định 05/11/2026:** đã cân nhắc học sớm từ 15/11/2026 để thi T01/2027, nhưng **giữ nguyên lịch bắt đầu cuối T02/2027** vì T11/2026–T01/2027 ưu tiên onboard dự án NBCU US. Báo Hân: dời về lịch cũ, nhờ giữ slot. Trọng tâm giáo án: **Reading (215) - Part 5/7**.  
 > **Hình thức:** Offline 1:1 trực tiếp (tập trung, sửa lỗi tức thì, không bị xao nhãng như online).
 
 ---
@@ -116,4 +117,4 @@ Hôm trước Hân bảo lên plan thiết kế riêng và mức giá cho mình 
 
 _Ghi chú hệ thống: Cập nhật ngày 17/10/2026. Thống nhất phương án may đo lộ trình riêng (Tailor-made Package) thay vì gộp các khóa lẻ thông thường. Kim Hân sẽ lên plan chi tiết và định giá riêng trọn gói cho Hiếu (trần ngân sách 12M = tối đa 3 chặng × ~4M, đóng từng chặng, chặng 1 vào T02/2027). Nhịp học: 2 buổi/tuần tại Lotte Mart Gò Vấp, trọng tâm bộ Hacker TOEIC, push từ vựng mỗi ngày, học sâu bản chất để đạt 700+ nộp TMA._
 
-_Cập nhật: 17/10/2026 (Gom thông tin Coach về 1 chỗ: lịch chiều T7 + chiều CN, xen kẽ T4; chặng 1 đóng T02/2027; thời gian 27/02 → 27/06/2027)._
+_Cập nhật: 05/11/2026 (Giữ lịch coach cuối T02/2027 (ưu tiên onboard NBCU), trọng tâm Reading). Trước đó: 17/10/2026 (Gom thông tin Coach về 1 chỗ: lịch chiều T7 + chiều CN, xen kẽ T4; chặng 1 đóng T02/2027; thời gian 27/02 → 27/06/2027)._

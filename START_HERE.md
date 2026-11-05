@@ -12,7 +12,7 @@
 ```
 TÊN:      Hiếu Lê Văn, 25 tuổi
 QUÊ:      Nghệ An · SỐNG: TP.HCM (Gò Vấp)
-NGHỀ:     Software Developer (4+ năm)
+NGHỀ:     Software Developer (4+ năm) · TMA + dự án NBCU US từ T11/2026 (3h tối, +3tr/tháng)
 SIDE:     Miracle POS (đang đóng băng - chỉ fix bug)
 
 ★ MỐC LỚN NHẤT SẮP TỚI:
@@ -108,6 +108,7 @@ T5  07:30 Lướt Chunks  →  19:15 ★ LỚP LEVEL 3 (SAIGON SPECIAL)  →  21
 T6  07:30 TOEIC P5/P7  →  09:00 REMOTE TMA + BIT song song  →  19:30 GYM  →  21:00 Tự do  →  22:30 Voice Memo/ChatGPT Voice  →  22:45 Đọc sách EN
 T7  07:30 GYM  →  15:00 Hồi sinh bài L2 (LEVEL_2_RETROSPECTIVE.md)  →  19:30 LÀM BIT  →  21:30 Tech Podcast EN
 
+🇺🇸 NBCU (TMA) = 3h buổi tối theo giờ khách Mỹ - giờ cụ thể chờ chốt (sẽ xếp lại BIT khi có)
 💻 BIT = 8 tiếng/tuần: 3h song song lúc remote (T2/T4 chiều, T6) + 5h tối (T2 · T3 · T5 1h, T7 2h) · tối T4/T6/CN không làm BIT
 🏠 TMA: T3 + T5 văn phòng · T2 + T4 sáng văn phòng, chiều remote tại nhà · T6 remote cả ngày
 CN  09:00 GYM  →  chiều tự do (nghỉ, bạn bè, cầu lông)  →  tối 🛋️ RELAX / đi chơi  (21:00 Check-in 15p cuối sprint)
@@ -170,6 +171,6 @@ Chính sách: Tối đa 4 buổi học bù (lớp 12 HV); bảo lưu 1 lần tro
 
 ---
 
-_Cập nhật: 02/11/2026 (Mẹ lấy 500k từ VCB 02/11 (chuyển HO THI NHA) → tiền mẹ giữ hộ còn 12,500,000). Trước đó: 01/11/2026 (Đối chiếu sao kê Timo 31/10 & 01/11: chốt sổ 31/10 tiền mặt ~22.25tr, ngày 01/11 ~22.22tr, Net Worth ~57.42tr). Trước đó: 31/10/2026 (Thanh toán Shopee 1,827,637 qua VietinBank, nợ còn 2.8tr). Trước đó: 30/10/2026 (Đóng phí CC; tiền mẹ 13M, Timo, BIT hoàn; đối chiếu 5 NH). Trước đó: 27/10/2026 (Nhận lương BIT 7M VietinBank). Trước đó: 26/10/2026 (Lớp Phản Xạ CN đã học xong, tạm bỏ khỏi lịch từ 26/10/2026). Trước đó: 25/10/2026 (Trả vé Tết chiều đi 2.62tr). Trước đó: 24/10/2026 (Đồng bộ tài chính 24/10: quỹ mẹ 10tr, đủ 43tr dời T12/2026). Trước đó: 15/10/2026 (Tối T4 + tối CN relax, TOEIC P5/P7 sáng T2+T6, chi 8-10tr/tháng; Hạn nộp chứng chỉ TOEIC 700+ cho TMA: 15/11/2027; TOEIC 700+ = điều kiện bắt buộc lên Senior TMA năm 2027; Chốt ngành: Thạc sĩ Khoa học máy tính; Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027; Đồng bộ số liệu giữa các file). Trước đó: 13/09/2026 (V8 - Chốt quỹ mẹ 500tr đến 2036, thêm link QUY_ME_500TR.md. Giữ nguyên:
+_Cập nhật: 05/11/2026 (Thêm dự án NBCU US (3h tối, +3tr/tháng phụ cấp)). Trước đó: 02/11/2026 (Mẹ lấy 500k từ VCB 02/11 (chuyển HO THI NHA) → tiền mẹ giữ hộ còn 12,500,000). Trước đó: 01/11/2026 (Đối chiếu sao kê Timo 31/10 & 01/11: chốt sổ 31/10 tiền mặt ~22.25tr, ngày 01/11 ~22.22tr, Net Worth ~57.42tr). Trước đó: 31/10/2026 (Thanh toán Shopee 1,827,637 qua VietinBank, nợ còn 2.8tr). Trước đó: 30/10/2026 (Đóng phí CC; tiền mẹ 13M, Timo, BIT hoàn; đối chiếu 5 NH). Trước đó: 27/10/2026 (Nhận lương BIT 7M VietinBank). Trước đó: 26/10/2026 (Lớp Phản Xạ CN đã học xong, tạm bỏ khỏi lịch từ 26/10/2026). Trước đó: 25/10/2026 (Trả vé Tết chiều đi 2.62tr). Trước đó: 24/10/2026 (Đồng bộ tài chính 24/10: quỹ mẹ 10tr, đủ 43tr dời T12/2026). Trước đó: 15/10/2026 (Tối T4 + tối CN relax, TOEIC P5/P7 sáng T2+T6, chi 8-10tr/tháng; Hạn nộp chứng chỉ TOEIC 700+ cho TMA: 15/11/2027; TOEIC 700+ = điều kiện bắt buộc lên Senior TMA năm 2027; Chốt ngành: Thạc sĩ Khoa học máy tính; Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027; Đồng bộ số liệu giữa các file). Trước đó: 13/09/2026 (V8 - Chốt quỹ mẹ 500tr đến 2036, thêm link QUY_ME_500TR.md. Giữ nguyên:
 5 mục tiêu thay 6 epic, bỏ task công ty, Sprint S1 = 12/10/2026, mốc 70tr + Thạc sĩ UIT T07/2027 (nay đổi thành 43tr, nộp hồ sơ T09-T10/2027),
 L3 đã thanh toán.)_

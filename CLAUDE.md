@@ -49,9 +49,10 @@ Hệ thống đã **BỎ HOÀN TOÀN** Story Points và Daily Standup. Mọi cô
 
 * **M1 · 🗣️ Tiếng Anh:**
   * Immersion L3 (SAIGON SPECIAL: 20/10/2026 → 12/01/2027, T3 + T5 tối; lớp Phản Xạ CN đã học xong, tạm bỏ khỏi lịch từ 26/10/2026).
-  * Luyện Part 5 + Part 7 sáng T2 và T6 (chưa cày full test ETS trong giai đoạn L3).
+  * Luyện Part 5 + Part 7 sáng T2 và T6 (chưa cày full test ETS trong giai đoạn L3). **Reading (215) là điểm yếu nhất** → giữ đều 20–30p/buổi, không bỏ trong giai đoạn onboard NBCU.
+  * **Quyết định 05/11/2026:** T11/2026 → T01/2027 ưu tiên onboard dự án NBCU (luyện nghe/nói với khách Mỹ mỗi ngày); KHÔNG học coach sớm từ 15/11. Coach + luyện đề giữ nguyên từ cuối T02/2027. Q4/2026–Q1/2027 PA mục English tính theo điểm 535 - chấp nhận.
   * T02/2027 → T06/2027: Cày đề ETS + Coach 1:1 Kim Hân (Gò Vấp, từ 27/02/2027). Lịch, học phí, giáo án: **chỉ xem tại** [COACH_1ON1_KIM_HAN_2027.md](./01_ROADMAPS/M1_ENGLISH/toeic/COACH_1ON1_KIM_HAN_2027.md).
-  * **Thi TOEIC Cuối T06/2027** $\rightarrow$ **BẮT BUỘC nộp bằng 700+ cho TMA trước 15/11/2027 để lên Senior**.
+  * **Thi TOEIC Cuối T06/2027** (dự phòng thi lại T08–T09/2027) $\rightarrow$ **BẮT BUỘC nộp bằng 700+ cho TMA trước 15/11/2027 để lên Senior**. Từ 2027 TMA tính điểm tiếng Anh theo quý, dùng bằng mới nhất.
 * **M2 · 💰 Tiền & Tài chính:**
   * Tích lũy **43,000,000 VNĐ học phí Thạc sĩ năm 1** (dự kiến cán mốc T12/2026, đóng T12/2027). Năm 2 (47M) tích luỹ trong 2028.
   * Chi tiêu sinh hoạt kiểm soát: **8,000,000 – 10,000,000 VNĐ/tháng**. Tiết kiệm: **~15–17tr/tháng**.
@@ -78,6 +79,7 @@ Hệ thống đã **BỎ HOÀN TOÀN** Story Points và Daily Standup. Mọi cô
   * **T3 + T5:** Lên văn phòng cả ngày (tối đi học lớp SAIGON SPECIAL 19:15-20:45).
   * **T2 + T4:** Sáng văn phòng (09:00-12:00) $\rightarrow$ Trưa về nhà $\rightarrow$ **Chiều remote tại nhà** (13:00-18:00).
   * **T6:** **Remote cả ngày tại nhà** (bỏ di chuyển, sáng có slot 75p TOEIC P5/P7 từ 07:30).
+* **Dự án NBCU US (TMA - nhận 04/11/2026):** dev Java/Node.js làm việc trực tiếp với khách Mỹ · chiếm ~50% effort (giảm tương ứng Swinburne & SC) · **3h buổi tối** overlap múi giờ khách · **phụ cấp làm trái múi giờ +3,000,000đ/tháng**. CV (2 bản) đã chuẩn bị 05/11. ⏳ Giờ tối cụ thể chờ chốt → khi có: xếp lại lịch BIT sang ban ngày, giữ tối T4/CN relax, kết thúc ≤ 23:00.
 * **Làm BIT (Remote Job 7M/tháng — Chuẩn 8h/tuần):**
   * **3h ban ngày (song song khi remote TMA):** T2 chiều (~45p) + T4 chiều (~45p) + T6 ban ngày (~1.5h chốt việc tuần).
   * **5h buổi tối:** T2 (1h: 21:30) · T3 (1h: 21:30) · T5 (1h: 21:30) · T7 (2h: 19:30-21:30).
