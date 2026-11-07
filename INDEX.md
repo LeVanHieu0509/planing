@@ -67,6 +67,7 @@ graph TD
 ### 🎓 M4 · SỰ NGHIỆP & HỌC THUẬT (SENIOR TMA 2027 & THẠC SĨ UIT)
 > *Đích đến: Senior Software Engineer TMA (2027) ➔ Thạc sĩ CS UIT (2027-2029) ➔ Giảng viên Đại học (2029).*
 * 🏛️ **Kế hoạch Thạc sĩ Khoa học Máy tính UIT:** [THAC_SI_UIT_2027.md](./01_ROADMAPS/M4_CAREER/master_uit/THAC_SI_UIT_2027.md)
+* 🇺🇸 **CV & Cẩm nang Phỏng vấn Dự án NBCU US (TMA):** [NBCU_INTERVIEW_PREP.md](./01_ROADMAPS/M4_CAREER/interview/NBCU_INTERVIEW_PREP.md) | [NBCU_FAKE_INTERVIEW_VOICE.md](./01_ROADMAPS/M4_CAREER/interview/NBCU_FAKE_INTERVIEW_VOICE.md) | [JAVA_SPRING_VS_NESTJS_MASTER.md](./01_ROADMAPS/M4_CAREER/interview/JAVA_SPRING_VS_NESTJS_MASTER.md) | [CV_LE_VAN_HIEU_TMA_2026.md](./01_ROADMAPS/M4_CAREER/interview/CV_LE_VAN_HIEU_TMA_2026.md)
 * 🏢 **Tài liệu & Dự án tại TMA Solutions:** [01_ROADMAPS/M4_CAREER/tma/](./01_ROADMAPS/M4_CAREER/tma/)
 * 🗺️ **Roadmap Chuyên Môn Kỹ Thuật:**
   * Flutter Master & System Design: [roadmapsh_flutter.md](./01_ROADMAPS/M4_CAREER/tech_roadmaps/roadmapsh_flutter.md) | [eduone_flutter_system_design.md](./01_ROADMAPS/M4_CAREER/tech_roadmaps/eduone_flutter_system_design.md)

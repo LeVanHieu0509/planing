@@ -80,7 +80,8 @@ Hệ thống đã **BỎ HOÀN TOÀN** Story Points và Daily Standup. Mọi cô
   * **T3 + T5:** Lên văn phòng cả ngày
   * **T2 + T4:** Sáng văn phòng (09:00-12:00) $\rightarrow$ Trưa về nhà $\rightarrow$ **Chiều remote tại nhà** (13:00-18:00).
   * **T6:** **Remote cả ngày tại nhà** (bỏ di chuyển, sáng có slot 75p TOEIC P5/P7 từ 07:30).
-* **Dự án NBCU US (TMA - nhận 04/11/2026):** dev Java/Node.js làm việc trực tiếp với khách Mỹ · chiếm ~50% effort (giảm tương ứng Swinburne & SC) · **ca tối 22:30–01:30 (T2–T6, dự kiến - 30p đầu bên US check email rồi gửi việc)** · **phụ cấp làm trái múi giờ +3,000,000đ/tháng**. CV (2 bản) đã chuẩn bị 05/11. ⏳ Xác nhận lại giờ & ngày khi onboard.
+* **Dự án NBCU US (TMA - nhận 04/11/2026):** dev Java/Node.js làm việc trực tiếp với khách Mỹ · chiếm ~50% effort (giảm tương ứng Swinburne & SC) · **ca tối 22:30–01:30 (T2–T6, dự kiến - 30p đầu bên US check email rồi gửi việc)** · **phụ cấp làm trái múi giờ +3,000,000đ/tháng**.
+  * **Tiến độ hiện tại (06–07/11/2026):** Đã gửi 2 bản CV qua email (05/11). Chị Nga đã đưa Bảo vào tiếp nhận mảng Web thay Hiếu; từ tuần `09/11/2026` Hiếu rút mảng Web, chỉ làm **50% Mobile** và được dành **50% giờ hành chính TMA (~4h/ngày)** để upskill Tech + luyện phỏng vấn Tiếng Anh (dự kiến khách phỏng vấn trong 1–2 tuần tới, cẩm nang ôn tập tại [NBCU_INTERVIEW_PREP.md](./01_ROADMAPS/M4_CAREER/interview/NBCU_INTERVIEW_PREP.md)). ⏳ Xác nhận lại giờ & ngày ca tối khi chính thức onboard.
 * **Làm BIT (Remote Job 7M/tháng — Chuẩn 8h/tuần):**
   * **Từ khi onboard NBCU: chuyển TOÀN BỘ 8h BIT sang buổi chiều** (~1.5h/chiều T2–T6, khi remote TMA) · **không làm BIT buổi tối nữa** · T7 chiều (16:30-18:00) làm bù nếu thiếu giờ.
   * _(Lịch cũ trước NBCU)_ **3h ban ngày (song song khi remote TMA):** T2 chiều (~45p) + T4 chiều (~45p) + T6 ban ngày (~1.5h chốt việc tuần).

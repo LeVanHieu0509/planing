@@ -20,7 +20,7 @@ Experience using GitHub Copilot, Claude Code, Codex, Antigravity
 
 | Cột trái (Left Column)                                                                                                                                                                                                                                                       | Cột phải (Right Column)                                                                                                                                                          |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Programming Languages**<br>• Java<br>• JavaScript / TypeScript<br>• Dart (Flutter)<br>• Python (Basic)                                                                                                                                                                     | **Databases & Caching**<br>• PostgreSQL<br>• Microsoft SQL Server<br>• MongoDB<br>• Redis                                                                                        |
+| **Programming Languages**<br>• Java<br>• JavaScript / TypeScript<br>• Dart (Flutter)<br>• Python                                                                                                                                                                             | **Databases & Caching**<br>• PostgreSQL<br>• Microsoft SQL Server<br>• MongoDB<br>• Redis                                                                                        |
 | **Frameworks & Libraries**<br>• Spring Boot<br>• Node.js, NestJS & Express.js<br>• RESTful APIs<br>• Strapi                                                                                                                                                                  | **DevOps & Infrastructure**<br>• Docker<br>• GitLab Pipelines                                                                                                                    |
 | **Frontend**<br>• ReactJS<br>• HTML5, CSS3 / SCSS<br>• Material UI, Bootstrap, Tailwind CSS                                                                                                                                                                                  | **Testing**<br>• JUnit<br>• Jest, Vitest, Cypress, Playwright                                                                                                                    |
 | **Architecture & Engineering**<br>• Microservices Architecture<br>• Monolithic & Multi-tenant Systems<br>• Asynchronous Programming<br>• Object-Oriented Programming<br>• SOLID Principles & Design Patterns<br>• Data Modeling, Performance Optimization & Code Refactoring | **Development Tools & Methodologies**<br>• Git, GitLab, Bitbucket<br>• Agile / Scrum<br><br>**AI Coding Tools**<br>• Claude Code<br>• Antigravity<br>• GitHub Copilot<br>• Codex |
@@ -43,6 +43,7 @@ The system includes a responsive web portal, cross-platform mobile applications 
 - Developed backend RESTful APIs using Node.js and Strapi consumed by both web and mobile applications.
 - Built and updated responsive web pages (ReactJS) and cross-platform mobile application features (Flutter).
 - Implemented interactive support chat interfaces and assessment-based content recommendation workflows.
+- Leveraged AI coding tools (Claude Code, Antigravity, GitHub Copilot, Codex) to accelerate feature development, code refactoring, and automated test creation.
 - Worked closely with the Product team and QA engineers to verify features and fix customer-reported bugs.
 
 **Technologies**
@@ -50,7 +51,7 @@ The system includes a responsive web portal, cross-platform mobile applications 
 - **Backend:** Node.js, Express.js, Strapi, RESTful APIs
 - **Frontend & Mobile:** ReactJS, TypeScript, Tailwind CSS, Flutter (iOS & Android)
 - **Database:** PostgreSQL, Redis
-- **Development & Tools:** Docker, GitLab, GitLab Pipelines, Jest, Playwright, Agile / Scrum
+- **Development & Tools:** Docker, GitLab, GitLab Pipelines, Jest, Playwright, Claude Code, Antigravity, GitHub Copilot, Codex, Agile / Scrum
 
 ---
 
@@ -68,14 +69,14 @@ The platform provides a centralized user portal for managing background task wor
 - Developed backend services and RESTful APIs using Python and Node.js (NestJS) to publish course catalogs, personalized learning paths, and learner profile data.
 - Built a containerized ReactJS User Portal for triggering automated course-generation workflows, tracking job statuses with failure-retry controls, and viewing learning analytics.
 - Implemented interactive course recommendation and advisor views within the LMS to dynamically filter and suggest courses based on student profiles.
-- Wrote automated tests and resolved integration issues across services to ensure reliable system delivery.
+- Wrote automated tests and leveraged AI coding tools (Claude Code, GitHub Copilot) to accelerate debugging and ensure reliable system delivery.
 
 **Technologies**
 
 - **Backend:** Python, Node.js, NestJS, Express.js, RESTful APIs
 - **Frontend:** ReactJS, TypeScript, HTML5, CSS3 / SCSS, Tailwind CSS
 - **Database:** PostgreSQL, Redis
-- **Development & Tools:** Docker, GitLab, GitLab Pipelines, Agile / Scrum
+- **Development & Tools:** Docker, GitLab, GitLab Pipelines, Claude Code, GitHub Copilot, Agile / Scrum
 
 ---
 
@@ -91,7 +92,7 @@ The platform combines learning management (LMS), a dynamic question bank and onl
 
 - Developed new features from requirement clarification through design, estimation, documentation, and implementation.
 - Refactored and generalized existing modules to support multi-tenant architecture and multi-language localization.
-- Designed and implemented shared backend services and RESTful APIs.
+- Designed and implemented shared backend services and RESTful APIs using Java (Spring Boot) and Node.js (NestJS, Express.js).
 - Built and maintained frontend interfaces for online courses, question banks, and examination workflows.
 - Maintained the product by resolving internal defects and preparing data for customer trials.
 - Performed code reviews, provided technical support to team members, and guided new developers joining the team.
@@ -103,7 +104,7 @@ The platform combines learning management (LMS), a dynamic question bank and onl
 - **Frontend:** ReactJS, TypeScript, HTML5, CSS3 / SCSS, Material UI, Tailwind CSS
 - **Architecture:** Microservices Architecture
 - **Database:** PostgreSQL, MongoDB, Redis
-- **Development & Tools:** Docker, GitLab, GitLab Pipelines, JUnit, Jest, Agile / Scrum
+- **Development & Tools:** Docker, GitLab, GitLab Pipelines, JUnit, Jest, GitHub Copilot, Agile / Scrum
 
 ---
 
@@ -137,5 +138,5 @@ The system helps organizations manage lead conversion, student enrollment, class
 
 ## EDUCATION
 
-**HCM City University of Foreign Languages and Information Technology (2019-2023)**
+**HCM City University of Foreign Languages and Information Technology (2017-2021)**
 Bachelor of Software Engineering
