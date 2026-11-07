@@ -67,6 +67,7 @@
 ---
 
 #### 🟢 Buổi 2 · Thứ Năm 22/10/2026
+> 📖 **Bài ôn tập đầy đủ:** [l3_lessons/LESSON_02_IF_STRANDED.md](./l3_lessons/LESSON_02_IF_STRANDED.md)
 - **Chủ đề (Topic):** **IF… - Câu điều kiện & tình huống giả định** (conditional / hypothetical situations) + trò chơi nhóm **STRANDED** (mắc kẹt trên đảo hoang)
 - **Ngữ pháp trọng tâm:** câu điều kiện loại 2 - `If + S + V2/ed (were/could/had)..., S + would + V`
   - _If you **could** travel anywhere, where **would** you go?_ · _If you **were** an animal, what **would** you be?_
@@ -137,6 +138,59 @@
 
 > _(Lớp Phản Xạ CN đã hoàn tất khóa tặng kèm vào 25/10/2026 — từ 26/10 xả trực tiếp từ vựng trong lớp L3 tối T3/T5)_
 
+### 🌟 TUẦN 3 (02/11 → 08/11/2026)
+
+#### 🟢 Buổi 5 · Thứ Ba 03/11/2026
+> 📖 **Bài ôn tập đầy đủ:** [l3_lessons/LESSON_05_MOOD.md](./l3_lessons/LESSON_05_MOOD.md)
+- **Chủ đề (Topic):** **MOOD - Cảm xúc & tâm trạng** (Mood is a temporary state of mind, or feeling)
+- **Hỏi & trả lời về tâm trạng:**
+  - Hỏi: _"How are you feeling?"_ · _"How are you doing today?"_
+  - Trả lời: _"I'm feeling ___."_ · _"I'm **in** a good/bad mood."_
+- **Từ thường → từ mạnh hơn (nói "rất…" bằng 1 từ):**
+
+| Thường | Mạnh hơn | Nghĩa |
+| ------ | -------- | ----- |
+| Good | **Great** | rất tốt |
+| Bad | **Terrible** | rất tệ |
+| Scared | **Horrified** | kinh hãi |
+| Angry | **Furious** | giận điên |
+| Tired | **Exhausted** | kiệt sức |
+| Happy | **Amazing** | tuyệt vời |
+| Sad | **Miserable** | khổ sở |
+| Surprised | **Shocked** | sốc |
+
+- **Từ cảm xúc thêm:** Excited (háo hức) · **Annoyed** (bực, phiền) · **Anxious** (lo lắng) · Energetic (tràn năng lượng) · **Jealous** (ghen tị) · **Embarrassed** (xấu hổ)
+- **20 câu hỏi trong handout (tự luyện nói):**
+  - _How do you feel when…_ 1. stuck in a traffic jam · 2. stopped by the police · 3. you drink too much · 4. listen to a romantic song · 5. can't sleep · 6. neighbors sing karaoke · 7. see a handsome man · 8. see a beautiful woman · 9. there is a thunderstorm · 10. the WiFi doesn't work · 11. someone doesn't reply to your text message · 12. you come to Tieng Anh Nghe Noi
+  - _How would you feel if…_ 13. woke up as the opposite sex · 14. best friend said he/she was in love with you · 15. found a wallet with 20 million VND · 16. ___ asked you to marry him/her · 17. boyfriend/girlfriend cheated on you · 18. doctor said one month to live · 19. parents didn't like the person you love · 20. became fluent in English
+- **3 - 5 Cụm từ đắt giá (Active Chunks):**
+  1. `I'm in a good/bad mood` - mình đang vui / không vui
+  2. `I feel exhausted after a long day` - kiệt sức sau ngày dài
+  3. `It drives me crazy when…` - mình phát điên khi…
+  4. `I get anxious when…` - mình lo lắng khi…
+  5. `I'd be over the moon if…` - mình sẽ vui như điên nếu…
+- **🎤 Câu trả lời mẫu (gắn với đời Hiếu):**
+  1. **How do you feel when someone doesn't reply to your text message?**
+     > _"Honestly, I used to feel **anxious** and kept checking my phone. Now I just stay calm **because** I know people are busy, **which means that** I focus on my own work instead."_
+  2. **How do you feel when you can't sleep?**
+     > _"I feel **exhausted** the next day, **especially when** I have to work with clients in the evening. That's why I try to keep a fixed sleep schedule."_
+  3. **How do you feel when the WiFi doesn't work?**
+     > _"I get really **annoyed**, **because** I'm a software engineer, so no WiFi means no work at all!"_
+  4. **How would you feel if you became fluent in English?**
+     > _"I'd be **over the moon**! I could talk to foreign clients confidently, get promoted to senior, and maybe teach at a university one day."_
+  5. **How would you feel if you found a wallet with 20 million VND?**
+     > _"I'd feel **shocked** at first, but I would return it to the owner, **because** I'd feel **terrible** if I lost that much money myself."_
+- **Câu dài thực chiến (3-Tier Sentence):**
+  > _"These days I'm usually **in a good mood** **because** my work and English classes are going well, **which means that** I feel more **energetic**, **especially when** I sleep on a fixed schedule."_
+- **Voice Memo / ChatGPT Voice (T6 06/11):** ☐ Trả lời 3 câu bất kỳ trong 20 câu bằng từ "mạnh hơn"
+
+#### 🟢 Buổi 6 · Thứ Năm 05/11/2026
+> 📖 **Bài ôn tập đầy đủ:** [l3_lessons/LESSON_06_NATIVE_SPEAKER_PHRASES.md](./l3_lessons/LESSON_06_NATIVE_SPEAKER_PHRASES.md)
+- **Chủ đề (Topic):** **NATIVE SPEAKER PHRASES** - 12 cụm từ bản xứ dùng hằng ngày
+- **Active Chunks:** `Play it by ear` · `Do me a favor` · `I'm dying to…` · `Makes sense` · `The more the merrier`
+- **Câu dài thực chiến:** _"For work I plan everything carefully, **but** on weekends I like to play it by ear, **which means that** I can relax and enjoy surprises."_
+- **Voice Memo / ChatGPT Voice (T2 09/11):** ☐
+
 ---
 
 ### 🌟 TEMPLATE MẪU DÙNG CHO CÁC TUẦN TIẾP THEO
@@ -161,4 +215,4 @@
 
 ---
 
-_Cập nhật: 31/10/2026 (Bỏ mục Phản Xạ CN từ 26/10, trỏ link sang Sprint S2). Trước đó: 30/10/2026 (Ghi buổi 2 - chủ đề IF (câu điều kiện loại 2) + trò chơi STRANDED). Trước đó: 15/10/2026 (Voice Memo/ChatGPT Voice chuyển sang tối T2 + T6; tối T4 để relax)._
+_Cập nhật: 05/11/2026 (Ghi buổi 6 - Native Speaker Phrases). Trước đó: 05/11/2026 (Link bài ôn tập buổi 2 & 5 trong l3_lessons/). Trước đó: 05/11/2026 (Ghi buổi 5 - chủ đề MOOD: từ cảm xúc mạnh, 20 câu hỏi, câu trả lời mẫu). Trước đó: 31/10/2026 (Bỏ mục Phản Xạ CN từ 26/10, trỏ link sang Sprint S2). Trước đó: 30/10/2026 (Ghi buổi 2 - chủ đề IF (câu điều kiện loại 2) + trò chơi STRANDED). Trước đó: 15/10/2026 (Voice Memo/ChatGPT Voice chuyển sang tối T2 + T6; tối T4 để relax)._

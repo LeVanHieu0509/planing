@@ -38,7 +38,7 @@ graph TD
 > *Đích đến: Thi cuối T06/2027 · Hạn chót nộp TMA: 15/11/2027 để lên Senior.*
 * 🗺️ **Lộ trình tổng quan:** [TOEIC_ROADMAP.md](./01_ROADMAPS/M1_ENGLISH/toeic/TOEIC_ROADMAP.md)
 * 🎓 **Coach 1:1 Kim Hân 2027 (955 TOEIC):** [COACH_1ON1_KIM_HAN_2027.md](./01_ROADMAPS/M1_ENGLISH/toeic/COACH_1ON1_KIM_HAN_2027.md)
-* 🗣️ **Giao tiếp Immersion Level 3 (Khai giảng 20/10):** [IMMERSION_ROADMAP.md](./01_ROADMAPS/M1_ENGLISH/communication/IMMERSION_ROADMAP.md) | [LEVEL_3_TOPIC_LOG.md](./01_ROADMAPS/M1_ENGLISH/communication/LEVEL_3_TOPIC_LOG.md)
+* 🗣️ **Giao tiếp Immersion Level 3 (Khai giảng 20/10):** [IMMERSION_ROADMAP.md](./01_ROADMAPS/M1_ENGLISH/communication/IMMERSION_ROADMAP.md) | [LEVEL_3_TOPIC_LOG.md](./01_ROADMAPS/M1_ENGLISH/communication/LEVEL_3_TOPIC_LOG.md) | Bài ôn L3: [Buổi 2 - IF & Stranded](./01_ROADMAPS/M1_ENGLISH/communication/l3_lessons/LESSON_02_IF_STRANDED.md) · [Buổi 5 - Mood](./01_ROADMAPS/M1_ENGLISH/communication/l3_lessons/LESSON_05_MOOD.md) · [Buổi 6 - Native Speaker Phrases](./01_ROADMAPS/M1_ENGLISH/communication/l3_lessons/LESSON_06_NATIVE_SPEAKER_PHRASES.md)
 * 🛡️ **Chiến lược Helen English:** [HELEN_ENGLISH_STRATEGY.md](./01_ROADMAPS/M1_ENGLISH/toeic/HELEN_ENGLISH_STRATEGY.md)
 * 📝 **Sổ tay lỗi sai & Từ vựng:** [TOEIC_ERROR_MASTER.md](./01_ROADMAPS/M1_ENGLISH/toeic/TOEIC_ERROR_MASTER.md) | [VOCABULARY_52_WEEKS.md](./01_ROADMAPS/M1_ENGLISH/toeic/VOCABULARY_52_WEEKS.md)
 * 🏋️ **Khu vực luyện thi & Mock Tests:** [practice/](./01_ROADMAPS/M1_ENGLISH/practice/) (ETS Grinding Plan, Mock tests, Speaking/Listening logs)
@@ -144,4 +144,4 @@ graph TD
 
 _Hiếu Life OS v2.0 — Tái cấu trúc ngày 17/10/2026. Tối ưu hóa 100% cho tìm kiếm nhanh, liên kết chặt chẽ và thực thi kỷ luật._
 
-_Cập nhật: 31/10/2026 (Chuyển Sprint hiện tại sang S2 · 26/10 → 08/11/2026 và sổ giao dịch sang T11_2026_GIAO_DICH.md). Trước đó: 24/10/2026 (Thêm IDEAS_PARKING.md; đồng bộ mốc 43tr → T12/2026, quỹ mẹ 10tr)._
+_Cập nhật: 05/11/2026 (Thêm link bài ôn L3). Trước đó: 31/10/2026 (Chuyển Sprint hiện tại sang S2 · 26/10 → 08/11/2026 và sổ giao dịch sang T11_2026_GIAO_DICH.md). Trước đó: 24/10/2026 (Thêm IDEAS_PARKING.md; đồng bộ mốc 43tr → T12/2026, quỹ mẹ 10tr)._

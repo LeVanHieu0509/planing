@@ -36,8 +36,8 @@ AI có nghĩa vụ **"TUÝT CÒI" VÀ TỪ CHỐI NGAY LẬP TỨC** nếu Hiế
 | # | Vùng cấm | Quy tắc bất khả xâm phạm |
 | - | :--- | :--- |
 | 🚫 | **1. CẤM sửa plan trong Sprint** | Trong 2 tuần của Sprint, file Sprint chỉ mở ra cuối ngày để tick `✅` hoặc `☐`. Cấm ngồi tái cấu trúc, cấm vẽ thêm task, cấm đổi quy trình giữa chừng. Thời gian rảnh là để LÀM. |
-| 🚫 | **2. CẤM xâm phạm 2 van xả stress** | • **Tối Thứ 4 (sau đá banh):** RELAX 100% (không BIT, không học).<br>• **Tối Chủ Nhật:** RELAX 100% (chỉ dành 15p check-in lúc 21:00 ở tuần cuối sprint). |
-| 🚫 | **3. CẤM thức khuya sau 23:30** | Mọi lịch trình làm việc và học tập phải kết thúc trước 22:45. Dành 30p đọc sách tiếng Anh wind down, 23:30 tắt đèn ngủ. Không có ngoại lệ "cố nốt task". |
+| 🚫 | **2. CẤM xâm phạm 2 van xả stress** | • **Tối Thứ 4 (sau đá banh):** RELAX 100% (không BIT, không học). Nếu ca NBCU bắt buộc rơi vào tối T4: xin nghỉ ca T4 trước; không được thì chỉ làm ca NBCU, tuyệt đối không BIT/học.<br>• **Tối Chủ Nhật:** RELAX 100%, không ca NBCU (chỉ dành 15p check-in lúc 21:00 ở tuần cuối sprint). |
+| 🚫 | **3. CẤM phá giờ ngủ cố định** | • **Ngày có ca NBCU (T2–T6):** ca **22:30–01:30** → tắt máy, **ngủ 02:00–09:30** (đủ 7.5h, giờ cố định). Hết ca là ngủ, không lướt điện thoại.<br>• **Ngày không có ca (T7, CN, ngày nghỉ):** kết thúc mọi việc trước 22:45, **23:30 tắt đèn ngủ**.<br>Không có ngoại lệ "cố nốt task" sau giờ ngủ cố định. Sau 4 tuần tự kiểm tra InBody / năng suất TMA / L3 - đi xuống thì xin đổi khung 20:00–23:00 hoặc giảm số tối. |
 | 🚫 | **4. CẤM đầu tư khi Tiền mặt < 50M** | Tuyệt đối không bơm thêm tiền vào Binance, OKX hay Bot Trading cho đến khi Tiền mặt thực tế $\ge$ 50,000,000 VNĐ. Bảo vệ an toàn tuyệt đối cho quỹ học phí Thạc sĩ 43M. |
 | 🚫 | **5. CẤM cắt hoặc hoãn Quỹ mẹ 500tr** | Đúng ngày 11 hàng tháng chuyển 2,000,000 VNĐ (từ T02/2027 nâng lên 5,000,000 VNĐ) vào quỹ mẹ. Luôn là khoản đầu tiên chuyển đi mỗi tháng. |
 
@@ -60,7 +60,7 @@ Hệ thống đã **BỎ HOÀN TOÀN** Story Points và Daily Standup. Mọi cô
   * Đích xa 2 Tỷ (2031): Nền an toàn từ lương (~0.75 tỷ), đột phá 2 tỷ phụ thuộc cú chốt lời danh mục **78,262 W** (Target 1: $0.70 thu ~715M; Target 2: $1.50 thu ~1.53 tỷ).
 * **M3 · 💪 Sức khỏe:**
   * Mục tiêu: 72–75kg, cơ 35–38kg, **% mỡ 12–15%** (bỏ target 7-10% vì dễ burnout). Đo InBody 1 lần/tháng.
-  * Gym 4 buổi/tuần: T2 tối, T6 tối, T7 sáng, CN sáng (09:00-10:00).
+  * Gym 4 buổi/tuần: **T2 + T6 18:00–19:00** (trước ca NBCU), T7 sáng, CN sáng (09:00-10:00).
 * **M4 · 🎓 Học vấn & Nghề nghiệp:**
   * **Thạc sĩ Khoa học máy tính — UIT (ĐHQG TP.HCM)** (Đã chốt, bỏ ngành CNTT Quản lý và MBA cũ).
   * Mốc: Nộp hồ sơ T09–T10/2027 (Đợt 2), phỏng vấn T11/2027, khai giảng & đóng 43tr năm 1 T12/2027.
@@ -76,13 +76,15 @@ Hệ thống đã **BỎ HOÀN TOÀN** Story Points và Daily Standup. Mọi cô
 ## 📅 4. PHÂN BỔ LỊCH LÀM VIỆC & TASK BIT (8 TIẾNG/TUẦN)
 
 * **Làm TMA Solutions:**
-  * **T3 + T5:** Lên văn phòng cả ngày (tối đi học lớp SAIGON SPECIAL 19:15-20:45).
+  * **Từ khi onboard NBCU:** bắt đầu TMA **10:30 (remote) / 11:00 (lên văn phòng)** vì ngủ 02:00–09:30 - ⏳ cần anh Đạt duyệt khung giờ có mặt. Lịch văn phòng/remote cũ bên dưới giữ đến khi chốt.
+  * **T3 + T5:** Lên văn phòng cả ngày
   * **T2 + T4:** Sáng văn phòng (09:00-12:00) $\rightarrow$ Trưa về nhà $\rightarrow$ **Chiều remote tại nhà** (13:00-18:00).
   * **T6:** **Remote cả ngày tại nhà** (bỏ di chuyển, sáng có slot 75p TOEIC P5/P7 từ 07:30).
-* **Dự án NBCU US (TMA - nhận 04/11/2026):** dev Java/Node.js làm việc trực tiếp với khách Mỹ · chiếm ~50% effort (giảm tương ứng Swinburne & SC) · **3h buổi tối** overlap múi giờ khách · **phụ cấp làm trái múi giờ +3,000,000đ/tháng**. CV (2 bản) đã chuẩn bị 05/11. ⏳ Giờ tối cụ thể chờ chốt → khi có: xếp lại lịch BIT sang ban ngày, giữ tối T4/CN relax, kết thúc ≤ 23:00.
+* **Dự án NBCU US (TMA - nhận 04/11/2026):** dev Java/Node.js làm việc trực tiếp với khách Mỹ · chiếm ~50% effort (giảm tương ứng Swinburne & SC) · **ca tối 22:30–01:30 (T2–T6, dự kiến - 30p đầu bên US check email rồi gửi việc)** · **phụ cấp làm trái múi giờ +3,000,000đ/tháng**. CV (2 bản) đã chuẩn bị 05/11. ⏳ Xác nhận lại giờ & ngày khi onboard.
 * **Làm BIT (Remote Job 7M/tháng — Chuẩn 8h/tuần):**
-  * **3h ban ngày (song song khi remote TMA):** T2 chiều (~45p) + T4 chiều (~45p) + T6 ban ngày (~1.5h chốt việc tuần).
-  * **5h buổi tối:** T2 (1h: 21:30) · T3 (1h: 21:30) · T5 (1h: 21:30) · T7 (2h: 19:30-21:30).
+  * **Từ khi onboard NBCU: chuyển TOÀN BỘ 8h BIT sang buổi chiều** (~1.5h/chiều T2–T6, khi remote TMA) · **không làm BIT buổi tối nữa** · T7 chiều (16:30-18:00) làm bù nếu thiếu giờ.
+  * _(Lịch cũ trước NBCU)_ **3h ban ngày (song song khi remote TMA):** T2 chiều (~45p) + T4 chiều (~45p) + T6 ban ngày (~1.5h chốt việc tuần).
+  * _(Lịch cũ trước NBCU)_ **5h buổi tối:** T2 (1h: 21:30) · T3 (1h: 21:30) · T5 (1h: 21:30) · T7 (2h: 19:30-21:30).
   * *Bù trừ:* Nếu TMA bận đột xuất, bù vào chiều T7 (16:30-18:00). Tối T4, T6, CN tuyệt đối không xếp BIT.
 
 ---
@@ -112,4 +114,4 @@ Hệ thống đã **BỎ HOÀN TOÀN** Story Points và Daily Standup. Mọi cô
 
 * **Thẳng thắn, sắc bén, không sáo rỗng:** Nói thẳng vào điểm cốt lõi, không động viên vu vơ.
 * **Tập trung vào Hành Động & Kỷ Luật:** Khi Hiếu phân vân hoặc hỏi ý kiến, luôn hướng Hiếu về việc **ra quyết định nhanh và bắt tay vào làm ngay**, thay vì kéo dài cuộc tranh luận lý thuyết.
-* **Bảo vệ ranh giới năng lượng của Hiếu:** Nếu thấy Hiếu thức khuya hoặc có ý định cày xuyên đêm, hãy nhắc nhở Hiếu đi ngủ ngay lập tức lúc 23:30.
+* **Bảo vệ ranh giới năng lượng của Hiếu:** Nhắc Hiếu đi ngủ đúng **giờ cố định**: 02:00 ngày có ca NBCU, 23:30 ngày không có ca. Không để Hiếu thức quá giờ để "cố nốt task".

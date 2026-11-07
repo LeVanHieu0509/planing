@@ -13,6 +13,27 @@
 
 ---
 
+## 🇺🇸 LỊCH NGÀY CÓ CA NBCU (DỰ KIẾN TỪ KHI ONBOARD T11/2026 · T2–T6)
+
+> Áp dụng khi bắt đầu dự án NBCU US. Các lịch chi tiết từng thứ bên dưới là **lịch cũ trước NBCU**, giữ để tham khảo đến khi chốt giờ chính thức.
+
+```
+02:00–09:30  😴 NGỦ CỐ ĐỊNH 7.5h (hết ca là ngủ, không lướt điện thoại)
+09:30–09:45  Dậy, vệ sinh, ăn sáng nhẹ
+09:45–10:15  📘 TOEIC Part 5/7 (T2/T6) · Lướt chunks (T3/T5) · Audio EN (T4)
+10:30–13:00  💼 TMA (remote) - 11:00 nếu lên văn phòng (cần anh Đạt duyệt)
+13:00–14:00  Ăn trưa, chợp mắt 20p
+14:00–17:30  💼 TMA + 💻 BIT ~1.5h (chuyển toàn bộ BIT sang chiều)
+18:00–19:00  💪 GYM (T2, T6)  ·  19:15–20:45 ★ LỚP L3 (T3, T5 - đến 12/01/2027)  ·  18:30 ĐÁ BANH (T4)
+21:00–22:25  🍚 Ăn tối, nghỉ · nhắn tin / nói chuyện (khung đẹp nhất trước ca)
+22:30–01:30  🇺🇸 CA NBCU (30p đầu bên US check email rồi gửi việc)
+01:30–02:00  Tắt máy, vệ sinh → ngủ
+```
+
+**Ngày không có ca (T7, CN, ngày nghỉ):** ngủ 23:30 như cũ. **Tối T4:** xin nghỉ ca; nếu phải làm thì chỉ làm ca, không BIT/học.
+
+---
+
 ## THỨ 2 - SÁNG VĂN PHÒNG · CHIỀU WFH (+ TOEIC P5) · TỐI GYM + BIT
 
 ```
@@ -172,4 +193,4 @@
 
 ---
 
-_Cập nhật: 02/11/2026 (Chi tiết hóa quy trình bấm giờ TOEIC Part 5/7 + Ngữ pháp Infographic cho slot sáng T2 và sáng T6). Trước đó: 26/10/2026 (Lớp Phản Xạ CN đã học xong, tạm bỏ khỏi lịch từ 26/10/2026; chiều CN thành thời gian tự do). Trước đó: 17/10/2026 (Thêm lịch Coach 2027). Trước đó: 15/10/2026 (V6.4 - T2 + T4 chiều remote tại nhà, T6 remote cả ngày → bỏ di chuyển, T6 sáng TOEIC 75p; V6.3 - Tối T4 + tối CN = relax, bỏ BIT 2 tối này; BIT đủ 8h/tuần: 3h song song lúc remote (T2/T4 chiều, T6) + 5h buổi tối, tối T6 + chiều T7 được giải phóng; thêm TOEIC Part 5/7 sáng T2 + T6). Trước đó: (V6.2 - Tích hợp slot làm BIT 7M buổi tối và kích hoạt thói quen Prompt AI bằng tiếng Anh)._
+_Cập nhật: 05/11/2026 (Thêm lịch ngày có ca NBCU 22:30–01:30, ngủ 02:00–09:30). Trước đó: 02/11/2026 (Chi tiết hóa quy trình bấm giờ TOEIC Part 5/7 + Ngữ pháp Infographic cho slot sáng T2 và sáng T6). Trước đó: 26/10/2026 (Lớp Phản Xạ CN đã học xong, tạm bỏ khỏi lịch từ 26/10/2026; chiều CN thành thời gian tự do). Trước đó: 17/10/2026 (Thêm lịch Coach 2027). Trước đó: 15/10/2026 (V6.4 - T2 + T4 chiều remote tại nhà, T6 remote cả ngày → bỏ di chuyển, T6 sáng TOEIC 75p; V6.3 - Tối T4 + tối CN = relax, bỏ BIT 2 tối này; BIT đủ 8h/tuần: 3h song song lúc remote (T2/T4 chiều, T6) + 5h buổi tối, tối T6 + chiều T7 được giải phóng; thêm TOEIC Part 5/7 sáng T2 + T6). Trước đó: (V6.2 - Tích hợp slot làm BIT 7M buổi tối và kích hoạt thói quen Prompt AI bằng tiếng Anh)._
