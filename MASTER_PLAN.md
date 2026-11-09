@@ -66,12 +66,16 @@ Hiện tại:  66.4kg (InBody 29/10/26: cơ 33.2kg, % mỡ 12.2%, Score 82/100) 
 ### M4 · 🎓 HỌC VẤN & NGHỀ
 
 ```
-Đích:      Thạc sĩ Khoa học máy tính - UIT (ĐHQG TP.HCM)
+Đích:      Thạc sĩ Khoa học máy tính - UIT (ĐHQG TP.HCM) · Thăng cấp Senior Engineer (SE-6) tại TMA
+TMA PA:    Hiện tại Engineer Grade 4 (E-4) · PA Q2=7.77, Q3=8.43, Q4 update TOEIC 535 (English=4) + đậu NBCU US (~7.68)
+           → Trung bình năm 2026: Overall ~7.96 (~8.0), Performance ~8.33, English TB (9+9+4)/3 = 7.33 (≥ 6)
+           → ✅ ĐỦ 100% ĐIỀU KIỆN LÊN E-5 CUỐI NĂM 2026 · 🎯 Cuối 2027 lên SE-6 (Senior) khi nộp TOEIC 700+ (T06/2027)
+           Chi tiết: 01_ROADMAPS/M4_CAREER/tma/note-important.md
 Nộp hồ sơ: T09-T10/2027 (Đợt 2) · Phỏng vấn T11/2027 · Khai giảng T12/2027
 Học phí:   43tr năm 1 (T12/2027) + 47tr năm 2 = 90tr
 Dự phòng:  Nếu thiếu tiền → vay Hiệp, trả góp dần
 Sau đó:    2029 giảng viên đại học part-time
-Việc gần:  Tra cứu quy chế tuyển sinh/thi đầu vào 2027 của UIT (Ngay trong Q4/2026) để ôn tập.
+Việc gần:  Chiến thắng phỏng vấn NBCU US (T11/2026) · Tra cứu quy chế tuyển sinh/thi đầu vào 2027 của UIT (Q4/2026).
 ```
 
 ### M5 · ❤️ GIA ĐÌNH & QUAN HỆ
@@ -217,4 +221,4 @@ planing/
 
 ---
 
-_Cập nhật: 05/11/2026 (Thêm phụ cấp NBCU +3tr/tháng (dự kiến)). Trước đó: 02/11/2026 (Mẹ lấy 500k từ VCB 02/11 (chuyển HO THI NHA) → tiền mẹ giữ hộ còn 12,500,000). Trước đó: 01/11/2026 (Đối chiếu sao kê Timo 31/10 & 01/11: chốt sổ 31/10 tiền mặt 22,254,505, ngày 01/11 là 22,219,540, tiền tự do 19,419,540, Net Worth ~57.42M). Trước đó: 31/10/2026 (Thanh toán Shopee 1,827,637 qua VietinBank, nợ còn 2.8M). Trước đó: 30/10/2026 (Đóng phí CC; tiền mẹ 13M, Timo, BIT hoàn; đối chiếu 5 NH). Trước đó: 29/10/2026 (InBody 29/10/2026). Trước đó: 27/10/2026 (Nhận lương BIT 7M VietinBank). Trước đó: 25/10/2026 (Thêm dòng lương tháng 13 TMA ~17.6tr; trả vé Tết chiều đi 2.62tr). Trước đó: 24/10/2026 (Đồng bộ tài chính 24/10). Trước đó: 17/10/2026 (Gom Coach + Quỹ mẹ về 1 nguồn). Trước đó: 15/10/2026 (Chi thực tế 8-10tr/tháng; 2 tỷ chỉ trông vào chốt W; Hạn nộp chứng chỉ TOEIC 700+ cho TMA: 15/11/2027; TOEIC 700+ = điều kiện bắt buộc lên Senior TMA năm 2027; Chốt ngành: Thạc sĩ Khoa học máy tính; Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027). Trước đó: 12/10/2026 (V10 - Stress test toàn bộ plan: Điều chỉnh mục tiêu % mỡ M3 xuống 12-15% để tránh sụt test/burnout; Dời lịch cày TOEIC sang T02/2027 để không bị overload với Immersion; Nhấn mạnh việc tìm hiểu quy chế thi đầu vào Thạc sĩ.)_
+_Cập nhật: 09/11/2026 (Ghi nhận lộ trình PA TMA: E-4 -> E-5 cuối năm 2026 nhờ TB năm ~8.0 & English TB 7.33; cuối 2027 lên SE-6 Senior khi nộp TOEIC 700+). Trước đó: 05/11/2026 (Thêm phụ cấp NBCU +3tr/tháng (dự kiến)). Trước đó: 02/11/2026 (Mẹ lấy 500k từ VCB 02/11 (chuyển HO THI NHA) → tiền mẹ giữ hộ còn 12,500,000). Trước đó: 01/11/2026 (Đối chiếu sao kê Timo 31/10 & 01/11: chốt sổ 31/10 tiền mặt 22,254,505, ngày 01/11 là 22,219,540, tiền tự do 19,419,540, Net Worth ~57.42M). Trước đó: 31/10/2026 (Thanh toán Shopee 1,827,637 qua VietinBank, nợ còn 2.8M). Trước đó: 30/10/2026 (Đóng phí CC; tiền mẹ 13M, Timo, BIT hoàn; đối chiếu 5 NH). Trước đó: 29/10/2026 (InBody 29/10/2026). Trước đó: 27/10/2026 (Nhận lương BIT 7M VietinBank). Trước đó: 25/10/2026 (Thêm dòng lương tháng 13 TMA ~17.6tr; trả vé Tết chiều đi 2.62tr). Trước đó: 24/10/2026 (Đồng bộ tài chính 24/10). Trước đó: 17/10/2026 (Gom Coach + Quỹ mẹ về 1 nguồn). Trước đó: 15/10/2026 (Chi thực tế 8-10tr/tháng; 2 tỷ chỉ trông vào chốt W; Hạn nộp chứng chỉ TOEIC 700+ cho TMA: 15/11/2027; TOEIC 700+ = điều kiện bắt buộc lên Senior TMA năm 2027; Chốt ngành: Thạc sĩ Khoa học máy tính; Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027). Trước đó: 12/10/2026 (V10 - Stress test toàn bộ plan: Điều chỉnh mục tiêu % mỡ M3 xuống 12-15% để tránh sụt test/burnout; Dời lịch cày TOEIC sang T02/2027 để không bị overload với Immersion; Nhấn mạnh việc tìm hiểu quy chế thi đầu vào Thạc sĩ.)_

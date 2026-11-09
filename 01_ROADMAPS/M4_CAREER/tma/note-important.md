@@ -5,15 +5,61 @@
 
 ---
 
-## 🚨 [QUAN TRỌNG] TOEIC 700+ - Điều kiện bắt buộc lên Senior (ghi nhận 15/10/2026)
+## 🚨 [QUAN TRỌNG] Lộ trình Nâng Bậc `E-4 ➔ E-5 (2026)` & Thăng Cấp `SE-6 Senior (2027)` (Cập nhật 09/11/2026)
+
+### 1. Hồ sơ PA Hiện Tại & Lịch sử Quarterly PA 2026
+* **Thông tin nhân sự:** `LE VAN HIEU` · Badge ID: `262501` · Khối: **Delivery (`DC11 - BU 1`)** · Dự án: `Program 29 P3 SWAT` (+ `NBCU US` từ T11/2026) · Manager duyệt PA: **Lê Tấn Đạt (`ltandat@tma.com.vn`)**.
+* **Cấp bậc hiện tại:** **`Engineer - Grade 4` (`E-4`)**.
+* **Trọng số 5 tiêu chí PA:** `Performance On Job (40%)` + `Expertise (20%)` + `Teamwork & Communication (15%)` + `English (15%)` + `AI Adoption (10%)` *(Discipline: Điểm trừ kỷ luật = 0)*.
+
+| Kỳ PA | Trạng thái | Performance `(40%)` | Expertise `(20%)` | Teamwork `(15%)` | English `(15%)` | AI Adoption `(10%)` | **Final Rating** | Ghi chú thực tế |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :--- |
+| **Q1/2026** | `Final` | - | - | - | - | - | **Set Objectives Only** | Chỉ đặt mục tiêu đầu năm |
+| **Q2/2026** | `Final` | `8.0` | `7.5` | `7.5` | **`9.0`** *(805)* | `6.0` | **`7.77`** | Neo điểm test nội bộ cũ `805` (R:405, L:400) |
+| **Q3/2026** | `Running` | `~8.5` | `~8.5` | `~8.5` | **`9.0`** *(805)* | `~7.0` | **`8.43`** | Được miễn thi 1 kỳ do kỳ trước `>= 700` (`805`) |
+| **Q4/2026** *(Dự kiến)* | `Upcoming` | `~8.5` | `~8.5` | `~8.5` | **`4.0`** *(535)* | `~7.0` | **`~7.68 – 7.85`** | Update TOEIC `535` (miễn test nội bộ) + **Đậu NBCU US** giữ nguyên điểm chuyên môn Q3 |
+| 🏆 **TB NĂM 2026** | **`(Q2+Q3+Q4)/3`** | **`~8.33`** | **`~8.17`** | **`~8.17`** | **`7.33`** | **`~6.67`** | **`~7.96` (`~8.0`)** | ✅ **ĐỦ 100% ĐIỀU KIỆN LÊN `E-5` CUỐI NĂM 2026!** |
+
+> 💡 **Chiến lược "Đợi Quý 4 mới update TOEIC 535 + Đậu phỏng vấn NBCU US":**
+> - Nhờ giữ mốc `805` (`English = 9.0`) suốt **Q2 và Q3**, đến **Q4** mới update bằng TOEIC IIG `535` (`English = 4.0` theo bảng Delivery), nên khi tính **Trung bình năm 2026**, cột `English` đạt **`(9 + 9 + 4) / 3 = 7.33 điểm`** (vượt xa mốc `English >= 6` và `No criteria < 5`).
+> - Đồng thời, việc **pass phỏng vấn NBCU US** trong Q4 giúp giữ nguyên toàn bộ dàn điểm chuyên môn đỉnh cao của Q3 (`Performance ~8.5`, `Expertise ~8.5`, `Teamwork ~8.5`, `AI Adoption >= 6`), khóa sổ trung bình năm ở mức **`~8.0`** $\rightarrow$ **Chắc suất nâng bậc từ `E-4` lên `E-5` cuối năm 2026!**
+
+---
+
+### 2. Bảng Quy Đổi Điểm TOEIC Sang Điểm `English PA` (Chuẩn Hệ Thống TMA)
+
+* **Quy định miễn thi test nội bộ công ty (*Company-wide English test*):**
+  1. Nhân viên khối **Delivery** kỳ trước thi nội bộ đạt: `Engineer >= 700`, `Senior Engineer >= 750`, `SME / TL / PM >= 800` thì được **miễn thi cho kỳ PA hiện tại** (nhưng phải thi lại ở kỳ tiếp theo).
+  2. Hoặc có **chứng chỉ Tiếng Anh quốc tế bên ngoài còn hạn sau ngày `31/12` của năm xét PA**, gửi cho HR **trước ngày `25/11`** (DC thường thu gom trước **`15/11`**).
+
+| Khối áp dụng | `PA = 1` | `PA = 2` | `PA = 3` | `PA = 4` | `PA = 5` | `PA = 6` | `PA = 7` | `PA = 8` | `PA = 9` | `PA = 10` |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Delivery / TIP / BDU** *(Của Hiếu: DC11 - BU 1)* | `<=395` | `400` | `450` | **`500`** *(535 ở đây)* | `550` | 🟨 **`650`** *(Upgrade E)* | 🟩 **`700`** *(Promote SE)* | `750` | **`800`** *(805 ở đây)* | `>=900` |
+| **Department** *(HR, QMS, PMO, Purchasing...)* | `<=365` | `370` | `405` | `455` | `505` | 🟨 `550` | 🟩 `650` | `700` | `750` | `>=800` |
+
+---
+
+### 3. Bảng Điều Kiện Nâng Bậc & Thăng Cấp (`New Career Path from 2026`)
+
+| Bậc hiện tại ➔ Bậc mới | Điều kiện `PA Score` | `Min YoE` | Điều kiện bắt buộc ở cột `Remarks` | `Team Size` / `Presentation` / `Business Needs` | Thời điểm đạt của Hiếu |
+| :--- | :--- | :---: | :--- | :---: | :--- |
+| **`E-4 ➔ E-5`** *(Nâng bậc Engineer)* | `Performance On Job >= 7` | `2 năm` | • `No criteria point less than 5`<br>• `English >= 6 or Skipped` *(TOEIC $\ge$ 650)* | `Not Require` / `No` / `No` | ✅ **Cuối năm 2026** *(TB năm 2026: `Perf = 8.33`, `English TB = 7.33`, mọi mục `>= 6.67`)* |
+| **`E-5 ➔ SE-6`** *(Lên **Senior Engineer**)* | `Performance On Job >= 8` | `2 năm` | • `No criteria point less than 6`<br>• `English >= 7 or Skipped` *(TOEIC $\ge$ 700)* | `Not Require` / `No` / `No` | 🎯 **Cuối năm 2027** *(Thi **TOEIC 700+** vào **T06/2027**, nộp HR trước **15/11/2027**)* |
+| **`SE-6 ➔ SE-7 ➔ SE-8 ➔ SE-9`** | `Performance On Job >= 8` | `3–5 năm` | • `No criteria point less than 6`<br>• `English >= 7 or Skipped` | `Not Require` / `No` / `No` | Giai đoạn 2028+ |
+| **`SE-8 ➔ TL-9`** *(Team Lead)* | `Performance On Job >= 8` | `5 năm` | • `No criteria < 6` · `English >= 8` *(TOEIC $\ge$ 750)* | `>= 10 HC` / `Yes` / `Yes` | Nhánh Management |
+| **`SE-9 ➔ SME-10`** *(SME)* | `Performance On Job >= 8` | `6 năm` | • `No criteria < 6` · `English >= 8` *(TOEIC $\ge$ 750)* | Tech Prime / `Yes` / `Yes` | Nhánh Chuyên gia |
+
+---
+
+### 4. Kế hoạch Thi & Nộp Chứng Chỉ TOEIC 700+ Cho Năm 2027 (Lên `SE-6 Senior Engineer`)
 
 | Thông tin      | Chi tiết                                                                 |
 | -------------- | ------------------------------------------------------------------------ |
-| **Yêu cầu**    | TMA yêu cầu **TOEIC 700+** để được xét lên **Senior**                    |
-| **Hạn**        | **Nộp chứng chỉ trước 15/11/2027** - không đạt thì không lên được Senior |
-| **Hiện tại**   | TOEIC 535 (19/06/2026) - đã nộp cho công ty                              |
-| **Kế hoạch**   | Trong L3 (đến 12/01/2027): luyện song song Part 5 + Part 7 (gắn vocabulary) → T02-T06/2027 cày đề ETS → **thi T06/2027, được bao nhiêu điểm nộp TMA luôn** (chốt 15/10/2026) |
-| **Phương án B** | Nếu điểm T06 < 700 → thi lại 1 lần T08-T09/2027, nộp trước 15/11/2027 (không lên lịch cứng) |
+| **Yêu cầu**    | Đang ở `E-5` (sau kỳ PA 2026), cần **TOEIC 700+ (`English >= 7`)** + `Performance On Job >= 8` + `No criteria < 6` để lên **`SE-6` (Senior Engineer)** |
+| **Hạn nộp**    | **Nộp chứng chỉ cho DC/HR trước 15/11/2027** *(Hạn cứng hệ thống HR: 25/11/2027)* |
+| **Hiện tại**   | TOEIC 535 (19/06/2026) - update vào Q4/2026 để miễn test nội bộ cuối năm |
+| **Kế hoạch**   | Trong L3 (đến 12/01/2027): luyện song song Part 5 + Part 7 (gắn vocabulary) → T02-T06/2027 cày đề ETS cùng Coach 1:1 Kim Hân → **thi T06/2027, đạt 700+ nộp TMA luôn** |
+| **Phương án B** | Nếu điểm T06 < 700 → thi lại 1 lần T08-T09/2027, nộp trước 15/11/2027 |
 | **Lưu ý**      | Nộp xong trong T06-T07/2027 → không dồn vào T10-T11/2027 (trùng nộp hồ sơ + phỏng vấn Thạc sĩ UIT) |
 | **Chi tiết**   | [MASTER_PLAN.md](../../../MASTER_PLAN.md) (M1) · [SPRINT_CALENDAR.md](../../../02_EXECUTION/SPRINT_CALENDAR.md) |
 
@@ -235,4 +281,4 @@ User Request → Orchestrator Understands Intent → Selects Best Agents
 
 ---
 
-_Cập nhật: 15/10/2026 (Chốt thi TOEIC T06/2027, có điểm nộp TMA luôn; Hạn nộp chứng chỉ TOEIC 700+ cho TMA: 15/11/2027; Thêm yêu cầu TOEIC 700+ để lên Senior năm 2027). Trước đó: 22/05/2026_
+_Cập nhật: 09/11/2026 (Bổ sung bảng lịch sử Quarterly PA 2026: Q2=7.77, Q3=8.43, Q4 dự kiến ~7.68–7.85 khi update TOEIC 535 + đậu NBCU US; tính trung bình năm 2026 đạt ~8.0 với English TB = 7.33 -> Đủ 100% điều kiện nâng bậc từ E-4 lên E-5 cuối năm 2026; lưu bảng quy chuẩn New Career Path 2026 E-4 -> E-5 -> SE-6 và bảng quy đổi TOEIC khối Delivery). Trước đó: 15/10/2026 (Chốt thi TOEIC T06/2027, có điểm nộp TMA luôn; Hạn nộp chứng chỉ TOEIC 700+ cho TMA: 15/11/2027; Thêm yêu cầu TOEIC 700+ để lên Senior năm 2027). Trước đó: 22/05/2026_

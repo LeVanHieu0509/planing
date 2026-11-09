@@ -351,4 +351,60 @@ Khi khách hỏi: ***"Can you walk me through your Project [1 / 2 / 3 / 4]?"***,
 
 ---
 
-_Cập nhật: 07/11/2026 (Chuẩn hóa 100% câu trả lời trong toàn bộ cẩm nang về đúng 1 khuôn phản xạ duy nhất `A-R-E: Answer – Reason – Example` kết hợp công thức từ nối Lớp L2/L3)._
+## 🛟 PHẦN 7: BỘ 15 MẪU CÂU "CHỐNG CHÁY" THỰC CHIẾN (NGẮN GỌN – DỄ NÓI – ĐỦ MỌI TÌNH HUỐNG)
+
+> 💡 **Nguyên tắc vàng:** Càng lúc bí thì câu tiếng Anh phải **càng ngắn, càng đơn giản**. Chỉ cần ghép 2 mảnh: **Thật thà nhận chưa nhớ/chưa dùng $\rightarrow$ Lái về cái mình biết (`I think we can use...` / `In my project, I mainly focused on...`)**.
+
+---
+
+### 🔹 Nhóm 1: Khi bị hỏi sâu vào Công nghệ chưa biết hoặc đã quên (5 mẫu)
+
+1. **Khi bị hỏi sâu về Java / Spring Boot (Syntax, JVM, Multithreading...):**
+   > *"I focused on **Node.js and NestJS** over the last two years, so I don't remember that exact **Java syntax**. Usually, I handle this in **NestJS** by **[nêu cách làm]**, and I can check the Java docs quickly."*
+2. **Khi bị hỏi về công nghệ mới chưa từng dùng (Kafka, GraphQL, AWS, RabbitMQ...):**
+   > *"I haven't used **[tên công nghệ]** in production yet, so **I will look into it further**. In my previous projects, I solved a similar problem using **[Redis queues / REST APIs]**."*
+3. **Khi bị hỏi sâu về DevOps / CI-CD / Cloud (K8s, sâu về GitLab Pipeline, Server...):**
+   > *"In my projects, the DevOps team managed the main infrastructure. I mainly used **Docker** for local development and ran builds on **GitLab Pipelines**, so I would look into the advanced setup further."*
+4. **Khi bị hỏi quá sâu về cơ chế bên trong của Database / ORM:**
+   > *"To be honest, I haven't gone that deep into the internal engine. In my daily work, I mainly focus on **indexing, query optimization, and Redis caching** to keep APIs fast."*
+5. **Khi bị hỏi vặn tiếp: "Nếu cách của bạn vẫn bị quá tải / lỗi thì sao?" (Follow-up khó):**
+   > *"If that happens, **I think we could solve it by** adding **Redis caching**, moving heavy work to **background queues**, or discussing with the team lead to find the best approach."*
+
+---
+
+### 🔹 Nhóm 2: Khi bị hỏi chi tiết Dự án cũ mà quên / Không phải phần mình làm (3 mẫu)
+
+6. **Khi bị hỏi chi tiết ở dự án cũ (từ 2021–2024) mà quên mất:**
+   > *"Since that project was a couple of years ago, I don't remember that exact detail right now. **But basically**, we used **[Spring Boot / PostgreSQL / Redis]** to handle the main workflow."*
+7. **Khi bị hỏi vào phần việc do thành viên khác / team khác làm:**
+   > *"That part was mainly handled by another teammate. My main responsibility was **building the backend APIs and database logic**, so I focused mostly on that area."*
+8. **Khi bị hỏi con số cụ thể (Bao nhiêu user, bao nhiêu request?) mà không nhớ chính xác:**
+   > *"I don't remember the exact number, **but roughly speaking**, it handled **thousands of records** and improved the response time a lot."*
+
+---
+
+### 🔹 Nhóm 3: Khi Nghe không rõ / Câu hỏi quá dài / Từ tiếng Anh lạ (4 mẫu)
+
+9. **Khi khách nói quá nhanh hoặc âm thanh bị rè không nghe ra:**
+   > *"Sorry, the audio cut out for a second. **Could you please repeat the question briefly?**"*
+10. **Khi khách hỏi câu rất dài, bạn chỉ bắt được 1 từ khóa chính:**
+    > *"Sorry, just to make sure I understood correctly — **you are asking about [từ khóa]**, right?"*
+11. **Khi khách dùng 1 từ tiếng Anh / từ lóng lạ mà bạn không biết nghĩa:**
+    > *"Sorry, I'm not familiar with that term. **Could you explain what you mean in a simpler way?**"*
+12. **Khi trả lời xong mà muốn kiểm tra xem đã đúng ý khách chưa:**
+    > *"Does that answer your question, or would you like me to explain more?"*
+
+---
+
+### 🔹 Nhóm 4: Khi "Đứng hình" / Quên từ vựng tiếng Anh / Muốn nói lại cho gọn (3 mẫu)
+
+13. **Khi đầu óc tự nhiên trống rỗng cần 5 giây để nghĩ (Brain Freeze):**
+    > *"That’s a good question. **Let me think for a second** about how I handled this in my project..."*
+14. **Khi đang nói mà tự nhiên quên mất 1 từ tiếng Anh:**
+    > *"Sorry, I forgot the exact English word, **but basically it means** **[mô tả bằng từ siêu dễ: checking data / saving to cache / running in the background]**."*
+15. **Khi đang nói mà thấy câu bị rối, muốn chốt lại ngắn gọn:**
+    > *"Sorry, **let me put it simply**: in my project, I used **[X]** to solve **[Y]**."*
+
+---
+
+_Cập nhật: 09/11/2026 (Bổ sung Phần 7 — Bộ 15 mẫu câu "Chống cháy" thực chiến chia theo 4 nhóm tình huống)._
