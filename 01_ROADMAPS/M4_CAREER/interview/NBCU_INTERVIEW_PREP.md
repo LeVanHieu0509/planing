@@ -1,5 +1,8 @@
 # 🇺🇸 CẨM NANG ÔN PHỎNG VẤN NBCU US (100% FORMAT A-R-E: ANSWER – REASON – EXAMPLE)
 
+> 🎯 **Bộ câu trả lời của chính Hiếu + prompt luyện với AI:** [NBCU_MY_ANSWER_BANK.md](./NBCU_MY_ANSWER_BANK.md)
+> 🧠 **Đọc trước:** [AMERICAN_COMMUNICATION_MINDSET.md](./AMERICAN_COMMUNICATION_MINDSET.md) - 7 nguyên tắc tư duy trả lời kiểu Mỹ (BLUF, "I", số liệu, ngắn gọn, trung thực).
+
 > **Ứng viên:** Lê Văn Hiếu — Software Engineer  
 > **Dự án mục tiêu:** NBCUniversal US (NBCU US) — Nhánh Node.js / Java / Python  
 > **Bộ 4 file chiến lược:** [CV_LE_VAN_HIEU_TMA_2026.md](./CV_LE_VAN_HIEU_TMA_2026.md) · [NBCU_FAKE_INTERVIEW_VOICE.md](./NBCU_FAKE_INTERVIEW_VOICE.md) · [JAVA_SPRING_VS_NESTJS_MASTER.md](./JAVA_SPRING_VS_NESTJS_MASTER.md)  
