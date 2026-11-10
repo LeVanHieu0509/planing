@@ -1,5 +1,6 @@
 # 🇺🇸 CẨM NANG ÔN PHỎNG VẤN NBCU US (100% FORMAT A-R-E: ANSWER – REASON – EXAMPLE)
 
+> 🤝 **Gặp account manager chị Tuyền 10:00 11/11/2026:** [NBCU_MEETING_ACCOUNT_MANAGER_11_11_2026.md](./NBCU_MEETING_ACCOUNT_MANAGER_11_11_2026.md)
 > 🎯 **Bộ câu trả lời của chính Hiếu + prompt luyện với AI:** [NBCU_MY_ANSWER_BANK.md](./NBCU_MY_ANSWER_BANK.md)
 > 🧠 **Đọc trước:** [AMERICAN_COMMUNICATION_MINDSET.md](./AMERICAN_COMMUNICATION_MINDSET.md) - 7 nguyên tắc tư duy trả lời kiểu Mỹ (BLUF, "I", số liệu, ngắn gọn, trung thực).
 
