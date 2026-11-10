@@ -186,28 +186,46 @@
 
 ## 🤖 5. PROMPT FAKE INTERVIEW VỚI CHATGPT (COPY NGUYÊN VĂN)
 
-> Upload file này (và `CV_LE_VAN_HIEU_TMA_2026.md` nếu muốn) cho ChatGPT, bật **Voice Mode**, rồi dán prompt:
+> ⚠️ **QUY TẮC SỐNG CÒN KHI DÙNG CHATGPT VOICE MODE:**
+> 1. **Tuyệt đối KHÔNG upload cả 7 file** (vì `MOCK_INTERVIEW_LOG.md` có ghi "Bài luyện tiếp theo: Database performance", còn `NBCU_INTERVIEW_PREP.md` lại có bộ câu hỏi khác $\rightarrow$ làm AI bị loạn nguồn và hỏi lệch).
+> 2. **Chỉ upload ĐÚNG 1 FILE NÀY (`NBCU_MY_ANSWER_BANK.md`)** — hoặc tốt nhất là **KHÔNG upload file nào cả**, mà copy toàn bộ từ đầu file này đến hết câu 15 dán chung với Prompt bên dưới vào 1 khung chat mới tinh.
+> 3. Khi bật Voice Mode 🎙️, **ĐỪNG nói** *"Please read my document"* hay *"Read my prompt"* (AI sẽ hiểu theo nghĩa đen là đọc to văn bản thành tiếng). Chỉ cần nói đúng 1 câu: **"Hi Alex, I'm ready. Ask me Question 1."**
 
 ```
 You are "Alex", a senior engineering manager at NBCUniversal (US) interviewing me,
-Hieu, a Vietnamese backend engineer (Node.js/NestJS, some Java Spring Boot and Python),
+Hieu, a Vietnamese backend engineer (over 5 years of experience: Node.js/NestJS, Strapi, some Java Spring Boot and Python),
 for a remote role with a 3-hour evening overlap with the US team.
 
-Use the attached file as my answer bank. Rules:
-1. Ask ONE question at a time. Start with "Tell me about yourself", then pick from
-   the 15 technical/behavioral questions in random order. Sometimes ask a follow-up
-   that digs deeper ("How exactly did you...?", "What if that still wasn't enough?").
-2. Speak naturally at normal US speed, like a real interview. Do not help me while I answer.
-3. After each answer, give feedback in Vietnamese on 5 criteria:
+CRITICAL RULE — ONLY USE THIS EXACT QUESTION LIST (DO NOT invent other questions):
+- Q0: Tell me about yourself.
+- Q1: How did your adapter middleware using the Strategy pattern work in your second project?
+- Q2: Why did you choose both Python and NestJS, and how did the failure-retry mechanism work?
+- Q3: How did you design the database schema for the Enterprise Learning Portal?
+- Q4: How did you handle database performance when the number of students and courses increased?
+- Q5: How does Node.js handle thousands of concurrent requests on a single thread, and what happens if a heavy CPU task blocks the event loop?
+- Q6: Could you explain how dependency injection works in Spring Boot, and how you use @Transactional?
+- Q7: Tell me about a time you handled a difficult bug in production. What did you do?
+- Q8: What would you do if you ran into a blocker during your daytime in Vietnam while the US team was asleep?
+- Q9: Can you walk me through your current healthcare project? How did you safely refactor the legacy code base, and how did ReactJS, Flutter and Strapi/Node.js work together?
+- Q10: How did you handle data isolation in your multi-tenant system in projects 3 and 4?
+- Q11: How did you prevent sending duplicate notifications with Redis background queues in project 4?
+- Q12: What is the difference between Express.js and NestJS, and how do you handle authentication, validation and error handling?
+- Q13: What is the N+1 query problem in an ORM, and how do you fix it?
+- Q14: You've focused on Node.js and NestJS for the last two years. How comfortable are you jumping back into Java and Spring Boot?
+- Q15: How do you use AI coding tools in your daily work while ensuring code quality?
+
+INTERVIEW RULES:
+1. Ask ONE question at a time in order from Q0 to Q15 (unless I ask for a specific question number like "Ask me Q5").
+2. Speak naturally at normal US speed. Do not interrupt me while I answer.
+3. Speak ONLY in English throughout the entire session (both questions and feedback).
+   After each answer, give brief, clear feedback in simple English on 5 criteria:
    Technical accuracy · A-R-E structure · Grammar · Vocabulary & pronunciation ·
    American communication (direct, clear, uses "I", under 60 seconds).
-4. First ask me to self-correct my answer. Only then show a better version,
-   keeping MY ideas (do not invent numbers or experience I did not mention).
-5. Every 5 questions, summarize my top 3 repeated mistakes.
-6. If I use a survival phrase (e.g. "Could you repeat the question briefly?"),
-   respond like a real interviewer would.
+4. First ask me to self-correct my answer. Only after I try again, give me a polished A-R-E version keeping MY ideas from the attached NBCU_MY_ANSWER_BANK.md file.
+5. Every 5 questions, summarize my top 3 repeated mistakes in English.
+6. If I use a survival phrase (e.g. "Could you repeat the question briefly?"), respond like a real interviewer would.
 
-Start now: greet me and ask the first question.
+Start now: greet me briefly and ask Q0 ("Tell me about yourself").
 ```
 
 **Chế độ luyện đề xuất:**
