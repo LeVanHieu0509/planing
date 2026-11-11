@@ -41,7 +41,7 @@
 
 ## 📊 BẢNG THEO DÕI 7 NGUYÊN TẮC (cập nhật sau mỗi buổi)
 
-| Nguyên tắc | Buổi 01 (07/11/2026) | Buổi 02 | Buổi 03 | Mục tiêu |
+| Nguyên tắc | Buổi 01 (07/11/2026) | Buổi 02 (11/11 - gặp AM, PASS) | Buổi 03 | Mục tiêu |
 |---|:---:|:---:|:---:|:---:|
 | 1. Kết luận trước | 7/10 | | | 9 |
 | 2. Nói rõ vai trò cá nhân ("I") | 6/10 | | | 9 |
@@ -117,6 +117,48 @@
 
 ---
 
+## 🗓️ BUỔI 02 · 11/11/2026 - GẶP ACCOUNT MANAGER NBCU (CHỊ TUYỀN) → ✅ PASS
+
+**Kết quả:** anh Đạt báo **vào project OK**. Chị Tuyền nhận xét:
+- ✅ _"Hừng hực lửa chiến đấu, bất chấp ngày đêm"_ - thái độ & commitment ghi điểm.
+- ⚠️ _"Hơi gặp khó để diễn đạt ý bằng tiếng Anh, bạn tự biết mình phải improve English speaking."_
+- 👉 Anh Đạt: **luyện thêm tiếng Anh 2–3 tuần tới cho smooth hơn** (hạn ~02/12/2026).
+- 📌 Chị Nga (11/11): buổi này là **internal double check**; khách **chỉ phỏng vấn dev lead, không phỏng vấn từng member** → coi như đã vào dự án. **Action plan 3 tuần ưu tiên giao tiếp công việc hằng ngày** (standup, báo tiến độ, hỏi lại yêu cầu, Slack/email) hơn là luyện câu phỏng vấn.
+
+**Sửa câu Hiếu nhắn anh Đạt (luyện viết đúng ngay từ chat):**
+
+| Đã viết | Nên viết |
+|---|---|
+| I am not Pressure | **I don't feel any pressure.** / I'm comfortable with it. |
+| because I see the technologies i am familiar before | **because I'm already familiar with the technologies** |
+| All I need to do is learning about logic and business | All I need to do is **learn the business logic.** |
+| I dont have issues with night shift working time | **I don't have any issues with working night shifts.** |
+
+> Bài học: lỗi lặp lại đúng **điểm yếu #1 & #6** - dịch từ tiếng Việt (_"không áp lực" → "not pressure"_) và sai dạng động từ (_need to learning_).
+
+---
+
+## 🚀 ACTION PLAN SPEAKING 3 TUẦN (11/11 → 02/12/2026) - THEO YÊU CẦU ANH ĐẠT
+
+> Nằm trong **4h/ngày upskill giờ TMA**. Đo bằng **OUTPUT**: số bản ghi âm + số buổi mock, không đo bằng thời gian đọc.
+
+| Mỗi ngày làm việc (T2–T6) | Thời lượng | Output |
+|---|---|---|
+| Shadowing 1 video tech/standup tiếng Mỹ (nghe 1 câu → nhại lại) | 15p | 10 câu nhại |
+| Trả lời 2 câu trong [NBCU_MY_ANSWER_BANK.md](./NBCU_MY_ANSWER_BANK.md) theo bảng trigger, ghi âm | 15p | 2 bản ghi âm < 60s |
+| Mock với ChatGPT voice (Alex) | 20p | 1 buổi + 3 lỗi ghi vào file này |
+| **Nói 3 câu standup tiếng Anh** (Yesterday / Today / Blockers) về việc thật trong ngày | 5p | 1 bản ghi âm |
+
+| Tuần | Trọng tâm | Mốc đo |
+|---|---|---|
+| 1 (11–15/11) | Câu ngắn 8–12 từ, nói về **việc thật hằng ngày** (standup, báo tiến độ, hỏi lại) | 5 standup ghi âm, không dừng > 3s |
+| 2 (16–22/11) | Giải thích kỹ thuật: 15 câu answer bank, trả lời **không nhìn file** | 15/15 câu nói được < 60s |
+| 3 (23/11–02/12) | Phản xạ: Alex hỏi ngẫu nhiên + hỏi đào sâu, 30p/buổi real mode | 3 buổi real mode liên tục |
+
+> 📌 **02/12/2026:** tự đánh giá lại bảng 7 nguyên tắc → nhắn anh Đạt 1 câu cập nhật tiến độ **bằng tiếng Anh**.
+
+---
+
 ## 📅 KẾ HOẠCH 30 NGÀY (Daily English Interview Practice - 25 phút/ngày)
 
 > Nằm trong 4h/ngày giờ TMA được dành cho upskill & luyện phỏng vấn (từ 09/11/2026).
@@ -157,4 +199,4 @@
 
 ---
 
-_Cập nhật: 07/11/2026 (Tạo file - ghi buổi 01: review Project 2, 7 lỗi, cụm từ kỹ thuật, câu trả lời cải thiện, kế hoạch 30 ngày)._
+_Cập nhật: 11/11/2026 (Buổi 02: pass gặp account manager NBCU; sửa câu chat với anh Đạt; action plan speaking 3 tuần 11/11 → 02/12/2026). Trước đó: 07/11/2026 (Tạo file - ghi buổi 01: review Project 2, 7 lỗi, cụm từ kỹ thuật, câu trả lời cải thiện, kế hoạch 30 ngày)._
