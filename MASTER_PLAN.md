@@ -15,7 +15,7 @@
                  ↓
         📍 MỐC QUÝ          → 02_EXECUTION/SPRINT_CALENDAR.md
                  ↓
-        🏃 SPRINT 2 TUẦN    → 02_EXECUTION/sprints/S2.md   (tối đa 5 việc)
+        🏃 SPRINT 2 TUẦN    → 02_EXECUTION/sprints/S3.md   (tối đa 5 việc)
                  ↓
         🔁 THÓI QUEN HÀNG NGÀY
 ```
@@ -207,7 +207,7 @@ planing/
 | Cần gì                   | Mở file                                                                                                                  |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------ |
 | Bản đồ tra cứu siêu tốc  | [INDEX.md](./INDEX.md)                                                                                                   |
-| Hôm nay làm gì           | [02_EXECUTION/sprints/S2.md](./02_EXECUTION/sprints/S2.md)                                                               |
+| Hôm nay làm gì           | [02_EXECUTION/sprints/S3.md](./02_EXECUTION/sprints/S3.md)                                                               |
 | Lịch 24h & Van xả        | [02_EXECUTION/DAILY_SCHEDULE.md](./02_EXECUTION/DAILY_SCHEDULE.md)                                                       |
 | Luật chơi sprint         | [02_EXECUTION/SCRUM_FRAMEWORK.md](./02_EXECUTION/SCRUM_FRAMEWORK.md)                                                     |
 | Mốc quý                  | [02_EXECUTION/SPRINT_CALENDAR.md](./02_EXECUTION/SPRINT_CALENDAR.md)                                                     |

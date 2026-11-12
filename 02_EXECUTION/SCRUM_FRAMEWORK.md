@@ -149,7 +149,7 @@ CHỦ NHẬT 21:00 - 21:15  (chỉ sprint cuối, tức 2 tuần/lần)
 | File                                                                   | Vai trò                    |
 | ---------------------------------------------------------------------- | -------------------------- |
 | [SPRINT_CALENDAR.md](./SPRINT_CALENDAR.md)                             | Lịch sprint + mốc quý      |
-| [sprints/S2.md](./sprints/S2.md)                                       | Sprint đang chạy           |
+| [sprints/S3.md](./sprints/S3.md)                                       | Sprint đang chạy           |
 | [../MASTER_PLAN.md](../MASTER_PLAN.md)                                 | 5 mục tiêu lớn             |
 | [../me/lifestyle/SELF_UNDERSTANDING.md](../00_CORE/SELF_UNDERSTANDING.md) | Hiểu bản thân       |
 

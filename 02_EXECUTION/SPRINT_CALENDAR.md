@@ -67,8 +67,8 @@
 | Sprint  | Từ         | Đến        | Loại            |
 | ------- | ---------- | ---------- | --------------- |
 | S1      | 12/10/2026 | 25/10/2026 | ✅ Đã xong (L3 khai giảng + giảm nợ về 2.8M) |
-| **S2**  | 26/10/2026 | 08/11/2026 | 🏃 **Đang chạy** (Chốt sổ T10 + Kiểm chứng chi T11 ≤ 9.5M) |
-| S3      | 09/11/2026 | 22/11/2026 | 🏃 (Sát mốc 43tr học phí năm 1) |
+| S2      | 26/10/2026 | 08/11/2026 | ✅ **Đã xong** (TMA tăng lương sớm +1M, nhận slot NBCU US, két BIDV >33M) |
+| **S3**  | 09/11/2026 | 22/11/2026 | 🏃 **Đang chạy** (Pass phỏng vấn NBCU US, luyện Speaking 2–3 tuần, bàn giao xong intern Hùng) |
 | **S4**  | 23/11/2026 | 06/12/2026 | 🔋 **NGHỈ**     |
 | S5      | 07/12/2026 | 20/12/2026 | 🏃 (Chạm trần 50tr) |
 | S6      | 21/12/2026 | 03/01/2027 | 🏃 (Tết Dương lịch) |
@@ -115,7 +115,7 @@
 | File                                             | Vai trò                   |
 | ------------------------------------------------ | ------------------------- |
 | [SCRUM_FRAMEWORK.md](./SCRUM_FRAMEWORK.md)       | Luật chơi + mẫu sprint    |
-| [sprints/S2.md](./sprints/S2.md)                 | Sprint đang chạy          |
+| [sprints/S3.md](./sprints/S3.md)                 | Sprint đang chạy          |
 | [../MASTER_PLAN.md](../MASTER_PLAN.md)           | 5 mục tiêu lớn            |
 
 ---

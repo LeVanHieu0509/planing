@@ -88,7 +88,7 @@ graph TD
 
 ```
 02_EXECUTION/
-├── SPRINT HIỆN TẠI:        sprints/S2.md (26/10 → 08/11/2026 - Mỗi sáng mở 1 phút)
+├── SPRINT HIỆN TẠI:        sprints/S3.md (09/11 → 22/11/2026 - Mỗi sáng mở 1 phút)
 ├── LỊCH TRÌNH 24H:         DAILY_SCHEDULE.md (Lịch chi tiết, 2 van xả T4 & CN)
 ├── NHẬT KÝ CUỘC ĐỜI:       DAILY_JOURNAL.md (Ghi lại hành trình từ 24 tuổi)
 ├── QUY CHẾ SCRUM:          SCRUM_FRAMEWORK.md (Chu kỳ 2 tuần, check-in CN 21:00)
@@ -132,7 +132,7 @@ graph TD
 
 | Tình huống thực tế của Hiếu | Mở ngay file này | Mục đích |
 | :--- | :--- | :--- |
-| **Mỗi sáng thức dậy (07:00)** | [02_EXECUTION/sprints/S2.md](./02_EXECUTION/sprints/S2.md) | Xem task trọng tâm hôm nay (1 phút). |
+| **Mỗi sáng thức dậy (07:00)** | [02_EXECUTION/sprints/S3.md](./02_EXECUTION/sprints/S3.md) | Xem task trọng tâm hôm nay (1 phút). |
 | **Quên lịch sinh hoạt / Giờ giấc** | [02_EXECUTION/DAILY_SCHEDULE.md](./02_EXECUTION/DAILY_SCHEDULE.md) | Xem khung giờ 24h & nguyên tắc 2 van xả. |
 | **Vừa tiêu tiền / Chuyển khoản** | [T11_2026_GIAO_DICH.md](./01_ROADMAPS/M2_FINANCE/trackers/T11_2026_GIAO_DICH.md) | Ghi nhận chi tiêu ngay lập tức. |
 | **Khi thấy nản / Mất động lực** | [00_CORE/HIEU_MINDSET.md](./00_CORE/HIEU_MINDSET.md) | Đọc lại Bộ Tam Kiếm Thực Thi & 3 Trụ Cột Động Lực. |

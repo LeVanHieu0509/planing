@@ -1,7 +1,7 @@
 # 🚀 BẮT ĐẦU TỪ ĐÂY - HIEU LIFE OS (SECOND BRAIN)
 
 > **Hiếu Lê Văn - 25 tuổi - Software Developer**  
-> **Sprint hiện tại:** **[S2 · 26/10/2026 → 08/11/2026](./02_EXECUTION/sprints/S2.md)** (Chu kỳ 2 tuần/sprint)  
+> **Sprint hiện tại:** **[S3 · 09/11/2026 → 22/11/2026](./02_EXECUTION/sprints/S3.md)** (Chu kỳ 2 tuần/sprint)  
 > 🗺️ **Bản đồ tra cứu toàn diện (Map of Content): [INDEX.md](./INDEX.md)**  
 > **Đọc file này 5 phút là nắm toàn bộ la bàn cuộc đời.**
 
@@ -58,7 +58,7 @@ Bot OKX      → dự án cá nhân, không phải nguồn thu, không bơm thê
 
 | File                                                                         | Khi nào                    |
 | ---------------------------------------------------------------------------- | -------------------------- |
-| [02_EXECUTION/sprints/S2.md](./02_EXECUTION/sprints/S2.md)                                 | Mỗi sáng, 1 phút           |
+| [02_EXECUTION/sprints/S3.md](./02_EXECUTION/sprints/S3.md)                                 | Mỗi sáng, 1 phút           |
 | [02_EXECUTION/DAILY_SCHEDULE.md](./02_EXECUTION/DAILY_SCHEDULE.md) | Khi quên lịch hôm nay      |
 | [01_ROADMAPS/M2_FINANCE/trackers/T11_2026_GIAO_DICH.md](./01_ROADMAPS/M2_FINANCE/trackers/T11_2026_GIAO_DICH.md)       | Ghi chi tiêu ngay khi tiêu |
 
@@ -66,7 +66,7 @@ Bot OKX      → dự án cá nhân, không phải nguồn thu, không bơm thê
 
 | File                                                   | Việc                         |
 | ------------------------------------------------------ | ---------------------------- |
-| [02_EXECUTION/sprints/S2.md](./02_EXECUTION/sprints/S2.md)           | Check-in 15 phút             |
+| [02_EXECUTION/sprints/S3.md](./02_EXECUTION/sprints/S3.md)           | Check-in 15 phút             |
 | [02_EXECUTION/SPRINT_CALENDAR.md](./02_EXECUTION/SPRINT_CALENDAR.md) | Xem mốc quý để chọn việc mới |
 
 ### Cuối tháng

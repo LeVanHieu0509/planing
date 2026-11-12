@@ -211,7 +211,7 @@
 
 ## 🔗 LIÊN KẾT
 - Lộ trình tổng thể: [IMMERSION_ROADMAP.md](./IMMERSION_ROADMAP.md)
-- Sprint hiện tại: [../../02_EXECUTION/sprints/S2.md](../../../02_EXECUTION/sprints/S2.md)
+- Sprint hiện tại: [../../02_EXECUTION/sprints/S3.md](../../../02_EXECUTION/sprints/S3.md)
 
 ---
 

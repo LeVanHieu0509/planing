@@ -50,9 +50,9 @@
 | 3. Quỹ mẹ tháng 11 (`C02`)                                      | **Anh Nghĩa** (Phường)                     |   2,000,000 | ✅ Đã trả trước 23/10 (T11 không cần chuyển nữa)                                                    |
 | 4. Phần Nhà ở 1/4 của Hiếu (`C01`)                              | **Timo — Hũ Nhà ở**                        |   2,650,000 | ✅ Đã chuyển `2,012,296đ` (VCB) + `637,704đ` (BIDV) sang Timo (01/11)                               |
 | 5. Toàn bộ Sinh hoạt cá nhân `C03–C10` (`4,404,442đ`) + Quỹ BIT | **Timo — Các Hũ chi tiêu**                 |   4,973,227 | ✅ Đã gom đủ trên Timo (`7,623,227đ` tổng) — tiết kiệm hơn trần 9.5M được `445k`!                   |
-| 6. **Trích lập Quỹ NY / Hẹn hò cố định (`2,000,000đ/tháng`)**   | **Timo — Hũ 7 · ❤️ Quỹ NY / Hẹn hò**       |   2,000,000 | ⏳ **Chờ nhận lương TMA (05/11) trích `2,000,000đ` từ BIDV sang Timo (dư tích lũy cho Lễ/Du lịch)** |
+| 6. **Trích lập Quỹ NY / Hẹn hò cố định (`1,000,000đ/tháng`)**   | **Timo — Hũ 7 · ❤️ Quỹ NY / Hẹn hò**       |   1,000,000 | ⏳ **Chờ nhận lương TMA (05/11) trích `1,000,000đ` từ BIDV sang Timo (dư tích lũy cho Lễ/Du lịch)** |
 
-### 🏺 BẢNG PHÂN HŨ TRỰC TIẾP TRÊN TIMO (`7,623,227 VND` HIỆN TẠI + `2,000,000 VND` HŨ QUỸ NY MỞ NGÀY 05/11)
+### 🏺 BẢNG PHÂN HŨ TRỰC TIẾP TRÊN TIMO (`7,623,227 VND` HIỆN TẠI + `1,000,000 VND` HŨ QUỸ NY MỞ NGÀY 05/11)
 
 > ⚡ **Nguyên tắc đơn giản nhất:** Chia hết 100% vào các Hũ ngay đầu tháng (không cần rút lắt nhắt theo tuần). Khi quét QR hoặc chuyển khoản trên Timo, tiêu mục nào thì **chọn nguồn tiền trực tiếp từ đúng Hũ đó** — hết Hũ nào dừng chi mục đó!
 
@@ -64,7 +64,7 @@
 | **Hũ 4 · ☕ `Quan hệ & Dự phòng`**                | **C06+C08+C10**  |     **604,442** |    **451,000** |            **154,364** | ✅ Khớp app 04/11 · 03/11 rút **357,000đ tiền mặt** (qua Nguyễn Ngọc Tuấn) - chuyển nội bộ, không phải chi |
 | **Hũ 5 · 🏍️ `Xăng xe` (Đi lại)**                  | **C05**          |     **300,000** |          **0** |            **300,000** | Đổ xăng 80k (03–04/11) trả bằng **tiền mặt** → ngân sách C05 thực còn 220k                                    |
 | **Hũ 6 · 💻 `Quỹ BIT`**                           | **Ngoại bảng**   |     **603,785** |          **0** |            **603,785** | 🔒 **Cấm đụng!** Dùng thanh toán bill Claude Code (~595k) cho BIT, sau đó BIT hoàn lại vào đây.                 |
-| **Hũ 7 · ❤️ `Quỹ NY / Hẹn hò`** _(05/11)_         | **C06 (Dating)** |   **2,000,000** |          **0** |      _(Chờ nạp 05/11)_ | ⏳ **Nạp `2,000,000đ/tháng` khi lương TMA về (`05/11`)**. Tháng nào chưa tiêu hết giữ nguyên tích lũy trong Hũ! |
+| **Hũ 7 · ❤️ `Quỹ NY / Hẹn hò`** _(05/11)_         | **C06 (Dating)** |   **1,000,000** |          **0** |      _(Chờ nạp 05/11)_ | ⏳ **Nạp `1,000,000đ/tháng` khi lương TMA về (`05/11`)**. Tháng nào chưa tiêu hết giữ nguyên tích lũy trong Hũ! |
 | **TỔNG CỘNG HIỆN TẠI TRÊN TIMO (6 HŨ)**           |                  |   **7,658,227** |    **667,000** |          **6,991,227** | Khớp app 04/11 (gồm rút 357k ra tiền mặt) |
 
 ---
