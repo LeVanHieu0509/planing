@@ -46,6 +46,7 @@
     * Thứ Sáu (29/01 - 22 tháng Chạp): Làm việc remote tại quê.
     * **Giá vé thực tế (check 17/10/2026):** **3.300.000 VNĐ**.
     * **Áp mã giảm hoàn vé 1.000.000 VNĐ** (hạn dùng đến T01/2027, vừa kịp dùng) $\rightarrow$ Thực trả chiều đi chỉ còn: **2.300.000 VNĐ**!
+  - ✅ **CHIỀU VÀO ĐÃ ĐẶT (13/11/2026 01:00):** VietJet **T7 20/02/2027 (Rằm tháng Giêng) 17:05 Vinh → 18:55 SGN**, bay thẳng · Traveloka mã đặt chỗ **1409556501** · đã trả **2,993,099đ** · T2 22/02/2027 lên văn phòng.
   - **Chặng về (VII ➔ SGN):** 
     * Ngày bay: **Thứ Bảy, 20/02/2027** (Mùng 15 tháng Giêng - Rằm).
     * Giờ bay: **15:40 (3g40 chiều)** hoặc **17:00 (5g chiều)**.
@@ -85,4 +86,4 @@
 | **4. Kẹt xe ra sân bay Tân Sơn Nhất chiều 28/01** | **Thấp** | Chiều 21 tháng Chạp đường Cộng Hòa / Trường Chinh rất đông, chuyến bay 19:20 tối có thể bị trễ nếu ra muộn. | - Hiếu xin **nghỉ chiều Thứ Năm 28/01 (0.5 ngày phép)**.<br>- Ra sân bay sớm từ **16:30 – 17:00** (trước giờ bay 2.5 - 3 tiếng), gửi hành lý thong thả, ăn nhẹ trong phòng chờ. |
 | **5. Dòng tiền tháng 10 sau khi thanh toán** | **Không có** | Chi 5.3M có làm hụt tiền chi tiêu sinh hoạt không? | - ✅ Chiều đi đã trả 2,622,581 (25/10). Tiền mặt tự do (30/10) **~20.7M**; chiều vào ~3tr nữa vẫn còn **~17.7M**.<br>- Quỹ sinh hoạt 8-10M/tháng vẫn đủ đến ngày nhận lương 05/11. Rủi ro tài chính = 0%. |
 
-_Cập nhật: 30/10/2026 (Tiền mặt tự do 30/10 ~21.5M). Trước đó: 30/10/2026 (Tiền mặt tự do 30/10 ~21.9M). Trước đó: 27/10/2026 (Cập nhật tiền mặt tự do 27/10 ~23.2M). Trước đó: 25/10/2026 (Đã đặt chiều đi VJ-226 T6 29/01/2027 14:45, thực trả 2,622,581 sau tín dụng VJ; ngủ Vinh 1 đêm, 23 Chạp về cúng ông Táo; chiều vào chưa đặt). Trước đó: 24/10/2026 (Cập nhật tiền mặt tự do 24/10 ~19.0M). Trước đó: 17/10/2026 (Vé Tết CHƯA đặt; ngày về chốt T7 20/02; remote quanh Tết đã xác nhận theo tiền lệ; thông tin Coach chỉ link về file Coach)._
+_Cập nhật: 13/11/2026 (Đã đặt chiều vào VietJet 20/02/2027 17:05, trả 2,993,099). Trước đó: 30/10/2026 (Tiền mặt tự do 30/10 ~21.5M). Trước đó: 30/10/2026 (Tiền mặt tự do 30/10 ~21.9M). Trước đó: 27/10/2026 (Cập nhật tiền mặt tự do 27/10 ~23.2M). Trước đó: 25/10/2026 (Đã đặt chiều đi VJ-226 T6 29/01/2027 14:45, thực trả 2,622,581 sau tín dụng VJ; ngủ Vinh 1 đêm, 23 Chạp về cúng ông Táo; chiều vào chưa đặt). Trước đó: 24/10/2026 (Cập nhật tiền mặt tự do 24/10 ~19.0M). Trước đó: 17/10/2026 (Vé Tết CHƯA đặt; ngày về chốt T7 20/02; remote quanh Tết đã xác nhận theo tiền lệ; thông tin Coach chỉ link về file Coach)._
