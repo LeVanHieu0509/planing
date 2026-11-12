@@ -31,7 +31,7 @@ CHÊNH THẬT:                   ~2,200,000   (không phải 13tr)
 
 > ⚖️ **ÁP DỤNG NGUYÊN TẮC KẾ TOÁN THỰC THỂ & THANH KHOẢN (5 GIỎ TÀI CHÍNH):**
 >
-> 1. **Giỏ 1 - Ngoại bảng (Thu/Chi hộ & Giữ hộ):** Tiền mẹ gửi giữ hộ (`12.5M` nằm trọn 100% trong VCB) & Tiền trọ thu hộ hoàn toàn loại khỏi tài sản của Hiếu.
+> 1. **Giỏ 1 - Ngoại bảng (Thu/Chi hộ & Giữ hộ):** Tiền mẹ gửi giữ hộ (`15.5M` nằm trọn 100% trong VCB) & Tiền trọ thu hộ hoàn toàn loại khỏi tài sản của Hiếu.
 > 2. **Giỏ 2 - Tiền mặt thanh khoản cao (T+0):** Tiền mặt thực tế của Hiếu dùng cho sinh hoạt, Emergency Fund & Quỹ học phí Thạc sĩ năm 1 43M.
 > 3. **Giỏ 3 - Đầu tư bot trading linh hoạt (T+1/T+2):** OKX 8M (Toàn bộ 8M gộp chạy bot tự động, tự sinh lời/lỗ).
 > 4. **Giỏ 4 - Tích sản dài hạn (Crypto Locked):** Binance 78,262 W (~30M thị giá; vốn gốc nạp 111.5M) - tài sản ròng thật, nhưng khóa không dùng cho chi tiêu.
@@ -70,7 +70,7 @@ CHÊNH THẬT:                   ~2,200,000   (không phải 13tr)
 
 > 📌 **QUY TẮC KẾ TOÁN THẬP TOÀN (11/10/2026):**
 >
-> 1. **Tiền mẹ gửi nhờ giữ hộ (12,500,000 VND - nằm trọn 100% trong VCB; 02/11 mẹ lấy 500k):** Mẹ gửi tổng 20tr (đợt 1: 5tr + đợt 2: 7tr + đợt 3: 3tr + đợt 4: 5tr vào VCB cuối T10), trừ 2.5tr mẹ góp nghĩa vụ quân sự, 500k cho bà ngoại, 2tr phường T11 suất mẹ (23/10) và 2tr rút cho mẹ cuối T10 ➡️ Còn lại **13.0tr** là tiền giữ hộ cho mẹ (tách riêng 100% trong VCB), **hoàn toàn loại ra khỏi tài sản của Hiếu**.
+> 1. **Tiền mẹ gửi nhờ giữ hộ (15,500,000 VND - nằm trọn 100% trong VCB; 02/11 mẹ lấy −500k, 13/11 mẹ gửi thêm +3M):** Mẹ gửi tổng 23tr (đợt 1: 5tr + đợt 2: 7tr + đợt 3: 3tr + đợt 4: 5tr vào VCB cuối T10 + đợt 5: 3tr ngày 13/11), trừ 2.5tr mẹ góp nghĩa vụ quân sự, 500k cho bà ngoại, 2tr phường T11 suất mẹ (23/10), 2tr rút cho mẹ cuối T10 và 500k mẹ lấy ngày 02/11 ➡️ Còn lại **15.5tr** là tiền giữ hộ cho mẹ (tách riêng 100% trong VCB), **hoàn toàn loại ra khỏi tài sản của Hiếu**.
 > 2. **Danh mục Binance W (78,262.48 con):**
 >    - **Vốn gốc thực tế đã nạp (04/2024 → nay):** **111,495,612 VND** (111.5 triệu đồng - Đã đối soát qua dữ liệu lệnh P2P).
 >    - **Giá trị thị trường hiện tại (15/10/2026):** **30,000,000 VND** (Thị giá: ~đ383.33 / W).
@@ -276,5 +276,5 @@ cá nhân của anh. Đã bỏ khỏi bảng tổng tài sản phía trên.
 
 ---
 
-_Cập nhật: 02/11/2026 (Mẹ lấy 500k từ VCB 02/11 (chuyển HO THI NHA) → tiền mẹ giữ hộ còn 12,500,000). Trước đó: 01/11/2026 (Đối chiếu sao kê Timo 31/10 & 01/11: chốt sổ 31/10 tiền mặt 22,254,505, Net Worth 57,454,505; ngày 01/11 tiền mặt 22,219,540, tiền tự do 19,419,540, Net Worth 57,419,540). Trước đó: 31/10/2026 (Thanh toán Shopee 1,827,637 qua VietinBank, nợ còn 2.8M). Trước đó: 30/10/2026 (Đóng phí CC; tiền mẹ 13M; Timo + BIT hoàn 578k; đối chiếu 5 NH). Trước đó: 27/10/2026 (Nhận lương BIT 7M vào VietinBank, mạng 125k). Trước đó: 25/10/2026 (Trả vé Tết chiều đi 2.62tr). Trước đó: 24/10/2026 (Đồng bộ số liệu 24/10: quỹ mẹ 10M, tiền mẹ giữ hộ trong VCB). Trước đó: 15/10/2026 (Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027). Trước đó: 13/09/2026 (V2 - Chốt hụi 4tr T08 thuộc quỹ mẹ 500tr, bỏ khỏi bảng tài sản (còn 46.4tr).
+_Cập nhật: 13/11/2026 (Mẹ gửi thêm 3,000,000đ giữ hộ → tiền mẹ giữ hộ trong VCB lên 15,500,000). Trước đó: 02/11/2026 (Mẹ lấy 500k từ VCB 02/11 (chuyển HO THI NHA) → tiền mẹ giữ hộ còn 12,500,000). Trước đó: 01/11/2026 (Đối chiếu sao kê Timo 31/10 & 01/11: chốt sổ 31/10 tiền mặt 22,254,505, Net Worth 57,454,505; ngày 01/11 tiền mặt 22,219,540, tiền tự do 19,419,540, Net Worth 57,419,540). Trước đó: 31/10/2026 (Thanh toán Shopee 1,827,637 qua VietinBank, nợ còn 2.8M). Trước đó: 30/10/2026 (Đóng phí CC; tiền mẹ 13M; Timo + BIT hoàn 578k; đối chiếu 5 NH). Trước đó: 27/10/2026 (Nhận lương BIT 7M vào VietinBank, mạng 125k). Trước đó: 25/10/2026 (Trả vé Tết chiều đi 2.62tr). Trước đó: 24/10/2026 (Đồng bộ số liệu 24/10: quỹ mẹ 10M, tiền mẹ giữ hộ trong VCB). Trước đó: 15/10/2026 (Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027). Trước đó: 13/09/2026 (V2 - Chốt hụi 4tr T08 thuộc quỹ mẹ 500tr, bỏ khỏi bảng tài sản (còn 46.4tr).
 Giữ nguyên: tách bạch Tiền mặt/Đầu tư/Phải thu, trần đầu tư 50tr, Bot OKX = dự án cá nhân.)_

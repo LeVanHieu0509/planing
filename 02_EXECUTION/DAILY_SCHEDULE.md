@@ -1,196 +1,188 @@
-# 📅 DAILY SCHEDULE - LỊCH HÀNG NGÀY V6.1 (T10/2026 - T01/2027)
+# 📅 DAILY SCHEDULE - LỊCH HÀNG NGÀY V7.0 (NHỊP CA TỐI NBCU US · TỪ 13/11/2026)
 
-> **🎯 TRỌNG TÂM CHIẾN DỊCH 90 NGÀY ALL-IN ENGLISH (20/10/2026 → 12/01/2027)**
-> **Phương châm:** Dồn thời gian rảnh (trừ tối T4 + tối CN để relax) vào Tiếng Anh (Giao tiếp L3 + Ngữ pháp Logic Infographic)
-> **Motto:** "Kỷ luật tạo nên tự do"
-> **Dậy:** 07:45 (T2→T5 ngày lên văn phòng - ngủ đủ giấc, không ép học sáng sớm) | 08:00 (T6 WFH cả ngày) | 07:30 (T7/CN đi Gym sáng)
-> **Ngủ:** 23:30–23:45 mỗi đêm - 30p trước khi ngủ dành cho việc ĐỌC SÁCH TIẾNG ANH.
-> **GYM:** T2 tối + T6 tối + T7 sáng + CN sáng - 4 buổi/tuần (giữ năng lượng đỉnh cao).
-> **Lớp Tiếng Anh:** T3+T5 tối 19:15-20:45 | ~~Phản Xạ CN~~ (đã học xong, tạm bỏ khỏi lịch từ 26/10/2026)
-> **Làm TMA & Học TOEIC khi WFH (T2 · T4 · T6):** T3 + T5 lên văn phòng cả ngày · **T2 + T4: sáng văn phòng, chiều WFH tại nhà** · **T6: WFH full ngày tại nhà** → **Đưa lịch học TOEIC vào cả 3 buổi WFH tại nhà: Chiều T2 (30p Part 5) · Chiều T4 (30p Part 5+6) · Full ngày T6 (45p Part 7 + Ôn tuần). Không ép dậy sớm buổi sáng.**
-> **Từ 27/02/2027:** Coach TOEIC **chiều T7 + chiều CN** (tuần cafe anh em: T7 → T4 ghé học trên đường về) - xem [COACH_1ON1_KIM_HAN_2027.md](../01_ROADMAPS/M1_ENGLISH/toeic/COACH_1ON1_KIM_HAN_2027.md)
-> **Cập nhật:** 02/11/2026 - Bỏ ép học sáng sớm (ngủ tới 07:45–08:00); gắn cố định 3 buổi tự học TOEIC vào đúng 3 ngày WFH tại nhà (Chiều T2, Chiều T4, Full ngày T6).
-
----
-
-## 🇺🇸 LỊCH NGÀY CÓ CA NBCU (DỰ KIẾN TỪ KHI ONBOARD T11/2026 · T2–T6)
-
-> Áp dụng khi bắt đầu dự án NBCU US. Các lịch chi tiết từng thứ bên dưới là **lịch cũ trước NBCU**, giữ để tham khảo đến khi chốt giờ chính thức.
-
-```
-02:00–09:30  😴 NGỦ CỐ ĐỊNH 7.5h (hết ca là ngủ, không lướt điện thoại)
-09:30–09:45  Dậy, vệ sinh, ăn sáng nhẹ
-09:45–10:15  📘 TOEIC Part 5/7 (T2/T6) · Lướt chunks (T3/T5) · Audio EN (T4)
-10:30–13:00  💼 TMA (remote) - 11:00 nếu lên văn phòng (cần anh Đạt duyệt)
-13:00–14:00  Ăn trưa, chợp mắt 20p
-14:00–17:30  💼 TMA + 💻 BIT ~1.5h (chuyển toàn bộ BIT sang chiều)
-18:00–19:00  💪 GYM (T2, T6)  ·  19:15–20:45 ★ LỚP L3 (T3, T5 - đến 12/01/2027)  ·  18:30 ĐÁ BANH (T4)
-21:00–22:25  🍚 Ăn tối, nghỉ · nhắn tin / nói chuyện (khung đẹp nhất trước ca)
-22:30–01:30  🇺🇸 CA NBCU (30p đầu bên US check email rồi gửi việc)
-01:30–02:00  Tắt máy, vệ sinh → ngủ
-```
-
-**Ngày không có ca (T7, CN, ngày nghỉ):** ngủ 23:30 như cũ. **Tối T4:** xin nghỉ ca; nếu phải làm thì chỉ làm ca, không BIT/học.
+> **🎯 TRỌNG TÂM CHIẾN DỊCH NBCU US & ALL-IN ENGLISH (ÁP DỤNG CHÍNH THỨC TỪ 13/11/2026 — XUYÊN SUỐT 2 NĂM TỚI)**
+> **Motto:** *"Kỷ luật tạo nên tự do — Bảo vệ giấc ngủ 8–9h là bảo vệ phong độ 2 năm đường dài"*
+> **Ngủ cố định:** **`00:30 – 09:30`** (9 tiếng cho ngày không Gym sáng T3/T4/T5) | **`00:30 – 08:30`** (8 tiếng cho ngày tập Gym sáng T2/T6/T7/CN). Hết ca tối `24:00` là tắt máy, vệ sinh cá nhân, **`00:30` lên giường ngủ ngay**.
+> **Khung Sáng Vàng (`09:00 – 12:00` tại nhà):** **Đẩy toàn bộ GYM + LÀM BIT + LUYỆN SPEAKING PHẢN XẠ lên buổi sáng** khi đầu óc tỉnh táo nhất (vì sáng không còn phải lên công ty lúc 08:30).
+> **Cơ chế Điểm danh TMA & 2 Ca NBCU US (`13:30 – 18:00` & `21:00 – 24:00`):**
+> - **Ca 1 (Chiều `13:30 – 18:00`):** Những ngày cần check-in văn phòng, đầu giờ chiều chạy lên công ty điểm danh xong rồi làm hoặc chạy về nhà làm; **lúc về có thể nhờ Alex điểm danh dùm** (vì Alex đi ca sáng về trưa).
+> - **Khoảng nghỉ giữa 2 ca (`18:00 – 21:00` — 3 tiếng):**
+>   - **Tối T3 & T5 (`18:30 – 20:45`):** Học **Lớp Tiếng Anh SAIGON SPECIAL Level 3** — vừa khớp khít giữa 2 ca NBCU (`18:00` tan Ca 1 $\rightarrow$ ăn nhẹ $\rightarrow$ `18:30–20:45` học L3 $\rightarrow$ `21:00` vào Ca 2).
+>   - **Tối T4 (`18:30 – 20:30`):** **Đá banh ⚽** xả thể lực giữa 2 ca.
+>   - **Tối T2 & T6 (`18:00 – 21:00`):** Ăn tối thong thả, nghỉ ngơi, hoặc đi ăn tối / cafe với NY trước khi vào ca `21:00`.
+> - **Ca 2 (Tối `21:00 – 24:00`):** Sync trực tiếp với team NBCU US tại nhà (3 tiếng).
+> **Từ 27/02/2027:** Coach TOEIC 1:1 Kim Hân **chiều T7 + chiều CN** — xem [COACH_1ON1_KIM_HAN_2027.md](../01_ROADMAPS/M1_ENGLISH/toeic/COACH_1ON1_KIM_HAN_2027.md).
 
 ---
 
-## THỨ 2 - SÁNG VĂN PHÒNG · CHIỀU WFH (+ TOEIC P5) · TỐI GYM + BIT
+## 🇺🇸 KHUNG XƯƠNG SỐNG NGÀY TRONG TUẦN (T2 → T6 · NHỊP NBCU US)
 
 ```
-07:45        Dậy đủ giấc, vệ sinh cá nhân, ăn sáng nhẹ
-08:15-08:45  Di chuyển: 🎧 Podcast EN
-09:00-12:00  Làm TMA tại văn phòng
-12:00-12:30  Di chuyển về nhà: 🎧 Podcast EN
-12:30-13:00  Ăn trưa tại nhà
-13:00-18:00  Làm TMA remote tại nhà + 💻 song song task BIT (~1h)
-18:00-18:30  📘 TOEIC WFH #1 - Chiều T2 (30p ngay tại bàn ở nhà hoặc xen kẽ buổi chiều):
-             → 5p bấm giờ 15 câu Part 5 (20s/câu) + 25p tra sơ đồ Ngữ pháp Infographic & ghi TOEIC_ERROR_MASTER.md
-18:30-19:30  Ăn tối + nghỉ ngơi trước khi tập
-19:30-20:30  ★ GYM (4 buổi/tuần)
-20:30-21:15  Tắm + chuẩn bị bữa ăn T3 (meal prep - BẮT BUỘC cho ngày đi học)
-21:15-22:45  💻 LÀM BIT (1.5h - Remote job 7tr/tháng - prompt AI & docs bằng 100% tiếng Anh)
-22:45-23:15  📖 ĐỌC SÁCH TIẾNG ANH / 🎙️ Voice Memo 10p (Wind down - Không màn hình)
-23:15-23:30  Vệ sinh cá nhân, tắt đèn
-23:30        Ngủ
+00:30–08:30/09:30  😴 NGỦ CỐ ĐỊNH 8–9 TIẾNG (T2/T6 dậy 08:30 đi Gym · T3/T4/T5 dậy 09:30)
+09:00–12:00        ☀️ KHUNG SÁNG VÀNG: 💪 GYM (T2, T6) + 💻 LÀM BIT (1.5–2h) + 🎙️ Speaking EN (25–30p)
+12:00–13:30        🍚 Ăn trưa Lean Bulk, nghỉ ngơi · Chạy lên TMA điểm danh (nhờ Alex hỗ trợ đầu về)
+13:30–18:00        🇺🇸 CA 1 NBCU / TMA (4.5h — Code, đọc docs domain Media/VOD/AWS Lambda, xử lý ticket)
+18:00–21:00        ⚡ KHOẢNG NGHỈ 3H GIỮA 2 CA:
+                   • T3, T5 (18:30–20:45): ★ LỚP TIẾNG ANH LEVEL 3 (vừa khít giữa 18:00 và 21:00!)
+                   • T4     (18:30–20:30): ★ ĐÁ BANH ⚽ xả stress
+                   • T2, T6 (18:00–21:00): 🍚 Ăn tối thong thả, nghỉ ngơi / cafe nhẹ với NY
+21:00–24:00        🇺🇸 CA 2 NBCU US (3h — Daily Standup, sync trực tiếp với US bằng khung BLUF & A-R-E)
+00:00–00:30        🌙 Đóng máy ngay, vệ sinh cá nhân, ghi sổ chi tiêu 1p, hạ nhiệt → 00:30 NGỦ
 ```
 
 ---
 
-## THỨ 3 - LỚP IMMERSION LEVEL 3 TỐI + BIT
+## THỨ 2 - SÁNG GYM + BIT · CHIỀU CA 1 NBCU · TỐI NGHỈ 3H · ĐÊM CA 2 NBCU
 
 ```
-07:45        Dậy đủ giấc, vệ sinh cá nhân, ăn sáng
-08:15-08:45  Di chuyển: 🎧 Podcast EN (nhẩm lại 3-5 Chunks chuẩn bị cho lớp tối)
-09:00-18:00  Đi làm TMA (tranh thủ 15p nghỉ trưa xem lướt chủ đề lớp tối)
-18:00-18:30  Di chuyển về: 🎧 Podcast EN
-18:30-19:00  Ăn tối nhanh (đã meal prep từ T2)
-19:15-20:45  ★ LỚP SAIGON SPECIAL LEVEL 3 (Tiếng Anh Nghe Nói Gò Vấp - 1.5h thực chiến)
-21:00-21:15  Về nhà, tắm, ăn nhẹ, ghi nhanh 3-5 Chunks hay vào LEVEL_3_TOPIC_LOG.md
-21:15-22:30  💻 LÀM BIT (1.25h - Xử lý remote tasks / fix bugs)
-22:30-23:00  📖 ĐỌC SÁCH TIẾNG ANH (Wind down - 30p)
-23:00-23:30  Vệ sinh cá nhân, tắt đèn
-23:30        Ngủ
-```
-
----
-
-## THỨ 4 - SÁNG VĂN PHÒNG · CHIỀU WFH (+ BIT & TOEIC P5/P6) · TỐI ĐÁ BANH + RELAX
-
-```
-07:45        Dậy đủ giấc, chuẩn bị + ăn sáng
-08:15-08:45  Di chuyển: 🎧 Podcast EN
-09:00-12:00  Làm TMA tại văn phòng
-12:00-12:30  Di chuyển về nhà: 🎧 Podcast EN
-12:30-13:00  Ăn trưa tại nhà
-13:00-17:30  Làm TMA remote tại nhà + 💻 song song task BIT (~1h)
-17:30-18:00  📘 TOEIC WFH #2 - Chiều T4 (30p ngay tại bàn ở nhà trước khi đi đá banh):
-             → 8p bấm giờ 10 câu Part 5 + 1 đoạn Part 6 (4 câu) + 22p tra Ngữ pháp Infographic & ghi lỗi
-18:00-18:30  Chuẩn bị đi đá banh
-18:30-20:30  ★ ĐÁ BANH ⚽ (van xả thể lực, giữ tinh thần sảng khoái)
-21:00-21:30  Tắm + ăn nhẹ + meal prep cho T5
-21:30-23:15  🛋️ RELAX - xả stress sau đá banh (không BIT, không học)
-23:15-23:30  Vệ sinh cá nhân, tắt đèn
-23:30        Ngủ
+08:30        Dậy (đủ 8h ngủ từ 00:30), vệ sinh cá nhân, ăn sáng nhẹ trước tập
+09:00-10:00  ★ GYM SÁNG (Buổi 1/4 - Phòng tập vắng, đẩy tạ Lean Bulk cực sung)
+10:00-10:20  Về nhà, tắm rửa, nạp shake/bữa phụ sau tập
+10:20-12:00  💻 LÀM BIT (~1.75h - Xử lý task đầu tuần khi não tỉnh táo nhất)
+12:00-12:30  🎙️ Luyện Speaking phản xạ NBCU (25–30p với ChatGPT Voice theo NBCU_MY_ANSWER_BANK.md)
+12:30-13:30  Ăn trưa + chuẩn bị / chạy lên công ty điểm danh (có thể nhờ Alex điểm danh dùm khi về)
+13:30-18:00  🇺🇸 CA 1 NBCU / TMA (4.5h)
+18:00-21:00  🍚 Ăn tối thong thả, nghỉ ngơi, chuẩn bị sẵn đồ ăn nhẹ cho T3 (meal prep)
+21:00-24:00  🇺🇸 CA 2 NBCU US (3h - Họp & làm việc với team Mỹ tại nhà)
+00:00-00:30  Tắt máy ngay, vệ sinh cá nhân, ghi sổ chi tiêu
+00:30        Ngủ
 ```
 
 ---
 
-## THỨ 5 - LỚP IMMERSION LEVEL 3 TỐI + BIT
+## THỨ 3 - NGỦ TỚI 09:30 · SÁNG BIT + SPEAKING · CHIỀU CA 1 · TỐI LỚP L3 (18:30–20:45) · ĐÊM CA 2
 
 ```
-07:45        Dậy đủ giấc, vệ sinh cá nhân, ăn sáng
-08:15-08:45  Di chuyển: 🎧 Podcast EN (nhẩm lại Chunks cho lớp tối)
-09:00-18:00  Đi làm TMA
-18:00-18:30  Di chuyển về
-18:30-19:00  Ăn tối nhanh (đã meal prep từ T4)
-19:15-20:45  ★ LỚP SAIGON SPECIAL LEVEL 3 (Tiếng Anh Nghe Nói Gò Vấp - 1.5h)
-21:00-21:15  Về nhà, tắm, ăn nhẹ, ghi nhanh 3-5 Chunks hay vào LEVEL_3_TOPIC_LOG.md
-21:15-22:30  💻 LÀM BIT (1.25h - Remote tasks)
-22:30-23:00  📖 ĐỌC SÁCH TIẾNG ANH (Wind down - 30p)
-23:00-23:30  Vệ sinh cá nhân, tắt đèn
-23:30        Ngủ
-```
-
----
-
-## THỨ 6 - WFH FULL NGÀY (CHỐT XONG BIT & TOEIC TRONG NGÀY) · TỐI GYM + HẸN HÒ / TỰ DO
-
-```
-08:00        Dậy thong thả (WFH cả ngày tại nhà, không tốn thời gian đi đường), ăn sáng
-08:30-18:00  Làm TMA remote cả ngày tại nhà + 💻 song song task BIT (~2h, chốt xong 8h BIT trong tuần!)
-18:00-18:45  📘 TOEIC WFH #3 - Thứ 6 (45p ngay tại bàn ở nhà hoặc tranh thủ lúc vơi việc ban ngày):
-             → 15p bấm giờ 2–3 bài đọc Part 7 (8–10 câu) + 30p lọc 5 cặp Paraphrase/Collocations & tổng ôn lỗi T2+T4 trong TOEIC_ERROR_MASTER.md
-18:45-19:30  Ăn tối + nghỉ ngơi
-19:30-20:30  ★ GYM (buổi 2)
-20:30-22:45  ❤️ TỰ DO / HẸN HÒ / XEM SITCOM EN (BIT & TOEIC trong tuần đã hoàn tất 100%!)
-22:45-23:15  📖 ĐỌC SÁCH TIẾNG ANH / 🎙️ Voice Memo 10p (Wind down - Không màn hình)
-23:15-23:30  Vệ sinh cá nhân, tắt đèn
-23:30        Ngủ
+09:30        Dậy (ngủ trọn 9h từ 00:30 hồi phục cơ bắp sau Gym T2), vệ sinh, ăn sáng
+09:45-11:30  💻 LÀM BIT (~1.75h - Giải quyết gọn task BIT buổi sáng)
+11:30-12:00  🎙️ Luyện Speaking NBCU (20p) + Xem lướt Chunks chủ đề Lớp L3 tối nay (10p)
+12:00-13:30  Ăn trưa + di chuyển lên TMA điểm danh (🎧 nghe Podcast EN trên đường)
+13:30-18:00  🇺🇸 CA 1 NBCU / TMA (4.5h)
+18:00-18:30  Ăn tối nhanh + di chuyển qua lớp học
+18:30-20:45  ★ LỚP SAIGON SPECIAL LEVEL 3 (Khớp hoàn hảo vào khe nghỉ giữa 18:00 và 21:00!)
+20:45-21:00  Về tới bàn làm việc, uống nước, mở máy
+21:00-24:00  🇺🇸 CA 2 NBCU US (3h - Đà phản xạ tiếng Anh từ lớp L3 chuyển thẳng vào họp với Mỹ!)
+00:00-00:30  Tắt máy, tắm nhanh/vệ sinh, ghi 3 Chunks hay vào LEVEL_3_TOPIC_LOG.md
+00:30        Ngủ
 ```
 
 ---
 
-## THỨ 7 - GYM SÁNG · CẢ NGÀY & TỐI HẸN HÒ / TỰ DO (+ ~2H BIT FLEXIBLE NẾU CẦN)
+## THỨ 4 - NGỦ TỚI 09:30 · SÁNG BIT + SPEAKING · CHIỀU CA 1 · TỐI ĐÁ BANH (18:30–20:30) · ĐÊM CA 2
 
 ```
-07:30        Dậy, chuẩn bị
-07:45-08:45  ★ GYM sáng (buổi 3)
-09:00-12:00  Đi cà phê thư giãn / hẹn hò / bạn bè
-12:00-15:00  Ăn trưa, việc nhà, dọn dẹp phòng ốc, nghỉ ngơi
-15:00-16:00  🎙️ Hồi sinh chủ đề Level 2 cũ (LEVEL_2_RETROSPECTIVE.md)
-16:00-18:00  💻 [FLEXIBLE ~2h nếu rảnh hoặc có task BIT gấp / deploy release Jenkins — nếu không có task gấp thì nghỉ hẳn!]
-18:00-22:30  ❤️ KHUNG GIỜ VÀNG HẸN HÒ / ĐI CHƠI TỐI THỨ 7 (hoàn toàn tự do, không cố định BIT tối T7 nữa)
-22:45-23:15  📖 ĐỌC SÁCH TIẾNG ANH (Wind down - Không màn hình)
-23:15-23:30  Vệ sinh cá nhân, tắt đèn
-23:30        Ngủ
-```
-
----
-
-## CHỦ NHẬT - GYM SÁNG · NGUYÊN NGÀY & TỐI HẸN HÒ / RELAX (10:30 → 22:30)
-
-```
-07:30-08:30  Dậy thong thả, ăn sáng
-09:00-10:00  ★ GYM sáng (buổi 4 - hoàn thành mục tiêu tuần)
-10:30-12:30  Cà phê / Thư giãn nhẹ nhàng
-12:30-13:30  Ăn trưa
-13:30-18:00  ❤️ Tự do / Hẹn hò / Bạn bè / Cầu lông (đã bỏ lớp Phản Xạ CN; chỉ mở máy làm BIT ~1-2h nếu có task đột xuất)
-18:00-22:30  ❤️ RELAX / HẸN HÒ TỐI CHỦ NHẬT / Gặp bạn bè, xả stress
-22:30-23:15  🛋️ Về nhà thư giãn, chuẩn bị tuần mới nhẹ nhàng
-23:15-23:30  Vệ sinh cá nhân, tắt đèn
-23:30        Ngủ
+09:30        Dậy đủ giấc (9h ngủ), vệ sinh cá nhân, ăn sáng
+09:45-11:30  💻 LÀM BIT (~1.75h - Hoàn thành phân nửa khối lượng BIT tuần)
+11:30-12:00  🎙️ Luyện Speaking phản xạ NBCU (25–30p ChatGPT Voice) / 📘 Đọc tài liệu EN
+12:00-13:30  Ăn trưa + điểm danh TMA (nhờ Alex hỗ trợ đầu về nếu làm tại nhà)
+13:30-18:00  🇺🇸 CA 1 NBCU / TMA (4.5h)
+18:00-18:30  Ăn nhẹ trước đá banh + chuẩn bị ra sân
+18:30-20:30  ★ ĐÁ BANH ⚽ (Van xả thể lực giữa tuần, giữ tinh thần sảng khoái)
+20:30-21:00  Về nhà, tắm mát, nạp nước điện giải/bữa tối nhẹ
+21:00-24:00  🇺🇸 CA 2 NBCU US (3h - Nếu tối T4 xin phép nghỉ ca hoặc nhẹ việc thì relax sớm)
+00:00-00:30  Vệ sinh cá nhân, tắt đèn
+00:30        Ngủ
 ```
 
 ---
 
-## 💻 TỔNG GIỜ LÀM BIT (GÓI GỌN TRONG TUẦN T2→T6 · CUỐI TUẦN FLEXIBLE) & ❤️ KHUNG GIỜ HẸN HÒ
+## THỨ 5 - NGỦ TỚI 09:30 · SÁNG BIT + SPEAKING · CHIỀU CA 1 · TỐI LỚP L3 (18:30–20:45) · ĐÊM CA 2
 
 ```
-1. LỊCH LÀM BIT CỐ ĐỊNH TRONG TUẦN (T2 → T6 = ĐỦ 8 TIẾNG/TUẦN):
-   • Song song lúc WFH tại nhà:  Chiều T2 (~1h) · Chiều T4 (~1h) · Full ngày T6 (~2h)      = 4h
-   • Buổi tối trong tuần:        Tối T2 (1.5h)  · Tối T3 (1.25h) · Tối T5 (1.25h)          = 4h
-   → TỔNG TRONG TUẦN (T2 → T6) = 8h/tuần (Hoàn tất xong từ chiều Thứ 6!).
-   → CUỐI TUẦN (T7 / CN): Chỉ dành ~2h Flexible nếu rảnh hoặc có task gấp / deploy Jenkins.
+09:30        Dậy (9h ngủ hồi phục sau đá banh T4), vệ sinh cá nhân, ăn sáng
+09:45-11:30  💻 LÀM BIT (~1.75h)
+11:30-12:00  🎙️ Luyện Speaking NBCU (20p) + Chuẩn bị Chunks cho Lớp L3 tối nay (10p)
+12:00-13:30  Ăn trưa + di chuyển điểm danh TMA (🎧 nghe Podcast EN)
+13:30-18:00  🇺🇸 CA 1 NBCU / TMA (4.5h)
+18:00-18:30  Ăn tối nhanh + di chuyển qua lớp học
+18:30-20:45  ★ LỚP SAIGON SPECIAL LEVEL 3 (Tiếng Anh Nghe Nói Gò Vấp)
+20:45-21:00  Về tới nhà, chuẩn bị vào ca
+21:00-24:00  🇺🇸 CA 2 NBCU US (3h)
+00:00-00:30  Tắt máy, vệ sinh cá nhân, ghi Chunks vào LEVEL_3_TOPIC_LOG.md
+00:30        Ngủ
+```
 
-2. ❤️ KHUNG GIỜ VÀNG ĐỂ HẸN HÒ / ĐI CHƠI (3 BUỔI/TUẦN):
-   • Tối Thứ 6 (từ 20:30 hoặc dời Gym sớm): Đi ăn tối / xem phim / cafe cuối tuần.
-   • Chiều & Tối Thứ 7 (từ 16:00 → 22:30): Hoàn toàn tự do hẹn hò (đã bỏ lịch BIT cố định tối T7).
+---
+
+## THỨ 6 - SÁNG GYM + CHỐT SỔ BIT TUẦN · CHIỀU CA 1 (WFH) · TỐI HẸN HÒ NHẸ (18:00–21:00) · ĐÊM CA 2
+
+```
+08:30        Dậy (đủ 8h ngủ), vệ sinh cá nhân, ăn sáng nhẹ
+09:00-10:00  ★ GYM SÁNG (Buổi 2/4)
+10:00-10:20  Về nhà, tắm rửa, nạp bữa phụ sau tập
+10:20-12:00  💻 LÀM BIT (~1.75h — CHỐT XONG 100% 8.5–9 TIẾNG BIT TRONG TUẦN!)
+12:00-12:30  🎙️ Luyện Speaking NBCU / 📘 Tổng ôn từ vựng & cấu trúc câu trong tuần (30p)
+12:30-13:30  Ăn trưa tại nhà, chợp mắt 15p (T6 WFH tại nhà không cần chạy đi điểm danh)
+13:30-18:00  🇺🇸 CA 1 NBCU / TMA (4.5h WFH tại nhà)
+18:00-21:00  ❤️ ĂN TỐI / CAFE HẸN HÒ NHẸ HOẶC NGHỈ NGƠI (3 tiếng xả hơi trước ca tối cuối tuần)
+21:00-24:00  🇺🇸 CA 2 NBCU US (3h - Ca cuối cùng của tuần, đóng gói công việc tuần)
+00:00-00:30  Vệ sinh cá nhân, tắt đèn
+00:30        Ngủ
+```
+
+---
+
+## THỨ 7 - SÁNG GYM · NGUYÊN NGÀY & TỐI TỰ DO HẸN HÒ / XẢ HƠI (KHÔNG CA ĐÊM NBCU!)
+
+```
+08:30        Dậy đủ giấc, ăn sáng
+09:00-10:00  ★ GYM SÁNG (Buổi 3/4)
+10:00-12:00  Tắm rửa, cà phê sáng thư giãn / đọc tài liệu nhẹ
+12:00-15:00  Ăn trưa, dọn dẹp phòng ốc, nghỉ trưa
+15:00-17:00  🎙️ Ôn tập Tiếng Anh nhẹ (30p) + 💻 [FLEXIBLE ~1–1.5h nếu có task BIT gấp / deploy Jenkins — không có thì nghỉ hẳn!]
+17:00-23:00  ❤️ KHUNG GIỜ VÀNG HẸN HÒ / ĐI CHƠI TỐI THỨ 7 (Trọn vẹn 6 tiếng tự do, không vướng ca tối!)
+23:00-00:00  Về nhà thư giãn, đọc sách tiếng Anh 20p
+00:00-00:30  Ngủ (giữ nhịp sinh học ổn định quanh mốc 00:00–00:30 để không bị lệch múi giờ ngày thường)
+```
+
+---
+
+## CHỦ NHẬT - SÁNG GYM · NGUYÊN NGÀY & TỐI HẸN HÒ / RELAX · CHECK-IN SPRINT
+
+```
+08:30        Dậy thong thả, ăn sáng
+09:00-10:00  ★ GYM SÁNG (Buổi 4/4 — Hoàn thành 100% mục tiêu 4 buổi Gym Lean Bulk!)
+10:30-12:30  Cà phê / Thư giãn cuối tuần
+12:30-18:00  ❤️ Tự do / Hẹn hò / Bạn bè / Cầu lông
+18:00-22:30  ❤️ RELAX / HẸN HÒ TỐI CHỦ NHẬT / Ăn tối cuối tuần
+22:30-23:15  📋 Đối chiếu sổ chi tiêu 5 ngân hàng (CN hàng tuần) & Check-in Sprint (nếu cuối Sprint)
+23:15-00:00  Đọc sách tiếng Anh, chuẩn bị tâm thế cho tuần mới
+00:00-00:30  Ngủ
+```
+
+---
+
+## 💻 TỔNG GIỜ LÀM BIT (GÓI GỌN 100% VÀO BUỔI SÁNG `09:45–12:00`) & ❤️ KHUNG GIỜ HẸN HÒ
+
+```
+1. LỊCH LÀM BIT CỐ ĐỊNH BUỔI SÁNG (T2 → T6 = ~8.75 TIẾNG/TUẦN):
+   • Sáng T2 (10:20–12:00, sau Gym): ~1.75h
+   • Sáng T3 (09:45–11:30):          ~1.75h
+   • Sáng T4 (09:45–11:30):          ~1.75h
+   • Sáng T5 (09:45–11:30):          ~1.75h
+   • Sáng T6 (10:20–12:00, sau Gym): ~1.75h
+   → TỔNG SÁNG T2 → T6 = 8.75h/tuần (Hoàn tất 100% trước trưa Thứ 6!).
+   → Lợi ích cực lớn: Từ 13:30 chiều đến 24:00 đêm chỉ tập trung duy nhất cho NBCU US + Lớp L3/Đá banh, không bao giờ bị chồng chéo 2 job vào buổi tối!
+
+2. ❤️ KHUNG GIỜ VÀNG ĐỂ HẸN HÒ / ĐI CHƠI:
+   • Tối Thứ 2 & Thứ 6 (18:00 → 20:45): Đi ăn tối / cafe gần nhà trong khoảng nghỉ 3h giữa 2 ca.
+   • Chiều & Tối Thứ 7 (17:00 → 23:00): Trọn vẹn buổi tối cuối tuần không vướng ca đêm.
    • Nguyên Chiều & Tối Chủ Nhật (10:30 → 22:30): Trọn vẹn 12 tiếng tự do đi chơi, hẹn hò, xả hơi.
 ```
 
 ---
 
-## ⚡ 6 ĐIỀU KHÔNG THỎA HIỆP
+## ⚡ 6 ĐIỀU KHÔNG THỎA HIỆP (BẢO VỆ PHONG ĐỘ 2 NĂM NBCU US)
 
-| #   | Quy tắc                | Thời gian                           |
-| --- | ---------------------- | ----------------------------------- |
-| 1   | Ngủ 23:30              | Mỗi đêm, không exception            |
-| 2   | GYM 4 buổi/tuần        | T2+T6 tối, T7+CN sáng               |
-| 3   | Lớp T3+T5 19:15        | Đến đúng giờ                        |
-| 4   | Meal prep T2+T4 tối    | Không prep = T3/T5 ăn vội = mệt lớp |
-| 5   | Ghi sổ chi tiêu        | Mỗi ngày, ngay khi tiêu             |
-| 6   | Đọc sách 30p trước ngủ | Mỗi đêm, thay thế điện thoại        |
+| #   | Quy tắc                                  | Thời gian & Cách thực thi                                                                 |
+| --- | ---------------------------------------- | ----------------------------------------------------------------------------------------- |
+| 1   | **Ngủ cố định `00:30 – 08:30/09:30`**    | Hết ca `24:00` tắt máy ngay, ngủ đủ **8–9 tiếng/đêm** (T2/T6/T7/CN dậy 08:30, T3/T4/T5 dậy 09:30) |
+| 2   | **GYM 4 buổi/tuần khung Sáng (`09:00`)** | Sáng T2 + Sáng T6 + Sáng T7 + Sáng CN (Phòng tập vắng, giữ kỷ luật Lean Bulk `2,700–2,900 kcal`) |
+| 3   | **Làm BIT gọn trong khung Sáng (`09:00–12:00`)** | Tuyệt đối không để dây dưa task BIT sang buổi tối để `21:00–24:00` toàn tâm 100% cho NBCU |
+| 4   | **Lớp L3 T3+T5 (`18:30 – 20:45`)**       | Khớp khít giữa Ca 1 (`18:00`) và Ca 2 (`21:00`); ăn nhẹ lúc `18:00` để không bị đói       |
+| 5   | **Điểm danh TMA thông minh**             | Đầu giờ chiều chạy lên điểm danh; phối hợp nhờ **Alex** điểm danh dùm đầu về (Alex đi sáng về trưa) |
+| 6   | **Luyện Speaking 25–30p/ngày + Ghi sổ**  | Nói to câu ngắn (`A-R-E`) mỗi trưa trước Ca 1; ghi sổ chi tiêu ngay khi phát sinh         |
 
 ---
 
-_Cập nhật: 05/11/2026 (Thêm lịch ngày có ca NBCU 22:30–01:30, ngủ 02:00–09:30). Trước đó: 02/11/2026 (Chi tiết hóa quy trình bấm giờ TOEIC Part 5/7 + Ngữ pháp Infographic cho slot sáng T2 và sáng T6). Trước đó: 26/10/2026 (Lớp Phản Xạ CN đã học xong, tạm bỏ khỏi lịch từ 26/10/2026; chiều CN thành thời gian tự do). Trước đó: 17/10/2026 (Thêm lịch Coach 2027). Trước đó: 15/10/2026 (V6.4 - T2 + T4 chiều remote tại nhà, T6 remote cả ngày → bỏ di chuyển, T6 sáng TOEIC 75p; V6.3 - Tối T4 + tối CN = relax, bỏ BIT 2 tối này; BIT đủ 8h/tuần: 3h song song lúc remote (T2/T4 chiều, T6) + 5h buổi tối, tối T6 + chiều T7 được giải phóng; thêm TOEIC Part 5/7 sáng T2 + T6). Trước đó: (V6.2 - Tích hợp slot làm BIT 7M buổi tối và kích hoạt thói quen Prompt AI bằng tiếng Anh)._
+_Cập nhật: 13/11/2026 (V7.0 - Chuyển chính thức sang nhịp ca tối NBCU US 2 năm tới ngay từ hôm nay 13/11: Ca 1 `13:30–18:00` & Ca 2 `21:00–24:00`; lùi giờ ngủ cố định sang `00:30–08:30/09:30` đảm bảo ngủ đủ 8–9h; đẩy toàn bộ Gym + làm BIT lên khung sáng `09:00–12:00`; giữ nguyên lớp L3 tối T3/T5 `18:30–20:45` vừa khít giữa 2 ca; phối hợp nhờ Alex điểm danh dùm khi về). Trước đó: 05/11/2026 (Thêm lịch dự kiến ngày có ca NBCU). Trước đó: 02/11/2026 (Chi tiết hóa quy trình bấm giờ TOEIC Part 5/7)._

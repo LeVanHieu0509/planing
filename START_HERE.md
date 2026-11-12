@@ -98,21 +98,25 @@ Bot OKX      → dự án cá nhân, không phải nguồn thu, không bơm thê
 
 ---
 
-## 📅 LỊCH TUẦN CÂN BẰNG (TMA + NBCU + BIT + TIẾNG ANH + THỂ THAO) — DỰ KIẾN TỪ KHI ONBOARD NBCU (T11/2026)
+## 📅 LỊCH TUẦN CÂN BẰNG (NHỊP CA TỐI NBCU US · ÁP DỤNG TỪ 13/11/2026)
 
 ```
-NGÀY CÓ CA NBCU (T2–T6):  ngủ 02:00–09:30 · TMA từ 10:30 (remote) / 11:00 (văn phòng) · BIT chiều · ca NBCU 22:30–01:30
-T2  09:45 TOEIC P5/P7 (20-30p)  →  TMA  →  BIT chiều  →  18:00 GYM  →  21:00 ăn tối, nói chuyện  →  22:30 CA NBCU
-T3  09:45 Lướt Chunks  →  TMA (văn phòng)  →  19:15 ★ LỚP L3  →  21:00 ăn tối  →  22:30 CA NBCU
-T4  09:45 Audio EN  →  TMA  →  BIT chiều  →  18:30 ĐÁ BANH  →  🛋️ RELAX (xin nghỉ ca NBCU T4; nếu phải làm: chỉ ca, không BIT/học)
-T5  09:45 Lướt Chunks  →  TMA (văn phòng)  →  19:15 ★ LỚP L3  →  21:00 ăn tối  →  22:30 CA NBCU
-T6  09:45 TOEIC P5/P7  →  TMA remote + BIT chiều  →  18:00 GYM  →  21:00 tự do  →  22:30 CA NBCU
-T7  (không ca) 07:30 GYM  →  15:00 Hồi sinh bài L2  →  16:30 BIT bù nếu thiếu  →  tối tự do  →  23:30 ngủ
-CN  (không ca) 09:00 GYM  →  chiều tự do (nghỉ, bạn bè, cầu lông)  →  tối 🛋️ RELAX  (21:00 Check-in 15p cuối sprint)  →  23:30 ngủ
+NGÀY CÓ CA NBCU (T2–T6):
+  • Ngủ cố định:     00:30 – 08:30 (T2, T6 có Gym sáng) · 00:30 – 09:30 (T3, T4, T5 — ngủ đủ 8–9h!)
+  • Khung Sáng Vàng: 09:00 – 12:00 (💪 GYM sáng T2/T6 + 💻 LÀM BIT 1.75h/sáng + 🎙️ Speaking EN 25–30p)
+  • Đầu giờ chiều:   13:15 – 13:30 Chạy lên TMA điểm danh (khi về nhờ Alex điểm danh dùm vì Alex đi sáng về trưa)
+  • Ca 1 NBCU / TMA: 13:30 – 18:00 (4.5h)
+  • Nghỉ giữa 2 ca:  18:00 – 21:00 (3h):
+                     - T3 & T5 (18:30–20:45): ★ LỚP TIẾNG ANH LEVEL 3 (vừa khớp giữa 18:00 và 21:00!)
+                     - T4      (18:30–20:30): ★ ĐÁ BANH ⚽ xả stress
+                     - T2 & T6 (18:00–21:00): 🍚 Ăn tối thong thả, nghỉ ngơi / hẹn hò nhẹ
+  • Ca 2 NBCU US:    21:00 – 24:00 (3h sync trực tiếp với team US) → 00:30 tắt đèn ngủ
 
-💻 BIT = 8 tiếng/tuần, chuyển hết sang buổi chiều (~1.5h/chiều) - không làm BIT buổi tối nữa
-🇺🇸 NBCU = ca 22:30–01:30 (30p đầu bên US check email) · 😴 ngủ cố định 02:00–09:30 ngày có ca
-⏳ Giờ ca, ngày làm & khung giờ có mặt TMA: xác nhận lại khi onboard
+CUỐI TUẦN (T7, CN — KHÔNG CA TỐI):
+  • T7: 09:00 GYM (buổi 3) → chiều tự do / BIT flexible nếu cần → 17:00–23:00 ❤️ Hẹn hò / đi chơi → 00:00–00:30 ngủ
+  • CN: 09:00 GYM (buổi 4) → nguyên ngày & tối ❤️ Hẹn hò / Relax → 22:30 đối chiếu sổ & Check-in Sprint → 00:00–00:30 ngủ
+
+💻 BIT = ~8.75 tiếng/tuần, đẩy 100% lên khung Sáng (09:00–12:00 T2→T6) — chiều & tối toàn tâm 100% cho NBCU US!
 ```
 
 Chi tiết: [02_EXECUTION/DAILY_SCHEDULE.md](./02_EXECUTION/DAILY_SCHEDULE.md)
@@ -136,8 +140,8 @@ Chính sách: Tối đa 4 buổi học bù (lớp 12 HV); bảo lưu 1 lần tro
 
 ## 🔥 5 ĐIỀU KHÔNG THỎA HIỆP
 
-1. **Đi lớp đủ buổi T3 + T5** - đã trả tiền cả L2 lẫn L3, bỏ buổi là đốt tiền
-2. **23:00 tắt màn hình → 23:30 ngủ** - mọi ngày
+1. **Đi lớp đủ buổi T3 + T5 (18:30–20:45)** - đã trả tiền cả L2 lẫn L3, vừa khít giữa 2 ca NBCU (`18:00` và `21:00`)
+2. **Hết ca 24:00 tắt máy → 00:30 ngủ tới 08:30/09:30** - đảm bảo ngủ đủ 8–9h mỗi ngày
 3. **Gửi quê 2tr/tháng** - quỹ mẹ 500tr, cố định đến 2036, không bao giờ quên
 4. **Ghi sổ chi tiêu ngay khi tiêu** - tách rõ Chi tiêu / Đầu tư / Phải thu
 5. **KHÔNG bơm thêm tiền vào crypto/bot** cho đến khi tiền mặt ≥ 50tr
@@ -172,6 +176,6 @@ Chính sách: Tối đa 4 buổi học bù (lớp 12 HV); bảo lưu 1 lần tro
 
 ---
 
-_Cập nhật: 09/11/2026 (Cập nhật M4 lộ trình PA TMA: E-4 -> E-5 cuối 2026 -> SE-6 Senior cuối 2027). Trước đó: 05/11/2026 (Lịch tuần mới theo ca NBCU 22:30–01:30, ngủ 02:00–09:30, BIT chuyển sang chiều, gym 18:00). Trước đó: 05/11/2026 (Thêm dự án NBCU US (3h tối, +3tr/tháng phụ cấp)). Trước đó: 02/11/2026 (Mẹ lấy 500k từ VCB 02/11 (chuyển HO THI NHA) → tiền mẹ giữ hộ còn 12,500,000). Trước đó: 01/11/2026 (Đối chiếu sao kê Timo 31/10 & 01/11: chốt sổ 31/10 tiền mặt ~22.25tr, ngày 01/11 ~22.22tr, Net Worth ~57.42tr). Trước đó: 31/10/2026 (Thanh toán Shopee 1,827,637 qua VietinBank, nợ còn 2.8tr). Trước đó: 30/10/2026 (Đóng phí CC; tiền mẹ 13M, Timo, BIT hoàn; đối chiếu 5 NH). Trước đó: 27/10/2026 (Nhận lương BIT 7M VietinBank). Trước đó: 26/10/2026 (Lớp Phản Xạ CN đã học xong, tạm bỏ khỏi lịch từ 26/10/2026). Trước đó: 25/10/2026 (Trả vé Tết chiều đi 2.62tr). Trước đó: 24/10/2026 (Đồng bộ tài chính 24/10: quỹ mẹ 10tr, đủ 43tr dời T12/2026). Trước đó: 15/10/2026 (Tối T4 + tối CN relax, TOEIC P5/P7 sáng T2+T6, chi 8-10tr/tháng; Hạn nộp chứng chỉ TOEIC 700+ cho TMA: 15/11/2027; TOEIC 700+ = điều kiện bắt buộc lên Senior TMA năm 2027; Chốt ngành: Thạc sĩ Khoa học máy tính; Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027; Đồng bộ số liệu giữa các file). Trước đó: 13/09/2026 (V8 - Chốt quỹ mẹ 500tr đến 2036, thêm link QUY_ME_500TR.md. Giữ nguyên:
+_Cập nhật: 13/11/2026 (Áp dụng chính thức lịch NBCU US: Ca 1 `13:30–18:00` & Ca 2 `21:00–24:00`, ngủ `00:30–08:30/09:30`, đẩy Gym + BIT lên khung sáng `09:00–12:00`, giữ lớp L3 `18:30–20:45`; hoàn tất đặt vé Tết chiều vào 2,993,099đ; tiền mẹ giữ hộ VCB 15.5M). Trước đó: 09/11/2026 (Cập nhật M4 lộ trình PA TMA: E-4 -> E-5 cuối 2026 -> SE-6 Senior cuối 2027). Trước đó: 05/11/2026 (Lịch tuần mới theo ca NBCU 22:30–01:30, ngủ 02:00–09:30, BIT chuyển sang chiều, gym 18:00). Trước đó: 05/11/2026 (Thêm dự án NBCU US (3h tối, +3tr/tháng phụ cấp)). Trước đó: 02/11/2026 (Mẹ lấy 500k từ VCB 02/11 (chuyển HO THI NHA) → tiền mẹ giữ hộ còn 12,500,000). Trước đó: 01/11/2026 (Đối chiếu sao kê Timo 31/10 & 01/11: chốt sổ 31/10 tiền mặt ~22.25tr, ngày 01/11 ~22.22tr, Net Worth ~57.42tr). Trước đó: 31/10/2026 (Thanh toán Shopee 1,827,637 qua VietinBank, nợ còn 2.8tr). Trước đó: 30/10/2026 (Đóng phí CC; tiền mẹ 13M, Timo, BIT hoàn; đối chiếu 5 NH). Trước đó: 27/10/2026 (Nhận lương BIT 7M VietinBank). Trước đó: 26/10/2026 (Lớp Phản Xạ CN đã học xong, tạm bỏ khỏi lịch từ 26/10/2026). Trước đó: 25/10/2026 (Trả vé Tết chiều đi 2.62tr). Trước đó: 24/10/2026 (Đồng bộ tài chính 24/10: quỹ mẹ 10tr, đủ 43tr dời T12/2026). Trước đó: 15/10/2026 (Tối T4 + tối CN relax, TOEIC P5/P7 sáng T2+T6, chi 8-10tr/tháng; Hạn nộp chứng chỉ TOEIC 700+ cho TMA: 15/11/2027; TOEIC 700+ = điều kiện bắt buộc lên Senior TMA năm 2027; Chốt ngành: Thạc sĩ Khoa học máy tính; Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027; Đồng bộ số liệu giữa các file). Trước đó: 13/09/2026 (V8 - Chốt quỹ mẹ 500tr đến 2036, thêm link QUY_ME_500TR.md. Giữ nguyên:
 5 mục tiêu thay 6 epic, bỏ task công ty, Sprint S1 = 12/10/2026, mốc 70tr + Thạc sĩ UIT T07/2027 (nay đổi thành 43tr, nộp hồ sơ T09-T10/2027),
 L3 đã thanh toán.)_

@@ -5,7 +5,7 @@
 > **Quy tắc 2 (Nguyên tắc kế toán Thu hộ / Chi hộ & Tiền giữ hộ):**
 >
 > - **Tiền phòng (~10.5M):** Thu/chi hộ tách riêng 100%. Tiền anh em chuyển vào KHÔNG tính thu nhập; tiền nộp trọ tổng KHÔNG tính toàn bộ vào chi tiêu. Hiếu chỉ ghi nhận đúng 1/4 (~2.64M) vào Chi tiêu thuần.
-> - **Tiền mẹ gửi giữ hộ (Hiện là 12.5M nằm trọn 100% trong VCB - 02/11 mẹ lấy 500k):** Tuyệt đối KHÔNG tính vào thu nhập và KHÔNG tính vào tiền mặt của Hiếu. Luôn trừ thẳng ra khỏi số dư ngân hàng khi chốt số dư tiền mặt thực có.
+> - **Tiền mẹ gửi giữ hộ (Hiện là 15.5M nằm trọn 100% trong VCB - 02/11 mẹ lấy −500k, 13/11 mẹ gửi thêm +3M):** Tuyệt đối KHÔNG tính vào thu nhập và KHÔNG tính vào tiền mặt của Hiếu. Luôn trừ thẳng ra khỏi số dư ngân hàng khi chốt số dư tiền mặt thực có.
 > - **Khoản mẹ hỗ trợ chi phí:** Trừ trực tiếp vào chi phí thực xuất từ túi Hiếu (ví dụ mẹ góp 2.5M tiền nghĩa vụ quân sự).
 > - **Quỹ mẹ 2tr/tháng:** Khoản riêng theo [QUY_ME_500TR.md](./QUY_ME_500TR.md).
 >   **Cập nhật:** 01/11/2026
@@ -211,6 +211,6 @@ DỰ KIẾN CUỐI T09:    ~29,500,000 tiền mặt
 
 ---
 
-_Cập nhật: 02/11/2026 (Mẹ lấy 500k từ VCB 02/11 (chuyển HO THI NHA) → tiền mẹ giữ hộ còn 12,500,000). Trước đó: 01/11/2026 (Đối chiếu sao kê Timo 31/10 & 01/11: chốt sổ T10 chi thuần 41,791,742, tiền mặt 22,254,505, Net Worth 57,454,505; cập nhật 01/11 tiền mặt 22,219,540 sau lãi +35đ & bánh canh -35k). Trước đó: 31/10/2026 (Thanh toán Shopee 1,827,637 qua VietinBank, nợ còn 2.8M). Trước đó: 30/10/2026 (Đóng phí CC 906,699; tiền mẹ 13M, Timo, BIT hoàn 578k; đối chiếu 5 NH). Trước đó: 27/10/2026 (T10 tạm tính 27/10: lương BIT 7M về VietinBank, mạng 125k). Trước đó: 25/10/2026 (Thêm vé Tết chiều đi 2,622,581). Trước đó: 24/10/2026 (T10 tạm tính đến 24/10). Trước đó: 15/10/2026 (Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027). Trước đó: 13/09/2026 (V7 - Chốt hụi 4tr T08 thuộc quỹ mẹ 500tr (xem QUY_ME_500TR.md). Giữ nguyên:
+_Cập nhật: 13/11/2026 (Mẹ gửi thêm 3,000,000đ giữ hộ → tiền mẹ giữ hộ trong VCB lên 15,500,000). Trước đó: 02/11/2026 (Mẹ lấy 500k từ VCB 02/11 (chuyển HO THI NHA) → tiền mẹ giữ hộ còn 12,500,000). Trước đó: 01/11/2026 (Đối chiếu sao kê Timo 31/10 & 01/11: chốt sổ T10 chi thuần 41,791,742, tiền mặt 22,254,505, Net Worth 57,454,505; cập nhật 01/11 tiền mặt 22,219,540 sau lãi +35đ & bánh canh -35k). Trước đó: 31/10/2026 (Thanh toán Shopee 1,827,637 qua VietinBank, nợ còn 2.8M). Trước đó: 30/10/2026 (Đóng phí CC 906,699; tiền mẹ 13M, Timo, BIT hoàn 578k; đối chiếu 5 NH). Trước đó: 27/10/2026 (T10 tạm tính 27/10: lương BIT 7M về VietinBank, mạng 125k). Trước đó: 25/10/2026 (Thêm vé Tết chiều đi 2,622,581). Trước đó: 24/10/2026 (T10 tạm tính đến 24/10). Trước đó: 15/10/2026 (Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027). Trước đó: 13/09/2026 (V7 - Chốt hụi 4tr T08 thuộc quỹ mẹ 500tr (xem QUY_ME_500TR.md). Giữ nguyên:
 tách 3 cột Chi tiêu/Đầu tư/Phải thu, đính chính T08 chênh thật 2.2tr, 3,749,181 = chi không
 kiểm soát, Shopee = đồ dùng cá nhân, mốc 70tr T07/2027.)_
