@@ -70,6 +70,15 @@
 
 ---
 
+## 🅿️ ĐỖ XE 13/11/2026 - HỌC EDIT VIDEO / CHỤP ẢNH / LÀM CONTENT ĐỂ PHỤ BRAND NGƯỜI KHÁC
+
+> Ý tưởng: học edit video, photo, làm content TikTok để phụ brand Louli Saigon của Thúy + thực tiễn lại trên kênh @dev.lo.startup.
+> **Quyết định:** CHƯA làm. Lý do: TikTok đang đóng băng · cuối tuần là thời gian hồi sức cho ca đêm NBCU · ưu tiên Node.js Serverless (12/11 → 09/12/2026) + speaking.
+> **Chỉ giữ:** 2 buổi học chụp ảnh điện thoại cho buổi Noel - xem [THUY.md](../01_ROADMAPS/M5_RELATIONSHIPS/dating/THUY.md).
+> **Xem lại sớm nhất:** sau khi NBCU ổn định (T02/2027) - và chỉ khi có lý do ngoài "để được em thích".
+
+---
+
 ## 🗑️ 3. Ý TƯỞNG ĐÃ LOẠI VĨNH VIỄN - KHÔNG NGHĨ LẠI
 
 | Ý tưởng | Lý do loại (Từ thực tế thất bại) |
@@ -116,4 +125,4 @@
 
 ---
 
-_Cập nhật: 03/11/2026 (Hoàn thiện kịch bản Day 1 & Day 2 Series "Làm Affiliate để nuôi Startup" kết hợp sự đồng cảm & mồi lửa kéo comment; định vị Miracle gắn với 3 sản phẩm Bàn Code Đêm). Trước đó: 24/10/2026._
+_Cập nhật: 13/11/2026 (Đỗ xe ý tưởng học edit video/content phụ brand Louli Saigon). Trước đó: 03/11/2026 (Hoàn thiện kịch bản Day 1 & Day 2 Series "Làm Affiliate để nuôi Startup" kết hợp sự đồng cảm & mồi lửa kéo comment; định vị Miracle gắn với 3 sản phẩm Bàn Code Đêm). Trước đó: 24/10/2026._
