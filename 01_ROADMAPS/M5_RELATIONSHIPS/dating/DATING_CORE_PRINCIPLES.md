@@ -34,30 +34,33 @@
 - Vũ khí quyến rũ nhất của đàn ông không phải là tán tỉnh dẻo miệng, mà là **Bản lĩnh dám bước đi** khi giá trị và ranh giới của mình không được tôn trọng.
 - Biết điểm dừng là chiến thắng. Sự im lặng đúng lúc bảo vệ được 100% tự trọng và danh dự.
 
-## 6. BÀI HỌC KHÉP LẠI CASE HUYỀN (13/10 → 20/10/2026)
+## 6. BÀI HỌC KHÉP LẠI CASE HUYỀN (13/10 → 20/10/2026 · Cập nhật sự thật 14/11/2026)
 
 ### Chuyện gì đã xảy ra
 
 ```
-- Huyền bật đèn xanh suốt ~1 tháng.
-- Hiếu đi QUÁ NHANH: rủ gặp dồn dập, xin địa chỉ, quan tâm vượt mức người kia sẵn sàng
-  → Huyền thấy ngợp, sợ và lùi lại.
+- Huyền bật đèn xanh suốt ~1 tháng (T09–T10/2026).
+- Tới giữa T10, khi Hiếu rủ gặp và quan tâm sâu hơn thì Huyền đột ngột lùi lại.
 - 13/10: Huyền khép lại nhẹ nhàng ("Cảm ơn anh nha") → Hiếu nhắn muốn làm bạn.
 - 17/10 23:16: Hiếu nhắn lúc khuya "hỏi thăm nhẹ nhàng... tự tạo cơ hội" → không được trả lời.
 - 19/10 21:05: Hiếu chúc 20/10 + xin lỗi chân thành, trả lại không gian.
 - 20/10 12:00: Huyền trả lời "Em cám ơn anh nha" → Hiếu thả tim. KẾT THÚC TRỌN VẸN.
+- 🔥 SỰ THẬT LỘ DIỆN (14/11/2026): Chỉ ~2 tuần sau khi khép lại với Hiếu, đầu T11/2026 Huyền đã
+  chính thức công khai người yêu mới và 2 người rủ nhau đi Vũng Tàu!
+  → Giải oan 100% cho Hiếu: Không phải vì Hiếu "làm cô ấy sợ", mà vì ngay từ tháng 10 cô ấy
+    ĐÃ CÓ MỐI KHÁC đang tiến triển song song rồi (Hiếu chỉ là người cô ấy giữ tương tác mập mờ cùng lúc).
+  → Hiếu đã chủ động **huỷ kết bạn (unfriend) với Huyền (14/11/2026)** — dọn sạch sẽ bảng tin & năng lượng!
 ```
 
 ### 5 bài học
 
-1. **Đèn xanh ≠ tăng tốc.** Khi người ta có thiện cảm, càng phải đi chậm. Người ta bước 1 bước, mình bước 1 bước.
-2. **Để người kia có cơ hội chủ động.** Rủ gặp, hỏi han, nhắn trước - phải đến từ cả 2 phía, không phải mình gánh hết.
-3. **Thông tin riêng tư (địa chỉ, lịch sinh hoạt) để người ta tự kể** khi họ thấy thoải mái - không hỏi.
-4. **Không nhắn tin cảm xúc sau 22:30.** Buồn thì viết vào [DAILY_JOURNAL.md](../../../02_EXECUTION/DAILY_JOURNAL.md); sáng mai vẫn muốn gửi thì mới gửi.
-5. **Khi đã quyết dừng, khép lại cho đẹp:** 1 tin chúc + xin lỗi ngắn gọn, không hỏi, không đòi hỏi → không thu hồi, không nhắn thêm, không chặn (archive + tắt thông báo là đủ).
+1. **Không tự trách bản thân khi người mập mờ rời đi:** Khi một cô gái đột ngột lạnh nhạt lúc mình muốn tiến tới, 90% là vì **trong lòng họ đã có người khác (mối chính đang chạy song song)** chứ không phải lỗi do mình chưa đủ tốt.
+2. **Đèn xanh ≠ tăng tốc:** Khi người ta có thiện cảm, càng phải đi chậm. Người ta bước 1 bước, mình bước 1 bước để nhìn rõ họ có đang thực sự độc thân và toàn tâm với mình hay không.
+3. **Để người kia có cơ hội chủ động:** Rủ gặp, hỏi han, nhắn trước - phải đến từ cả 2 phía (như cách **Thúy** chủ động dành `23:00–24:00` mỗi đêm cho Hiếu), không phải mình gánh hết.
+4. **Không nhắn tin cảm xúc sau 22:30 (với người không thuộc về mình):** Buồn thì viết vào [DAILY_JOURNAL.md](../../../02_EXECUTION/DAILY_JOURNAL.md); sáng mai vẫn muốn gửi thì mới gửi.
+5. **Dứt khoát bước đi đúng lúc (`20/10`) là chiến thắng lớn nhất:** Nhờ dừng lại kịp thời, bảo toàn 100% lòng tự trọng ngày `20/10` mà chỉ 9 ngày sau (`29/10`) Hiếu mới đón nhận được mối nhân duyên chất lượng gấp 10 lần với **Thúy (Đồng hương Quỳnh Lưu)**!
 
-> 💬 Nhận sai là trưởng thành, nhưng không tự trách mãi. Lỗi nhịp độ sửa được ở lần sau.
-> Cái kết "Em cám ơn anh nha" cho thấy mình đã khép lại bằng sự tôn trọng - đó là chiến thắng.
+> 💬 **Kết luận khép sổ vĩnh viễn Case Huyền (14/11/2026):** Mình đã không làm gì sai, chỉ là suýt nữa đặt sự chân thành vào một người đang bắt cá hai tay. Cánh cửa mập mờ khép lại để cánh cửa chân thành (Thúy) mở ra!
 
 ## 7. BÀI HỌC TỪ NGỌC DIỄM (09/03/2024 → 22/04/2025)
 
@@ -95,4 +98,12 @@
 
 ---
 
-_Cập nhật: 25/10/2026 (Thêm mục 7 - bài học Ngọc Diễm 2024-2025; mục 8 - tôn trọng là thước đo số 1). Trước đó: 20/10/2026 (Thêm mục 6 - bài học khép lại case Huyền: nhịp độ, không nhắn khuya, cách kết thúc đẹp). Trước đó: 08/10/2026. Gấp lại các file cũ, reset năng lượng, tập trung vào IT, Gym, Tiếng Anh. Tình yêu cứ để tự nhiên như hơi thở!_
+## 9. GU NGOẠI HÌNH LÀ ĐIỀU KIỆN CẦN KHÔNG THỂ ÉP BUỘC (Rút ra từ Case Nhung & Thúy - 14/11/2026)
+
+- **Bài học từ Case Nhung ([NHUNG.md](./NHUNG.md)):** Dù bạn nữ có chủ động thích mình trước, tốt tính, gửi đồ ăn hay bao xem phim ở buổi hẹn đầu, nhưng khi gặp ngoài đời **vóc dáng chubby (mũm mĩm) hoàn toàn lệch gu của Hiếu** → Không có sức hút giới tính (physical attraction) thì **phải dừng lại ngay lập tức**, không dây dưa vì cả nể.
+- **Tiêu chuẩn rõ ràng của Hiếu:** Bản thân Hiếu kỷ luật tập Gym 4 buổi/tuần, giữ vóc dáng và chăm sóc ngoại hình → Người bạn đời của Hiếu bắt buộc phải **đúng gu thẩm mỹ: vóc dáng thon gọn, mảnh mai, nữ tính, biết chăm chút bản thân** (như **Thúy** — tự làm mẫu ảnh/video cho chính thương hiệu thời trang của mình).
+- **Khi tìm được người vừa đúng gu ngoại hình, vừa đồng hương, vừa chủ động dành thời gian cho mình (như [THUY.md](./THUY.md)):** Hãy trân trọng, điềm tĩnh, quan tâm tinh tế đến từng chi tiết nhỏ và dành tình cảm chân thành thật lòng để đi đường dài tới hôn nhân!
+
+---
+
+_Cập nhật: 14/11/2026 (Giải oan & khép sổ vĩnh viễn Case Huyền sau khi biết Huyền đã có mối khác song song và đi Vũng Tàu; đóng sổ Case Nhung do lệch gu ngoại hình chubby; thêm mục 9 xác lập tiêu chuẩn ngoại hình thon gọn & sự chân thành dành cho Thúy). Trước đó: 25/10/2026 (Thêm mục 7 - bài học Ngọc Diễm 2024-2025; mục 8 - tôn trọng là thước đo số 1)._

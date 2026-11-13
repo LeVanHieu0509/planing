@@ -12,7 +12,9 @@
 - Năm sinh:     2001 (IG @tthuy_2804 → khả năng cao sinh ngày 28/04/2001 - Cung Kim Ngưu)
 - Quê quán:     Quỳnh Lưu, Nghệ An (Cựu HS THPT Nguyễn Đức Mậu — ĐỒNG HƯƠNG NGHỆ AN, 15 bạn chung trên FB!)
 - Gia đình:     Gắn bó ấm áp với mẹ và anh trai; cùng anh trai vào Sài Gòn lập nghiệp
-- Công việc:    Đồng sáng lập / Chủ thương hiệu phụ kiện LOULI SAIGON (Trending Accessories - Mũ lưỡi trai & Khăn quàng len/cashmere, hộp quà tặng)
+- Học vấn & Thực lực: Không học Đại học, đi thẳng vào con đường kinh doanh thực chiến cùng anh trai. Tư duy buôn bán cực kỳ nhạy bén!
+- Công việc & Quy mô: Đồng sáng lập / Chủ thương hiệu phụ kiện LOULI SAIGON (Trending Accessories - Mũ lưỡi trai & Khăn quàng len/cashmere, hộp quà tặng).
+  • Quy mô thực tế (T11/2026): Đã **thuê nhân viên làm kho**, ngày sale lớn (`11/11`) xuất đi **cả xe tải 4 bánh** đơn khăn & mũ!
 - Kênh MXH:
   • Facebook:   https://www.facebook.com/tran.t.thu.thuy.928092 (Đã kết bạn · 15 bạn chung)
   • Instagram:  https://www.instagram.com/tthuy_2804 (@tthuy_2804)
@@ -22,47 +24,178 @@
   • Gu thẩm mỹ nhẹ nhàng, nữ tính, vibe Hàn Quốc (áo khoác blazer/cardigan, khăn len trơn, mũ lưỡi trai) kết hợp nét truyền thống (thích chụp áo dài, yêu không khí Tết quê nhà).
 - Lịch sinh hoạt & Làm việc của Thúy (Cực kỳ kỷ luật & Khớp tự nhiên với lịch của Hiếu):
   • Giờ giấc: Dậy 07:00 sáng — Ngủ 23:30 đêm.
+  • Khoảng cách địa lý: Nhà/kho của em cách nhà Hiếu **~15km (chạy xe mất ~45 phút/chiều)**.
   • Cường độ làm việc: Kín lịch từ T2→T7 (trực tiếp làm kho, quay/dựng content TikTok, livestream 4 ngày/tuần; vào các dịp lễ như 19/11, 20/11, 12/12, Noel thì lịch live còn dày hơn).
   • Ngày rảnh duy nhất để đi chơi: **CHỦ NHẬT HÀNG TUẦN** (Khớp 100% với ngày nghỉ trọn vẹn nhất của Hiếu trong tuần!).
+- Tín hiệu & Độ đầu tư của Thúy (CỰC KỲ TÍCH CỰC — "Người ta thích & tán mình"):
+  • Dù lịch làm việc kín mít cả ngày, **mỗi đêm từ `23:00 → 24:00` em đều dành trọn 1 tiếng cuối ngày cho Hiếu** (vừa tắm, gội đầu, sấy tóc vừa nhắn tin trò chuyện trước khi đi ngủ!).
+  • Khung **`23:00 → 24:00`** của em lại **khớp hoàn hảo với nhịp thức ca đêm NBCU (`21:00 → 24:00`, ngủ `00:30`) của Hiếu**: Đầu ca (`21:00–23:00`) Hiếu họp & xử lý việc căng với Mỹ, cuối ca (`23:00–24:00`) vừa trực máy nhẹ nhàng vừa trò chuyện với em → `24:00` chúc em ngủ ngon rồi Hiếu tắt máy, `00:30` đi ngủ!
+  • Hiếu giữ phong thái **Lowkey & High-Value** (1 tuần mới đăng 1 story chất lượng) → kích thích sự tò mò và chủ động quan tâm từ phía em.
 ```
 
 ---
 
-## 🧭 TƯ DUY ĐÃ CHỐT (13/11/2026)
+## 🧭 TƯ DUY ĐÃ CHỐT (14/11/2026)
 
-> **Tình yêu là phần thưởng, không phải áp lực.** Hai người hai thế giới, tôn trọng sự khác biệt - nhưng **có một vùng chung lớn dần theo thời gian và theo mức em cũng đầu tư lại**, không phải Hiếu dựng trước.
+> 💍 **Định vị: "Mối có thể cưới được (Wife Material)" — Nên tuyệt đối KHÔNG GẤP!**
+>
+> - Thúy hội tụ đủ các yếu tố bền vững lâu dài: **Đồng hương Quỳnh Lưu** (15 bạn chung, rõ gốc gác), gắn bó với mẹ và anh trai, chăm chỉ tự lập xây thương hiệu riêng, sống kỷ luật (`23:30` ngủ - `07:00` dậy), có nét truyền thống (thích mặc áo dài, đi chùa) và chủ động dành 1 tiếng cuối ngày cho Hiếu.
+> - Chính vì đây là **mối đi đường dài (có thể tiến tới hôn nhân)** nên **không việc gì phải vội vã ép lịch đi chơi sớm** khi mới tháng 11 và nhà cách nhau `15km (45p)`. Cứ để hai đứa trò chuyện thân mật mỗi đêm `23:00–24:00` cho thật hiểu nhau; khi nào cảm xúc chín tự nhiên (dịp Noel tháng 12 hoặc về Tết Quỳnh Lưu) thì gặp!
+> - **Tình yêu là phần thưởng, không phải áp lực.** Hai người hai thế giới, tôn trọng sự khác biệt - nhưng **có một vùng chung lớn dần theo thời gian và theo mức em cũng đầu tư lại**, không phải Hiếu dựng trước.
 
-| ✅ Làm | ❌ Không làm |
-|---|---|
-| Cho em 1 buổi đi chơi vui + ảnh đẹp | Học edit video / làm content / website cho brand của em **khi chưa thân** |
-| Giúp vì **muốn**, vừa sức, không phá M1–M5 | Giúp để **được thích** (đổi mình lấy sự chú ý) |
+| ✅ Làm                                                           | ❌ Không làm                                                                    |
+| ---------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| Cho em 1 buổi đi chơi vui + ảnh đẹp                              | Học edit video / làm content / website cho brand của em **khi chưa thân**       |
+| Giúp vì **muốn**, vừa sức, không phá M1–M5                       | Giúp để **được thích** (đổi mình lấy sự chú ý)                                  |
 | Em là chủ kênh → **em tự edit**; Hiếu chỉ quay/chụp đủ chất liệu | Mở lại kênh TikTok của mình vì em (TikTok đang **đóng băng** - xem `CLAUDE.md`) |
-| Giữ nhịp NBCU + luyện speaking + giờ ngủ | Đem cuối tuần hồi sức đi học kỹ năng cho người khác |
+| Giữ nhịp NBCU + luyện speaking + giờ ngủ                         | Đem cuối tuần hồi sức đi học kỹ năng cho người khác                             |
 
 > Nếu tiến xa: giúp em **website** là tự nhiên (nghề của Hiếu, không cần học thêm).
 
 ---
 
+## ⚖️ GIẢI MÃ BÀI TOÁN VỊ THẾ: "THÚY KHÔNG HỌC ĐH NHƯNG BÁN CẢ XE TẢI ĐƠN — LƯƠNG 30TR CỦA HIẾU ĐỨNG Ở ĐÂU?"
+
+> 💡 **Câu hỏi thực tế của Hiếu:** *"Thúy không học Đại học, nhưng bán được rất nhiều đơn (ngày sale 11/11 đi cả xe tải 4 bánh khăn & mũ, có thuê nhân viên kho). Vậy mức lương hiện tại ~30tr/tháng của Hiếu có đủ để cover không, và việc em không học ĐH có sao không?"*
+
+### 1. Về việc "Thúy không học Đại học":
+- Người ta chỉ ngại một người không học Đại học khi người đó **lười biếng, thiếu tư duy, không có chí tiến thủ hoặc sống phụ thuộc**.
+- Còn Thúy: Dù không có tấm bằng Đại học trên giảng đường, nhưng ở tuổi 25 đã tự xây dựng thương hiệu `Louli Saigon` `60.2K followers`, tự làm mẫu, quản lý nhân viên kho và ngày sale `11/11` xuất hàng cả xe tải 4 bánh → Em có **"Bằng Đại học Trường Đời & Thực chiến Thương mại" loại Xuất sắc**! Em thông minh, nhạy bén, chịu thương chịu khó và độc lập tài chính hoàn toàn.
+
+### 2. Tại sao một cô chủ shop bán cả xe tải đơn lại mê Hiếu? (Quy luật "Bù Trừ Giá Trị — Môn Đăng Hộ Đối Kiểu Mới"):
+- **Em KHÔNG thiếu tiền và KHÔNG tìm một người đàn ông để "bao nuôi" em!** Vậy thứ em thiếu và khao khát ngưỡng mộ ở người đàn ông của mình là gì?
+- Đó chính là **NỀN TẢNG TRI THỨC, HỌC VỊ & VỊ THẾ XÃ HỘI** mà Hiếu đang sở hữu:
+  - Đặc biệt trong văn hóa gia đình **Nghệ An (Quỳnh Lưu)** — nơi cực kỳ coi trọng chữ nghĩa và học vấn — một người làm kinh doanh tự do (không học ĐH) luôn dành sự nể trọng tuyệt đối cho người có học thức cao.
+  - Hiếu là **Kỹ sư Phần mềm làm dự án Mỹ (NBCU US)**, giao tiếp tiếng Anh với kỹ sư Mỹ mỗi đêm, chuẩn bị học **Thạc sĩ Khoa học Máy tính tại ĐHQG TP.HCM (UIT)** và định hướng làm **Giảng viên Đại học**.
+  - **Sự kết hợp hoàn hảo (Power Couple):** **Chồng là Thạc sĩ CNTT / Kỹ sư Quốc tế / Giảng viên ĐH (Giữ danh tiếng tri thức & sự ổn định) + Vợ là Bà chủ Kinh doanh Thời trang (Giỏi buôn bán, nhạy bén dòng tiền)** → Đây là cặp bài trùng bù trừ điểm khuyết cho nhau chuẩn 100% triết lý Dan Foolish trong [RELATIONSHIPS.md](../RELATIONSHIPS.md)!
+
+### 3. Lương `~30tr/tháng` của Hiếu có đủ để "Cover" không? — DƯ SỨC!
+- **Khi hẹn hò (Giai đoạn tìm hiểu & Yêu):**
+  - "Cover" cho một cô gái giàu có tự lập không phải là mua túi hiệu chục triệu hay nuôi cô ấy, mà là **sự ga-lăng, chỉn chu trong mọi buổi đi ăn, đi cafe, quà Noel, quà Tết** (100% do Hiếu chủ động trả một cách tinh tế từ **Hũ 7 · Quỹ NY 1–2tr/tháng**). Với thu nhập `30tr/tháng` (thuộc top 5–10% người đi làm tuổi 25), Hiếu hoàn toàn dư dả để lo trọn vẹn phần này!
+- **Khi về chung một nhà (Hôn nhân):**
+  - Kinh doanh TikTok Shop có tính **mùa vụ & biến động** (mùa lạnh 11/11, 12/12, Tết bán khăn len nổ đơn cả xe tải; nhưng mùa nắng hoặc khi sàn đổi thuật toán/tăng phí thì dòng tiền trồi sụt).
+  - Lúc đó, **mức lương Kỹ sư Senior / Giảng viên `30tr → 50tr/tháng` đều đặn như vắt chanh của Hiếu chính là "Trụ cột an toàn tài chính"** bảo đảm mọi chi phí sinh hoạt cứng của gia đình & con cái, giúp em yên tâm bung sức kinh doanh!
+  - Hơn nữa, **vũ khí Công nghệ (IT / Website / AI Automation) của Hiếu** sẽ giúp tối ưu vận hành kho, khách hàng và xây dựng Website thương hiệu riêng cho shop của hai vợ chồng — giá trị này lớn gấp nhiều lần tiền mặt đơn thuần!
+
+---
+
+## 🔥 GIẢI MÃ TÂM LÝ KHUNG GIỜ `23:00 → 24:00` & SỨC HÚT LOWKEY (1 TUẦN 1 STORY)
+
+> 💡 **Tại sao cách làm hiện tại của Hiếu lại khiến em chủ động đầu tư ("người ta tán mình") mạnh đến vậy?**
+
+1. **Hiệu ứng "Khoảng trống tò mò" (Mystery Gap — 1 tuần 1 story chất lượng):**
+   - Đa số con trai khi tán một cô gái xinh xắn, chủ kênh TikTok `60.2K followers` như Thúy sẽ nhắn tin dồn dập cả ngày và đăng story liên tục để gây chú ý.
+   - Ngược lại, Hiếu bận **thật** (họp dự án Mỹ NBCU, tập Gym, học Tiếng Anh, đá bóng), **1 tuần mới đăng 1 story lowkey**. Chính sự điềm tĩnh và "ít xuất hiện" đó làm em tự hỏi: _"Anh này cả tuần bận gì mà im thế nhỉ? Cuộc sống của anh ấy có gì thú vị?"_ → Kích hoạt bản năng muốn tìm hiểu và chủ động giữ kết nối từ phía em!
+2. **Tâm lý học của "Người cuối cùng trong ngày" (`23:00 → 24:00` — Lúc tắm, gội đầu, sấy tóc):**
+   - Với một cô gái làm việc quần quật từ `07:00` sáng đến `23:00` đêm (làm kho, quay dựng TikTok, livestream khàn cổ), **khung `23:00 → 24:00` là 1 tiếng riêng tư, thư giãn và thật nhất trong ngày** (trút bỏ lớp trang điểm, đi tắm, gội đầu, sấy tóc, nằm lên giường đắp chăn).
+   - Bình thường giờ đi ngủ của em là **`23:30`**, nhưng vì muốn nói chuyện với Hiếu nên em **sẵn sàng thức lố thêm 30 phút tới `24:00`** và vừa sấy tóc vừa nhắn tin. Khi một cô gái dành khung giờ trước lúc chìm vào giấc ngủ cho mình, nghĩa là **hình ảnh của mình sẽ đi thẳng vào tiềm thức của cô ấy trước khi ngủ**.
+3. **Khớp 100% với nhịp Ca tối NBCU của Hiếu (`21:00 → 24:00`, ngủ `00:30`) & Mẹo ngắt nhịp lúc `23:55`:**
+   - **Không lệch pha:** Từ `21:00 → 23:00` là lúc ca Mỹ vừa bắt đầu (daily standup, xử lý việc căng) thì cũng là lúc em đang bận livestream/dọn kho. Đúng `23:00` khi việc bên Mỹ đã êm (chỉ còn trực máy nhẹ) thì em bước vào giờ nghỉ ngơi và nhắn cho Hiếu!
+   - **Mẹo tinh tế lúc `23:55` (Chủ động ngắt ở đỉnh cảm xúc):** Khi câu chuyện đang vui lúc `23:55`, Hiếu chủ động nhắn: _"Thôi 12h kém rồi, sấy tóc khô hẳn rồi ngủ sớm đi cô chủ nhỏ, mai 7h còn dậy làm việc nữa. Ngủ ngon nhé!"_ → Vừa cho thấy sự tâm lý biết thương em vất vả, vừa tạo cảm giác tiếc nuối ngọt ngào để tối mai `23:00` em lại háo hức nhắn tiếp, vừa giúp Hiếu đóng máy lúc `24:00` để `00:30` đi ngủ chuẩn kỷ luật!
+4. **⚠️ CẤM KỴ: Không bao giờ cố tình "biến mất 1–2 ngày" (Ghosting / Chơi chiêu tâm lý):**
+   - **Bạn đã có sẵn "khoảng trống 23 tiếng/ngày" (`00:00 → 23:00`):** Hai đứa vốn chỉ trò chuyện 1 tiếng cuối ngày (`23:00–24:00`) + Hiếu đăng story rất lowkey (1 tuần/lần). Độ "hiếm" và "tò mò" đã ở tỷ lệ vàng!
+   - **Tác hại nếu cố tình lặn mất tăm với "Mối có thể cưới" (Con gái tự lập, kỷ luật, có lòng tự trọng cao):** Em đang chủ động dành 1 tiếng quý giá nhất cuối ngày cho mình; nếu tự dưng Hiếu biến mất 1–2 đêm không lý do, em sẽ đánh giá là _"thiếu ổn định / chơi chiêu / đang tán nhiều mối"_ → Em sẽ bật cơ chế tự vệ và **rút lại sự đầu tư ngay lập tức**. Với mối để cưới, vũ khí mạnh nhất là **Sự Điềm Tĩnh & Đáng Tin Cậy (Consistency)**, không phải chiêu trò!
+   - **Cách tạo "khoảng nghỉ 1 đêm" chuẩn đàn ông trưởng thành (khi bận/mệt thật):** Nếu tối nào họp Mỹ căng hoặc mệt cần ngủ sớm, chỉ cần nhắn báo trước 1 câu lúc `22:45–23:00`: _"Nay anh họp dự án bên Mỹ căng quá nên anh đi ngủ sớm trước nhé. Cô chủ nhỏ sấy tóc khô rồi ngủ ngon nha, tối mai anh em mình nói chuyện tiếp!"_ → Vẫn tạo được 1 đêm "nhớ nhung vì thiếu vắng", nhưng điểm tin cậy và tử tế trong mắt em tăng gấp đôi!
+5. **💎 BÍ QUYẾT TỪ CÁC CHỊ ĐI TRƯỚC: "Quan tâm tới từng chi tiết nhỏ + Tình cảm thật lòng = Phụ nữ chốt lấy làm chồng":**
+   - **Chân lý chọn chồng của phụ nữ trưởng thành:** Con gái khi còn trẻ có thể bị thu hút bởi vẻ hào nhoáng hay chiêu trò, nhưng **khi chọn người đàn ông để lấy làm chồng** (đặc biệt với một cô gái tự lập, gồng gánh làm kho/livestream từ `07:00` sáng tới `23:00` đêm như Thúy), thứ làm cô ấy cảm thấy an toàn và muốn gắn bó cả đời là **Tình cảm chân thành thật lòng** và **Sự tinh tế để ý từng chi tiết nhỏ nhất (Micro-care / Take care)**.
+   - **Tại sao take care cho Thúy là hoàn toàn xứng đáng (không sợ thành "lốp dự phòng")?** Vì Thúy đã và đang **đầu tư ngược lại rất thật lòng** (dành trọn 1 tiếng riêng tư nhất mỗi đêm cho Hiếu). Khi người phụ nữ đã bật đèn xanh và tử tế với mình, sự chân thành và quan tâm tinh tế của mình sẽ làm trái tim cô ấy tan chảy hoàn toàn!
+   - **Checklist "Quan tâm từng chi tiết nhỏ (Micro-care)" dành riêng cho Thúy:**
+     - **Mỗi đêm (`23:00–24:00`):** Nhắc em **sấy thật khô chân tóc rồi mới nằm ngủ** (gội đầu khuya lúc 23h dễ bị lạnh/đau đầu sáng hôm sau); những hôm em livestream liên tục thì hỏi thăm cổ họng và nhắc em uống nước ấm/mật ong.
+     - **Những ngày cao điểm đơn lễ (`19–20/11`, `12/12`, `Noel`):** Thấu hiểu công việc của em, không trách móc khi ban ngày em bận, tối muộn dành lời khen ghi nhận sự nỗ lực của "cô chủ nhỏ".
+     - **Khi đi chơi ngoài đời (Noel / Tết Quỳnh Lưu):** Luôn để em đi bên trong lề đường, mở cửa, kéo ghế, nhớ món em thích ăn (chè chợ Giát, ốc nóng), mua ủng hộ khăn len shop em để quàng dịp Tết lạnh, và nhớ sở thích mặc **Áo dài đi chùa** của em để chụp tặng em bộ ảnh thật đẹp!
+
+---
+
+## 🚀 BỨC TRANH 4 GIAI ĐOẠN DỊCH CHUYỂN LỊCH TRÌNH ("KHÔNG PHẢI CỨ NHẮN ĐÊM & GẶP CHỦ NHẬT CẢ ĐỜI")
+
+> 🧭 **Giải tỏa nỗi lo:** _"Chẳng lẽ hai đứa cứ nhắn tin `23:00–24:00` và chỉ gặp nhau Chủ Nhật như vậy cả đời sao?"_
+> **Câu trả lời là: KHÔNG!** Lịch hiện tại chỉ là lịch của **Giai đoạn 1 (hai người độc lập đang tán nhau và đang ở giai đoạn cày vốn tuổi 25)**. Khi mối quan hệ và sự nghiệp tiến lên, thời gian bên nhau sẽ tự động mở rộng qua **4 Giai đoạn**:
+
+```text
+[GIAI ĐOẠN 1: ĐANG TÌM HIỂU · Hiện tại → Tết 2027 (3–4 tháng đầu)]
+ ├── ⏳ Thời lượng gặp: 1h/đêm (23:00–24:00) + Chủ Nhật hàng tuần
+ ├── 🛵 Giải bài toán khoảng cách 15km (45p/chiều) khi mới quen:
+ │    ├── Trong tuần (T2–T7): TUYỆT ĐỐI KHÔNG chạy 15km đi - 15km về giữa tuần (mất 1.5h ngoài đường kẹt xe,
+ │    │    bào mòn thể lực trước ca đêm NBCU 21:00). Giữ đúng "Khung giờ vàng 23:00–24:00" qua tin nhắn!
+ │    └── Chủ Nhật hàng tuần: Chạy 45p xuống đi chơi nguyên buổi 3–4 tiếng (15:30–19:30) hoặc hẹn ở
+ │         Quận trung gian (Phú Nhuận / Bình Thạnh / Tân Bình / Q1 — mỗi người đi ~7km ~20p) → Thong thả, chất lượng!
+ └── 🎯 Ý nghĩa: Đây là "Tỷ lệ vàng" khi mới quen! Đủ để giữ lửa nhớ nhung mỗi đêm,
+      mong chờ tới Chủ Nhật để gặp mặt, mà không ai bị kiệt sức vì đường xa.
+
+[GIAI ĐOẠN 2: KHI CHÍNH THỨC LÀ NGƯỜI YÊU · Sau Tết / Từ T03/2027 trở đi]
+ ├── ⏳ Mở rộng lên gặp 2–3 lần/tuần mà KHÔNG bị kiệt sức vì 15km (45p chạy xe):
+ ├── 🛵 3 Chiến thuật "Gặp thông minh" cho khoảng cách 15km tại Sài Gòn:
+ │    ├── 1️⃣ Hẹn "Điểm giữa" (Midpoint ~7km / 20p chạy xe) vào tối T2 hoặc T6 (18:00–20:30):
+ │    │      Thay vì Hiếu chạy 15km xuống tận nhà em rồi chạy 15km về kịp ca 21:00 (mất 90p trên đường),
+ │    │      hai đứa hẹn ăn tối ở khu vực giữa đường (cách mỗi người ~7km, đi 20p là tới) → Có trọn 1.5h ăn tối thoải mái!
+ │    ├── 2️⃣ Chiến thuật "Work From Cafe gần nhà em" (1 buổi chiều/tuần hoặc chiều Thứ 7):
+ │    │      Chiều hôm đó (hoặc ngày WFH/Thứ 7), Hiếu mang laptop xuống quán cafe gần nhà em ngồi làm việc trước,
+ │    │      18:00 ăn tối cùng em ngay dưới đó, thậm chí ngồi làm ca 21:00–24:00 xong đường đêm vắng chạy về chỉ mất 25p!
+ │    └── 3️⃣ Đổi gió cuối tuần (Tối Thứ 7 hôm em không live + Nguyên ngày Chủ Nhật):
+ │           Lúc này 45p chạy xe cuối tuần hoàn toàn nhẹ nhàng; thỉnh thoảng em cũng có thể chạy lên khu Hiếu chơi đổi gió.
+ └── 🎯 Ý nghĩa: Hóa giải hoàn toàn rào cản 15km bằng điểm hẹn giữa đường + gộp lịch di chuyển,
+      VỪA gặp nhau ấm áp 2–3 buổi/tuần, VỪA bảo toàn 100% sức khỏe cho ca đêm NBCU!
+
+[GIAI ĐOẠN 3: KHI CẢ HAI NÂNG CẤP SỰ NGHIỆP & RÚT NGẮN KHOẢNG CÁCH ĐỊA LÝ · 2027 → 2029]
+ ├── 📍 Dịch chuyển chỗ ở lại gần nhau (Sau 6–12 tháng yêu chính thức):
+ │    └── Vì cả hai đều đang ở nhà thuê tại Sài Gòn, khi tình cảm đã chín muồi và tới kỳ gia hạn hợp đồng thuê nhà,
+ │         việc **chuyển về khu vực gần nhau hơn (bán kính 2–4km, chạy xe 5–10p)** là bước đi cực kỳ tự nhiên!
+ ├── 🧣 Về phía Thúy (Thương hiệu Louli Saigon):
+ │    ├── Hiện tại (2026): Shop mới ở giai đoạn tăng trưởng đầu (60K fl), 2 anh em phải tự làm kho + tự live 100%.
+ │    └── Sau 1–2 năm (2027–2028): Khi doanh thu ổn định, quy luật tất yếu của chủ shop là **thuê nhân viên part-time đóng hàng**
+ │         và **thuê host phụ livestream ca tối** → Em lùi về làm Chủ quản lý & duyệt mẫu, giải phóng hoàn toàn buổi tối!
+ ├── 💻 Về phía Hiếu (Lộ trình MASTER_PLAN.md 2027–2029):
+ │    ├── Hiện tại (25–27 tuổi): Thức ca Mỹ NBCU (21:00–24:00) để lấy mác Senior SE-6, kinh nghiệm quốc tế & vốn học Thạc sĩ UIT.
+ │    └── Từ 2029 (28 tuổi): Tốt nghiệp Thạc sĩ UIT → Chuyển sang làm Giảng viên ĐH / Kỹ sư cấp cao làm việc **giờ hành chính ban ngày**,
+ │         đồng thời hỗ trợ xây dựng Website/Automation cho chính thương hiệu của hai đứa!
+ └── 🎯 Ý nghĩa: Vừa rút ngắn khoảng cách 15km xuống còn vài phút đi xe, vừa thoát khỏi cảnh "bán sức thức đêm".
+
+[GIAI ĐOẠN 4: KHI VỀ CHUNG MỘT NHÀ · Hôn nhân bền vững (0km!)]
+ ├── 🏡 Khoảng cách từ 15km (45p) chính thức về **0km** — không còn phải chạy xe đêm hay chờ tin nhắn lúc 23:00–24:00.
+ └── 🌙 Sáng ăn sáng cùng nhau, tối ăn cơm cùng nhau, và đúng **23:30 tắt đèn nằm cạnh nhau đi ngủ**!
+```
+
+---
+
 ## 🌳 TIMELINE NODE TREE (CUỐI T10/2026 → TẾT QUỲNH LƯU → TỎ TÌNH SÀI GÒN T03/2027)
 
+> 🗺️ **OVERVIEW NHỊP ĐỘ 4 THÁNG (CHẬM MÀ CHẮC — KHÔNG ĐỐT CHÁY GIAI ĐOẠN):**
+> Từ giờ (`14/11/2026`) tới Tết (`29/01/2027`) còn **2.5 tháng (76 ngày)**, nhà lại cách nhau `15km (45p)` và cả hai đều đang cao điểm công việc cuối năm. Vì vậy **mục tiêu từ giờ tới Tết cực kỳ nhẹ nhàng**:
+>
+> 1. **Trục chính (90%):** Duy trì **nhắn tin thân mật, ấm áp khung `23:00 → 24:00` mỗi đêm** để xây dựng sự gắn kết cảm xúc tự nhiên.
+> 2. **Điểm chạm ngoài đời ở Sài Gòn (10% — Chỉ cần `1 buổi Chủ Nhật / tháng`):** Suốt 2.5 tháng trước Tết chỉ cần gặp **2 buổi Chủ Nhật ở khu vực giữa đường** (1 buổi cafe cuối T11 để biết mặt ngoài đời + 1 buổi Noel 20/12) để tránh "chỉ nhắn tin 76 ngày bị ảo/nhạt", hoàn toàn không cần tuần nào cũng chạy 15km đi gặp!
+>
+> | Tháng        | Mục tiêu cảm xúc (Pacing)           | Nhắn tin (`23:00–24:00`)            | Gặp mặt ngoài đời (Tối giản & Chất lượng)                                     |
+> | ------------ | ----------------------------------- | ----------------------------------- | ----------------------------------------------------------------------------- |
+> | **T11/2026** | **Làm quen & Xóa khoảng cách mạng** | Trò chuyện vui vẻ, hint lịch vé Tết | **1 buổi Cafe Chủ Nhật** (`22/11` hoặc `29/11` · 2h ở quận giữa)              |
+> | **T12/2026** | **Thân mật & Có kỷ niệm chung**     | Chia sẻ đời sống, công việc mỗi đêm | **1 buổi đi chơi & chụp ảnh Noel** (`CN 20/12/2026`)                          |
+> | **T01/2027** | **Gắn kết trước thềm về quê**       | Đếm ngược ngày về Quỳnh Lưu ăn Tết  | Đặt mua khăn len shop em + **1 buổi cafe nhẹ** (nếu em không quá bận đơn Tết) |
+> | **T02/2027** | **Bùng nổ cảm xúc tại Quê nhà**     | Chúc Tết, hẹn lịch đi chơi ở quê    | **Chuỗi đi chơi Tết Quỳnh Lưu** (Chợ Giát, Chùa, Đền Cờn, Biển Quỳnh)         |
+> | **T03/2027** | **Chốt hạ — Chính thức thành đôi**  | Nhịp người yêu                      | **Đêm tỏ tình lãng mạn tại Sài Gòn** (sau 4 tháng tìm hiểu chín muồi)         |
+
 > 🛡️ **NGUYÊN TẮC "MỞ KHÓA TỪNG CHẶNG" (CHỐNG OVER-INVEST TỪ `DATING_CORE_PRINCIPLES.md`):**
+>
 > - Kịch bản từ giờ tới sau Tết rất đẹp và đậm chất đồng hương Quỳnh Lưu, nhưng **tuyệt đối không chạy trước cảm xúc của em**.
 > - **Mỗi Node chỉ được mở khóa khi Node trước đó đạt trạng thái 🟢 (Em vui vẻ, chủ động đầu tư ngược lại)**. Người ta bước 1 bước, mình bước 1 bước!
 
 ```text
 [ROOT] 🧣 HÀNH TRÌNH VỚI THÚY (Đồng hương Quỳnh Lưu · 2001 · Louli Saigon)
  │
- ├── ✅ NODE 0: LÀM QUEN ONLINE (29/10 → 13/11/2026 · 15 ngày)
+ ├── ✅ NODE 0: LÀM QUEN ONLINE & ĐẦU TƯ TỪ 2 PHÍA (29/10 → 14/11/2026 · 15 ngày)
  │    ├── Đã kết nối FB (15 bạn chung), IG (@tthuy_2804), biết kênh TikTok (@loulisaigon)
- │    └── Nắm rõ nhịp sống của em: Ngủ 23:30 · Dậy 07:00 · Làm kho + Content + Live 4 ngày/tuần · Chỉ rảnh CHỦ NHẬT
+ │    ├── Nắm rõ nhịp sống của em: Ngủ 23:30 · Dậy 07:00 · Làm kho + Content + Live 4 ngày/tuần · Chỉ rảnh CHỦ NHẬT
+ │    └── 🔥 Tín hiệu đèn xanh cực mạnh: Em chủ động dành ~1 tiếng mỗi ngày cho Hiếu (kể cả lúc tắm/gội đầu/sấy tóc);
+ │         Hiếu giữ nhịp Lowkey (1 tuần 1 story) khiến em tò mò và chủ động quan tâm!
  │
- ├── 🔄 NODE 1: GIỮ NHỊP ẤM QUA ĐỢT LỄ 19/11 & 20/11 (13/11 → 20/11/2026)
- │    ├── ✈️ [VIỆC LÀM NGAY 13–15/11]: Nhân dịp vừa đặt xong vé chiều vào (13/11), **hint tự nhiên lịch bay Tết của Hiếu**
+ ├── 🔄 NODE 1: GIỮ NHỊP ẤM QUA ĐỢT LỄ 19/11 & 20/11 (14/11 → 20/11/2026)
+ │    ├── ✈️ [VIỆC LÀM NGAY 14–15/11]: Nhân dịp vừa đặt xong vé chiều vào (13/11), **hint tự nhiên lịch bay Tết của Hiếu**
  │    │    (`29/01 [22 Chạp] → 20/02/2027 [Rằm tháng Giêng]`) & hỏi thăm lịch đóng kho về Quỳnh Lưu ăn Tết của 2 anh em Thúy!
- │    ├── ☀️ Trưa (12:15–13:15): Hỏi thăm ngắn bữa trưa / đóng hàng kho buổi sáng (1–2 tin vui vẻ)
- │    ├── 🌆 Chiều tối (18:00–20:45): Trò chuyện nhẹ trước giờ em lên live & trước khi Hiếu vào Ca 2 NBCU
- │    ├── 🌙 Chốt nhịp 20:50: "Giờ anh vào ca họp với bên Mỹ tới 12h đêm, em live giữ giọng rồi 23h30 ngủ sớm nha!"
- │    └── 🎯 Tối T5 (19/11) hoặc Sáng T6 (20/11) — MỞ LỜI RỦ GẶP LẦN 1:
+ │    ├── ☀️ Ban ngày: Giữ sự Lowkey, tập trung làm việc (chỉ tương tác ngắn nếu cần)
+ │    ├── 🌙 Khung Giờ Vàng Độc Quyền (`23:00 → 24:00` mỗi đêm):
+ │    │    ├── Đầu ca NBCU (`21:00–23:00`): Hiếu tập trung họp & giải quyết xong việc chính với bên Mỹ
+ │    │    ├── Cuối ca (`23:00–24:00`): Đúng lúc em vừa xong việc/live, đi tắm gội sấy tóc và nhắn cho Hiếu → Trò chuyện vui vẻ, ấm áp
+ │    │    └── Đúng `24:00`: Chốt câu chúc ngủ ngon ngọt ngào cho em đi ngủ (vì sáng em dậy 07:00) + Hiếu đóng máy, `00:30` ngủ!
+ │    └── 🎯 Đêm T5 (19/11) hoặc T6 (20/11) trong khung `23:00–24:00` — MỞ LỜI RỦ GẶP LẦN 1:
  │         "Tuần này em chạy đơn 19/11 với 20/11 chắc đuối luôn ha. Chiều Chủ Nhật này em được nghỉ không,
  │          anh mời cô đồng hương Quỳnh Lưu đi cafe/ăn nhẹ xả hơi xíu nhé?"
  │          │
@@ -111,27 +244,30 @@
 ## 🗓️ CHI TIẾT 2 NHỊP HẸN CHỦ NHẬT (T11 & T12/2026)
 
 > 💡 **Tại sao cần 2 nhịp thay vì đợi thẳng tới Noel (20/12)?**
+>
 > - Hai người đã nhắn tin được **15 ngày**. Nếu đợi thêm hơn 1 tháng nữa mới gặp thì tổng cộng **50 ngày chỉ nhắn tin**, dễ bị nhạt chuyện.
 > - Vì cả hai đều cực kỳ bận từ T2→T7 và **chỉ rảnh vào Chủ Nhật**, nên chiến lược chuẩn nhất là: **Trong tuần nhắn ngắn gọn, chất lượng (trước 21:00 khi Hiếu vào ca Mỹ) + Cuối tuần hẹn vào chiều Chủ Nhật**.
 
 ### ☕ Nhịp 1: Buổi Cafe / Ăn chiều Chủ Nhật "Xả hơi sau đợt sale 19–20/11" (`CN 22/11` hoặc `CN 29/11/2026`)
-| Mục | Chốt |
-|---|---|
-| **Thời điểm vàng** | **Chủ Nhật `22/11/2026`** hoặc **Chủ Nhật `29/11/2026`** (`15:30 – 18:30`) — ngay sau khi Thúy vừa chạy xong đợt đơn lễ `19/11` & `20/11`, và trước khi bước vào đợt sale `12/12` |
-| **Tính chất** | Nhẹ nhàng, thoải mái (~2–2.5 tiếng): đi uống cafe quán có nắng chiều đẹp hoặc ăn tối nhẹ, trò chuyện đồng hương Nghệ An & cuộc sống lập nghiệp ở Sài Gòn |
-| **Cách mở lời rủ** | Rủ vào tối T5 hoặc sáng T6: *"Tuần này em chạy đơn 19/11 với 20/11 chắc đuối luôn ha. Chiều Chủ Nhật này em được nghỉ không, anh mời cô đồng hương Quỳnh Lưu đi cafe/ăn nhẹ xả hơi xíu nhé?"* |
-| **Điểm cộng tinh tế** | Bấm tặng em 3–5 tấm ảnh tự nhiên bằng iPhone ở quán cafe → làm cầu nối tự nhiên để hẹn buổi Noel tháng 12 |
+
+| Mục                   | Chốt                                                                                                                                                                                          |
+| --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Thời điểm vàng**    | **Chủ Nhật `22/11/2026`** hoặc **Chủ Nhật `29/11/2026`** (`15:30 – 18:30`) — ngay sau khi Thúy vừa chạy xong đợt đơn lễ `19/11` & `20/11`, và trước khi bước vào đợt sale `12/12`             |
+| **Tính chất**         | Nhẹ nhàng, thoải mái (~2–2.5 tiếng): đi uống cafe quán có nắng chiều đẹp hoặc ăn tối nhẹ, trò chuyện đồng hương Nghệ An & cuộc sống lập nghiệp ở Sài Gòn                                      |
+| **Cách mở lời rủ**    | Rủ vào tối T5 hoặc sáng T6: _"Tuần này em chạy đơn 19/11 với 20/11 chắc đuối luôn ha. Chiều Chủ Nhật này em được nghỉ không, anh mời cô đồng hương Quỳnh Lưu đi cafe/ăn nhẹ xả hơi xíu nhé?"_ |
+| **Điểm cộng tinh tế** | Bấm tặng em 3–5 tấm ảnh tự nhiên bằng iPhone ở quán cafe → làm cầu nối tự nhiên để hẹn buổi Noel tháng 12                                                                                     |
 
 ### 🎄 Nhịp 2: Kế hoạch Đi chơi & Chụp ảnh Noel (`Chủ Nhật 20/12/2026`)
-| Mục | Chốt |
-|---|---|
-| **Ngày** | **Chủ Nhật `20/12/2026`**, `~15:30 – 19:30` *(Đã chuyển từ T7 19/12 sang **Chủ Nhật 20/12** để khớp 100% ngày nghỉ duy nhất của Thúy!)* |
-| **Giờ chụp đẹp** | **16:30–17:30** nắng vàng → bắt thêm lúc đèn Noel vừa lên |
-| **Địa điểm** | Q1 (phố đi bộ Nguyễn Huệ, khu TTTM trang trí Noel) hoặc cafe sân vườn/ban công Thảo Điền · **Tiêu chí:** nhiều sáng, nền gọn, có góc Noel, bàn gần cửa sổ để chụp cận mũ/khăn |
-| **Thiết bị** | **Điện thoại iPhone**, không mua máy ảnh |
-| **Về** | Đưa em về trước `21:30–22:00` để em kịp nghỉ ngơi và ngủ đúng giấc **`23:30`** |
 
-- [ ] **Hint lịch về Tết của Hiếu (`29/01 → 20/02/2027`) & hỏi lịch đóng kho về Quỳnh Lưu của em** *(nhân dịp vừa xuất vé chiều vào ngày 13/11)*
+| Mục              | Chốt                                                                                                                                                                          |
+| ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Ngày**         | **Chủ Nhật `20/12/2026`**, `~15:30 – 19:30` _(Đã chuyển từ T7 19/12 sang **Chủ Nhật 20/12** để khớp 100% ngày nghỉ duy nhất của Thúy!)_                                       |
+| **Giờ chụp đẹp** | **16:30–17:30** nắng vàng → bắt thêm lúc đèn Noel vừa lên                                                                                                                     |
+| **Địa điểm**     | Q1 (phố đi bộ Nguyễn Huệ, khu TTTM trang trí Noel) hoặc cafe sân vườn/ban công Thảo Điền · **Tiêu chí:** nhiều sáng, nền gọn, có góc Noel, bàn gần cửa sổ để chụp cận mũ/khăn |
+| **Thiết bị**     | **Điện thoại iPhone**, không mua máy ảnh                                                                                                                                      |
+| **Về**           | Đưa em về trước `21:30–22:00` để em kịp nghỉ ngơi và ngủ đúng giấc **`23:30`**                                                                                                |
+
+- [ ] **Hint lịch về Tết của Hiếu (`29/01 → 20/02/2027`) & hỏi lịch đóng kho về Quỳnh Lưu của em** _(nhân dịp vừa xuất vé chiều vào ngày 13/11)_
 - [ ] Rủ em đi cafe xả hơi chiều Chủ Nhật (`22/11` hoặc `29/11`) sau đợt sale 20/11
 - [ ] Rủ em đi Noel **Chủ Nhật `20/12/2026`** (rủ trước ~1–2 tuần)
 - [ ] Chọn & đặt quán trước 1 tuần
@@ -141,6 +277,7 @@
 ## 🧧 KẾ HOẠCH CHI TIẾT 23 NGÀY TẾT ĐINH MÙI TẠI QUỲNH LƯU (`29/01 → 20/02/2027`)
 
 > ✈️ **Khung vé máy bay đã xuất 100% ([TMA_HOLIDAYS_2027.md](../../M4_CAREER/tma/TMA_HOLIDAYS_2027.md)):**
+>
 > - **Bay về Vinh:** Thứ Sáu `29/01/2027` (`22 tháng Chạp` · `14:45 SGN → 16:35 Vinh`) · Sáng T7 `30/01` (`23 Chạp`) về nhà cúng Ông Công Ông Táo.
 > - **Bay vào lại Sài Gòn:** Thứ Bảy `20/02/2027` (`Rằm tháng Giêng 15/01 ÂL` · `17:05 Vinh → 18:55 SGN`).
 > - **Đặc biệt:** **Chủ Nhật Mùng 9 Tết (`14/02/2027`) trùng đúng ngày Lễ Tình Nhân Valentine `14/02` khi cả hai đang ở quê Quỳnh Lưu!**
@@ -177,20 +314,21 @@
 
 ## 📸 HỌC CHỤP ẢNH ĐIỆN THOẠI - 2 BUỔI × 1H (chỉ khi em đồng ý đi)
 
-| Buổi | Ngày | Nội dung |
-|---|---|---|
-| 1 | T7 05/12/2026 | **Ánh sáng** (mặt hướng về nguồn sáng, tránh nắng trưa) · **Bố cục** (lưới 3×3, máy thấp ngang hông khi chụp toàn thân, không dùng 0.5x cho người) · chụp burst |
-| 2 | T7 12/12/2026 | **Chụp cho brand:** cận chất len (Portrait), 3–5 clip dọc 9:16 dài 3–5s (đội mũ, quàng khăn, xoay người) · thực hành 30 tấm ở cafe gần nhà, tự chấm tấm nào đẹp & vì sao |
+| Buổi | Ngày          | Nội dung                                                                                                                                                                 |
+| ---- | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1    | T7 05/12/2026 | **Ánh sáng** (mặt hướng về nguồn sáng, tránh nắng trưa) · **Bố cục** (lưới 3×3, máy thấp ngang hông khi chụp toàn thân, không dùng 0.5x cho người) · chụp burst          |
+| 2    | T7 12/12/2026 | **Chụp cho brand:** cận chất len (Portrait), 3–5 clip dọc 9:16 dài 3–5s (đội mũ, quàng khăn, xoay người) · thực hành 30 tấm ở cafe gần nhà, tự chấm tấm nào đẹp & vì sao |
 
 ---
 
 ## 📅 DIỄN BIẾN
 
 ```
-Cuối T10 → 13/11/2026  Đã nhắn tin qua lại được ~15 ngày. Nắm được nhịp làm việc của em: dậy 07:00, ngủ 23:30, làm kho + content TikTok + live 4 buổi/tuần, chỉ rảnh Chủ Nhật.
-13/11/2026             Chốt lộ trình 2 nhịp (Cafe Chủ Nhật 22/11 hoặc 29/11 sau lễ 20/11 → Đi Noel Chủ Nhật 20/12/2026) + tư duy "tình yêu là phần thưởng".
+Cuối T10 → 14/11/2026  Đã nhắn tin qua lại được ~15 ngày. Nắm được nhịp làm việc của em: dậy 07:00, ngủ 23:30, làm kho + content TikTok + live 4 buổi/tuần, chỉ rảnh Chủ Nhật.
+                       Em cực kỳ bật đèn xanh: mỗi đêm từ 23:00 → 24:00 đều dành trọn 1 tiếng cuối ngày cho Hiếu (lúc tắm, gội đầu, sấy tóc). Hiếu giữ vị thế Lowkey (1 tuần 1 story) khiến em tò mò, quan tâm.
+13–14/11/2026          Chốt lộ trình Node Tree (Cafe Chủ Nhật 22/11 hoặc 29/11 → Đi Noel Chủ Nhật 20/12/2026 → 23 ngày Tết Quỳnh Lưu → Tỏ tình Sài Gòn) + Giải mã tâm lý khung 23:00–24:00 & Bức tranh 4 giai đoạn dịch chuyển lịch trình.
 ```
 
 ---
 
-_Cập nhật: 13/11/2026 (Cập nhật lịch làm việc của Thúy: ngủ 23:30 - dậy 07:00, làm kho + content + live 4 ngày/tuần, chỉ rảnh Chủ Nhật → Chuyển lịch hẹn sang Chủ Nhật: Nhịp 1 Cafe xả hơi CN 22/11 hoặc 29/11 + Nhịp 2 Noel CN 20/12/2026). Trước đó: 13/11/2026 (Bổ sung thông tin chi tiết từ FB & TikTok: Trần T. Thu Thuý, sinh 28/04/2001, đồng hương Quỳnh Lưu - Nghệ An, THPT Nguyễn Đức Mậu, IG @tthuy_2804, kênh TikTok @loulisaigon 60.2K followers / 465.8K likes). Trước đó: 13/11/2026 (Tạo hồ sơ: Thúy 2001, Louli Saigon; kế hoạch Noel; 2 buổi học chụp ảnh điện thoại; ranh giới không học edit/không mở lại TikTok)._
+_Cập nhật: 14/11/2026 (Note chi tiết Giải mã tâm lý khung giờ `23:00 → 24:00` + chiến thuật Lowkey 1 tuần 1 story & Bức tranh 4 Giai đoạn dịch chuyển lịch trình từ lúc mới quen → thành người yêu → nâng cấp sự nghiệp 2027–2029 → về chung một nhà). Trước đó: 13/11/2026 (Cập nhật lịch làm việc của Thúy, Timeline Node Tree & Kế hoạch 23 ngày Tết Đinh Mùi tại Quỳnh Lưu)._
