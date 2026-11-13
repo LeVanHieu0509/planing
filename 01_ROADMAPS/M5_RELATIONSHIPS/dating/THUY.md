@@ -43,7 +43,68 @@
 
 ---
 
-## 🗓️ LỘ TRÌNH 2 NHỊP (TỪ 15 NGÀY NHẮN TIN → GẶP CHỦ NHẬT → HẸN NOEL)
+## 🌳 TIMELINE NODE TREE (CUỐI T10/2026 → TẾT QUỲNH LƯU → TỎ TÌNH SÀI GÒN T03/2027)
+
+> 🛡️ **NGUYÊN TẮC "MỞ KHÓA TỪNG CHẶNG" (CHỐNG OVER-INVEST TỪ `DATING_CORE_PRINCIPLES.md`):**
+> - Kịch bản từ giờ tới sau Tết rất đẹp và đậm chất đồng hương Quỳnh Lưu, nhưng **tuyệt đối không chạy trước cảm xúc của em**.
+> - **Mỗi Node chỉ được mở khóa khi Node trước đó đạt trạng thái 🟢 (Em vui vẻ, chủ động đầu tư ngược lại)**. Người ta bước 1 bước, mình bước 1 bước!
+
+```text
+[ROOT] 🧣 HÀNH TRÌNH VỚI THÚY (Đồng hương Quỳnh Lưu · 2001 · Louli Saigon)
+ │
+ ├── ✅ NODE 0: LÀM QUEN ONLINE (29/10 → 13/11/2026 · 15 ngày)
+ │    ├── Đã kết nối FB (15 bạn chung), IG (@tthuy_2804), biết kênh TikTok (@loulisaigon)
+ │    └── Nắm rõ nhịp sống của em: Ngủ 23:30 · Dậy 07:00 · Làm kho + Content + Live 4 ngày/tuần · Chỉ rảnh CHỦ NHẬT
+ │
+ ├── 🔄 NODE 1: GIỮ NHỊP ẤM QUA ĐỢT LỄ 19/11 & 20/11 (13/11 → 20/11/2026)
+ │    ├── ☀️ Trưa (12:15–13:15): Hỏi thăm ngắn bữa trưa / đóng hàng kho buổi sáng (1–2 tin vui vẻ)
+ │    ├── 🌆 Chiều tối (18:00–20:45): Trò chuyện nhẹ trước giờ em lên live & trước khi Hiếu vào Ca 2 NBCU
+ │    ├── 🌙 Chốt nhịp 20:50: "Giờ anh vào ca họp với bên Mỹ tới 12h đêm, em live giữ giọng rồi 23h30 ngủ sớm nha!"
+ │    └── 🎯 Tối T5 (19/11) hoặc Sáng T6 (20/11) — MỞ LỜI RỦ GẶP LẦN 1:
+ │         "Tuần này em chạy đơn 19/11 với 20/11 chắc đuối luôn ha. Chiều Chủ Nhật này em được nghỉ không,
+ │          anh mời cô đồng hương Quỳnh Lưu đi cafe/ăn nhẹ xả hơi xíu nhé?"
+ │          │
+ │          ├─► [🟢 ĐỒNG Ý] ────────► Mở khóa NODE 2 vào Chủ Nhật 22/11 (15:30–18:30)
+ │          ├─► [🟡 BẬN ĐƠN THẬT] ──► Vui vẻ hẹn sang Chủ Nhật tuần sau 29/11 (đúng Sprint Nghỉ S4)
+ │          └─► [🔴 NÉ TRÁNH 2 LẦN KHÔNG ĐỀ XUẤT NGÀY KHÁC] ──► Dừng lịch sự (Walk Away)
+ │
+ ├── ☕ NODE 2: GẶP MẶT TẠI SÀI GÒN — LÀM QUEN & XÂY NỀN (Cuối T11 → T01/2027 · 2–3 buổi Chủ Nhật)
+ │    ├── Buổi 1 (CN 22/11 hoặc 29/11 · 15:30–18:30): Cafe nắng chiều + ăn nhẹ (~2.5h), bấm tặng 3–5 ảnh tự nhiên
+ │    ├── Buổi 2 — Hẹn Noel (CN 20/12/2026 · 15:30–19:30):
+ │    │    ├── Trước đó Hiếu tự luyện 2 buổi chụp iPhone (T7 05/12 & T7 12/12 × 1h)
+ │    │    └── Đi dạo phố/cafe Noel (Q1 / Thảo Điền), chụp tặng em bộ ảnh khăn len dưới nắng chiều & đèn Noel
+ │    ├── Buổi 3 — Đầu năm mới 2027 (CN 03/01 hoặc 17/01/2027):
+ │    │    └── 🧣 HÀNH ĐỘNG TINH TẾ TRƯỚC TẾT: Đặt mua 1 chiếc khăn len nam của chính shop Louli Saigon
+ │    │         để đem về Nghệ An quàng dịp Tết lạnh (ủng hộ brand của em cực kỳ tự nhiên!)
+ │    └── 🔓 [ĐIỀU KIỆN MỞ KHÓA NODE 3]: Qua 2–3 buổi ở SG, cả hai nói chuyện thoải mái, em hào hứng hẹn gặp ở quê dịp Tết
+ │
+ ├── 🧧 NODE 3: TẾT ĐỒNG HƯƠNG QUỲNH LƯU - HOÀNG MAI (29/01 → 20/02/2027 · 3 tuần ở quê)
+ │    ├── 🧣 Hiếu đeo đúng chiếc khăn len mua của shop em khi đi chơi Tết ở quê (trời Nghệ An tháng Giêng lạnh!)
+ │    ├── 🐚 Combo Ẩm thực & Ký ức tuổi thơ Quỳnh Lưu (Đi từng buổi nhẹ nhàng):
+ │    │    ├── Đi **Chợ Giát** (Thị trấn Cầu Giát) sắm đồ Tết + ngồi **ăn chè trong chợ Giát**
+ │    │    ├── Đi **ăn ốc** nóng buổi chiều/tối trời lạnh
+ │    │    └── Đi **Cafe Hoàng Mai** trò chuyện thong thả
+ │    ├── 🌊 Combo Du xuân & Tâm linh đầu năm (Mùng 3 → Rằm tháng Giêng):
+ │    │    ├── Đi lễ **Đền Cờn** (Quỳnh Phương, Hoàng Mai — ngôi đền linh thiêng nhất xứ Nghệ)
+ │    │    └── Đi dạo **biển Quỳnh** (Quỳnh Phương / Quỳnh Nghĩa) hóng gió đầu xuân
+ │    ├── 🪴 Mua cây cảnh nhỏ tặng nhà em dịp Tết:
+ │    │    └── ⚠️ Quy tắc tinh tế: Chỉ mang tặng khi em **đã chủ động mời ghé nhà chơi chúc Tết** mẹ và anh trai
+ │    │         (không tự ý mang đến nếu em chưa sẵn sàng giới thiệu với gia đình để tránh làm em bị ngợp!)
+ │    └── 🔓 [ĐIỀU KIỆN MỞ KHÓA NODE 4]: Sau chuỗi ngày đi chơi Tết ở quê, tình cảm hai bên đã chín muồi ("tình trong như đã")
+ │
+ └── 🌹 NODE 4: VÀO LẠI SÀI GÒN & ĐÊM TỎ TÌNH CHÍNH THỨC (Cuối T02 hoặc Dịp 8/3/2027)
+      ├── Thời điểm: Sau khi cả hai bay vào lại Sài Gòn ổn định nhịp làm việc (sau 20/02/2027 — đẹp nhất là CN 28/02 hoặc CN 07/03 dịp 8/3)
+      ├── Ngân sách: Dùng trực tiếp từ **Hũ 7 · ❤️ Quỹ NY trên Timo** (tích lũy 1M/tháng từ T11 → T02 đã có sẵn **3–4 triệu VND**, không lẹm vào tiết kiệm!)
+      ├── Setup quy mô & chỉn chu:
+      │    ├── Đặt bàn riêng tư tại 1 nhà hàng lãng mạn (view đẹp, ánh nến ấm, nhạc nhẹ)
+      │    ├── Chuẩn bị bó hoa tươi đúng tông màu nhẹ nhàng em thích + món quà nhỏ tinh tế
+      │    └── Chính thức ngỏ lời khi cảm xúc đã tròn đầy sau 4 tháng đồng hành từ Sài Gòn về tới Quỳnh Lưu!
+      └── 🏆 ĐÍCH ĐẾN: Bước vào mối quan hệ chính thức lành mạnh, tôn trọng lịch trình & sự nghiệp của nhau
+```
+
+---
+
+## 🗓️ CHI TIẾT 2 NHỊP HẸN CHỦ NHẬT (T11 & T12/2026)
 
 > 💡 **Tại sao cần 2 nhịp thay vì đợi thẳng tới Noel (20/12)?**
 > - Hai người đã nhắn tin được **15 ngày**. Nếu đợi thêm hơn 1 tháng nữa mới gặp thì tổng cộng **50 ngày chỉ nhắn tin**, dễ bị nhạt chuyện.
