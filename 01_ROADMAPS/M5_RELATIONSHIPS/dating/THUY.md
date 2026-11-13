@@ -11,10 +11,10 @@
 - Họ tên:       Trần T. Thu Thuý (Trần Thị Thu Thuý)
 - Năm sinh:     2001 (IG @tthuy_2804 → khả năng cao sinh ngày 28/04/2001 - Cung Kim Ngưu)
 - Quê quán:     Quỳnh Lưu, Nghệ An (Cựu HS THPT Nguyễn Đức Mậu — ĐỒNG HƯƠNG NGHỆ AN, 15 bạn chung trên FB!)
-- Gia đình:     Gắn bó ấm áp với mẹ và anh trai; cùng anh trai vào Sài Gòn lập nghiệp
-- Học vấn & Thực lực: Không học Đại học, đi thẳng vào con đường kinh doanh thực chiến cùng anh trai. Tư duy buôn bán cực kỳ nhạy bén!
+- Gia đình:     Gắn bó ấm áp với mẹ và anh trai; cùng anh trai vào Sài Gòn lập nghiệp (anh trai đã mua 1 căn chung cư ở gần **cầu Gò Dưa - Thủ Đức**).
+- Học vấn & Thực lực: Không học Đại học, đi thẳng vào con đường kinh doanh thực chiến cùng anh trai. Tư duy buôn bán và tích sản cực kỳ nhạy bén!
 - Công việc & Quy mô: Đồng sáng lập / Chủ thương hiệu phụ kiện LOULI SAIGON (Trending Accessories - Mũ lưỡi trai & Khăn quàng len/cashmere, hộp quà tặng).
-  • Quy mô thực tế (T11/2026): Đã **thuê nhân viên làm kho**, ngày sale lớn (`11/11`) xuất đi **cả xe tải 4 bánh** đơn khăn & mũ!
+  • Quy mô thực tế (T11/2026): Đã có **1 kho hàng riêng**, có **thuê nhân viên làm kho**, ngày sale lớn (`11/11`) xuất đi **cả xe tải 4 bánh** đơn khăn & mũ!
 - Kênh MXH:
   • Facebook:   https://www.facebook.com/tran.t.thu.thuy.928092 (Đã kết bạn · 15 bạn chung)
   • Instagram:  https://www.instagram.com/tthuy_2804 (@tthuy_2804)
@@ -24,7 +24,7 @@
   • Gu thẩm mỹ nhẹ nhàng, nữ tính, vibe Hàn Quốc (áo khoác blazer/cardigan, khăn len trơn, mũ lưỡi trai) kết hợp nét truyền thống (thích chụp áo dài, yêu không khí Tết quê nhà).
 - Lịch sinh hoạt & Làm việc của Thúy (Cực kỳ kỷ luật & Khớp tự nhiên với lịch của Hiếu):
   • Giờ giấc: Dậy 07:00 sáng — Ngủ 23:30 đêm.
-  • Khoảng cách địa lý: Nhà/kho của em cách nhà Hiếu **~15km (chạy xe mất ~45 phút/chiều)**.
+  • Khoảng cách địa lý: Khu vực gần **cầu Gò Dưa (Thủ Đức)** — cách nhà Hiếu **~15km (chạy theo tuyến Quốc lộ 1A qua Ngã tư Ga → Cầu vượt Bình Phước mất ~45 phút/chiều)**. Đường QL1A nhiều xe tải/container và khói bụi, nên **tuyệt đối không chạy đi chạy về giữa tuần**!
   • Cường độ làm việc: Kín lịch từ T2→T7 (trực tiếp làm kho, quay/dựng content TikTok, livestream 4 ngày/tuần; vào các dịp lễ như 19/11, 20/11, 12/12, Noel thì lịch live còn dày hơn).
   • Ngày rảnh duy nhất để đi chơi: **CHỦ NHẬT HÀNG TUẦN** (Khớp 100% với ngày nghỉ trọn vẹn nhất của Hiếu trong tuần!).
 - Tín hiệu & Độ đầu tư của Thúy (CỰC KỲ TÍCH CỰC — "Người ta thích & tán mình"):
@@ -113,28 +113,28 @@
 
 ```text
 [GIAI ĐOẠN 1: ĐANG TÌM HIỂU · Hiện tại → Tết 2027 (3–4 tháng đầu)]
- ├── ⏳ Thời lượng gặp: 1h/đêm (23:00–24:00) + Chủ Nhật hàng tuần
- ├── 🛵 Giải bài toán khoảng cách 15km (45p/chiều) khi mới quen:
- │    ├── Trong tuần (T2–T7): TUYỆT ĐỐI KHÔNG chạy 15km đi - 15km về giữa tuần (mất 1.5h ngoài đường kẹt xe,
- │    │    bào mòn thể lực trước ca đêm NBCU 21:00). Giữ đúng "Khung giờ vàng 23:00–24:00" qua tin nhắn!
- │    └── Chủ Nhật hàng tuần: Chạy 45p xuống đi chơi nguyên buổi 3–4 tiếng (15:30–19:30) hoặc hẹn ở
- │         Quận trung gian (Phú Nhuận / Bình Thạnh / Tân Bình / Q1 — mỗi người đi ~7km ~20p) → Thong thả, chất lượng!
- └── 🎯 Ý nghĩa: Đây là "Tỷ lệ vàng" khi mới quen! Đủ để giữ lửa nhớ nhung mỗi đêm,
-      mong chờ tới Chủ Nhật để gặp mặt, mà không ai bị kiệt sức vì đường xa.
+ ├── ⏳ Thời lượng gặp: 1h/đêm (23:00–24:00) + Chủ Nhật (khi có dịp)
+ ├── 🛵 Giải bài toán 15km đường **Quốc lộ 1A** (45p/chiều · nhiều xe container/khói bụi) khi mới quen:
+ │    ├── Trong tuần (T2–T7): **TUYỆT ĐỐI KHÔNG** chạy Quốc lộ 1A đi - về giữa tuần (vừa nguy hiểm vì xe tải/container
+ │    │    giờ cao điểm, vừa bào mòn thể lực trước ca đêm NBCU 21:00). Giữ đúng "Khung giờ vàng 23:00–24:00" qua tin nhắn!
+ │    └── Khi đi chơi Chủ Nhật / Dịp lễ (Noel 20/12): Thay vì cày dọc Quốc lộ 1A bụi bặm, hai đứa hẹn ở các khu cafe/nhà hàng
+ │         đẹp phía trong (**Gò Vấp [Phan Văn Trị / CityLand] / Đại lộ Phạm Văn Đồng [Gigamall] / Bình Thạnh / Q1**)
+ │         → Đường nội đô/Phạm Văn Đồng an toàn, sạch sẽ, không có xe container!
+ └── 🎯 Ý nghĩa: Đây là "Tỷ lệ vàng" khi mới quen! Vừa an toàn tuyệt đối (tránh chạy QL1A ban đêm),
+      vừa giữ lửa nhớ nhung mỗi tối mà không ai bị kiệt sức vì đường xa.
 
 [GIAI ĐOẠN 2: KHI CHÍNH THỨC LÀ NGƯỜI YÊU · Sau Tết / Từ T03/2027 trở đi]
- ├── ⏳ Mở rộng lên gặp 2–3 lần/tuần mà KHÔNG bị kiệt sức vì 15km (45p chạy xe):
- ├── 🛵 3 Chiến thuật "Gặp thông minh" cho khoảng cách 15km tại Sài Gòn:
- │    ├── 1️⃣ Hẹn "Điểm giữa" (Midpoint ~7km / 20p chạy xe) vào tối T2 hoặc T6 (18:00–20:30):
- │    │      Thay vì Hiếu chạy 15km xuống tận nhà em rồi chạy 15km về kịp ca 21:00 (mất 90p trên đường),
- │    │      hai đứa hẹn ăn tối ở khu vực giữa đường (cách mỗi người ~7km, đi 20p là tới) → Có trọn 1.5h ăn tối thoải mái!
- │    ├── 2️⃣ Chiến thuật "Work From Cafe gần nhà em" (1 buổi chiều/tuần hoặc chiều Thứ 7):
- │    │      Chiều hôm đó (hoặc ngày WFH/Thứ 7), Hiếu mang laptop xuống quán cafe gần nhà em ngồi làm việc trước,
- │    │      18:00 ăn tối cùng em ngay dưới đó, thậm chí ngồi làm ca 21:00–24:00 xong đường đêm vắng chạy về chỉ mất 25p!
+ ├── ⏳ Mở rộng lên gặp 2–3 lần/tuần mà **TRÁNH CHẠY QUỐC LỘ 1A GIỜ CAO ĐIỂM**:
+ ├── 🛵 3 Chiến thuật "Gặp an toàn & thông minh":
+ │    ├── 1️⃣ Hẹn "Điểm giữa nội đô" (CityLand Phan Văn Trị Gò Vấp hoặc Gigamall Phạm Văn Đồng · ~15–20p chạy đường trong):
+ │    │      Hai đứa cắt xuống trục đường nội đô Gò Vấp / Phạm Văn Đồng (đường rộng, đèn sáng, làn xe máy riêng, không xe ben/container)
+ │    │      để ăn tối cùng nhau (18:00–20:30 T2 hoặc T6) → An toàn, sạch sẽ và có trọn 1.5h bên nhau!
+ │    ├── 2️⃣ Chiến thuật "Work From Cafe gần khu em" + **Cùng trục đi học Thạc sĩ UIT (Thủ Đức) từ cuối 2027**:
+ │    │      Những ngày WFH hoặc chiều Thứ 7 (và sau này là ngày đi học Thạc sĩ UIT ở Thủ Đức), Hiếu đi vào khung giờ thấp điểm
+ │    │      ban ngày xuống ngồi cafe làm việc gần chỗ em rồi ăn tối cùng em luôn.
  │    └── 3️⃣ Đổi gió cuối tuần (Tối Thứ 7 hôm em không live + Nguyên ngày Chủ Nhật):
- │           Lúc này 45p chạy xe cuối tuần hoàn toàn nhẹ nhàng; thỉnh thoảng em cũng có thể chạy lên khu Hiếu chơi đổi gió.
- └── 🎯 Ý nghĩa: Hóa giải hoàn toàn rào cản 15km bằng điểm hẹn giữa đường + gộp lịch di chuyển,
-      VỪA gặp nhau ấm áp 2–3 buổi/tuần, VỪA bảo toàn 100% sức khỏe cho ca đêm NBCU!
+ │           Đi chơi thong thả bằng đường nội đô (Phạm Văn Đồng / Bình Thạnh / Q1), tránh xa khói bụi Quốc lộ 1A.
+ └── 🎯 Ý nghĩa: Bảo vệ 100% an toàn giao thông và thể lực cho Hiếu (tránh chạy QL1A tối muộn) mà vẫn gặp nhau ấm áp!
 
 [GIAI ĐOẠN 3: KHI CẢ HAI NÂNG CẤP SỰ NGHIỆP & RÚT NGẮN KHOẢNG CÁCH ĐỊA LÝ · 2027 → 2029]
  ├── 📍 Dịch chuyển chỗ ở lại gần nhau (Sau 6–12 tháng yêu chính thức):
@@ -183,8 +183,12 @@
  │
  ├── ✅ NODE 0: LÀM QUEN ONLINE & ĐẦU TƯ TỪ 2 PHÍA (29/10 → 14/11/2026 · 15 ngày)
  │    ├── Đã kết nối FB (15 bạn chung), IG (@tthuy_2804), biết kênh TikTok (@loulisaigon)
- │    ├── Nắm rõ nhịp sống của em: Ngủ 23:30 · Dậy 07:00 · Làm kho + Content + Live 4 ngày/tuần · Chỉ rảnh CHỦ NHẬT
- │    └── 🔥 Tín hiệu đèn xanh cực mạnh: Em chủ động dành ~1 tiếng mỗi ngày cho Hiếu (kể cả lúc tắm/gội đầu/sấy tóc);
+ │    ├── Nắm rõ nhịp sống của em: Ngủ 23:30 · Dậy 07:00 · Làm kho riêng + Content + Live 4 ngày/tuần · Chỉ rảnh CHỦ NHẬT
+ │    ├── ✅ Đã chia sẻ tự nhiên với em (13/11): Hiếu làm 2 công ty (TMA + BIT) và vừa pass phỏng vấn vào dự án bên Mỹ (NBCU US) làm ca đêm.
+ │    │    └── 🎯 Tín hiệu "Chấm làm chồng" từ câu hỏi của em: Em hỏi kỹ **"Job cố định hay không?"** và Hiếu trả lời **"Cố định"**!
+ │    │         (Con gái làm kinh doanh nhạy bén nghe "Kỹ sư IT làm 2 công ty + dự án Mỹ cố định" là tự nhẩm ra ngay mức thu nhập 30tr+ vững chắc;
+ │    │          cộng thêm đồng hương gần nhà ở Quỳnh Lưu, đẹp trai, tập Gym, cầu tiến → Đối với em đây là "mối chồng tương lai" cực phẩm phải giữ chặt!)
+ │    └── 🔥 Tín hiệu đèn xanh cực mạnh: Em chủ động dành ~1 tiếng mỗi ngày (`23:00–24:00`) cho Hiếu (kể cả lúc tắm/gội đầu/sấy tóc);
  │         Hiếu giữ nhịp Lowkey (1 tuần 1 story) khiến em tò mò và chủ động quan tâm!
  │
  ├── 🔄 NODE 1: GIỮ NHỊP ẤM QUA ĐỢT LỄ 19/11 & 20/11 (14/11 → 20/11/2026)
