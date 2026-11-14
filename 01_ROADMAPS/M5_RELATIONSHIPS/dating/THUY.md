@@ -165,11 +165,11 @@
 > 1. **Trục chính (90%):** Duy trì **nhắn tin thân mật, ấm áp khung `23:00 → 24:00` mỗi đêm** để xây dựng sự gắn kết cảm xúc tự nhiên.
 > 2. **Điểm chạm ngoài đời ở Sài Gòn (10% — Chỉ cần `1 buổi Chủ Nhật / tháng`):** Suốt 2.5 tháng trước Tết chỉ cần gặp **2 buổi Chủ Nhật ở khu vực giữa đường** (1 buổi cafe cuối T11 để biết mặt ngoài đời + 1 buổi Noel 20/12) để tránh "chỉ nhắn tin 76 ngày bị ảo/nhạt", hoàn toàn không cần tuần nào cũng chạy 15km đi gặp!
 >
-> | Tháng        | Mục tiêu cảm xúc (Pacing)           | Nhắn tin (`23:00–24:00`)            | Gặp mặt ngoài đời (Tối giản & Chất lượng)                                     |
+> | Tháng        | Mục tiêu cảm xúc (Pacing)           | Nhắn tin (`23:00–24:00`)            | Gặp mặt ngoài đời (3 Nhịp Vàng trước Tết)                                     |
 > | ------------ | ----------------------------------- | ----------------------------------- | ----------------------------------------------------------------------------- |
-> | **T11/2026** | **Làm quen & Xóa khoảng cách mạng** | Trò chuyện vui vẻ, hint lịch vé Tết | **1 buổi Cafe Chủ Nhật** (`22/11` hoặc `29/11` · 2h ở quận giữa)              |
-> | **T12/2026** | **Thân mật & Có kỷ niệm chung**     | Chia sẻ đời sống, công việc mỗi đêm | **1 buổi đi chơi & chụp ảnh Noel** (`CN 20/12/2026`)                          |
-> | **T01/2027** | **Gắn kết trước thềm về quê**       | Đếm ngược ngày về Quỳnh Lưu ăn Tết  | Đặt mua khăn len shop em + **1 buổi cafe nhẹ** (nếu em không quá bận đơn Tết) |
+> | **T11/2026** | **Làm quen & Xóa khoảng cách mạng** | Trò chuyện vui vẻ, hint lịch vé Tết | **Buổi 1 (Cuối T11 · CN `29/11`):** Đi **Cafe Acoustic** tối Chủ Nhật         |
+> | **T12/2026** | **Thân mật & Có kỷ niệm chung**     | Chia sẻ đời sống, công việc mỗi đêm | **Buổi 2 (CN `20/12/2026`):** Đi chơi & **chụp ảnh Noel** với nhau            |
+> | **T01/2027** | **Gắn kết & Ghi dấu ấn trong phòng em** | Đếm ngược ngày về Quỳnh Lưu ăn Tết | **Buổi 3 (Trước ngày về Tết):** Đặt 1 đơn online shop em rồi chạy xuống lấy trực tiếp + **Tặng quà kỷ niệm đặt ở đầu giường / kệ livestream** |
 > | **T02/2027** | **Bùng nổ cảm xúc tại Quê nhà**     | Chúc Tết, hẹn lịch đi chơi ở quê    | **Chuỗi đi chơi Tết Quỳnh Lưu** (Chợ Giát, Chùa, Đền Cờn, Biển Quỳnh)         |
 > | **T03/2027** | **Chốt hạ — Chính thức thành đôi**  | Nhịp người yêu                      | **Đêm tỏ tình lãng mạn tại Sài Gòn** (sau 4 tháng tìm hiểu chín muồi)         |
 
@@ -207,15 +207,22 @@
  │          ├─► [🟡 BẬN ĐƠN THẬT] ──► Vui vẻ hẹn sang Chủ Nhật tuần sau 29/11 (đúng Sprint Nghỉ S4)
  │          └─► [🔴 NÉ TRÁNH 2 LẦN KHÔNG ĐỀ XUẤT NGÀY KHÁC] ──► Dừng lịch sự (Walk Away)
  │
- ├── ☕ NODE 2: GẶP MẶT TẠI SÀI GÒN — LÀM QUEN & XÂY NỀN (Cuối T11 → T01/2027 · 2–3 buổi Chủ Nhật)
- │    ├── Buổi 1 (CN 22/11 hoặc 29/11 · 15:30–18:30): Cafe nắng chiều + ăn nhẹ (~2.5h), bấm tặng 3–5 ảnh tự nhiên
- │    ├── Buổi 2 — Hẹn Noel (CN 20/12/2026 · 15:30–19:30):
+ ├── ☕ NODE 2: GẶP MẶT TẠI SÀI GÒN — 3 NHỊP XÂY NỀN & THANG BẬC QUÀ TẶNG TRƯỚC TẾT (Cuối T11 → T01/2027)
+ │    ├── 🎸 Buổi 1 — Cuối T11 (CN 29/11/2026 · 19:00–21:30): Đi **Cafe Acoustic tại Tiệm Cà Phê Chang Dao**
+ │    │    ├── 📍 Địa điểm: **Tiệm Cà Phê Chang Dao** — `1190/03 Phạm Văn Đồng, P. Linh Đông, TP. Thủ Đức` (Ngay gần khu Cầu Gò Dưa của em, em chạy qua chỉ 5p! Nhạc Acoustic bắt đầu lúc `19:30`)
+ │    │    ├── ⏰ Giờ đi (`19:00` tối, không đi sớm từ chiều): Mới gặp lần đầu không thể đứng chụp ảnh liền vì rất ngại! Hẹn `19:00` (Hiếu tới `18:40` giữ chỗ), ngồi nói chuyện 25p là vừa vào nhạc Acoustic `19:30`.
+ │    │    ├── 🪑 Vị trí ngồi "Chống Ngại 100%": Chọn **bàn/bục gỗ bên trong nhà sát cửa sổ nhìn ra ngoài sân vườn** — **2 đứa ngồi sát cạnh nhau (Side-by-side) cùng nhìn ra vườn hoa & sân khấu**, không phải ngồi đối diện nhìn chằm chằm vào mặt nhau liên tục! Cuối buổi (`20:45–21:15`) hết ngại mới bấm nhẹ 2–3 tấm em ngồi ngay bục cửa sổ gỗ.
+ │    │    ├── 🛵 Đưa đón Buổi 1: Đưa lời mở 2 lựa chọn ("anh qua đón hay em tiện tự chạy qua quán để anh tới sớm lấy bàn đẹp đợi?"); nếu đi 2 xe thì lúc về (`21:30`) **chạy xe song song hộ tống em về tận đầu đường/sảnh**!
+ │    │    └── 🍑 **Nấc quà #1 (ĐỈNH CAO TINH TẾ — ĐÃ CHỐT):** Mua **2–3 bịch/hộp Ô mai ngon ở đường Bạch Đằng** (mơ gừng ấm họng, mận dẻo, sấu chua ngọt...) tặng em vừa để ngậm dịu cổ sau khi live, vừa để **em mang về chia cho em gái & mấy bạn nhân viên kho ăn vặt lúc đóng hàng**! (Ghi điểm với cả team của em mà 0% áp lực!).
+ │    ├── 🎄 Buổi 2 — Hẹn Noel (CN 20/12/2026 · 15:30–19:30): Đi chơi & **Chụp ảnh Noel** với nhau
+ │    │    ├── 🛵 Đưa đón Buổi 2: Đã quen ngoài đời sau Buổi 1 → **Hiếu chạy qua đón chở em đi chung 1 xe** lên Q1 / Thảo Điền!
  │    │    ├── Trước đó Hiếu tự luyện 2 buổi chụp iPhone (T7 05/12 & T7 12/12 × 1h)
- │    │    └── Đi dạo phố/cafe Noel (Q1 / Thảo Điền), chụp tặng em bộ ảnh khăn len dưới nắng chiều & đèn Noel
- │    ├── Buổi 3 — Đầu năm mới 2027 (CN 03/01 hoặc 17/01/2027):
- │    │    └── 🧣 HÀNH ĐỘNG TINH TẾ TRƯỚC TẾT: Đặt mua 1 chiếc khăn len nam của chính shop Louli Saigon
- │    │         để đem về Nghệ An quàng dịp Tết lạnh (ủng hộ brand của em cực kỳ tự nhiên!)
- │    └── 🔓 [ĐIỀU KIỆN MỞ KHÓA NODE 3]: Qua 2–3 buổi ở SG, cả hai nói chuyện thoải mái, em hào hứng hẹn gặp ở quê dịp Tết
+ │    │    └── 📸 **Nấc quà #2 (Kỷ niệm trải nghiệm):** Đi dạo phố/cafe Noel (Q1 / Thảo Điền), chụp tặng em bộ ảnh khăn len dưới nắng chiều & đèn Noel
+ │    ├── 🎁 Buổi 3 — Trước ngày về Tết (Giữa/Cuối T01/2027): **Đặt đơn online shop em → Xuống lấy trực tiếp & Tung "Chiêu cuối trước Tết"**
+ │    │    ├── Đặt 1 đơn online (khăn len/mũ) của shop Louli Saigon để mang về Nghệ An quàng Tết, hẹn chạy xuống lấy trực tiếp từ cô chủ
+ │    │    └── 🏆 **Nấc quà #3 (ĐÃ CHỐT):** **Ly giữ nhiệt màu Kem/Beige Hàn Quốc + Hộp Trà dưỡng thanh quản + 1 tấm ảnh nhỏ in từ buổi Noel `20/12` cài trong thiệp**
+ │    │         (Vì em mặc đồ len quay video & livestream trong phòng máy lạnh liên tục nên rất cần giữ ấm cổ họng — vừa để ngay bàn Livestream, vừa để đầu giường!)
+ │    └── 🔓 [ĐIỀU KIỆN MỞ KHÓA NODE 3]: Qua 3 nhịp ở SG, cả hai đã có kỷ niệm đẹp & vật kỷ niệm trong phòng em, hào hứng hẹn gặp ở quê dịp Tết
  │
  ├── 🧧 NODE 3: TẾT ĐỒNG HƯƠNG QUỲNH LƯU - HOÀNG MAI (29/01 → 20/02/2027 · 3 tuần ở quê)
  │    ├── 🧣 Hiếu đeo đúng chiếc khăn len mua của shop em khi đi chơi Tết ở quê (trời Nghệ An tháng Giêng lạnh!)
@@ -245,36 +252,76 @@
 
 ---
 
-## 🗓️ CHI TIẾT 2 NHỊP HẸN CHỦ NHẬT (T11 & T12/2026)
+## 🗓️ CHI TIẾT 3 NHỊP HẸN TRƯỚC TẾT TẠI SÀI GÒN (T11, T12/2026 & T01/2027)
 
-> 💡 **Tại sao cần 2 nhịp thay vì đợi thẳng tới Noel (20/12)?**
->
-> - Hai người đã nhắn tin được **15 ngày**. Nếu đợi thêm hơn 1 tháng nữa mới gặp thì tổng cộng **50 ngày chỉ nhắn tin**, dễ bị nhạt chuyện.
-> - Vì cả hai đều cực kỳ bận từ T2→T7 và **chỉ rảnh vào Chủ Nhật**, nên chiến lược chuẩn nhất là: **Trong tuần nhắn ngắn gọn, chất lượng (trước 21:00 khi Hiếu vào ca Mỹ) + Cuối tuần hẹn vào chiều Chủ Nhật**.
-
-### ☕ Nhịp 1: Buổi Cafe / Ăn chiều Chủ Nhật "Xả hơi sau đợt sale 19–20/11" (`CN 22/11` hoặc `CN 29/11/2026`)
+### 🎸 Nhịp 1: Đi Cafe Acoustic tối Chủ Nhật cuối tháng 11 (`CN 29/11/2026` — Tiệm Cà Phê Chang Dao)
 
 | Mục                   | Chốt                                                                                                                                                                                          |
 | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Thời điểm vàng**    | **Chủ Nhật `22/11/2026`** hoặc **Chủ Nhật `29/11/2026`** (`15:30 – 18:30`) — ngay sau khi Thúy vừa chạy xong đợt đơn lễ `19/11` & `20/11`, và trước khi bước vào đợt sale `12/12`             |
-| **Tính chất**         | Nhẹ nhàng, thoải mái (~2–2.5 tiếng): đi uống cafe quán có nắng chiều đẹp hoặc ăn tối nhẹ, trò chuyện đồng hương Nghệ An & cuộc sống lập nghiệp ở Sài Gòn                                      |
-| **Cách mở lời rủ**    | Rủ vào tối T5 hoặc sáng T6: _"Tuần này em chạy đơn 19/11 với 20/11 chắc đuối luôn ha. Chiều Chủ Nhật này em được nghỉ không, anh mời cô đồng hương Quỳnh Lưu đi cafe/ăn nhẹ xả hơi xíu nhé?"_ |
-| **Điểm cộng tinh tế** | Bấm tặng em 3–5 tấm ảnh tự nhiên bằng iPhone ở quán cafe → làm cầu nối tự nhiên để hẹn buổi Noel tháng 12                                                                                     |
+| **Thời điểm vàng**    | **Chủ Nhật `29/11/2026`** (`19:00 – 21:30`, nhạc Acoustic bắt đầu lúc **`19:30`** — đúng tuần Sprint Nghỉ S4 của Hiếu và sau khi Thúy đã qua đợt đơn lễ `20/11`)                               |
+| **Địa điểm đã chốt**  | **📌 Tiệm Cà Phê Chang Dao** — `1190/03 Phạm Văn Đồng, phường Linh Đông, TP. Thủ Đức` (`07:00 – 22:30`, có bãi giữ xe máy & ô tô, Acoustic tối T5, T7 & CN)                                   |
+| **Lợi thế địa điểm**  | Quán nằm ngay phường Linh Đông trên trục Phạm Văn Đồng, **sát bên khu Cầu Gò Dưa của em (em chạy xe qua chỉ mất ~5 phút!)** → Lần đầu gặp mặt buổi tối nhưng ngay gần nhà em nên em cực kỳ yên tâm, dễ đồng ý 100%, còn Hiếu ghi điểm ga-lăng tuyệt đối! |
+| **Cách mở lời rủ**    | _"Cuối tuần Chủ Nhật này em rảnh không, ngay Phạm Văn Đồng Linh Đông gần chỗ em có Tiệm Cà Phê Chang Dao tối Chủ Nhật lúc 19h30 có nhạc Acoustic hay lắm, anh chạy qua mời cô đồng hương Quỳnh Lưu đi nghe nhạc xả hơi nhé?"_ |
+| **Cách đưa đón ở Buổi 1** | **Đưa lời mở 2 lựa chọn (Ga-lăng nhưng không ép xin địa chỉ nhà ở First Date):**<br>_"Quán Chang Dao ở 1190/03 Phạm Văn Đồng ngay gần chỗ em luôn á. Tối Chủ Nhật 19h anh chạy qua đón em đi chung, hay em tiện tự chạy qua quán để anh tới sớm lấy bàn đẹp đợi em?"_<br>• **Nếu em tự chạy qua (80% con gái chọn ở buổi đầu):** Hiếu tới sớm trước 15p (`18:45`) giữ bàn đẹp (cách loa vừa phải để dễ nói chuyện); lúc về (`21:30`) **chạy xe song song hộ tống em về tới tận đầu đường/sảnh** rồi mới quay xe về!<br>• **Nếu em bảo qua đón luôn:** Chuẩn bị sẵn mũ bảo hiểm sạch đẹp qua đón em.<br>• **Sang Buổi 2 (Noel `20/12` đi Q1/Thảo Điền):** Lúc này đã quen ngoài đời sau Buổi 1 → **100% qua đón chở em đi chung 1 xe!** |
+| **Chiến thuật Giờ giấc & Chỗ ngồi "Chống Ngại 100%"** | • **Giờ hẹn (`19:00` tối — Không đi sớm từ chiều):** Lần đầu gặp mặt ngoài đời tuyệt đối không hẹn sớm để đứng chụp ảnh liền vì cả hai sẽ rất ngại! Hẹn **`19:00`** (Hiếu tới lúc **`18:40`** giữ chỗ trước), ngồi trò chuyện 20–30p là vừa đẹp tới **`19:30` nhạc Acoustic nổi lên**.<br>• **Vị trí ngồi Vàng ("Ngồi trong nhà/hiên gỗ nhìn ra ngoài sân vườn — Ngồi cạnh nhau Side-by-Side"):** Chọn **dãy bàn ghế sát khung cửa sổ gỗ bên trong nhà nhìn ra vườn hoa** (hoặc băng ghế dài dọc hiên nhà gỗ hướng ra vườn). **Hai đứa ngồi sát cạnh nhau và cùng hướng mắt nhìn ra vườn hoa/sân khấu** thay vì ngồi đối diện 1-1 nhìn chằm chằm vào mặt nhau! Lúc nói chuyện thì quay nhẹ sang nhau, lúc ngưng nói thì cả hai tự nhiên nhìn ra vườn nghe nhạc → **Xóa sạch 100% cảm giác ngại ngùng hay áp lực phải nói liên tục!**<br>• **Khi nào mới bấm ảnh?** Đầu & giữa buổi chỉ nghe nhạc và trò chuyện. Tới cuối buổi (`~20:45–21:15`) khi đã cười nói thân thuộc hết ngại, chỉ cần bấm nhẹ **2–3 tấm em ngồi tự nhiên ngay tại bục cửa sổ gỗ** (như [Ảnh mẫu 05](./assets/chang_dao/05_buc_go_cua_so_ngoi_canh_nhau.jpg)) hoặc lúc đi ngang vườn hoa cúc họa mi ra về! |
+| **Về**                | Kết thúc lúc `21:30` để em chạy 5 phút về nhà kịp tắm gội, sấy tóc và `23:00` hai đứa lại nhắn tin trò chuyện trước khi ngủ đúng giấc **`23:30`**!                                            |
+
+#### 📸 Kho Ảnh Mẫu Góc Ngồi & Góc Chụp tại Tiệm Cà Phê Chang Dao (Đã lưu vào `./assets/chang_dao/`):
+- **[01_vuon_hoa_cuc_hoa_mi.jpg](./assets/chang_dao/01_vuon_hoa_cuc_hoa_mi.jpg):** Toàn cảnh vườn hoa cúc họa mi trắng, cây hồng Đà Lạt, lối đi gỗ & đèn lồng (phía trái là dãy nhà gỗ nhìn ra vườn).
+- **[02_ghe_hien_nha_go_cua_so.jpg](./assets/chang_dao/02_ghe_hien_nha_go_cua_so.jpg):** Góc ghế gỗ dưới hiên nhà & khung cửa sổ kính mở hất (bên trong cửa sổ là vị trí ngồi trong nhà nhìn thẳng ra vườn cực chill!).
+- **[03_tuong_da_bang_hieu_chang_dao.jpg](./assets/chang_dao/03_tuong_da_bang_hieu_chang_dao.jpg):** Bờ tường đá hộc Đà Lạt + bảng chữ phát sáng `CHANG DAO` và dãy bàn thấp ngồi sát nhau dọc hiên gỗ.
+- **[04_hien_go_goc_nghieng.jpg](./assets/chang_dao/04_hien_go_goc_nghieng.jpg):** Góc dọc hành lang hiên nhà gỗ lên đèn vàng ấm áp.
+- **[05_buc_go_cua_so_ngoi_canh_nhau.jpg](./assets/chang_dao/05_buc_go_cua_so_ngoi_canh_nhau.jpg):** **VỊ TRÍ NGỒI ĐỈNH NHẤT:** Bục gỗ dài có đệm cói tròn ngay khung cửa sổ tròn/vuông mở thông từ trong nhà ra ngoài — hai đứa ngồi cạnh nhau vừa ấm cúng vừa nhìn thẳng ra sân vườn, bấm ảnh ngồi tại chỗ cực xinh!
+- **[00_louli_saigon_room_shelf.jpg](./assets/chang_dao/00_louli_saigon_room_shelf.jpg):** Ảnh góc phòng & kệ Livestream của Thúy trên kênh `@loulisaigon` (tông trắng kem Hàn Quốc, đèn nấm cam, mũ thêu gấu).
+
+> 💡 **NGHỆ THUẬT "GÀI TRƯỚC 1 TUẦN → THỂ HIỆN QUA HÀNH ĐỘNG" (SEED & CALLBACK) CHO MÓN QUÀ Ô MAI BẠCH ĐẰNG & LY GIỮ NHIỆT:**
+> - **Nguyên tắc vàng của Hiếu:** Quà tặng chỉ chạm tới đáy tim phụ nữ khi có **"Lý do được gài trước"** — tức là em vô tình chia sẻ sở thích/nỗi vất vả trong lúc trò chuyện, tưởng Hiếu chỉ nghe qua, nhưng hôm gặp mặt Hiếu lại **thể hiện bằng hành động chuẩn xác 100%**!
+>
+> 1. **Kịch bản "Gài trước - Đánh sau" cho 2–3 hộp Ô mai Bạch Đằng (`Buổi 1 - 29/11`):**
+>    - **🌱 Bước 1 — Gài câu hỏi tự nhiên (Trong khung `23:00–24:00` tuần lễ `16–22/11` lúc em đang chạy đơn 20/11):**
+>      - Lúc đang nói chuyện vui về cảnh làm kho hoặc livestream, Hiếu hỏi bâng quơ:
+>        _"Mà mấy chị em đóng hàng trong kho cả ngày thế có hay bày đồ ăn vặt chua chua ngọt ngọt kiểu ô mai, bánh kẹo gì ra nhâm nhi cho đỡ buồn miệng với đỡ rát cổ không? Hay cô chủ nhỏ nghiêm khắc bắt làm suốt thế kkk?"_
+>      - Khi em hào hứng kể ra gu ăn vặt của em (thích vị chua ngọt, mận dẻo, mơ gừng hay sấu...), Hiếu chỉ cười trêu 1 câu rồi **đổi sang chuyện khác ngay** *(Tuyệt đối KHÔNG hứa "để hôm nào anh mua cho" nhằm giữ 100% sự bất ngờ!)*.
+>    - **🎯 Bước 2 — Thể hiện bằng hành động (Tối Chủ Nhật `29/11` tại Chang Dao):**
+>      - Lúc ngồi cạnh nhau ở bục cửa sổ gỗ, Hiếu đưa túi 2–3 hộp ô mai Bạch Đằng (đúng vị em đã nhắc tuần trước + vị mơ gừng ấm họng) và nói nhẹ:
+>        _"Hôm bữa nghe em kể mấy chị em làm kho hay buồn miệng thích ăn chua ngọt, nay đi ngang đường Bạch Đằng nhớ ra nên anh ghé mua đúng mấy vị em thích với vị mơ gừng ngậm dịu cổ lúc live nè. Mai em mang ra kho ăn với bé em gái và mấy bạn nhân viên nha!"_
+>      - **💥 Hiệu ứng cảm xúc:** Em sẽ sững người vì cảm động: *"Chỉ một câu mình nói vu vơ lúc nửa đêm tuần trước mà anh ấy nhớ từng chữ và âm thầm mua đúng thứ mình thích!"* → Cảm nhận trọn vẹn 100% tình cảm chân thành qua hành động của Hiếu!
+>
+> 2. **Kịch bản "Gài trước - Đánh sau" tương tự cho Ly giữ nhiệt màu Kem + Trà dưỡng họng (`Buổi 3 - T01/2027` trước Tết):**
+>    - **🌱 Bước 1 — Gài trước (Trong tháng 12 lúc em chạy đơn 12/12 & Noel):** Hỏi thăm chuyện em mặc đồ len quay/live phải bật máy lạnh sâu có hay bị lạnh và khô cổ không, lúc live em hay uống nước lọc hay trà ấm.
+>    - **🎯 Bước 2 — Hành động (Tháng 01/2027 khi xuống lấy đơn khăn Tết):** Trao tận tay chiếc **Ly giữ nhiệt màu Kem Hàn Quốc + Trà dưỡng thanh quản** (kèm tấm ảnh in từ buổi Noel `20/12`) để em đặt ngay bàn Livestream & đầu giường!
 
 ### 🎄 Nhịp 2: Kế hoạch Đi chơi & Chụp ảnh Noel (`Chủ Nhật 20/12/2026`)
 
 | Mục              | Chốt                                                                                                                                                                          |
 | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Ngày**         | **Chủ Nhật `20/12/2026`**, `~15:30 – 19:30` _(Đã chuyển từ T7 19/12 sang **Chủ Nhật 20/12** để khớp 100% ngày nghỉ duy nhất của Thúy!)_                                       |
+| **Ngày**         | **Chủ Nhật `20/12/2026`**, `~15:30 – 19:30` _(Khớp 100% ngày nghỉ duy nhất của Thúy, trước lễ Noel 4 ngày để em có sẵn ảnh đẹp đăng Noel!)_                                   |
 | **Giờ chụp đẹp** | **16:30–17:30** nắng vàng → bắt thêm lúc đèn Noel vừa lên                                                                                                                     |
 | **Địa điểm**     | Q1 (phố đi bộ Nguyễn Huệ, khu TTTM trang trí Noel) hoặc cafe sân vườn/ban công Thảo Điền · **Tiêu chí:** nhiều sáng, nền gọn, có góc Noel, bàn gần cửa sổ để chụp cận mũ/khăn |
 | **Thiết bị**     | **Điện thoại iPhone**, không mua máy ảnh                                                                                                                                      |
 | **Về**           | Đưa em về trước `21:30–22:00` để em kịp nghỉ ngơi và ngủ đúng giấc **`23:30`**                                                                                                |
 
+### 🎁 Nhịp 3: Đặt đơn khăn Tết xuống lấy trực tiếp & Tặng quà đặt Đầu Giường / Kệ Livestream (`Giữa/Cuối T01/2027`)
+
+> 🏆 **QUÀ TẶNG ĐÃ CHỐT (14/11/2026): LY GIỮ NHIỆT MÀU KEM HÀN QUỐC + TRÀ DƯỠNG HỌNG!**
+> - **Tại sao lựa chọn này tinh tế 1000 điểm?** Vì ở Sài Gòn nóng nhưng sản phẩm của em là **khăn len & áo mùa đông**, nên mỗi khi quay video hoặc livestream hàng giờ liền, em **bắt buộc phải bật máy lạnh thật sâu** cho đỡ nóng. Ngồi phòng máy lạnh lạnh buốt + nói liên tục 4 buổi live/tuần cực kỳ dễ khô họng, khàn tiếng và cảm lạnh!
+> - Khi Hiếu tặng **chiếc Ly giữ nhiệt tông màu Kem/Beige Hàn Quốc (Lock&Lock / Stanley / Owala)** kèm **Trà hoa cúc mật ong / kỷ tử táo đỏ dưỡng thanh quản** và nói: _"Anh thấy em mặc đồ len quay với live trong phòng máy lạnh suốt dễ bị khô cổ, anh tặng cô chủ nhỏ chiếc bình giữ nhiệt này để pha trà ấm đặt ngay bàn live với đầu giường uống cho ấm họng nhé"_ → **Đúng chuẩn 100% bí quyết "Quan tâm tới từng chi tiết nhỏ nhất khiến phụ nữ muốn lấy làm chồng"!**
+>
+> 🔍 **Phân tích góc phòng & kệ Livestream của Thúy (Từ ảnh chụp màn hình kênh `@loulisaigon`):**
+> - **Tông màu phòng:** Trắng kem (Cream/Beige) + Gỗ ấm + Cam đất tối giản chuẩn **Korean Studio** (ga giường trắng kem, kệ gỗ decor sách tiếng Anh `In Paris / The Fashion`, cây xanh nhỏ, đèn ngủ nấm màu cam).
+> - **Biểu tượng đặc trưng của shop em:** Mẫu mũ chủ lực của shop có **logo thêu hình chú Gấu nhỏ (`Form thêu gấu`)** và dòng chữ `her`.
+
+| Hạng | Món quà (Ngân sách `300k – 700k`) | Tại sao món này "Chí mạng" với Thúy? |
+|---|---|---|
+| **🏆 ĐÃ CHỐT** | **Ly Giữ Nhiệt Cao Cấp tông màu Kem/Beige Hàn Quốc (Lock&Lock / Stanley / Owala) + Hộp Trà Hoa Cúc Mật Ong dưỡng thanh quản** *(kèm 1 tấm ảnh nhỏ in từ buổi Noel `20/12` cài vào thiệp)* | • **Đặt ngay bàn Livestream & Đầu giường:** Em quay đồ len & live 4 buổi/tuần trong phòng máy lạnh rất rát họng. Chiếc ly màu kem khớp 100% vibe Hàn Quốc của phòng em → Mỗi lần em cầm ly uống nước ấm ngay trên sóng live hay trước khi đi ngủ đều cảm nhận được sự tinh tế của Hiếu! |
+| *Dự phòng 1* | *Set Đèn Đốt Nến Thơm Hàn Quốc (Candle Warmer gỗ/kem) + 1 Hũ Nến Thơm Tinh Dầu dịu nhẹ* | *Đặt lên kệ gỗ sau lưng em khi quay TikTok hoặc bật ở đầu giường lúc `23:00–24:00`.* |
+| *Dự phòng 2* | *Gấu Bông Jellycat / Đèn ngủ Gốm hình Chú Gấu đội mũ len / quàng khăn len mini (Tone Nâu/Kem)* | *Khớp DNA mũ thêu gấu & khăn len của shop `Louli Saigon`.* |
+| *Dự phòng 3* | *Lịch Gỗ Để Bàn Aesthetic 2027 (In kèm ảnh chụp hôm Noel `20/12`)* | *Hữu dụng cả năm 2027 trên bàn làm việc.* |
+
 - [ ] **Hint lịch về Tết của Hiếu (`29/01 → 20/02/2027`) & hỏi lịch đóng kho về Quỳnh Lưu của em** _(nhân dịp vừa xuất vé chiều vào ngày 13/11)_
-- [ ] Rủ em đi cafe xả hơi chiều Chủ Nhật (`22/11` hoặc `29/11`) sau đợt sale 20/11
-- [ ] Rủ em đi Noel **Chủ Nhật `20/12/2026`** (rủ trước ~1–2 tuần)
-- [ ] Chọn & đặt quán trước 1 tuần
+- [ ] **Buổi 1 (`CN 29/11/2026`):** Rủ em đi **Cafe Acoustic (Chang Dao)** tối Chủ Nhật cuối tháng 11 + ghé đường Bạch Đằng mua **2–3 bịch/hộp Ô mai ngon** tặng em (để em ngậm dịu cổ và chia cho em gái + mấy bạn nhân viên kho ăn vặt)
+- [ ] **Buổi 2 (`CN 20/12/2026`):** Rủ em đi chơi & **chụp bộ ảnh Noel** (rủ trước ~1–2 tuần)
+- [ ] **Buổi 3 (`Giữa/Cuối T01/2027`):** Đặt 1 đơn online khăn/mũ shop em → Chạy xuống lấy trực tiếp trước ngày về Tết + **Tặng Ly giữ nhiệt màu Kem Hàn Quốc & Trà dưỡng thanh quản (kèm 1 tấm ảnh in từ buổi Noel `20/12`)**
 
 ---
 
