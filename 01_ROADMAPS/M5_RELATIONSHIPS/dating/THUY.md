@@ -213,7 +213,7 @@
  │    │    ├── ⏰ Giờ đi (`19:00` tối, không đi sớm từ chiều): Mới gặp lần đầu không thể đứng chụp ảnh liền vì rất ngại! Hẹn `19:00` (Hiếu tới `18:40` giữ chỗ), ngồi nói chuyện 25p là vừa vào nhạc Acoustic `19:30`.
  │    │    ├── 🪑 Vị trí ngồi "Chống Ngại 100%": Chọn **bàn/bục gỗ bên trong nhà sát cửa sổ nhìn ra ngoài sân vườn** — **2 đứa ngồi sát cạnh nhau (Side-by-side) cùng nhìn ra vườn hoa & sân khấu**, không phải ngồi đối diện nhìn chằm chằm vào mặt nhau liên tục! Cuối buổi (`20:45–21:15`) hết ngại mới bấm nhẹ 2–3 tấm em ngồi ngay bục cửa sổ gỗ.
  │    │    ├── 🛵 Đưa đón Buổi 1: Đưa lời mở 2 lựa chọn ("anh qua đón hay em tiện tự chạy qua quán để anh tới sớm lấy bàn đẹp đợi?"); nếu đi 2 xe thì lúc về (`21:30`) **chạy xe song song hộ tống em về tận đầu đường/sảnh**!
- │    │    └── 🍑 **Nấc quà #1 (ĐỈNH CAO TINH TẾ — ĐÃ CHỐT):** Mua **2–3 bịch/hộp Ô mai ngon ở đường Bạch Đằng** (mơ gừng ấm họng, mận dẻo, sấu chua ngọt...) tặng em vừa để ngậm dịu cổ sau khi live, vừa để **em mang về chia cho em gái & mấy bạn nhân viên kho ăn vặt lúc đóng hàng**! (Ghi điểm với cả team của em mà 0% áp lực!).
+ │    │    └── 🍑 **Nấc quà #1 (ĐỈNH CAO TINH TẾ — ĐÃ CHỐT):** Mua **2–3 bịch/hộp Ô mai ngon ở đường Bạch Đằng** (mơ gừng ấm họng, mận dẻo, sấu chua ngọt...) tặng riêng cho em để em ăn vặt lúc làm việc & ngậm dịu cổ sau khi live (còn em muốn chia cho ai thử thêm thì tùy em!).
  │    ├── 🎄 Buổi 2 — Hẹn Noel (CN 20/12/2026 · 15:30–19:30): Đi chơi & **Chụp ảnh Noel** với nhau
  │    │    ├── 🛵 Đưa đón Buổi 2: Đã quen ngoài đời sau Buổi 1 → **Hiếu chạy qua đón chở em đi chung 1 xe** lên Q1 / Thảo Điền!
  │    │    ├── Trước đó Hiếu tự luyện 2 buổi chụp iPhone (T7 05/12 & T7 12/12 × 1h)
@@ -277,19 +277,19 @@
 > 💡 **NGHỆ THUẬT "GÀI TRƯỚC 1 TUẦN → THỂ HIỆN QUA HÀNH ĐỘNG" (SEED & CALLBACK) CHO MÓN QUÀ Ô MAI BẠCH ĐẰNG & LY GIỮ NHIỆT:**
 > - **Nguyên tắc vàng của Hiếu:** Quà tặng chỉ chạm tới đáy tim phụ nữ khi có **"Lý do được gài trước"** — tức là em vô tình chia sẻ sở thích/nỗi vất vả trong lúc trò chuyện, tưởng Hiếu chỉ nghe qua, nhưng hôm gặp mặt Hiếu lại **thể hiện bằng hành động chuẩn xác 100%**!
 >
-> 1. **Kịch bản "Gài trước - Đánh sau" cho 2–3 hộp Ô mai Bạch Đằng (`Buổi 1 - 29/11`):**
+> 1. **Kịch bản "Gài trước - Đánh sau" cho 2–3 bịch Ô mai Bạch Đằng (`Buổi 1 - 29/11`):**
 >    - **🌱 Bước 1 — Gài câu hỏi tự nhiên (Trong khung `23:00–24:00` tuần lễ `16–22/11` lúc em đang chạy đơn 20/11):**
->      - Lúc đang nói chuyện vui về cảnh làm kho hoặc livestream, Hiếu hỏi bâng quơ:
->        _"Mà mấy chị em đóng hàng trong kho cả ngày thế có hay bày đồ ăn vặt chua chua ngọt ngọt kiểu ô mai, bánh kẹo gì ra nhâm nhi cho đỡ buồn miệng với đỡ rát cổ không? Hay cô chủ nhỏ nghiêm khắc bắt làm suốt thế kkk?"_
->      - Khi em hào hứng kể ra gu ăn vặt của em (thích vị chua ngọt, mận dẻo, mơ gừng hay sấu...), Hiếu chỉ cười trêu 1 câu rồi **đổi sang chuyện khác ngay** *(Tuyệt đối KHÔNG hứa "để hôm nào anh mua cho" nhằm giữ 100% sự bất ngờ!)*.
+>      - Lúc đang nói chuyện vui về chuyện em làm việc cả ngày hoặc livestream mỏi miệng, Hiếu hỏi bâng quơ:
+>        _"Làm việc cả ngày tới khuya thế lúc buồn miệng hay buồn ngủ em có hay ăn vặt đồ chua chua ngọt ngọt kiểu ô mai gì cho tỉnh táo với đỡ rát cổ không?"_
+>      - Khi em kể ra gu ăn vặt của em (thích vị chua ngọt, mận dẻo, mơ gừng hay sấu...), Hiếu chỉ cười trêu 1 câu rồi **đổi sang chuyện khác ngay** *(Tuyệt đối KHÔNG hứa "để hôm nào anh mua cho" nhằm giữ 100% sự bất ngờ!)*.
 >    - **🎯 Bước 2 — Thể hiện bằng hành động (Tối Chủ Nhật `29/11` tại Chang Dao):**
->      - Lúc ngồi cạnh nhau ở bục cửa sổ gỗ, Hiếu đưa túi 2–3 hộp ô mai Bạch Đằng (đúng vị em đã nhắc tuần trước + vị mơ gừng ấm họng) và nói nhẹ:
->        _"Hôm bữa nghe em kể mấy chị em làm kho hay buồn miệng thích ăn chua ngọt, nay đi ngang đường Bạch Đằng nhớ ra nên anh ghé mua đúng mấy vị em thích với vị mơ gừng ngậm dịu cổ lúc live nè. Mai em mang ra kho ăn với bé em gái và mấy bạn nhân viên nha!"_
->      - **💥 Hiệu ứng cảm xúc:** Em sẽ sững người vì cảm động: *"Chỉ một câu mình nói vu vơ lúc nửa đêm tuần trước mà anh ấy nhớ từng chữ và âm thầm mua đúng thứ mình thích!"* → Cảm nhận trọn vẹn 100% tình cảm chân thành qua hành động của Hiếu!
+>      - Lúc ngồi cạnh nhau ở bục cửa sổ gỗ, Hiếu đưa túi 2–3 bịch ô mai Bạch Đằng (đúng vị em đã nhắc tuần trước + vị mơ gừng ấm họng) tặng thẳng cho em:
+>        _"Hôm bữa nghe em kể lúc làm việc thích nhâm nhi đồ chua ngọt, nay đi ngang đường Bạch Đằng nhớ ra nên anh ghé mua mấy bịch ô mai đúng vị em thích với vị mơ gừng cho cô chủ nhỏ ăn vặt với ngậm dịu cổ lúc live nè!"_
+>      - **💥 Hiệu ứng cảm xúc:** Tập trung 100% sự quan tâm vào riêng em (còn em mang về tự ăn hay cho ai thử cùng là quyền của em). Em sẽ sững người vì cảm động: *"Chỉ một câu mình nói vu vơ lúc nửa đêm tuần trước mà anh ấy nhớ từng chữ và âm thầm mua đúng thứ mình thích!"* → Cảm nhận trọn vẹn 100% tình cảm chân thành qua hành động của Hiếu!
 >
-> 2. **Kịch bản "Gài trước - Đánh sau" tương tự cho Ly giữ nhiệt màu Kem + Trà dưỡng họng (`Buổi 3 - T01/2027` trước Tết):**
->    - **🌱 Bước 1 — Gài trước (Trong tháng 12 lúc em chạy đơn 12/12 & Noel):** Hỏi thăm chuyện em mặc đồ len quay/live phải bật máy lạnh sâu có hay bị lạnh và khô cổ không, lúc live em hay uống nước lọc hay trà ấm.
->    - **🎯 Bước 2 — Hành động (Tháng 01/2027 khi xuống lấy đơn khăn Tết):** Trao tận tay chiếc **Ly giữ nhiệt màu Kem Hàn Quốc + Trà dưỡng thanh quản** (kèm tấm ảnh in từ buổi Noel `20/12`) để em đặt ngay bàn Livestream & đầu giường!
+> 2. **Kịch bản "Gài trước - Đánh sau" cho Ly giữ nhiệt màu Kem + Trà dưỡng họng (`Buổi 3 - T01/2027` trước Tết):**
+>    - **✅ Bước 1 — ĐÃ GÀI XONG (Tháng 11/2026):** Hiếu đã hỏi và em đã tự kể là **"Em phải giảm máy lạnh xuống sâu để mặc đồ mùa đông (khăn len/áo len) livestream"**! Từ giờ tới tháng 1 không nhắc lại nữa để em quên đi.
+>    - **🎯 Bước 2 — Hành động đánh úp sau 2 tháng (Tháng 01/2027 khi xuống lấy đơn khăn Tết):** Trao tận tay chiếc **Ly giữ nhiệt màu Kem Hàn Quốc + Trà dưỡng thanh quản** (kèm tấm ảnh in từ buổi Noel `20/12`) và nói: _"Hồi mới quen nghe em kể mỗi lần mặc đồ đông live là phải hạ máy lạnh xuống sâu, ngồi lạnh nói liên tục thế dễ rát cổ lắm nên anh mua chiếc bình giữ nhiệt này cho cô chủ nhỏ pha trà ấm để ngay bàn live uống nhé!"_ → Nhớ đúng chi tiết em kể từ 2 tháng trước = Tan chảy 1000%!
 
 ### 🎄 Nhịp 2: Kế hoạch Đi chơi & Chụp ảnh Noel (`Chủ Nhật 20/12/2026`)
 
