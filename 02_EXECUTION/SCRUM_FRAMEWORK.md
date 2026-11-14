@@ -42,20 +42,20 @@
 
 ## 🎯 5 MỤC TIÊU LỚN
 
-| Mã     | Mục tiêu              | Đích đến                                          | Deadline  |
-| ------ | --------------------- | ------------------------------------------------- | --------- |
-| **M1** | 🗣️ Tiếng Anh          | Giao tiếp tự tin · phỏng vấn outsource được       | T07/2027  |
-| **M2** | 💰 Tiền               | 43tr học phí Thạc sĩ năm 1 · rồi tới 2 tỷ         | T12/2027  |
-| **M3** | 💪 Sức khoẻ           | 75kg · ngủ đủ · gym đều                           | 2027      |
-| **M4** | 🎓 Học vấn & Nghề     | Thạc sĩ Khoa học máy tính (UIT) → giảng viên           | Nộp hồ sơ T09-T10/2027 |
-| **M5** | ❤️ Gia đình & Quan hệ | Quỹ mẹ 500tr - gửi quê đều đến 2036 · giữ kết nối bạn bè | Liên tục  |
+| Mã     | Mục tiêu              | Đích đến                                                                                                   | Deadline               |
+| ------ | --------------------- | ---------------------------------------------------------------------------------------------------------- | ---------------------- |
+| **M1** | 🗣️ Tiếng Anh          | Giao tiếp tự tin NBCU US · TOEIC `700+` xét lên Senior TMA (bậc thang PA theo quý, hạn chót `15/11/2027`)  | T06–T11/2027           |
+| **M2** | 💰 Tiền               | `43tr` học phí Thạc sĩ năm 1 (`T12/2027`) · Tiền mặt riêng đạt `~774tr – 1.12 tỷ` (`2031`) · Mua nhà (`2033`) | 2027 → 2033            |
+| **M3** | 💪 Sức khoẻ           | `72–75kg` (% mỡ `12–15%`) · Ngủ đủ `00:30–08:30/09:30` (8–9h) · Gym sáng 4 buổi/tuần                       | Liên tục               |
+| **M4** | 🎓 Học vấn & Nghề     | Senior/SME tại TMA (`NBCU US`) · Thạc sĩ KHMT (`UIT`) → Giảng viên ĐH (`2029`) + Làm Web/App trọn gói      | Nộp hồ sơ T09–T10/2027 |
+| **M5** | ❤️ Gia đình & Quan hệ | **Quỹ mẹ 500tr trong 5 năm (`2026 → T06/2031`)** · **Thúy:** Tỏ tình giữa `T03/2027`, cưới `2029` · Cafe Hiệp & Liêm 2 tuần/lần | 2026 → 2031            |
 
 ### 🧊 Đóng băng (không đưa vào sprint, không nhắc tới)
 
 ```
-- Miracle POS      → chỉ fix bug khi user báo, không chủ động
-- TikTok / Discord → dừng hẳn đến khi hết overload
-- QTKD            → hoãn, học chung khi vào Thạc sĩ
+- Nhận làm Web / App trọn gói → Đóng băng tới hết Q2/2027 (sau khi thi xong TOEIC T06/2027 mới nhận dự án lụm tiền tươi; bỏ hướng bán SaaS POS thu phí user lẻ)
+- TikTok / Discord            → Dừng hẳn
+- QTKD                        → Hoãn, học chung khi vào Thạc sĩ
 ```
 
 ---
@@ -84,13 +84,13 @@ Sprint nghỉ:   Cứ 3 sprint → 1 sprint nhẹ (S4, S8, S12...) - tối đa 2
 
 ## 🔁 THÓI QUEN HÀNG NGÀY (tick, không chấm điểm)
 
-| Thói quen               | Tần suất      | Gắn với |
-| ----------------------- | ------------- | ------- |
-| Đi lớp tiếng Anh        | T3 + T5       | M1      |
-| Nghe podcast EN khi đi đường | Hàng ngày | M1      |
-| Gym                     | 4 buổi/tuần   | M3      |
-| Ngủ 23:30 - 07:00       | Hàng ngày     | M3      |
-| Ghi sổ chi tiêu         | Hàng ngày     | M2      |
+| Thói quen                        | Tần suất                  | Gắn với |
+| -------------------------------- | ------------------------- | ------- |
+| Đi lớp tiếng Anh L3              | T3 + T5 (`18:30–20:45`)   | M1      |
+| Luyện Speaking NBCU + Podcast EN | Hàng ngày                 | M1 + M4 |
+| Gym sáng (`09:00`)               | 4 buổi/tuần (T2,T6,T7,CN) | M3      |
+| Ngủ `00:30 – 08:30/09:30` (8–9h) | Hàng ngày (theo ca NBCU)  | M3      |
+| Ghi sổ chi tiêu                  | Hàng ngày                 | M2      |
 
 > Tick được 70% là tốt rồi. **Không có chuyện "trượt 1 ngày là hỏng cả tuần".**
 

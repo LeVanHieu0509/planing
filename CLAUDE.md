@@ -37,9 +37,9 @@ AI có nghĩa vụ **"TUÝT CÒI" VÀ TỪ CHỐI NGAY LẬP TỨC** nếu Hiế
 | - | :--- | :--- |
 | 🚫 | **1. CẤM sửa plan trong Sprint** | Trong 2 tuần của Sprint, file Sprint chỉ mở ra cuối ngày để tick `✅` hoặc `☐`. Cấm ngồi tái cấu trúc, cấm vẽ thêm task, cấm đổi quy trình giữa chừng. Thời gian rảnh là để LÀM. |
 | 🚫 | **2. CẤM xâm phạm 2 van xả stress** | • **Tối Thứ 4 (sau đá banh):** RELAX 100% (không BIT, không học). Nếu ca NBCU bắt buộc rơi vào tối T4: xin nghỉ ca T4 trước; không được thì chỉ làm ca NBCU, tuyệt đối không BIT/học.<br>• **Tối Chủ Nhật:** RELAX 100%, không ca NBCU (chỉ dành 15p check-in lúc 21:00 ở tuần cuối sprint). |
-| 🚫 | **3. CẤM phá giờ ngủ cố định** | • **Ngày có ca NBCU (T2–T6):** ca **22:30–01:30** → tắt máy, **ngủ 02:00–09:30** (đủ 7.5h, giờ cố định). Hết ca là ngủ, không lướt điện thoại.<br>• **Ngày không có ca (T7, CN, ngày nghỉ):** kết thúc mọi việc trước 22:45, **23:30 tắt đèn ngủ**.<br>Không có ngoại lệ "cố nốt task" sau giờ ngủ cố định. Sau 4 tuần tự kiểm tra InBody / năng suất TMA / L3 - đi xuống thì xin đổi khung 20:00–23:00 hoặc giảm số tối. |
+| 🚫 | **3. CẤM phá giờ ngủ cố định** | • **Lịch chuẩn V7.0 theo ca NBCU US (từ 13/11/2026):** Ca 1 `13:30–18:00` & Ca 2 `21:00–24:00` → Đúng `24:00` tắt máy, **ngủ cố định `00:30 – 08:30`** (ngày có Gym sáng T2/T6/T7/CN, đủ 8h) hoặc **`00:30 – 09:30`** (ngày không Gym sáng T3/T4/T5, đủ 9h).<br>Không có ngoại lệ "cố nốt task" sau `00:30`. |
 | 🚫 | **4. CẤM đầu tư khi Tiền mặt < 50M** | Tuyệt đối không bơm thêm tiền vào Binance, OKX hay Bot Trading cho đến khi Tiền mặt thực tế $\ge$ 50,000,000 VNĐ. Bảo vệ an toàn tuyệt đối cho quỹ học phí Thạc sĩ 43M. |
-| 🚫 | **5. CẤM cắt hoặc hoãn Quỹ mẹ 500tr** | Đúng ngày 11 hàng tháng chuyển 2,000,000 VNĐ (từ T02/2027 nâng lên 5,000,000 VNĐ) vào quỹ mẹ. Luôn là khoản đầu tiên chuyển đi mỗi tháng. |
+| 🚫 | **5. CẤM cắt hoặc hoãn Quỹ mẹ 500tr** | Hàng tháng chuyển `2,000,000 VNĐ` (từ `T02/2027 → T06/2031` nâng lên `5,000,000 VNĐ/tháng` theo kế hoạch 5 năm hai mẹ con cùng góp để cán đích `500M` vào `T06/2031`). Luôn là khoản đầu tiên chuyển đi mỗi tháng. |
 
 ---
 
@@ -48,47 +48,45 @@ AI có nghĩa vụ **"TUÝT CÒI" VÀ TỪ CHỐI NGAY LẬP TỨC** nếu Hiế
 Hệ thống đã **BỎ HOÀN TOÀN** Story Points và Daily Standup. Mọi công việc phải gắn trực tiếp với 5 mục tiêu:
 
 * **M1 · 🗣️ Tiếng Anh:**
-  * Immersion L3 (SAIGON SPECIAL: 20/10/2026 → 12/01/2027, T3 + T5 tối; lớp Phản Xạ CN đã học xong, tạm bỏ khỏi lịch từ 26/10/2026).
-  * Luyện Part 5 + Part 7 sáng T2 và T6 (chưa cày full test ETS trong giai đoạn L3). **Reading (215) là điểm yếu nhất** → giữ đều 20–30p/buổi, không bỏ trong giai đoạn onboard NBCU.
+  * Immersion L3 (SAIGON SPECIAL: 20/10/2026 → 12/01/2027, T3 + T5 tối `18:30–20:45`; lớp Phản Xạ CN đã học xong, tạm bỏ khỏi lịch từ 26/10/2026).
+  * Luyện Speaking phản xạ hàng ngày (`25–30p/ngày` với ChatGPT Voice theo `NBCU_MY_ANSWER_BANK.md`) trong khung sáng trước Ca 1 NBCU.
   * **Quyết định 05/11/2026:** T11/2026 → T01/2027 ưu tiên onboard dự án NBCU (luyện nghe/nói với khách Mỹ mỗi ngày); KHÔNG học coach sớm từ 15/11. Coach + luyện đề giữ nguyên từ cuối T02/2027. Q4/2026–Q1/2027 PA mục English tính theo điểm 535 - chấp nhận.
   * T02/2027 → T06/2027: Cày đề ETS + Coach 1:1 Kim Hân (Gò Vấp, từ 27/02/2027). Lịch, học phí, giáo án: **chỉ xem tại** [COACH_1ON1_KIM_HAN_2027.md](./01_ROADMAPS/M1_ENGLISH/toeic/COACH_1ON1_KIM_HAN_2027.md).
-  * **Thi TOEIC Cuối T06/2027** (dự phòng thi lại T08–T09/2027) $\rightarrow$ **BẮT BUỘC nộp bằng 700+ cho TMA trước 15/11/2027 để lên Senior**. Từ 2027 TMA tính điểm tiếng Anh theo quý, dùng bằng mới nhất.
+  * **Chiến thuật bậc thang nộp TOEIC xét PA hàng quý (2027):** Cuối Q2 (`T06/2027`) đi thi, chỉ cần điểm **> 535** là nộp ngay để kéo điểm English xét PA Quý 2; nếu chưa chạm `700+` thì Q3–Q4 ôn và thi tiếp trước hạn chót **15/11/2027** để lên **Senior (`SE-6`)**.
 * **M2 · 💰 Tiền & Tài chính:**
   * Tích lũy **43,000,000 VNĐ học phí Thạc sĩ năm 1** (dự kiến cán mốc T12/2026, đóng T12/2027). Năm 2 (47M) tích luỹ trong 2028.
   * Chi tiêu sinh hoạt kiểm soát: **8,000,000 – 10,000,000 VNĐ/tháng**. Tiết kiệm: **~15–17tr/tháng**.
   * Chạm trần tiền mặt **50,000,000 VNĐ** (T12/2026) mới mở lại quyền đầu tư.
-  * Đích xa 2 Tỷ (2031): Nền an toàn từ lương (~0.75 tỷ), đột phá 2 tỷ phụ thuộc cú chốt lời danh mục **78,262 W** (Target 1: $0.70 thu ~715M; Target 2: $1.50 thu ~1.53 tỷ).
+  * Lũy kế tiền mặt riêng của Hiếu sau 5 năm (`Cuối 2031`, sau khi đã đóng xong 90tr học phí Thạc sĩ và hoàn tất Quỹ Mẹ 500tr vào `T06/2031`): đạt **`~774tr` (nền tối thiểu) đến `~1.12 tỷ` (khi lên Senior SME + dạy ĐH)**; đến năm 32 tuổi (`2033`) đạt **`~1.2 – 1.8 tỷ`** để cùng Thúy mua căn hộ chung cư riêng. Đột phá 2 tỷ+ sớm hơn nếu chốt lời danh mục **78,262 W** (Target 1: $0.70 thu ~715M; Target 2: $1.50 thu ~1.53 tỷ).
 * **M3 · 💪 Sức khỏe:**
   * Mục tiêu: 72–75kg, cơ 35–38kg, **% mỡ 12–15%** (bỏ target 7-10% vì dễ burnout). Đo InBody 1 lần/tháng.
-  * Gym 4 buổi/tuần: **T2 + T6 18:00–19:00** (trước ca NBCU), T7 sáng, CN sáng (09:00-10:00).
+  * Gym 4 buổi/tuần: **Đẩy toàn bộ lên khung Sáng `09:00–10:00` (T2, T6, T7, CN)** theo lịch V7.0.
 * **M4 · 🎓 Học vấn & Nghề nghiệp:**
   * **Thạc sĩ Khoa học máy tính — UIT (ĐHQG TP.HCM)** (Đã chốt, bỏ ngành CNTT Quản lý và MBA cũ).
-  * Mốc: Nộp hồ sơ T09–T10/2027 (Đợt 2), phỏng vấn T11/2027, khai giảng & đóng 43tr năm 1 T12/2027.
-  * Mục tiêu xa: Trở thành Giảng viên Đại học part-time (2029).
-* **M5 · ❤️ Gia đình:**
-  * Quỹ mẹ 500tr (gửi đều 2tr/tháng đến 2036, đã gửi 10tr gốc tính đến T11/2026). Chạm 100M sẽ gửi tiết kiệm ngân hàng 1 năm tái tục, rút lãi hàng năm cho mẹ tiêu xài.
+  * Mốc: Nộp hồ sơ T09–T10/2027 (Đợt 2), phỏng vấn T11/2027, khai giảng & đóng 43tr năm 1 T12/2027. Khi vào học Thạc sĩ (`Cuối 2027 – 2028`), chuyển chỗ ở về khu Tam Bình / Hiệp Bình (**Priority 1: Sunview Town · Priority 2: Saigon Avenue**).
+  * Định hướng dài hạn (`2029+`): Làm **SME Kỹ thuật / Prompt Code** (không làm PM đi kiếm khách) kết hợp **Giảng viên Đại học part-time (`2–3 buổi/tuần` ban ngày `10:00–16:30`, trong lúc SV thực hành thì xử lý task TMA/BIT/NBCU)** + nhận làm **Web/App trọn gói lụm tiền tươi** (sau Q2/2027).
+* **M5 · ❤️ Gia đình & Bạn đời:**
+  * **Quỹ mẹ 500tr (Mẹ sinh năm 1981 — Kế hoạch 5 năm `2026 → T06/2031` hai mẹ con cùng góp):** Từ `T02/2027` nâng phần Hiếu lên `5tr/tháng` × 53 tháng đến hết `T06/2031`. Đủ `100tr` đầu tiên (`Cuối 2027`) gửi sổ ngân hàng lấy lãi `~580k/tháng`; đủ `500tr` (`T06/2031`, mẹ 50 tuổi) lấy lãi `~2.9tr/tháng` để mẹ nghỉ ngơi an nhàn, giải phóng `5tr/tháng` cho Hiếu từ `T07/2031`.
+  * **Bạn đời ([THUY.md](./01_ROADMAPS/M5_RELATIONSHIPS/dating/THUY.md)):** Thúy (`2001`, đồng hương Quỳnh Lưu, `@loulisaigon`). Lộ trình: Hẹn Cafe Acoustic `29/11/2026` → Noel `20/12/2026` → Tết Quỳnh Lưu `29/01–20/02/2027` → **Tỏ tình giữa `T03/2027` (sau lễ 8/3 khoảng 1 tuần)** → **Chốt cưới năm `2029` (28t)** → **Mua chung cư năm `2033` (32t)**.
+  * **Bạn bè (Hiệp & Liêm):** Đá banh tối T4 + 2 tuần/lần hẹn cafe ở trục Ung Văn Khiêm (Bình Thạnh).
 
 > 🧊 **DANH SÁCH ĐÓNG BĂNG (CẤM ĐƯA VÀO SPRINT):**
-> Miracle POS (đang đóng băng, chỉ fix critical bug nếu có), Kênh TikTok, Trade crypto/bot mới, Khóa học MBA lan man.
+> Làm Web/App ngoài (đóng băng tới hết Q2/2027 sau khi thi xong TOEIC; bỏ hướng bán SaaS POS thu phí user lẻ), Kênh TikTok, Trade crypto/bot mới khi tiền mặt < 50M, Khóa học MBA lan man.
 
 ---
 
-## 📅 4. PHÂN BỔ LỊCH LÀM VIỆC & TASK BIT (8 TIẾNG/TUẦN)
+## 📅 4. PHÂN BỔ LỊCH LÀM VIỆC NBCU US & TASK BIT (V7.0 — TỪ 13/11/2026)
 
-* **Làm TMA Solutions:**
-  * **Từ khi onboard NBCU:** bắt đầu TMA **10:30 (remote) / 11:00 (lên văn phòng)** vì ngủ 02:00–09:30 - ⏳ cần anh Đạt duyệt khung giờ có mặt. Lịch văn phòng/remote cũ bên dưới giữ đến khi chốt.
-  * **T3 + T5:** Lên văn phòng cả ngày
-  * **T2 + T4:** Sáng văn phòng (09:00-12:00) $\rightarrow$ Trưa về nhà $\rightarrow$ **Chiều remote tại nhà** (13:00-18:00).
-  * **T6:** **Remote cả ngày tại nhà** (bỏ di chuyển, sáng có slot 75p TOEIC P5/P7 từ 07:30).
-* **Dự án NBCU US (TMA - nhận 04/11/2026):** dev Java/Node.js làm việc trực tiếp với khách Mỹ · chiếm ~50% effort (giảm tương ứng Swinburne & SC) · **ca tối 22:30–01:30 (T2–T6, dự kiến - 30p đầu bên US check email rồi gửi việc)** · **phụ cấp làm trái múi giờ +3,000,000đ/tháng**.
-  * **✅ 11/11/2026 - ĐÃ PASS vào dự án NBCU:** gặp account manager chị Tuyền 10:00. Nhận xét: _"hừng hực lửa chiến đấu, bất chấp ngày đêm"_; điểm yếu: **diễn đạt ý bằng tiếng Anh** → anh Đạt dặn **luyện speaking 2–3 tuần tới (đến ~02/12/2026)**. Chị Nga xác nhận: đây là **internal double check**; khách **không phỏng vấn từng member, chỉ phỏng vấn dev lead** → coi như đã vào dự án, **trọng tâm chuyển từ luyện phỏng vấn sang giao tiếp hằng ngày** (standup, báo tiến độ, Slack/email). Plan luyện: [MOCK_INTERVIEW_LOG.md](./01_ROADMAPS/M4_CAREER/interview/MOCK_INTERVIEW_LOG.md). ⏳ Chốt khung giờ ca chính thức với anh Đạt.
-  * **Team & role (anh Đạt chốt 10/11/2026, group "NBCU US - SWE Team Preparation"):** team Dev 5 người · Java: anh Khôi, Thức · **NodeJS: Hiếu + 2 người** (đang xác định). Hiếu học theo JD **NodeJS Serverless (AWS Lambda, SQS/SNS, Kinesis, DynamoDB, Step Functions, CloudFormation, Datadog/Splunk)**; Java chỉ ở mức đọc hiểu. Lộ trình 12/11 → 09/12/2026: [NBCU_JD_GAP_TRAINING.md](./01_ROADMAPS/M4_CAREER/tech_roadmaps/NBCU_JD_GAP_TRAINING.md).
-  * **Tiến độ hiện tại (06–07/11/2026):** Đã gửi 2 bản CV qua email (05/11). Chị Nga đã đưa Bảo vào tiếp nhận mảng Web thay Hiếu; từ tuần `09/11/2026` Hiếu rút mảng Web, chỉ làm **50% Mobile** và được dành **50% giờ hành chính TMA (~4h/ngày)** để upskill Tech + luyện phỏng vấn Tiếng Anh (dự kiến khách phỏng vấn trong 1–2 tuần tới, cẩm nang ôn tập tại [NBCU_INTERVIEW_PREP.md](./01_ROADMAPS/M4_CAREER/interview/NBCU_INTERVIEW_PREP.md)). ⏳ Xác nhận lại giờ & ngày ca tối khi chính thức onboard.
-* **Làm BIT (Remote Job 7M/tháng — Chuẩn 8h/tuần):**
-  * **Từ khi onboard NBCU: chuyển TOÀN BỘ 8h BIT sang buổi chiều** (~1.5h/chiều T2–T6, khi remote TMA) · **không làm BIT buổi tối nữa** · T7 chiều (16:30-18:00) làm bù nếu thiếu giờ.
-  * _(Lịch cũ trước NBCU)_ **3h ban ngày (song song khi remote TMA):** T2 chiều (~45p) + T4 chiều (~45p) + T6 ban ngày (~1.5h chốt việc tuần).
-  * _(Lịch cũ trước NBCU)_ **5h buổi tối:** T2 (1h: 21:30) · T3 (1h: 21:30) · T5 (1h: 21:30) · T7 (2h: 19:30-21:30).
-  * *Bù trừ:* Nếu TMA bận đột xuất, bù vào chiều T7 (16:30-18:00). Tối T4, T6, CN tuyệt đối không xếp BIT.
+* **Lịch sinh hoạt & làm việc chuẩn V7.0 (Áp dụng chính thức từ `13/11/2026`):**
+  * **Ngủ cố định `00:30 – 08:30/09:30` (8–9 tiếng/đêm):** T2/T6/T7/CN dậy `08:30` đi Gym; T3/T4/T5 dậy `09:30`.
+  * **Khung Sáng Vàng (`09:00 – 12:00` T2–T6 tại nhà):** Tập Gym sáng (T2, T6 `09:00–10:00`) + **Làm gọn 100% 8.75 tiếng BIT/tuần vào buổi sáng** (`~1.75h/sáng` T2–T6) + Luyện Speaking EN phản xạ (`25–30p/trưa`).
+  * **Ca 1 NBCU / TMA (`13:30 – 18:00` T2–T6):** Đầu giờ chiều chạy lên công ty điểm danh (khi về nhờ Alex điểm danh dùm vì Alex làm ca sáng về trưa). Thứ 6 WFH trọn ngày tại nhà.
+  * **Khoảng nghỉ 3 tiếng giữa 2 ca (`18:00 – 21:00`):**
+    * **Tối T3 & T5 (`18:30 – 20:45`):** Học **Lớp Tiếng Anh SAIGON SPECIAL Level 3** — khớp khít giữa 2 ca!
+    * **Tối T4 (`18:30 – 20:30`):** **Đá banh ⚽** xả stress.
+    * **Tối T2 & T6 (`18:00 – 21:00`):** Ăn tối thong thả, nghỉ ngơi / hẹn hò nhẹ.
+  * **Ca 2 NBCU US (`21:00 – 24:00` T2–T6 tại nhà):** `21:00–23:00` họp & xử lý việc chính với team Mỹ; `23:00–24:00` trực máy nhẹ + trò chuyện cuối ngày với Thúy (`23:55` nhắc em ngủ sớm, `24:00` tắt máy, `00:30` đi ngủ).
+  * **Thứ 7 & Chủ Nhật:** Không có ca đêm NBCU! Sáng `09:00` tập Gym (buổi 3 & 4), chiều & tối tự do hẹn hò / xả hơi.
 
 ---
 

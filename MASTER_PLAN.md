@@ -2,6 +2,7 @@
 
 > **Hiếu Lê Văn** · 25 tuổi
 > **Mốc lớn nhất:** 🎓 Nộp hồ sơ Thạc sĩ Khoa học máy tính - UIT (ĐHQG TP.HCM) · **T09-T10/2027** · đóng 43tr năm 1 T12/2027
+> **Mốc lớn nhất:** 🎓 **T08/2027: Thi đậu Thạc sĩ Khoa học máy tính - UIT (ĐHQG TP.HCM)** · đóng 43tr năm 1 cuối 2027
 > **Motto:** _"Hệ thống phải vừa sức mình, không phải mình phải cố cho vừa hệ thống."_
 
 ---
@@ -66,39 +67,41 @@ Hiện tại:  66.4kg (InBody 29/10/26: cơ 33.2kg, % mỡ 12.2%, Score 82/100) 
 ### M4 · 🎓 HỌC VẤN & NGHỀ
 
 ```
-Đích:      Thạc sĩ Khoa học máy tính - UIT (ĐHQG TP.HCM) · Thăng cấp Senior Engineer (SE-6) tại TMA
+Đích:      Thạc sĩ Khoa học máy tính - UIT (ĐHQG TP.HCM) · Thăng cấp Senior Engineer (SE-6) & định hướng SME (Subject Matter Expert / Kỹ thuật chuyên sâu & Prompt Code, không làm PM đi kiếm khách)
 TMA PA:    Hiện tại Engineer Grade 4 (E-4) · PA Q2=7.77, Q3=8.43, Q4 update TOEIC 535 (English=4) + đậu NBCU US (~7.68)
            → Trung bình năm 2026: Overall ~7.96 (~8.0), Performance ~8.33, English TB (9+9+4)/3 = 7.33 (≥ 6)
-           → ✅ ĐỦ 100% ĐIỀU KIỆN LÊN E-5 CUỐI NĂM 2026 · 🎯 Cuối 2027 lên SE-6 (Senior) khi nộp TOEIC 700+ (T06/2027)
+           → ✅ ĐỦ 100% ĐIỀU KIỆN LÊN E-5 CUỐI NĂM 2026 · 🎯 Cuối 2027 lên SE-6 (Senior)
+           → Chiến thuật TOEIC xét PA hàng quý (2027): Cuối Q2 (T06/2027) thi có điểm > 535 là nộp ngay để kéo điểm PA Quý 2; nếu chưa chạm 700+ thì Q3–Q4 ôn và thi tiếp trước hạn chót 15/11/2027.
            Chi tiết: 01_ROADMAPS/M4_CAREER/tma/note-important.md
 Nộp hồ sơ: T09-T10/2027 (Đợt 2) · Phỏng vấn T11/2027 · Khai giảng T12/2027
+Chỗ ở mới: Từ đầu đến thu 2028 vẫn giữ phòng Gò Vấp (`2.64tr/tháng`) để tiết kiệm tiền đóng `47tr` học phí Thạc sĩ Năm 2. Tầm **Tháng 10–11/2028 khi hai đứa có tin vui (em bầu)** thì chuyển xuống thuê căn 1PN tại **Sunview Town** (Priority 1) / **Saigon Avenue** (Priority 2) để chăm sóc em giai đoạn đầu thai kỳ; sau đó **Ăn hỏi & Cưới luôn đầu 2029** xong bay vào lại Sài Gòn là đã có sẵn tổ ấm ở chung và chăm em!
 Học phí:   43tr năm 1 (T12/2027) + 47tr năm 2 = 90tr
 Dự phòng:  Nếu thiếu tiền → vay Hiệp, trả góp dần
-Sau đó:    2029 giảng viên đại học part-time
-Việc gần:  Chiến thắng phỏng vấn NBCU US (T11/2026) · Tra cứu quy chế tuyển sinh/thi đầu vào 2027 của UIT (Q4/2026).
+Sau đó:    2029 tốt nghiệp Thạc sĩ → Giảng viên đại học part-time (2–3 buổi/tuần ban ngày 10:00–16:30, lúc SV thực hành thì làm task TMA/BIT/NBCU) + Nhận làm Web/App khoán gọn lụm tiền tươi (thay vì bán SaaS POS thu phí user lẻ).
 ```
 
 ### M5 · ❤️ GIA ĐÌNH & QUAN HỆ
 
 ```
-Đích:      Quỹ mẹ 500tr - sẽ nâng lên 5tr/tháng từ T02/2027 để tăng tốc.
-           🎯 Mốc 100tr đầu tiên (dự kiến giữa 2028): rút lãi gửi mẹ tiêu xài định kỳ, gốc giữ nguyên.
-           Giữ kết nối bạn bè · đá banh T4 · cafe cuối tuần
-           Bạn đời: phát triển bản thân trước, dự kiến tìm hiểu nghiêm túc cuối 2026
+Đích:      Quỹ mẹ 500tr (Mẹ sinh năm 1981) - Kế hoạch 5 năm (2026 → Giữa 2031) hai mẹ con cùng góp:
+           - Nâng phần Hiếu lên 5tr/tháng từ T02/2027 → đóng tới T06/2031 (4.5 năm) là hoàn thành 100%, giải phóng 5tr/tháng từ T07/2031!
+           - 🎯 Mốc 100tr đầu tiên (Cuối 2027): gửi sổ ngân hàng lấy lãi ~580k/tháng. Đủ 500tr (Giữa 2031, mẹ 50 tuổi): lãi ~2.9tr/tháng để mẹ tiêu xài an nhàn không cần đi làm cực.
+           Giữ kết nối bạn bè (Hiệp & Liêm): đá banh T4 · 2 tuần/lần hẹn cafe ở trục Ung Văn Khiêm
+           Bạn đời (Thúy - @loulisaigon): Tỏ tình giữa T03/2027 (sau lễ 8/3 khoảng 1 tuần) → Tết 2028 (T01/2028) mua hải sản qua nhà em nấu lẩu nhậu ra mắt gia đình ở Quỳnh Lưu → T10–T11/2028 có bầu chuyển xuống Sunview Town chăm em → Năm 2029 (28t): Ăn Hỏi & Cưới luôn rồi vào lại SG ở chung chăm vợ con → Năm 2033 (32t): Mua căn hộ chung cư riêng.
 Nguyên tắc: M5 không bao giờ được phá giấc ngủ và tiền học phí
-Chi tiết:  01_ROADMAPS/M2_FINANCE/QUY_ME_500TR.md · me/lifestyle/RELATIONSHIPS.md
+Chi tiết:  01_ROADMAPS/M2_FINANCE/QUY_ME_500TR.md · 01_ROADMAPS/M5_RELATIONSHIPS/dating/THUY.md
 ```
 
 ---
 
 ## 🧊 ĐANG ĐÓNG BĂNG
 
-| Việc            | Trạng thái                                      | Khi nào quay lại          |
-| --------------- | ----------------------------------------------- | ------------------------- |
-| Miracle POS     | Chỉ fix bug khi user báo. Rã đông Q2/2027       | T02/2027 (xong tiếng Anh) |
-| TikTok/Discord  | Dừng hẳn (deal CollaNote huỷ)                   | Chưa xác định             |
-| QTKD            | Hoãn - học chung khi vào Thạc sĩ                | 2028                      |
-| Bot trading OKX | Dự án cá nhân · vốn 8tr đã nạp · không bơm thêm | Khi tiền mặt ≥ 50tr       |
+| Việc                | Trạng thái                                                                                  | Khi nào quay lại                              |
+| ------------------- | ------------------------------------------------------------------------------------------- | --------------------------------------------- |
+| Web / App Outsource | Tạm ngưng trong giai đoạn học tiếng Anh. Ưu tiên nhận làm Web/App trọn gói thay vì SaaS POS | Hết Q2/2027 (sau khi thi xong TOEIC T06/2027) |
+| TikTok/Discord      | Dừng hẳn (deal CollaNote huỷ)                                                               | Chưa xác định                                 |
+| QTKD                | Hoãn - học chung khi vào Thạc sĩ                                                            | 2028                                          |
+| Bot trading OKX     | Dự án cá nhân · vốn 8tr đã nạp · không bơm thêm                                             | Khi tiền mặt ≥ 50tr                           |
 
 > ℹ️ **Plan này là plan CÁ NHÂN.** Công việc công ty không quản ở đây.
 
@@ -148,37 +151,41 @@ TIẾT KIỆM:         ~15,400,000 - 17,400,000
 
 ### Lộ trình tiền mặt
 
-| Mốc          | Số tiền            | Ý nghĩa                                                                                                                                  |
-| ------------ | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| Mốc          | Số tiền            | Ý nghĩa                                                                                                                                    |
+| ------------ | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | 01/11/26     | 22,219,540         | Hiện tại (chốt sổ 31/10: 22,254,505; tiền mặt thực tế sau trừ 12.5M tiền mẹ, đã trả vé Tết chiều đi & Shopee 1.83M, đã nhận lương BIT T10) |
-| T11/2026     | ~36.25-38.25tr     | Tháng kiểm chứng chi ≤ 9.5tr · sát mốc 43tr (✅ đã trả xong vé Tết chiều vào 2,993,099đ ngày 13/11)                                     |
-| T12/2026     | **~50.25-54.25tr** | ✅ Đủ học phí Thạc sĩ năm 1 · 🚧 chạm trần 50tr → mở đầu tư                                                                              |
-| T09-T10/2027 | -                  | 🎓 Nộp hồ sơ Thạc sĩ UIT (Đợt 2)                                                                                                         |
-| T12/2027     | -                  | 🎓 Khai giảng, trả 43tr học phí năm 1                                                                                                    |
+| T11/2026     | ~36.25-38.25tr     | Tháng kiểm chứng chi ≤ 9.5tr · sát mốc 43tr (✅ đã trả xong vé Tết chiều vào 2,993,099đ ngày 13/11)                                        |
+| T12/2026     | **~50.25-54.25tr** | ✅ Đủ học phí Thạc sĩ năm 1 · 🚧 chạm trần 50tr → mở đầu tư                                                                                |
+| T09-T10/2027 | -                  | 🎓 Nộp hồ sơ Thạc sĩ UIT (Đợt 2)                                                                                                           |
+| T12/2027     | -                  | 🎓 Khai giảng, trả 43tr học phí năm 1                                                                                                      |
 
 Chi tiết: [01_ROADMAPS/M2_FINANCE/TAI_CHINH_2026_2028.md](./01_ROADMAPS/M2_FINANCE/TAI_CHINH_2026_2028.md) · [01_ROADMAPS/M2_FINANCE/DAU_TU.md](./01_ROADMAPS/M2_FINANCE/DAU_TU.md)
 
 ---
 
-## 🏆 TẦM NHÌN DÀI HẠN
+## 🏆 TẦM NHÌN DÀI HẠN (2026 → 2033)
 
 ```
 2026 (25t): NỀN TẢNG
-  ✅ TOEIC 535 · ✅ L2+L3 đã trả tiền · 🎯 43tr học phí năm 1 cuối năm
+  ✅ TOEIC 535 · ✅ Đậu dự án Mỹ NBCU US · ✅ Lên E-5 · 🎯 43tr học phí năm 1 cuối năm
 
-2027 (26t): VÀO TRƯỜNG
-  🎓 Nộp hồ sơ Thạc sĩ UIT (T09-T10) · khai giảng T12 · TOEIC 700+ · tiếng Anh giao tiếp được
+2027 (26t): VÀO TRƯỜNG & THĂNG CẤP SENIOR
+  🌹 Tỏ tình Thúy (Giữa T03, sau 8/3 1 tuần) · 🎯 TOEIC 700+ & lên SE-6 Senior TMA · 🎓 Khai giảng Thạc sĩ UIT (T12) · 🎉 Quỹ mẹ chạm 100tr đầu tiên (lãi ~580k/tháng)
 
-2028 (27t): VỪA HỌC VỪA LÀM
-  Thạc sĩ năm 1 · Miracle quay lại · thu nhập đa nguồn
+2028 (27t): VỪA HỌC VỪA LÀM · TẾT 2028 NẤU LẨU RA MẮT · T10–11/2028 ĐÓN TIN VUI & VỀ SUNVIEW TOWN
+  🍲 Tết 2028 (T01/2028) mua hải sản về nhà Thúy nấu lẩu nhậu ra mắt gia đình · Học xong Năm 1 Thạc sĩ UIT · 🤰 T10–11/2028 có bầu → Chuyển xuống Sunview Town chăm em
 
-2029 (28t): GIẢNG DẠY
-  Tốt nghiệp Thạc sĩ · giảng viên part-time
+2029 (28t): ĂN HỎI & CƯỚI LUÔN · ĐÓN CON ĐẦU LÒNG TẠI SUNVIEW TOWN · TỐT NGHIỆP THẠC SĨ & GIẢNG VIÊN ĐH
+  💒 Ăn hỏi & Cưới Thúy luôn → Bay vào SG có sẵn tổ ấm Sunview Town ở chung & chăm vợ con · 🎓 Tốt nghiệp Thạc sĩ UIT · 👨‍🏫 Đi dạy ĐH part-time (2–3 buổi/tuần) + SME Remote NBCU/TMA
 
-2030 (29t): TÍCH LUỸ
-  Gửi quê hết cam kết 2030 · 3 nguồn thu
+2030 (29t): NHỊP SỐNG GIA ĐÌNH & TÍCH LŨY CAO ĐỘ
+  🏋️ Sáng 8–9h hai vợ chồng đi Gym · 10h vào ca (SME Remote + Dạy ĐH) · Quỹ mẹ chạm 400tr
 
-2031 (30t): ★ TỰ DO TÀI CHÍNH ★
+2031 (30t): ★ HOÀN THÀNH QUỸ MẸ 500TR (T06/2031) & VƯỢT ~630TR–800TR TIỀN MẶT RIÊNG ★
+  👩 Mẹ (50t) có sổ 500tr nhận lãi ~2.9tr/tháng an nhàn · 🔓 Giải phóng 5tr/tháng từ T07/2031 dồn mua nhà
+
+2033 (32t): 🏡 MUA CĂN HỘ CHUNG CƯ RIÊNG TẠI THỦ ĐỨC
+  Hai vợ chồng sở hữu căn hộ chung cư riêng, nuôi dạy con cái & tự do tài chính vững chắc
 ```
 
 ---

@@ -2,37 +2,39 @@
 
 > **Gắn với mục tiêu:** M5 - Gia đình & Quan hệ (xem [MASTER_PLAN.md](../../MASTER_PLAN.md))
 > **Motto:** "Phát triển bản thân trước, để có nền tảng vững khi bước vào một mối quan hệ"
-> **Nguyên tắc:** M5 KHÔNG BAO GIỜ được phá core (ngủ 23:30 · lớp tiếng Anh · quỹ mẹ · tiết kiệm)
-> **Cập nhật:** 13/09/2026
+> **Nguyên tắc:** M5 KHÔNG BAO GIỜ được phá core (ngủ `00:30–08:30/09:30` theo ca NBCU · lớp tiếng Anh · quỹ mẹ · tiết kiệm học phí)
+> **Cập nhật:** 14/11/2026 (Đồng bộ Kế hoạch Quỹ Mẹ 500tr trong 5 năm `2026 → T06/2031`, lịch cafe Hiệp & Liêm 2 tuần/lần ở Ung Văn Khiêm, và lộ trình Bạn đời với Thúy trong [THUY.md](./dating/THUY.md))
 
 ---
 
 ## 🎯 3 PHẦN CỦA M5
 
 ```
-1. GIA ĐÌNH   → Quỹ mẹ 500tr (xem 01_ROADMAPS/M2_FINANCE/QUY_ME_500TR.md) + giữ liên lạc thường xuyên
-2. BẠN BÈ     → Giữ kết nối vài người bạn thân, không để công việc cuốn mất hết
-3. BẠN ĐỜI    → Kế hoạch mới chốt 13/09/2026 - chi tiết ở mục dưới
+1. GIA ĐÌNH   → Quỹ mẹ 500tr trong 5 năm (2026 → T06/2031, xem 01_ROADMAPS/M2_FINANCE/QUY_ME_500TR.md) + giữ liên lạc thường xuyên
+2. BẠN BÈ     → Hiệp & Liêm (2 tuần/lần cafe trục Ung Văn Khiêm) + Đá banh tối T4
+3. BẠN ĐỜI    → Đang tìm hiểu nghiêm túc & vun đắp với Thúy (Đồng hương Quỳnh Lưu · 2001 · @loulisaigon) — xem chi tiết tại [THUY.md](./dating/THUY.md)
 ```
 
 ---
 
-## 👨‍👩‍👦 1. GIA ĐÌNH
+## 👨‍👩‍👦 1. GIA ĐÌNH (MẸ SINH NĂM 1981 — KẾ HOẠCH 5 NĂM ĐẠT 500 TRIỆU `2026 → T06/2031`)
 
 ```
-✅ Quỹ mẹ 2tr/tháng đến 2036 (500tr) - khoản KHÔNG BAO GIỜ cắt, xem QUY_ME_500TR.md
+✅ Quỹ mẹ 500tr (Hai mẹ con cùng góp trong 5 năm: 2026 → T06/2031) — xem [QUY_ME_500TR.md](../M2_FINANCE/QUY_ME_500TR.md):
+   • Hiện tại: 2,000,000đ/tháng (đã có nền 25.5tr gồm 10tr Hiếu đóng + 15.5tr tiền mẹ trong VCB)
+   • Từ T02/2027 → T06/2031 (53 tháng): Hiếu nâng lên đóng 5,000,000đ/tháng + mẹ góp cùng (~2tr/tháng)
+   • Cuối 2027: Đủ 100tr đầu tiên → gửi ngân hàng nhận lãi ~580,000đ/tháng
+   • Tháng 06/2031 (Mẹ 50 tuổi, Hiếu 30 tuổi): Đủ 500,000,000đ → Mẹ nhận lãi ~2,900,000đ/tháng (~35tr/năm) tiêu xài an nhàn, Hiếu chính thức dừng đóng & giải phóng 5tr/tháng từ T07/2031!
 ✅ Gọi điện/nhắn tin cho ba mẹ 1-2 lần/tuần (CN sáng hoặc tối, 30-60p)
-   → Hỏi 1 câu sức khoẻ, 1 câu cảm xúc, 1 câu kế hoạch - không cần dài
 ```
 
 ---
 
-## 🤝 2. BẠN BÈ
+## 🤝 2. BẠN BÈ (HIỆP & LIÊM + HỘI ĐÁ BANH)
 
 ```
 ✅ Đá banh T4 tối (18:30-20:30) - giữ liên lạc với nhóm bạn qua đây
-✅ 1 buổi/tháng cà phê offline với bạn thân (không màn hình)
-✅ Nhắn tin/voice ngắn 10-20p/tuần với 2-3 người bạn thân
+✅ 2 tuần/lần hẹn cà phê với Hiệp & Liêm (khi chuyển về Thủ Đức cuối 2027/2028 thì hẹn ở trục Ung Văn Khiêm - Bình Thạnh là đẹp nhất, chạy xe 15-20p; hôm nào lên công ty mệt có thể ghé ngủ ké phòng Liêm)
 ```
 
 > Không chấm điểm, không SP - chỉ cần **đều đặn hơn là nhiều**.
@@ -72,65 +74,37 @@ Quán nướng Hiếu đặt ra món chậm ~50 phút, đồ ăn dở. Em gái h
 
 ---
 
-## 💑 3. BẠN ĐỜI - KẾ HOẠCH CHỐT 13/09/2026
-
-### Vì sao chưa bắt đầu ngay bây giờ
+## 💑 3. BẠN ĐỜI - LỘ TRÌNH VỚI THÚY (`2026 → 2033` · CHI TIẾT TẠI [THUY.md](./dating/THUY.md))
 
 ```
-Nguyên tắc: PHÁT TRIỂN BẢN THÂN TRƯỚC - không phải để "xứng đáng", mà vì:
-  1. Vóc dáng & da đang trong quá trình cải thiện (gym từ đầu năm, chữa da từ T09/2026)
-  2. Cần tài chính tối thiểu ổn định - đủ để một mình duy trì được ngay cả khi
-     bước vào hôn nhân, không phụ thuộc "có đôi mới đủ sống"
-  3. T12/2027 bắt đầu Thạc sĩ - muốn vào giai đoạn đó với nền tảng vững, không phải
-     vừa học vừa lo tài chính hay ngoại hình
-```
-
-### Thời điểm dự kiến bắt đầu tìm hiểu nghiêm túc
-
-```
-CUỐI NĂM 2026 - khi vóc dáng (gym) và da mặt (đang điều trị) đã cải thiện rõ rệt.
-Không phải mốc cứng - nếu cơ hội tốt đến sớm hơn một cách tự nhiên, không cần chờ đủ mốc.
-```
-
-### Tiêu chí lựa chọn (ghi lại để không quên khi đang trong giai đoạn tìm hiểu)
-
-```
-Khu vực ưu tiên:  Miền Trung, dải Nghệ An → Hà Tĩnh → Quảng Trị → Quảng Ngãi → Đà Nẵng,
-                  mở rộng từ Nha Trang trở ra và từ Nghệ An trở vào.
-                  (Lý do: cùng vùng miền dễ hợp gu sống, khó gặp người Nghệ An ngay tại
-                  TP.HCM nên mở rộng ra cả dải miền Trung)
-Nghề nghiệp:      Ưu tiên giáo viên hoặc bác sĩ - nghề ổn định, phù hợp cho hạnh phúc lâu dài
-                  và hợp với giai đoạn anh đi học Thạc sĩ + giảng dạy sau này (2027+)
-Điều kiện cần đủ trước khi nghiêm túc:
-                  ✅ Vóc dáng & da cải thiện rõ (không cần hoàn hảo)
-                  ✅ Tài chính tối thiểu ổn định (xem M2 - liên quan mục tiêu 43tr học phí & quỹ mẹ)
-                  ✅ Tư duy cốt lõi (Dan Foolish): Bổ trợ điểm yếu cho nhau + Tôn trọng sự khác biệt
-                     + Luôn giữ tâm thế "Cần đối phương" (Win-Win & Tình nghĩa) để mối quan hệ trường tồn.
-```
-
-### Nguyên tắc trong lúc tìm hiểu (mở app hẹn hò, gặp gỡ...)
-
-```
-✅ Chỉ dành thời gian T7/CN, 20-30p/ngày - không để cuốn vào giữa tuần
-✅ Bio/giới thiệu nói rõ đang tập trung học tiếng Anh + chuẩn bị Thạc sĩ - lọc đúng người nghiêm túc
-❌ Không để việc tìm hiểu ai đó làm trễ giờ ngủ 23:30 hay bỏ buổi lớp tiếng Anh
+Đối tượng:    Trần Thị Thu Thúy (28/04/2001 · Đồng hương Quỳnh Lưu, Nghệ An · Chủ thương hiệu @loulisaigon 60.2K fl)
+Mô hình:      Power Couple "Bù trừ giá trị" (Dan Foolish):
+              • Hiếu: Kỹ sư Senior / SME dự án Mỹ (NBCU US) + Thạc sĩ KHMT (UIT) + Giảng viên ĐH (2029) → Trụ cột tri thức, vị thế xã hội & dòng tiền lương cố định vững chắc.
+              • Thúy: Bà chủ kinh doanh thời trang nhạy bén (có kho riêng ở Ngô Chí Quốc, nhân viên kho, anh trai đã mua chung cư gần Cầu Gò Dưa).
+Lộ trình:
+  • Cuối 2026 – Đầu 2027: 3 buổi hẹn tại Sài Gòn (29/11/2026 Cafe Acoustic Chang Dao + 20/12/2026 Noel + T01/2027 tặng Ly giữ nhiệt màu Kem) → 23 ngày Tết Quỳnh Lưu (29/01 → 20/02/2027).
+  • Giữa T03/2027 (Sau lễ 8/3 khoảng 1 tuần): 🌹 Đêm Tỏ Tình chính thức tại Sài Gòn.
+  • Năm 2028 (27 tuổi):
+    - 🍲 **Tết Mậu Thân (`T01/2028` — Kỷ niệm ~1 năm yêu nhau):** Hai đứa mua hải sản tươi biển Quỳnh về nhà em tự nấu 1 nồi lẩu, ăn uống và nhậu một bữa tưng bừng ra mắt gia đình em tại Quỳnh Lưu.
+    - 🤰 **Tháng `10 – 11/2028` ("Song hỷ lâm môn"):** Sau khi học xong các môn Năm 1 Thạc sĩ UIT, hai đứa đón tin vui có bầu → **Chuyển xuống thuê căn 1PN tại Sunview Town để chăm sóc em bầu nghén** và chuẩn bị sẵn tổ ấm trước ngày cưới!
+  • Năm 2029 (28 tuổi): 💒 **TỔ CHỨC ĂN HỎI & ĐÁM CƯỚI TẠI QUỲNH LƯU → VÀO SÀI GÒN TỔ CHỨC TIỆC BÁO HỶ ẤM CÚNG (`40–50 NGƯỜI` — VIBE RAMBO MIXIGAMING, MỜI SẾP & ANH EM BẠN BÈ ĐỒNG NGHIỆP) → VỀ TỔ ẤM SUNVIEW TOWN ĐÓN CON ĐẦU LÒNG** (ở căn 1PN ~45m² tại **Sunview Town** [Priority 1] / **Saigon Avenue** [Priority 2] — ngay cùng chung cư với anh trai em & cách kho Ngô Chí Quốc 3–5 phút, cách UIT ~10km, cách TMA Lab 6 15.2km).
+  • Năm 2033 (32 tuổi): 🏡 Hai vợ chồng mua căn hộ chung cư riêng tại TP. Thủ Đức.
 ```
 
 ---
 
-## 📞 ON-CALL RULES - KHI ĐÃ CÓ NGƯỜI YÊU
+## 📞 ON-CALL RULES - BẢO VỆ RANH GIỚI NĂNG LƯỢNG
 
-> Chuẩn bị sẵn nguyên tắc để không bị cuốn mất core khi mối quan hệ bắt đầu.
+> Chuẩn bị sẵn nguyên tắc để không bị cuốn mất core khi mối quan hệ phát triển:
 
 ```
-Mức 1: Người ấy cần tâm sự       → gọi 20-30p, trong buổi tối rảnh
-Mức 2: Người ấy ốm / có chuyện   → 1 buổi linh hoạt (60-120p), lịch nhẹ hôm đó
-Mức 3: Khẩn cấp                 → có thể bỏ 1 buổi tối, dùng thời gian đó lo việc gấp
+Khung giờ vàng mỗi đêm: 23:00 → 24:00 (cuối ca NBCU US, lúc em vừa tắm gội sấy tóc xong) → 23:55 nhắc em ngủ sớm, 24:00 tắt máy!
+Cuối tuần:              Chiều/Tối Chủ Nhật (ngày nghỉ duy nhất trong tuần của cả hai)
 
 TUYỆT ĐỐI KHÔNG HI SINH VÌ BẤT KỲ MỐI QUAN HỆ NÀO:
-  ❌ Giấc ngủ 23:30
-  ❌ Lớp tiếng Anh T3+T5+CN (đã trả tiền L2+L3)
-  ❌ Quỹ mẹ 2tr/tháng
+  ❌ Giấc ngủ cố định 00:30 – 08:30/09:30 (8–9h)
+  ❌ Lớp tiếng Anh T3+T5 (18:30–20:45) & Lộ trình TOEIC 700+
+  ❌ Quỹ mẹ 500tr (2tr/tháng → 5tr/tháng từ T02/2027 đến T06/2031)
   ❌ Kế hoạch tiết kiệm 43tr học phí Thạc sĩ năm 1
 ```
 

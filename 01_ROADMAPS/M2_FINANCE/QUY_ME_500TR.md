@@ -1,61 +1,33 @@
-# 👩 QUỸ TIẾT KIỆM CHO MẸ - MỤC TIÊU 500 TRIỆU
+# 👩 QUỸ TIẾT KIỆM CHO MẸ (SINH NĂM 1981) - MỤC TIÊU 500 TRIỆU TRONG 5 NĂM (2026 → 2031)
 
-> **Bản chất:** Mỗi tháng gửi 2tr về cho mẹ làm **sổ tiết kiệm**, không lấy lại.
-> **Mục tiêu:** 500,000,000 VND
-> **Thời gian:** T09/2026 → T08/2036 (10 năm, 120 tháng) - **Phương án B, đã chốt 13/09/2026**
-> **Phần thiếu:** mẹ bù vào sau (~181tr nếu chỉ gửi đúng 2tr/tháng)
-> **Đây KHÔNG phải chi tiêu tự do, cũng KHÔNG phải tài sản của anh** - nó là một cam kết riêng,
-> có mục tiêu riêng, theo dõi ở file riêng này.
-> **Cập nhật:** 11/10/2026 (V3 - Bổ sung mốc đột phá 100tr: Bắt đầu gửi lãi cho mẹ tiêu xài)
+> **Bản chất:** Hai mẹ con cùng tích lũy xây **Sổ tiết kiệm 500,000,000 VND** đứng tên Mẹ (sinh năm `1981`), không lấy lại.
+> **Mục tiêu:** **500,000,000 VND** (Đạt đích trong **5 năm**: **`T09/2026 → Giữa 2031`**, khi Hiếu 30 tuổi và Mẹ vừa tròn 50 tuổi!).
+> **Cơ chế đóng của Hiếu:** Hiện tại `2,000,000đ/tháng` → **Từ `T02/2027` nâng lên `5,000,000đ/tháng` và đóng liên tục trong ~4.5 năm (`T02/2027 → T06/2031`) là HOÀN THÀNH 100%, giải phóng hoàn toàn dòng tiền `5tr/tháng`!**
+> **Phần Mẹ cùng góp (khi mẹ đang trẻ khỏe tuổi 45–50):** Đã có sẵn **`15,500,000đ`** trong VCB + Mẹ góp đều `~2–2.5tr/tháng` (suất phường của mẹ).
+> **Cập nhật:** 14/11/2026 (V4 - Chốt Kế hoạch 5 năm `2026 → 2031` hai mẹ con cùng góp: Cuối 2027 chạm `100tr` đầu tiên gửi ngân hàng lấy lãi `~580k/tháng`; Giữa 2031 cán đích `500tr` lấy lãi `~2.9tr/tháng` để mẹ an nhàn không cần đi làm vất vả, đồng thời giải phóng `5tr/tháng` cho Hiếu từ giữa 2031!)
 
 ---
 
-## 🎯 CỘT MỐC ĐỘT PHÁ: MỐC 100 TRIỆU ĐẦU TIÊN (BẮT ĐẦU GỬI LÃI CHO MẸ)
+## 🎯 CỘT MỐC ĐỘT PHÁ: CỨ ĐỦ 100 TRIỆU LÀ GỬI NGÂN HÀNG LẤY LÃI `~580K/THÁNG`
 
-> 💡 **Chiến lược chốt ngày 11/10/2026:**
-> Mục tiêu 500tr (10 năm) là chặng đường dài. Nhưng **ngay khi quỹ tích luỹ đạt 100,000,000 VND đầu tiên, anh sẽ bắt đầu rút toàn bộ tiền lãi sinh ra để gửi thẳng cho mẹ tiêu xài định kỳ**, giữ nguyên 100tr tiền gốc làm "cỗ máy in lãi"!
+> 💡 **Chiến lược chốt ngày 14/11/2026:**
+> - **Mốc 100 Triệu đầu tiên (`Cuối năm 2027`):** Ngay khi tổng quỹ của 2 mẹ con (gồm `10tr` Hiếu đã đóng + `15.5tr` của mẹ trong VCB + phần đóng thêm năm 2027) chạm **`100,000,000 VND`**, lập tức mở **Sổ tiết kiệm ngân hàng** để mỗi tháng đẻ ra **`~580,000đ/tháng` (`~7,000,000đ/năm`)** tiền lãi!
+> - **Mốc Đích 500 Triệu (`Giữa năm 2031` — Mẹ 50 tuổi):** Khi đủ 5 sổ × 100tr = **`500,000,000 VND`**, mỗi tháng sổ tiết kiệm tự sinh ra **`~2,900,000đ/tháng` (`~35,000,000đ/năm`)** tiền lãi đều đặn. Lúc này mẹ mới 50 tuổi, chỉ việc rút lãi ra tiêu xài hàng tháng, **không cần phải đi làm vất vả nữa**!
 
-### 🔄 Cơ chế vận hành 2 giai đoạn:
+### 📊 BẢNG LỘ TRÌNH 5 NĂM CÁN ĐÍCH 500 TRIỆU (`2026 → GIỮA 2031`) & THỜI ĐIỂM GIẢI PHÓNG `5TR/THÁNG`
 
-```
-🌱 GIAI ĐOẠN 1: TÍCH LUỸ TẬP TRUNG (0 ➔ 100 TRIỆU)
-- Tiền nạp: 2,000,000 VND/tháng. Tối ưu mới: **Nâng lên 5,000,000 VND/tháng từ T02/2027** (khi quỹ học phí Thạc sĩ năm 1 43tr đã an toàn).
-- Cơ chế lãi: Toàn bộ tiền lãi sinh ra được tái tục 100% (lãi mẹ đẻ lãi con) để chạm mốc 100tr nhanh nhất.
-- Thời gian dự kiến (Tối ưu 12/10): **Giữa năm 2028** (Nhanh hơn kế hoạch cũ 1 năm).
+| Năm | Tuổi Hiếu | Tuổi Mẹ (`1981`) | Phần Hiếu đóng | Phần Mẹ góp cùng | **Tổng Quỹ Tích Lũy** | Tiền Lãi Sinh Ra (`~580k/tháng` mỗi 100tr) | Cột Mốc & Ý Nghĩa |
+| :--- | :---: | :---: | ---: | ---: | ---: | ---: | :--- |
+| **Cuối 2026** | 25t | 45t | `12,000,000đ` *(T08–T12)* | `15,500,000đ` *(VCB)* + `2tr` | **`29,500,000đ`** | — | Đã có sẵn nền móng gần 30 triệu |
+| **Cuối 2027** | 26t | 46t | **`57,000,000đ`** *(T01: 2tr; T02–T12: 5tr/tháng)* | `~24,000,000đ` *(2tr/tháng)* | **`~110,500,000đ`** | **`~580,000đ / tháng`** | 🎉 **ĐỦ SỔ 100TR ĐẦU TIÊN!** Gửi ngân hàng nhận lãi `580k/tháng` |
+| **Cuối 2028** | 27t | 47t | **`60,000,000đ`** *(5tr × 12 tháng)* | `~24,000,000đ` + Lãi gộp | **`~201,500,000đ`** | **`~1,160,000đ / tháng`** | 🏦 **ĐỦ 2 SỔ (200 TRIỆU)** |
+| **Cuối 2029** | 28t | 48t | **`60,000,000đ`** *(5tr × 12 tháng)* | `~24,000,000đ` + Lãi gộp | **`~299,500,000đ`** | **`~1,740,000đ / tháng`** | 🎓 **ĐỦ 3 SỔ (300 TRIỆU)** *(Năm Hiếu tốt nghiệp Thạc sĩ & Cưới Thúy)* |
+| **Cuối 2030** | 29t | 49t | **`60,000,000đ`** *(5tr × 12 tháng)* | `~24,000,000đ` + Lãi gộp | **`~404,000,000đ`** | **`~2,320,000đ / tháng`** | 🔥 **ĐỦ 4 SỔ (400 TRIỆU)** |
+| **T06/2031** *(Sau 5 năm)* | **30t** | **50t** | **`30,000,000đ`** *(6 tháng cuối × 5tr)* + Thưởng Tết bù nhẹ | `~15,000,000đ` + Lãi | **🏆 `500,000,000đ`** | **`~2,900,000đ / tháng`** *(~35tr/năm)* | **★ CÁN ĐÍCH 500 TRIỆU — MẸ NGHỈ NGƠI HƯỞNG LÃI, HIẾU CHÍNH THỨC DỪNG ĐÓNG `5TR/THÁNG` TỪ T07/2031! ★** |
 
-🌸 GIAI ĐOẠN 2: THU HOẠCH HOA LỢI (TỪ 100 TRIỆU TRỞ ĐI)
-- Gốc 100tr: Khóa cố định trong sổ tiết kiệm để sản sinh dòng tiền thụ động an toàn.
-- Tiền lãi sinh ra (~5.5% - 6.0%/năm = ~5,500,000 - 6,000,000 VND/năm ➔ ~450k - 500k/tháng):
-  ➡️ RÚT GỬI THẲNG CHO MẸ để mẹ tự do tiêu vặt, đi chợ, mua sữa, thuốc bổ, cafe ăn sáng mà không hao hụt 1 đồng gốc.
-- Tiền gửi hàng tháng mới: Vẫn tiếp tục nạp vào để tích luỹ chặng 2 (lên 200tr, 300tr... 500tr).
-```
-
-### 💎 Ý nghĩa tài chính & tâm lý:
-1. **Mẹ được hưởng thụ ngay khi còn khoẻ:** Không phải chờ đợi 10 năm xa xôi.
-2. **Mẹ an tâm tiêu xài không tiếc:** Vì đây là "tiền ngân hàng trả lãi", tiền gốc của con trai vẫn nguyên vẹn 100 triệu.
-3. **Mục tiêu hữu hình, động lực mạnh mẽ:** Mốc 100tr ngắn hơn rất nhiều và tạo bước ngoặt tài chính rõ ràng cho gia đình.
-
----
-
-## ✅ MỤC TIÊU DÀI HẠN: 500 TRIỆU ĐẾN 2036 (PHƯƠNG ÁN B)
-
-```
-Thời gian gửi:            T09/2026 → T08/2036 (120 tháng)
-Gốc anh gửi:               240,000,000
-Có lãi kép ~5.5%/năm:      ~319,000,000
-Mẹ phải bù thêm:           ~181,000,000   để đạt 500tr
-```
-
-### Nếu muốn tự anh đạt đủ 500tr (không cần mẹ bù)
-
-| Mức gửi/tháng | Sau 10 năm (có lãi 5.5%) | Đủ 500tr?      |
-| ------------- | ------------------------ | -------------- |
-| 2,000,000     | ~319tr                   | ❌ thiếu 181tr |
-| 2,500,000     | ~399tr                   | ❌ thiếu 101tr |
-| **3,150,000** | **~500tr**               | ✅             |
-| **5,000,000** | **~790tr**               | ✅ (Sẽ đạt 100tr cực nhanh vào giữa 2028) |
-
-> ⚡ **TỐI ƯU 12/10/2026:** Từ T02/2027, khi quỹ học phí Thạc sĩ năm 1 (43tr) đã an toàn, sẽ dùng khoản dôi dư nâng ngay mức nạp lên 5tr/tháng để đẩy nhanh thời gian chạm mốc 100tr đầu tiên xuống giữa 2028 (nhanh hơn 1 năm so với 2029). Đạt mốc 100tr để sớm rút lãi cho mẹ tiêu xài.
+> 🔓 **CHỐT THỜI ĐIỂM DỪNG ĐÓNG `5TR/THÁNG`:**
+> - Hiếu bắt đầu nâng lên đóng **`5,000,000đ/tháng` từ `Tháng 02/2027`** và đóng đến hết **`Tháng 06/2031` (tổng cộng 53 tháng = 4.5 năm, tổng tiền Hiếu đóng là `279,000,000đ`)**.
+> - Từ **`Tháng 07/2031` (khi Hiếu 30 tuổi):** Quỹ Mẹ đã tròn **`500,000,000đ`**, Hiếu **hoàn thành 100% nghĩa vụ đóng quỹ**, giải phóng hoàn toàn `5,000,000đ/tháng` (`60,000,000đ/năm`) để dồn toàn lực vào **Quỹ Mua Chung Cư cùng Thúy ở tuổi 32 (`2033`)**!
 
 ---
 

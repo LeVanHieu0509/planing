@@ -26,7 +26,7 @@
                    • T3, T5 (18:30–20:45): ★ LỚP TIẾNG ANH LEVEL 3 (vừa khít giữa 18:00 và 21:00!)
                    • T4     (18:30–20:30): ★ ĐÁ BANH ⚽ xả stress
                    • T2, T6 (18:00–21:00): 🍚 Ăn tối thong thả, nghỉ ngơi / cafe nhẹ với NY
-21:00–24:00        🇺🇸 CA 2 NBCU US (3h — Daily Standup, sync trực tiếp với US bằng khung BLUF & A-R-E)
+21:00–24:00        🇺🇸 CA 2 NBCU US (3h — 21:00–23:00 họp & xử lý việc chính với US; 23:00–24:00 trực máy nhẹ + ❤️ Trò chuyện cuối ngày với Thúy, 23:55 nhắc em ngủ sớm)
 00:00–00:30        🌙 Đóng máy ngay, vệ sinh cá nhân, ghi sổ chi tiêu 1p, hạ nhiệt → 00:30 NGỦ
 ```
 
