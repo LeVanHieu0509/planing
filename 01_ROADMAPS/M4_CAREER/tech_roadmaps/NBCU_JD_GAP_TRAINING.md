@@ -10,6 +10,35 @@
 
 ---
 
+## 📞 THÔNG TIN ONBOARDING (ghi tay 17/11/2026)
+
+**1. Cách team NBCU US làm việc**
+- Team bên Mỹ đang **start ca tối** và share thêm thông tin dần.
+- NBCU US có **3 team**; project chia thành **team nhỏ**, mỗi project có **khung giờ meeting khác nhau**.
+- **Meeting theo team: 22:30 → 23:30** (giờ VN).
+- **Daily standup bằng tiếng Anh: khoảng 01:00 → 02:00** (giờ VN) - **meeting quan trọng**.
+
+> ⚠️ **Lệch lịch V7.0** (ca 2 `21:00–24:00`, ngủ `00:30`): nếu Hiếu bắt buộc dự daily 01:00–02:00 thì **giờ ngủ phải dời về `02:30 – 10:00/10:30`**, kéo theo khung sáng (gym, BIT). ⏳ **Chưa sửa lịch** - chờ biết chính xác team mình daily giờ nào khi onboard, rồi sửa 1 lần (`CLAUDE.md`, `DAILY_SCHEDULE.md`). Nguyên tắc: **đủ 7.5–8h ngủ, giờ cố định**, không ngủ chắp vá.
+
+**2. Manager (bên anh Đức) chia sẻ về kỹ thuật**
+- **JavaScript/TypeScript** codebase **khá phức tạp** → đọc code là kỹ năng số 1.
+- **AWS focus:** **Lambda · Step Functions · API Gateway · DynamoDB** + **GitHub Actions** (CI/CD).
+- → Lộ trình bên dưới giữ nguyên trọng tâm; **thêm GitHub Actions** (workflow build/test/deploy SAM) vào ngày 23/11 cùng CloudFormation/SAM.
+
+**3. Daily standup - nói 4 ý (≤ 60 giây)**
+
+| Ý | Câu mẫu |
+|---|---|
+| Hôm qua / tối qua làm gì | _"Yesterday, I worked on **[ticket ID]** - I finished **[X]**."_ |
+| Ticket nào đang làm | _"Today, I'm working on **[ticket ID]**, which is about **[Y]**."_ |
+| Trạng thái | _"It's **in progress** - about **70% done**. I'll open a PR **by tomorrow**."_ |
+| Đã push chưa / blocker | _"I've **pushed** the changes to my branch. **No blockers.**"_ / _"I'm **blocked by** [Z] - could someone help me with that after the meeting?"_ |
+
+**4. Mẹo khi đang nghĩ bằng tiếng Việt**
+> Chèn 1 cụm đệm có chủ đích để mua 2–3 giây: _"**You know**, …"_ · _"**Well**, …"_ · _"**Let me think**…"_ · _"**So basically**, …"_ - rồi nói câu ngắn. **Không** "uh… um…" kéo dài, **không** im lặng.
+
+---
+
 ## 🧭 0. HIỂU DỰ ÁN TRƯỚC KHI HỌC
 
 | Điểm | Ý nghĩa với Hiếu |
@@ -87,7 +116,7 @@ Upload video (S3 presigned URL qua API Gateway)
 | 18/11 | SQS: DLQ, visibility timeout, partial batch failure, idempotency | Consumer chạy lại không ghi trùng |
 | 19/11 | SNS fan-out · EventBridge · Kinesis (khái niệm + 1 demo) | 1 event → 2 subscriber |
 | 20/11 | Step Functions: Retry/Catch, Map state | Workflow 4 bước có retry |
-| 23/11 | CloudFormation/SAM: viết lại toàn bộ thành template | `sam deploy` 1 lệnh dựng cả stack |
+| 23/11 | CloudFormation/SAM: viết lại toàn bộ thành template · **GitHub Actions**: workflow test + `sam deploy` | `sam deploy` 1 lệnh dựng cả stack |
 | 24/11 | OpenSearch: index, mapping, search query | `GET /search?q=` chạy |
 | 25/11 | Observability: structured log, correlationId, CloudWatch metric/alarm · đọc docs Datadog & Splunk (query log, dashboard, monitor) | Tự debug 1 lỗi cố ý gây ra bằng log |
 
@@ -182,4 +211,4 @@ Upload video (S3 presigned URL qua API Gateway)
 
 ---
 
-_Cập nhật: 11/11/2026 (Anh Đạt chốt team: Hiếu ở role NodeJS, Java do anh Khôi + Thức → thêm tuần Node nâng cao 26/11–02/12, Java rút gọn mức đọc hiểu 03–09/12). Trước đó: 11/11/2026 (Tạo file - phân tích 2 JD NBCU: Node.js Serverless & Java AWS Microservices/EKS; gap analysis theo CV; bản đồ chuyển đổi kiến thức sang AWS; dự án thực hành Mini Media Asset Pipeline; lộ trình 12/11 → 09/12/2026)._
+_Cập nhật: 17/11/2026 (Thông tin onboarding: 3 team, meeting team 22:30–23:30, daily 01:00–02:00 (lệch lịch V7.0, chờ chốt); manager nhấn mạnh Lambda/Step Functions/API Gateway/DynamoDB/GitHub Actions; mẫu daily standup 4 ý). Trước đó: 11/11/2026 (Anh Đạt chốt team: Hiếu ở role NodeJS, Java do anh Khôi + Thức → thêm tuần Node nâng cao 26/11–02/12, Java rút gọn mức đọc hiểu 03–09/12). Trước đó: 11/11/2026 (Tạo file - phân tích 2 JD NBCU: Node.js Serverless & Java AWS Microservices/EKS; gap analysis theo CV; bản đồ chuyển đổi kiến thức sang AWS; dự án thực hành Mini Media Asset Pipeline; lộ trình 12/11 → 09/12/2026)._
