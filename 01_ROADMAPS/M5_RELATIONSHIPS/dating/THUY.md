@@ -311,15 +311,13 @@
 >
 > - **Nguyên tắc vàng của Hiếu:** Quà tặng chỉ chạm tới đáy tim phụ nữ khi có **"Lý do được gài trước"** — tức là em vô tình chia sẻ sở thích/nỗi vất vả trong lúc trò chuyện, tưởng Hiếu chỉ nghe qua, nhưng hôm gặp mặt Hiếu lại **thể hiện bằng hành động chuẩn xác 100%**!
 >
-> 1. **Kịch bản "Gài trước - Đánh sau" cho 2–3 bịch Ô mai Bạch Đằng (`Buổi 1 - 29/11`):**
->    - **🌱 Bước 1 — Gài câu hỏi tự nhiên (Trong khung `23:00–24:00` tuần lễ `16–22/11` lúc em đang chạy đơn 20/11):**
->      - Lúc đang nói chuyện vui về chuyện em làm việc cả ngày hoặc livestream mỏi miệng, Hiếu hỏi bâng quơ:
->        _"Làm việc cả ngày tới khuya thế lúc buồn miệng hay buồn ngủ em có hay ăn vặt đồ chua chua ngọt ngọt kiểu ô mai gì cho tỉnh táo với đỡ rát cổ không?"_
->      - Khi em kể ra gu ăn vặt của em (thích vị chua ngọt, mận dẻo, mơ gừng hay sấu...), Hiếu chỉ cười trêu 1 câu rồi **đổi sang chuyện khác ngay** _(Tuyệt đối KHÔNG hứa "để hôm nào anh mua cho" nhằm giữ 100% sự bất ngờ!)_.
+> 1. **Kịch bản "Gài trước - Đánh sau" cho 2–3 hộp Ô mai Bạch Đằng vị Chua Thanh / Mơ Gừng Ít Ngọt (`Buổi 1 - 29/11`):**
+>    - **✅ Bước 1 — ĐÃ CÓ SẴN THÔNG TIN EM CHIA SẺ:** Em đã kể với Hiếu là **"Em đang kiêng ngọt, lâu lâu mới uống"**! *(Không cần hỏi lại câu hỏi gài về ô mai nữa để giữ 100% độ bất ngờ tự nhiên!).*
 >    - **🎯 Bước 2 — Thể hiện bằng hành động (Tối Chủ Nhật `29/11` tại Chang Dao):**
->      - Lúc ngồi cạnh nhau ở bục cửa sổ gỗ, Hiếu đưa túi 2–3 bịch ô mai Bạch Đằng (đúng vị em đã nhắc tuần trước + vị mơ gừng ấm họng) tặng thẳng cho em:
->        _"Hôm bữa nghe em kể lúc làm việc thích nhâm nhi đồ chua ngọt, nay đi ngang đường Bạch Đằng nhớ ra nên anh ghé mua mấy bịch ô mai đúng vị em thích với vị mơ gừng cho cô chủ nhỏ ăn vặt với ngậm dịu cổ lúc live nè!"_
->      - **💥 Hiệu ứng cảm xúc:** Tập trung 100% sự quan tâm vào riêng em (còn em mang về tự ăn hay cho ai thử cùng là quyền của em). Em sẽ sững người vì cảm động: _"Chỉ một câu mình nói vu vơ lúc nửa đêm tuần trước mà anh ấy nhớ từng chữ và âm thầm mua đúng thứ mình thích!"_ → Cảm nhận trọn vẹn 100% tình cảm chân thành qua hành động của Hiếu!
+>      - Khi ghé đường Bạch Đằng mua ô mai, Hiếu chọn đúng **loại Ô mai Mơ gừng ấm họng / Mơ chua mặn / Sấu giòn vị chua thanh (ÍT NGỌT, không tẩm đường đậm)**.
+>      - Lúc ngồi cạnh nhau ở bục cửa sổ gỗ tại Chang Dao, Hiếu đưa túi 2–3 hộp ô mai tặng em và nói:
+>        _"Bữa nghe em kể đang kiêng ngọt mà ngày nào cũng phải livestream nói nhiều, nên nay đi ngang đường Bạch Đằng anh ghé chọn mấy hộp ô mai mơ gừng với vị chua thanh ít ngọt cho cô chủ nhỏ ngậm dịu cổ họng lúc live mà không sợ bị ngọt nè!"_
+>      - **💥 Hiệu ứng cảm xúc:** Nhớ đúng chi tiết **"em đang kiêng ngọt"** từ những tuần trước để chọn món quà vừa dịu cổ họng vừa không phạm quy tắc ăn kiêng của em → Tinh tế 1000 điểm!
 > 2. **Kịch bản "Gài trước - Đánh sau" cho Ly giữ nhiệt màu Kem + Trà dưỡng họng (`Buổi 3 - T01/2027` trước Tết):**
 >    - **✅ Bước 1 — ĐÃ GÀI XONG (Tháng 11/2026):** Hiếu đã hỏi và em đã tự kể là **"Em phải giảm máy lạnh xuống sâu để mặc đồ mùa đông (khăn len/áo len) livestream"**! Từ giờ tới tháng 1 không nhắc lại nữa để em quên đi.
 >    - **🎯 Bước 2 — Hành động đánh úp sau 2 tháng (Tháng 01/2027 khi xuống lấy đơn khăn Tết):** Trao tận tay chiếc **Ly giữ nhiệt màu Kem Hàn Quốc + Trà dưỡng thanh quản** (kèm tấm ảnh in từ buổi Noel `20/12`) và nói: _"Hồi mới quen nghe em kể mỗi lần mặc đồ đông live là phải hạ máy lạnh xuống sâu, ngồi lạnh nói liên tục thế dễ rát cổ lắm nên anh mua chiếc bình giữ nhiệt này cho cô chủ nhỏ pha trà ấm để ngay bàn live uống nhé!"_ → Nhớ đúng chi tiết em kể từ 2 tháng trước = Tan chảy 1000%!
@@ -353,28 +351,82 @@
 | _Dự phòng 2_   | _Gấu Bông Jellycat / Đèn ngủ Gốm hình Chú Gấu đội mũ len / quàng khăn len mini (Tone Nâu/Kem)_                                                                                            | _Khớp DNA mũ thêu gấu & khăn len của shop `Louli Saigon`._                                                                                                                                                                                                                              |
 | _Dự phòng 3_   | _Lịch Gỗ Để Bàn Aesthetic 2027 (In kèm ảnh chụp hôm Noel `20/12`)_                                                                                                                        | _Hữu dụng cả năm 2027 trên bàn làm việc._                                                                                                                                                                                                                                               |
 
-- [ ] **Hint lịch về Tết của Hiếu (`29/01 → 20/02/2027`) & hỏi lịch đóng kho về Quỳnh Lưu của em** _(nhân dịp vừa xuất vé chiều vào ngày 13/11)_
+- [x] **Hint lịch về Tết của Hiếu (`29/01 → 20/02/2027`) & hỏi lịch đóng kho về Quỳnh Lưu của em** _(✅ Đã hỏi & nắm trọn chi tiết chuyến bay Vietnam Airlines khứ hồi của Thúy ngày `16–17/11/2026` — xem bảng ngay bên dưới!)_
 - [ ] **Buổi 1 (`CN 29/11/2026`):** Rủ em đi **Cafe Acoustic (Chang Dao)** tối Chủ Nhật cuối tháng 11 + ghé đường Bạch Đằng mua **2–3 bịch/hộp Ô mai ngon** tặng em (để em ngậm dịu cổ và chia cho em gái + mấy bạn nhân viên kho ăn vặt)
 - [ ] **Buổi 2 (`CN 20/12/2026`):** Rủ em đi chơi & **chụp bộ ảnh Noel** (rủ trước ~1–2 tuần)
 - [ ] **Buổi 3 (`Giữa/Cuối T01/2027`):** Đặt 1 đơn online khăn/mũ shop em → Chạy xuống lấy trực tiếp trước ngày về Tết + **Tặng Ly giữ nhiệt màu Kem Hàn Quốc & Trà dưỡng thanh quản (kèm 1 tấm ảnh in từ buổi Noel `20/12`)**
 
 ---
 
-## 🧧 KẾ HOẠCH CHI TIẾT 23 NGÀY TẾT ĐINH MÙI TẠI QUỲNH LƯU (`29/01 → 20/02/2027`)
+## ✈️ GHI CHÚ LỊCH BAY TẾT 2027 — TRẦN T. THU THÚY & HIẾU (ĐÃ CHỐT VÉ KHỨ HỒI)
 
-> ✈️ **Khung vé máy bay đã xuất 100% ([TMA_HOLIDAYS_2027.md](../../M4_CAREER/tma/TMA_HOLIDAYS_2027.md)):**
->
-> - **Bay về Vinh:** Thứ Sáu `29/01/2027` (`22 tháng Chạp` · `14:45 SGN → 16:35 Vinh`) · Sáng T7 `30/01` (`23 Chạp`) về nhà cúng Ông Công Ông Táo.
-> - **Bay vào lại Sài Gòn:** Thứ Bảy `20/02/2027` (`Rằm tháng Giêng 15/01 ÂL` · `17:05 Vinh → 18:55 SGN`).
-> - **Đặc biệt:** **Chủ Nhật Mùng 9 Tết (`14/02/2027`) trùng đúng ngày Lễ Tình Nhân Valentine `14/02` khi cả hai đang ở quê Quỳnh Lưu!**
+### 1. Thông tin chuyến bay của Trần T. Thu Thúy (Vietnam Airlines)
+
+| Chặng bay | Ngày bay | Giờ cất cánh ➔ Hạ cánh | Số hiệu chuyến bay | Nhà ga | Giá vé (Phổ thông) |
+| :--- | :--- | :--- | :---: | :--- | ---: |
+| **Chiều về (`SGN ➔ VII`)** | **Tối Chủ Nhật, `31/01/2027` (`24 Tết`)** | **`22:45` (`31/01`) ➔ `00:45`** (`Rạng sáng Thứ Hai 01/02 — 25 Tết`) | **`VN 7288`** | **Nhà ga T3 (Tân Sơn Nhất) ➔ Sân bay Vinh** | `3,739,181đ` |
+| **Chiều vào (`VII ➔ SGN`)** | **Rạng sáng Thứ Bảy, `13/02/2027` (`Mùng 8 Tết`)** | **`01:20` (`13/02`) ➔ `03:25` (`13/02`)** *(Ra sân bay từ đêm `12/02 — Mùng 7 Tết`)* | **`VN 7289`** | **Sân bay Vinh ➔ Nhà ga T3 (Tân Sơn Nhất)** | `3,739,181đ` |
+
+### 2. Đối chiếu lịch của Hiếu vs. Thu Thúy
+
+- **Lịch của Hiếu (VietJet + Ký gửi):**
+  - **Chiều về:** Thứ Sáu, **`29/01/2027` (`22 Tết`)** (`14:45 SGN ➔ 16:35 VII`) $\rightarrow$ **Về trước Thúy 2 ngày**.
+  - **Chiều vào:** Thứ Bảy, **`20/02/2027` (`15 âm / Rằm tháng Giêng`)** (`17:05 VII ➔ 18:55 SGN`) $\rightarrow$ **Vào trễ hơn Thúy 1 tuần**.
+- **🔥 Khoảng thời gian cả 2 cùng ở quê Quỳnh Lưu:**
+  - Từ **rạng sáng Thứ Hai, `01/02/2027` (`25 Tết`)** đến hết **Tối Thứ Sáu, `12/02/2027` (`Đêm Mùng 7 Tết`)** — **trọn vẹn `12 ngày` vàng ở quê!**
+
+### 3. Checklist các mốc giờ cần canh nhắn tin & hỗ trợ tìm xe khách / xe ghép (Micro-care 1000 điểm!)
+
+#### 🛫 Đợt 1: Chiều về Vinh (Tối Chủ Nhật `31/01/2027` — 24 Tết)
+- [ ] **Sáng Chủ Nhật `31/01/2027`:**
+  - Tìm sẵn số **xe khách / xe ghép / taxi hợp đồng tuyến Sân bay Vinh ➔ Quỳnh Lưu** gửi cho Thúy đặt trước (vì máy bay đáp lúc **`00:45` rạng sáng ngày `25 Tết`** rất khuya, lạnh và ít xe).
+  - **Số taxi sân bay Vinh dự phòng:** Mai Linh Vinh (`0238.3.57.57.57`), Vạn Xuân (`0238.3.98.98.98`).
+- [ ] **`20:30` tối `31/01/2027`:**
+  - Nhắn nhắc Thúy ra đúng **Nhà ga T3 (Ga mới của Vietnam Airlines)** ở Tân Sơn Nhất, tránh đi nhầm sang ga T1 cũ.
+- [ ] **`22:35` tối `31/01/2027`:**
+  - Nhắn chúc bay êm trước giờ cất cánh (`22:45`).
+- [ ] **`00:50` rạng sáng Thứ Hai `01/02/2027` (25 Tết):**
+  - Chuyến **`VN 7288`** vừa hạ cánh xuống Sân bay Vinh $\rightarrow$ Nhắn hỏi thăm xem em đã lấy hành lý và lên được xe về nhà an toàn chưa.
+
+#### 🛬 Đợt 2: Chiều vào lại Sài Gòn (Đêm Thứ Sáu `12/02` rạng sáng Thứ Bảy `13/02/2027` — Đêm Mùng 7 rạng sáng Mùng 8 Tết)
+- [ ] **Chiều Thứ Sáu `12/02/2027` (Mùng 7 Tết):**
+  - Hỏi xem Thúy đã đặt sẵn xe từ Quỳnh Lưu ra Sân bay Vinh lúc tối muộn chưa.
+- [ ] **`23:15` đêm Thứ Sáu `12/02/2027` (Đêm Mùng 7 Tết):**
+  - Nhắn hỏi thăm lúc Thúy bắt đầu lên xe ra sân bay Vinh (để kịp bay chuyến **`VN 7289`** lúc **`01:20` rạng sáng `13/02`**).
+- [ ] **`03:30` rạng sáng Thứ Bảy `13/02/2027` (Mùng 8 Tết):**
+  - Máy bay đáp xuống **Nhà ga T3 Tân Sơn Nhất (`03:25`)** $\rightarrow$ Nhắn hỏi thăm xem em đã lấy đồ và bắt được xe về chung cư **Sunview Town** an toàn chưa.
+
+---
+
+## 🧧 KẾ HOẠCH CHI TIẾT 12 NGÀY TRÙNG LỊCH TẠI QUỲNH LƯU (`01/02 → 12/02/2027` · 25 TẾT → ĐÊM MÙNG 7 TẾT)
+
+> 🧭 **Nguyên tắc vàng suốt 12 ngày ở quê:** **Không gặp dồn dập ngày nào cũng dính lấy nhau** (để cả hai có thời gian trọn đạo hiếu với mẹ và gia đình sau 1 năm xa quê), mà chia thành **4 Buổi Hẹn Chất Lượng (cách nhau 2–3 ngày/buổi)** + **2 Nhịp Care Sân Bay (Đón về & Tiễn vào)**:
+
+### 🗓️ Bảng Lịch Trình Theo Từng Ngày (`25 Tết → Đêm Mùng 7 Tết`)
+
+| Ngày Dương (Âm lịch) | Lịch Công Việc & Gia Đình Của Hiếu | Kế Hoạch Với Thúy (4 Buổi Hẹn + 2 Nhịp Sân Bay) |
+| :--- | :--- | :--- |
+| **Đêm CN `31/01` ➔ Rạng sáng T2 `01/02`**<br>*(Đêm 24 ➔ Sáng 25 Tết)* | Đã ở quê từ 22 Tết (`29/01`), cúng Ông Táo & dọn nhà xong. | 🛫 **NHỊP SÂN BAY #1 (Đón em về quê):**<br>• **Sáng `31/01`:** Gửi sẵn số xe ghép/taxi sân bay Vinh về Quỳnh Lưu (`Mai Linh 0238.3.57.57.57`, `Vạn Xuân 0238.3.98.98.98`).<br>• **`20:30` tối:** Nhắc em ra đúng **Nhà ga T3** Tân Sơn Nhất.<br>• **`00:50` rạng sáng `01/02`:** Chuyến `VN 7288` vừa đáp Vinh $\rightarrow$ Nhắn hỏi thăm em đã lấy hành lý và lên xe về nhà an toàn chưa. |
+| **T2 `01/02` & T3 `02/02`**<br>*(25 – 26 Tết)* | Làm Remote TMA/NBCU tại nhà + phụ mẹ chuẩn bị Tết. | 💬 **Để em nghỉ ngơi & dọn nhà cùng mẹ sau chuyến bay đêm:**<br>Chỉ nhắn tin hỏi thăm buổi tối xem về quê có lạnh không, ngủ có ngon không. |
+| **T4 `03/02` hoặc T5 `04/02`**<br>*(27 hoặc 28 Tết)* | T4 làm ngày cuối trước nghỉ Tết; **T5 `04/02` chính thức nghỉ Tết TMA**. | 🧣 **BUỔI HẸN #1 — "Không Khí Chợ Tết Quỳnh Lưu" (`Chiều 15:00 – 18:00`):**<br>• **Điểm nhấn:** Hiếu **quàng đúng chiếc khăn len mua của shop `Louli Saigon`** giữa trời lạnh Nghệ An!<br>• **Hoạt động:** Rủ em đi dạo **Chợ Giát** (Thị trấn Cầu Giát) ngắm không khí sắm Tết quê nhà + ngồi **ăn chè nóng trong chợ Giát**. |
+| **T6 `05/02` & T7 `06/02`**<br>*(29 Tết & Mùng 1 Tết)* | Cúng Tất niên, đón Giao thừa & **Mùng 1 Tết dành 100% cho bố mẹ, nội ngoại**. | 💬 **Nhắn tin đêm Giao thừa & sáng Mùng 1:**<br>Chúc Tết em, mẹ em và anh chị em trong nhà (Mùng 1 tuyệt đối không rủ đi chơi xa để cả hai trọn đạo hiếu với gia đình). |
+| **CN `07/02` hoặc T2 `08/02`**<br>*(Mùng 2 hoặc Mùng 3 Tết)* | Nghỉ Tết thong thả. | 🪴 **BUỔI HẸN #2 — "Du Xuân Đầu Năm & Cafe Hoàng Mai":**<br>• *Nếu em chủ động mời ghé nhà chúc Tết:* Mua **1 chậu cây cảnh nhỏ** đẹp mắt ghé chúc Tết mẹ & anh trai em (ngồi chơi 30p lịch sự, ấm áp).<br>• Sau đó hai đứa chạy lên **Hoàng Mai ngồi Cafe** trò chuyện đầu năm. |
+| **T3 `09/02`**<br>*(Mùng 4 Tết)* | Nghỉ Tết thong thả. | 🌸 **BUỔI HẸN #3 — "Đi Chùa Chụp Áo Dài & Ăn Ốc Nóng" (`14:30 – 19:00`):**<br>• **Chiều nắng đẹp (`14:30–17:00`):** Đưa em đi **Chùa Lam Sơn / Chùa An Thái (Quỳnh Lưu)** cầu bình an. Em rất thích mặc **Áo dài** đi chùa đầu xuân $\rightarrow$ Hiếu làm phó nháy chụp tặng em bộ ảnh Áo dài cực xinh!<br>• **Chiều tối lành lạnh (`17:30–19:00`):** Đi **ăn ốc nóng** xứ Nghệ. |
+| **T4 `10/02` hoặc T5 `11/02`**<br>*(Mùng 5 hoặc Mùng 6 Tết)* | T4 (`10/02` Mùng 5) là ngày nghỉ Tết cuối; T5 (`11/02` Mùng 6) làm Remote nhẹ đầu năm. | 🌊 **BUỔI HẸN #4 (ĐỈNH CAO CẢM XÚC TRƯỚC KHI EM VÀO SG) — "Lễ Đền Cờn & Dạo Biển Quỳnh":**<br>• Đi lễ **Đền Cờn** (Quỳnh Phương, Hoàng Mai — ngôi đền cầu lộc kinh doanh linh thiêng nhất xứ Nghệ) xin lộc năm mới cho shop `Louli Saigon` của em.<br>• Đi dạo **Biển Quỳnh** (Quỳnh Phương / Quỳnh Nghĩa) hóng gió biển đầu xuân.<br>• Tặng nhẹ em 1 túi quà nhỏ / đồ ăn vặt mang vào Sài Gòn (vì đêm hôm sau em bay vào trước Hiếu 1 tuần). |
+| **T6 `12/02` ➔ Rạng sáng T7 `13/02`**<br>*(Mùng 7 ➔ Rạng sáng Mùng 8 Tết)* | Làm Remote tại nhà ở quê (Hiếu ở lại quê thêm 1 tuần đến Rằm `20/02`). | 🛬 **NHỊP SÂN BAY #2 (Tiễn em bay vào lại Sài Gòn):**<br>• **Chiều `12/02`:** Hỏi thăm em đã xếp đồ xong và đặt xe ra sân bay Vinh tối muộn chưa.<br>• **`23:15` đêm `12/02`:** Nhắn hỏi thăm lúc em lên xe ra sân bay Vinh (bay chuyến `VN 7289` lúc `01:20` sáng).<br>• **`03:30` rạng sáng `13/02`:** Máy bay đáp **Nhà ga T3 Tân Sơn Nhất** $\rightarrow$ Nhắn hỏi thăm em đã bắt được xe về chung cư **Sunview Town** an toàn chưa! |
+
+### 💎 3 Lý Do Kịch Bản 12 Ngày Này Tạo Sức Hút Tuyệt Đối
+1. **Đủ không gian thở & tạo nỗi nhớ:** Trong 12 ngày ở quê, hai đứa gặp nhau đúng **4 buổi (`27/28 Tết` $\rightarrow$ `Mùng 2/3` $\rightarrow$ `Mùng 4` $\rightarrow$ `Mùng 5/6`)**, mỗi buổi cách nhau 1–2 ngày để em vừa có thời gian ở bên mẹ, vừa háo hức chờ tới buổi đi chơi tiếp theo với Hiếu.
+2. **Đánh trúng 100% sở thích của Thúy:** Có **Chợ Giát + ăn chè + ăn ốc nóng** (ký ức tuổi thơ Quỳnh Lưu), có **mặc Áo dài đi chùa chụp ảnh** (đúng gu FB của em), và có **xin lộc kinh doanh ở Đền Cờn + dạo Biển Quỳnh** (đúng tâm lý cô chủ shop thương mại!).
+3. **1 tuần "Xa cách ngọt ngào" (`13/02 → 20/02/2027`):** Em bay vào Sài Gòn trước từ Mùng 8 (`13/02`), còn Hiếu ở lại quê tới Rằm (`20/02`) mới vào $\rightarrow$ Sau 4 buổi đi chơi Tết đầy ắp kỷ niệm ở quê, 1 tuần Hiếu chưa vào Sài Gòn sẽ làm em **nhớ cồn cào**, tạo bàn đạp hoàn hảo cho **Đêm Tỏ Tình giữa tháng 03/2027**!
 
 ```text
-[CHẶNG 1: TRƯỚC TẾT · 30/01 → 05/02/2027 (23 Chạp → 29 Tết)]
+[CHẶNG 1: TRƯỚC TẾT · 01/02 → 05/02/2027 (25 Chạp → 29 Tết)]
  ├── 🏠 Gia đình & Công việc:
- │    ├── T7 30/01 (23 Chạp): Cúng Ông Táo, dọn nhà cùng bố mẹ
+ │    ├── T6 29/01 – CN 31/01 (22–24 Chạp): Hiếu về trước cúng Ông Táo, dọn nhà; đêm 31/01 canh đón chuyến bay VN 7288 của Thúy hạ cánh lúc 00:45 sáng 01/02!
  │    ├── T2 01/02 → T4 03/02 (25–27 Chạp): Làm việc Remote TMA/NBCU tại nhà
  │    └── T5 04/02 → T6 05/02 (28–29 Tết): Chính thức nghỉ Tết TMA, sắm Tết gia đình
- └── 🧣 Buổi hẹn #1 ở quê — "Không khí Chợ Tết Quỳnh Lưu" (CN 31/01 [24 Chạp] hoặc T5 04/02 [28 Tết]):
+ └── 🧣 Buổi hẹn #1 ở quê — "Không khí Chợ Tết Quỳnh Lưu" (Chiều T4 03/02 [27 Tết] hoặc T5 04/02 [28 Tết]):
       ├── Trang phục: Hiếu quàng chiếc khăn len mua của shop Louli Saigon giữa tiết trời lạnh xứ Nghệ
       └── Hoạt động: Rủ em đi dạo **Chợ Giát** (Thị trấn Cầu Giát) sắm đồ Tết + ngồi **ăn chè nóng trong chợ Giát**
 
@@ -383,17 +435,18 @@
  ├── 🪴 Buổi hẹn #2 — "Chúc Tết đầu xuân & Cafe Hoàng Mai" (Mùng 2 hoặc Mùng 3 Tết · CN 07/02 / T2 08/02):
  │    ├── Nếu em mời ghé nhà: Mang **1 chậu cây cảnh nhỏ** đẹp mắt ghé chúc Tết mẹ & anh trai em (ngồi chơi 30–45p ấm áp, lịch sự)
  │    └── Sau đó rủ em đi **Cafe Hoàng Mai** ngồi trò chuyện đầu năm
- └── 🌸 Buổi hẹn #3 — "Đi Chùa chụp Áo dài & Ăn ốc chiều xuân" (Mùng 4 hoặc Mùng 5 Tết · T3 09/02 / T4 10/02):
+ └── 🌸 Buổi hẹn #3 — "Đi Chùa chụp Áo dài & Ăn ốc chiều xuân" (Mùng 4 Tết · T3 09/02):
       ├── Chiều nắng đẹp (14:30–17:00): Đưa em **đi chùa đầu xuân** (Chùa Lam Sơn / Chùa An Thái ở Quỳnh Lưu) cầu bình an & lộc buôn bán
       ├── 📸 Hiếu làm phó nháy chụp tặng em **bộ ảnh Áo dài ngày xuân** (đúng sở thích đăng FB mỗi dịp Tết của em!)
       └── Chiều tối lành lạnh (17:30–19:00): Đi **ăn ốc nóng**
 
-[CHẶNG 3: SAU TẾT ĐẾN RẰM · 11/02 → 20/02/2027 (Mùng 6 → Rằm tháng Giêng)]
- ├── 💻 T5 11/02 → T6 19/02 (Mùng 6 → 14 Giêng): Ngày thường làm Remote TMA/NBCU tại quê
- └── 🌊 Buổi hẹn #4 (ĐỈNH CAO CẢM XÚC) — "Lễ Đền Cờn & Biển Quỳnh ngày Valentine" (T7 13/02 [Mùng 8] hoặc CN 14/02 [Mùng 9 Tết = VALENTINE 14/02!]):
-      ├── Đi lễ **Đền Cờn** (Quỳnh Phương, Hoàng Mai) — xin lộc kinh doanh năm mới cho thương hiệu Louli Saigon của em
-      ├── Đi dạo **biển Quỳnh** (Quỳnh Phương / Quỳnh Nghĩa), uống nước ven biển hóng gió đầu xuân
-      └── Tặng nhẹ 1 món quà nhỏ tinh tế nhân ngày `14/02` (chưa tỏ tình vội — giữ sự lấp lửng ngọt ngào để vào lại Sài Gòn mới bùng nổ ở NODE 4!)
+[CHẶNG 3: TRƯỚC KHI EM BAY VÀO SÀI GÒN · 10/02 → 12/02/2027 (Mùng 5 → Đêm Mùng 7 Tết)]
+ ├── 🌊 Buổi hẹn #4 (ĐỈNH CAO CẢM XÚC TRƯỚC NGÀY EM BAY VÀO) — "Lễ Đền Cờn & Biển Quỳnh" (T4 10/02 [Mùng 5] hoặc T5 11/02 [Mùng 6 Tết]):
+ │    ├── Đi lễ **Đền Cờn** (Quỳnh Phương, Hoàng Mai) — xin lộc kinh doanh năm mới cho thương hiệu Louli Saigon của em
+ │    ├── Đi dạo **biển Quỳnh** (Quỳnh Phương / Quỳnh Nghĩa), uống nước ven biển hóng gió đầu xuân
+ │    └── Tặng nhẹ 1 món quà nhỏ / đặc sản quê mang vào Sài Gòn trước khi em bay vào đêm Mùng 7 (`12/02`)
+ └── 🛫 Đêm T6 12/02 rạng sáng T7 13/02 (Mùng 7 → Rạng sáng Mùng 8 Tết):
+      └── Canh mốc `23:15` (em lên xe ra sân bay Vinh) và `03:30` sáng (chuyến `VN 7289` đáp Nhà ga T3 TSN) nhắn hỏi thăm em về tới phòng an toàn!
 ```
 
 ---
@@ -413,6 +466,7 @@
 Cuối T10 → 14/11/2026  Đã nhắn tin qua lại được ~15 ngày. Nắm được nhịp làm việc của em: dậy 07:00, ngủ 23:30, làm kho + content TikTok + live 4 buổi/tuần, chỉ rảnh Chủ Nhật.
                        Em cực kỳ bật đèn xanh: mỗi đêm từ 23:00 → 24:00 đều dành trọn 1 tiếng cuối ngày cho Hiếu (lúc tắm, gội đầu, sấy tóc). Hiếu giữ vị thế Lowkey (1 tuần 1 story) khiến em tò mò, quan tâm.
 13–14/11/2026          Chốt lộ trình Node Tree (Cafe Chủ Nhật 22/11 hoặc 29/11 → Đi Noel Chủ Nhật 20/12/2026 → 23 ngày Tết Quỳnh Lưu → Tỏ tình Sài Gòn) + Giải mã tâm lý khung 23:00–24:00 & Bức tranh 4 giai đoạn dịch chuyển lịch trình.
+16–17/11/2026          ✅ Hoàn thành Seed 1 (Lịch Tết): Em chia sẻ chi tiết vé máy bay Vietnam Airlines khứ hồi (Chiều về: VN 7288 tối CN 31/01/2027 [24 Tết] 22:45–00:45 tại Ga T3 · Chiều vào: VN 7289 rạng sáng T7 13/02/2027 [Mùng 8 Tết] 01:20–03:25). Hai đứa có trọn vẹn **12 ngày trùng lịch ở Quỳnh Lưu (`01/02 → 12/02/2027`)**!
 ```
 
 ---

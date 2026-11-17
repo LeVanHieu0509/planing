@@ -1,8 +1,10 @@
 # 🎬 NBCU - PHÂN TÍCH 2 JD & LỘ TRÌNH TRAINING (NODE.JS SERVERLESS → JAVA EKS)
 
 > **Nguồn:** 2 JD anh/chị gửi (11/11/2026): _Software Engineer NodeJS Serverless_ và _Software Engineer Java AWS Micro Services_ - cùng team **NBCUniversal Operations & Technology**.
-> **✅ Phân bổ team (anh Đạt, group "NBCU US - SWE Team Preparation", 10/11/2026):** team Dev 5 người · **Java: anh Khôi, Thức** · **NodeJS: Hiếu + 2 người nữa** (đang xác định).
-> **→ Hiếu chính thức ở role NodeJS Serverless.** Dồn **~80% sức cho Node/AWS serverless**; Java chỉ học **đủ để đọc code, review và phối hợp** với team Java.
+> **✅ Phân bổ team chính thức (anh Đạt chốt 16/11/2026 — Batch 5 Developers):**
+> - **Java AWS developer (2 người):** **Anh Khôi Nguyễn** (`Lv4 · Java, AWS`), **Thức Bùi** (`Lv2 · Java, AWS, NodeJS`)
+> - **NodeJS AWS developer (3 người):** **Quí Văn** (`Lv3 · NodeJS, AWS, Java`), **Hiếu Lê** (**`Lv3 · NodeJS, AWS, Java`**), **Trường Trần** (`Lv2 · NodeJS, Java, AWS`)
+> **→ Hiếu chính thức ở role `NodeJS AWS developer` (Level 3).** Dồn **~80% sức cho Node/AWS serverless** (`Lambda, API Gateway, S3, SQS/SNS, Step Functions, DynamoDB, OpenSearch, Datadog/Splunk`) + chuẩn bị **Short Introduction & Dry-run** tại [NBCU_MY_ANSWER_BANK.md](../interview/NBCU_MY_ANSWER_BANK.md); Java học **đủ để đọc code, review và phối hợp** với team Java.
 > **Thời gian:** nằm trong **4h/ngày upskill giờ TMA** (từ 09/11/2026): ~**3h tech** + ~55p speaking ([MOCK_INTERVIEW_LOG.md](../interview/MOCK_INTERVIEW_LOG.md)).
 > **Đo bằng OUTPUT:** mỗi tuần 1 thứ **chạy được** + 1 đoạn giải thích bằng tiếng Anh. Không đo bằng số giờ xem video.
 
@@ -60,6 +62,7 @@
 | `docker logs` | **CloudWatch Logs → Datadog/Splunk** | Structured JSON log, correlation ID, metric, alert |
 
 ### 1.3 Dự án thực hành: **"Mini Media Asset Pipeline"** (giống domain NBCU)
+> 📂 **Source code đã khởi tạo sẵn tại:** `/Users/hieulevan/Workspace/TMA/nbcu-media-pipeline` ([README.md](file:///Users/hieulevan/Workspace/TMA/nbcu-media-pipeline/README.md))
 
 ```
 Upload video (S3 presigned URL qua API Gateway)
