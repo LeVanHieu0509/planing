@@ -198,6 +198,13 @@
 - **Câu dài thực chiến:** _"I prefer riding a motorbike in Saigon **because** it's faster in traffic jams, **which means that** I save almost 30 minutes a day, **especially** during rush hour."_
 - **Voice Memo / ChatGPT Voice (T6 13/11):** ☐
 
+#### 🟢 Buổi 9 · Thứ Ba 17/11/2026
+> 📖 **Bài ôn tập đầy đủ:** [l3_lessons/LESSON_09_CHARACTER.md](./l3_lessons/LESSON_09_CHARACTER.md)
+- **Chủ đề (Topic):** **CHARACTER** - qualities vs flaws, `Are you…?` vs `Do you…?`, _"A ___ should be ___ because ___"_
+- **Active Chunks:** `to think you're better than others` · `cut in line` · `be good at + V-ing` · `should / shouldn't be… because…` · `Can you give me an example?`
+- **Câu dài thực chiến:** _"I'm a **punctual** person **because** I hate making people wait, **which means that** I usually arrive 10 minutes early, **especially** for meetings with my US team."_
+- **Voice Memo / ChatGPT Voice:** ☐
+
 ---
 
 ### 🌟 TEMPLATE MẪU DÙNG CHO CÁC TUẦN TIẾP THEO
@@ -222,4 +229,4 @@
 
 ---
 
-_Cập nhật: 12/11/2026 (Ghi buổi 8 - Driving in Vietnam). Trước đó: 05/11/2026 (Ghi buổi 6 - Native Speaker Phrases). Trước đó: 05/11/2026 (Link bài ôn tập buổi 2 & 5 trong l3_lessons/). Trước đó: 05/11/2026 (Ghi buổi 5 - chủ đề MOOD: từ cảm xúc mạnh, 20 câu hỏi, câu trả lời mẫu). Trước đó: 31/10/2026 (Bỏ mục Phản Xạ CN từ 26/10, trỏ link sang Sprint S2). Trước đó: 30/10/2026 (Ghi buổi 2 - chủ đề IF (câu điều kiện loại 2) + trò chơi STRANDED). Trước đó: 15/10/2026 (Voice Memo/ChatGPT Voice chuyển sang tối T2 + T6; tối T4 để relax)._
+_Cập nhật: 17/11/2026 (Ghi buổi 9 - Character). Trước đó: 12/11/2026 (Ghi buổi 8 - Driving in Vietnam). Trước đó: 05/11/2026 (Ghi buổi 6 - Native Speaker Phrases). Trước đó: 05/11/2026 (Link bài ôn tập buổi 2 & 5 trong l3_lessons/). Trước đó: 05/11/2026 (Ghi buổi 5 - chủ đề MOOD: từ cảm xúc mạnh, 20 câu hỏi, câu trả lời mẫu). Trước đó: 31/10/2026 (Bỏ mục Phản Xạ CN từ 26/10, trỏ link sang Sprint S2). Trước đó: 30/10/2026 (Ghi buổi 2 - chủ đề IF (câu điều kiện loại 2) + trò chơi STRANDED). Trước đó: 15/10/2026 (Voice Memo/ChatGPT Voice chuyển sang tối T2 + T6; tối T4 để relax)._

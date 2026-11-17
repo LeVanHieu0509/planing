@@ -57,7 +57,7 @@ Hệ thống đã **BỎ HOÀN TOÀN** Story Points và Daily Standup. Mọi cô
   * Tích lũy **43,000,000 VNĐ học phí Thạc sĩ năm 1** (dự kiến cán mốc T12/2026, đóng T12/2027). Năm 2 (47M) tích luỹ trong 2028.
   * Chi tiêu sinh hoạt kiểm soát: **8,000,000 – 10,000,000 VNĐ/tháng**. Tiết kiệm: **~15–17tr/tháng**.
   * Chạm trần tiền mặt **50,000,000 VNĐ** (T12/2026) mới mở lại quyền đầu tư.
-  * Lũy kế tiền mặt riêng của Hiếu sau 5 năm (`Cuối 2031`, sau khi đã đóng xong 90tr học phí Thạc sĩ và hoàn tất Quỹ Mẹ 500tr vào `T06/2031`): đạt **`~774tr` (nền tối thiểu) đến `~1.12 tỷ` (khi lên Senior SME + dạy ĐH)**; đến năm 32 tuổi (`2033`) đạt **`~1.2 – 1.8 tỷ`** để cùng Thúy mua căn hộ chung cư riêng. Đột phá 2 tỷ+ sớm hơn nếu chốt lời danh mục **78,262 W** (Target 1: $0.70 thu ~715M; Target 2: $1.50 thu ~1.53 tỷ).
+  * Lũy kế tiền mặt riêng của Hiếu sau 5 năm (`Cuối 2031`, sau khi đã đóng xong 90tr học phí Thạc sĩ và hoàn tất Quỹ Mẹ 500tr vào `T06/2031`): đạt **`~774tr` (nền tối thiểu) đến `~1.12 tỷ` (khi lên Senior SME + dạy ĐH)**; đến năm 32 tuổi (`2033`) đạt **`~1.2 – 1.8 tỷ`** để cùng Thúy mua căn hộ chung cư riêng. Đột phá 2 tỷ+ sớm hơn nếu chốt lời **lõi 60,000 W** (Target 1: $0.70 thu ~548M; Target 2: $1.50 thu ~1.175 tỷ; tổng hiện có 86,088 W gồm ~26,088 W lướt).
 * **M3 · 💪 Sức khỏe:**
   * Mục tiêu: 72–75kg, cơ 35–38kg, **% mỡ 12–15%** (bỏ target 7-10% vì dễ burnout). Đo InBody 1 lần/tháng.
   * Gym 4 buổi/tuần: **Đẩy toàn bộ lên khung Sáng `09:00–10:00` (T2, T6, T7, CN)** theo lịch V7.0.

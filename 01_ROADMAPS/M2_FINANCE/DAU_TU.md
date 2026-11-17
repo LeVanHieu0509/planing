@@ -34,7 +34,7 @@ CHÊNH THẬT:                   ~2,200,000   (không phải 13tr)
 > 1. **Giỏ 1 - Ngoại bảng (Thu/Chi hộ & Giữ hộ):** Tiền mẹ gửi giữ hộ (`15.5M` nằm trọn 100% trong VCB) & Tiền trọ thu hộ hoàn toàn loại khỏi tài sản của Hiếu.
 > 2. **Giỏ 2 - Tiền mặt thanh khoản cao (T+0):** Tiền mặt thực tế của Hiếu dùng cho sinh hoạt, Emergency Fund & Quỹ học phí Thạc sĩ năm 1 43M.
 > 3. **Giỏ 3 - Đầu tư bot trading linh hoạt (T+1/T+2):** OKX 8M (Toàn bộ 8M gộp chạy bot tự động, tự sinh lời/lỗ).
-> 4. **Giỏ 4 - Tích sản dài hạn (Crypto Locked):** Binance 78,262 W (~30M thị giá; vốn gốc nạp 111.5M) - tài sản ròng thật, nhưng khóa không dùng cho chi tiêu.
+> 4. **Giỏ 4 - Tích sản dài hạn (Crypto Locked):** Binance 86,088 W = lõi 60,000 + ~26,088 lướt (~20.0M thị giá 14/11; vốn gốc nạp 111.5M) - tài sản ròng thật, nhưng khóa không dùng cho chi tiêu.
 > 5. **Giỏ 5 - Quỹ phụng dưỡng gia đình:** Quỹ mẹ 500tr (đã đóng 10M) theo [QUY_ME_500TR.md](./QUY_ME_500TR.md).
 
 ### 1. Bảng tài sản chi tiết
@@ -43,7 +43,7 @@ CHÊNH THẬT:                   ~2,200,000   (không phải 13tr)
 | :----------------------- | :------------------------- | :-------------- | :-------------- | :------------ | :------------------------------------------------------------------------ |
 | 💵 **Tiền mặt thực**     | 5 NH + Ví (45k)            | 22,219,540      | **22,219,540**  | Ngay (T+0)    | Tổng có 34.72M - 12.5M tiền mẹ gửi nhờ (01/11; chốt sổ 31/10: 22,254,505) |
 | 🤖 **Bot Trading OKX**   | OKX - Vốn chạy bot tự động | 8,000,000       | **8,000,000**   | 1-2 ngày      | Toàn bộ 8M cho chạy bot tự động, tự kiếm lợi nhuận hoặc chịu lỗ           |
-| 💎 **Tích sản Crypto**   | **Binance (78,262.48 W)**  | **111,495,612** | **30,000,000**  | Biến động cao | **Vốn gốc nạp 111.5M** từ 04/2024. Thị giá 30M (cập nhật 15/10)           |
+| 💎 **Tích sản Crypto**   | **Binance (86,087.84 W)**  | **111,495,612** | **20,003,826**  | Biến động cao | **Vốn gốc nạp 111.5M** từ 04/2024. Thị giá 20.0M (cập nhật 14/11)         |
 | 🤝 **Phải thu ngắn hạn** | Cho Diễm mượn              | 1,000,000       | **0**           | Đã thu        | ✅ Đã thu hồi đủ 1,000,000đ ngày 12/10 qua MoMo (về TCB)                  |
 | 🤝 **Phải thu ngắn hạn** | Anh em phòng (phí CC T10)  | 680,024         | **0**           | Đã thu        | ✅ Anh em đã chuyển gộp từ đầu tháng cùng tiền phòng                      |
 | 🤝 **Phải thu ngắn hạn** | BIT hoàn Claude Code       | 594,490         | **0**           | Đã thu        | ✅ BIT đã hoàn 578,275 về Timo ngày 29–30/10 (tất toán xong)              |
@@ -71,10 +71,10 @@ CHÊNH THẬT:                   ~2,200,000   (không phải 13tr)
 > 📌 **QUY TẮC KẾ TOÁN THẬP TOÀN (11/10/2026):**
 >
 > 1. **Tiền mẹ gửi nhờ giữ hộ (15,500,000 VND - nằm trọn 100% trong VCB; 02/11 mẹ lấy −500k, 13/11 mẹ gửi thêm +3M):** Mẹ gửi tổng 23tr (đợt 1: 5tr + đợt 2: 7tr + đợt 3: 3tr + đợt 4: 5tr vào VCB cuối T10 + đợt 5: 3tr ngày 13/11), trừ 2.5tr mẹ góp nghĩa vụ quân sự, 500k cho bà ngoại, 2tr phường T11 suất mẹ (23/10), 2tr rút cho mẹ cuối T10 và 500k mẹ lấy ngày 02/11 ➡️ Còn lại **15.5tr** là tiền giữ hộ cho mẹ (tách riêng 100% trong VCB), **hoàn toàn loại ra khỏi tài sản của Hiếu**.
-> 2. **Danh mục Binance W (78,262.48 con):**
+> 2. **Danh mục Binance W (86,087.84 con = lõi 60,000 + phần lẻ ~26,088 lướt):**
 >    - **Vốn gốc thực tế đã nạp (04/2024 → nay):** **111,495,612 VND** (111.5 triệu đồng - Đã đối soát qua dữ liệu lệnh P2P).
->    - **Giá trị thị trường hiện tại (15/10/2026):** **30,000,000 VND** (Thị giá: ~đ383.33 / W).
->    - **Trạng thái so với vốn gốc:** Âm -81.50 triệu VND (-73.1%).
+>    - **Giá trị thị trường hiện tại (14/11/2026):** **20,003,826 VND** (Thị giá: ~đ232.4 / W).
+>    - **Trạng thái so với vốn gốc:** Âm -91.49 triệu VND (-82.1%).
 >    - **Phân loại kế toán:** Tài sản tích sản dài hạn biến động cao. Bảng cân đối tài sản ròng ghi nhận theo **Giá thị trường hiện tại (30.0M)** để đảm bảo nguyên tắc Thận trọng, tuyệt đối **KHÔNG tính vào tiền mặt để tiêu**, không dùng để thay thế cho Quỹ học phí Thạc sĩ 43M.
 > 3. **Quỹ mẹ 500tr (đã gửi 10tr):** Thuộc về mẹ theo [QUY_ME_500TR.md](./QUY_ME_500TR.md) (đóng T10 ngày 11/10 + trả trước T11 ngày 23/10), không tính vào tài sản cá nhân để tiêu xài. Khi đạt 100M sẽ rút lãi nuôi mẹ.
 
@@ -130,13 +130,13 @@ Nếu có sự cố (ốm, hỏng laptop, mất việc) mà tiền đang kẹt t
 | :----------------------------------------------- | :--------------------------------------------------------- |
 | Token                                            | **W (Wormhole)**                                           |
 | Nền tảng lưu ký                                  | **Binance**                                                |
-| Số lượng nắm giữ                                 | **78,262.48127853 W**                                      |
+| Số lượng nắm giữ (14/11/2026)                    | **86,087.84060992 W** = 🔒 **Lõi 60,000 W** + 🔄 **Phần lẻ ~26,087.84 W** (lướt ăn thêm) |
 | **Tổng vốn gốc thực nạp (04/2024 → nay)**        | **111,495,612 VND** _(Đã đối soát chính xác qua lệnh P2P)_ |
-| Giá vốn bình quân thực tế                        | **~đ1,424.6 / W** (111.49M / 78,262 W)                     |
-| Giá vốn chu kỳ gần nhất trên app                 | đ324.72 / W                                                |
-| Giá thị trường (15/10/2026)                      | **~đ383.3 / W**                                            |
-| **Giá trị thị trường hiện tại (Mark-to-Market)** | **30,000,000 VND** (~30.0 triệu VNĐ)                       |
-| Chênh lệch so với vốn gốc 111.49M                | **-81,495,612 VND (-73.1%)**                               |
+| Giá vốn bình quân thực tế                        | **~đ1,295.1 / W** (111.49M / 86,088 W) · 15/10: đ1,424.6 (78,262 W) |
+| Giá vốn chu kỳ gần nhất trên app                 | ~đ274.85 / W (14/11 - suy từ lãi lỗ chưa ghi nhận trên app) |
+| Giá thị trường (14/11/2026 01:04)                | **~đ232.4 / W** (15/10: đ383.3)                             |
+| **Giá trị thị trường hiện tại (Mark-to-Market)** | **20,003,826 VND** (14/11 · PNL ngày −1,267,969 (−5.96%) · lãi lỗ chưa ghi nhận trên app −3,656,948 (−15.46%)) |
+| Chênh lệch so với vốn gốc 111.49M                | **-91,491,786 VND (-82.1%)**                               |
 | PNL chu kỳ gần nhất trên app                     | Đang cập nhật                                              |
 | PNL luỹ kế 90 ngày                               | Đang điều chỉnh quanh vùng 30M                             |
 
@@ -145,7 +145,7 @@ Nếu có sự cố (ốm, hỏng laptop, mất việc) mà tiền đang kẹt t
 | Tháng              | Số lượng W    | Vốn gốc nạp     | Giá TT (đ) | Giá trị thị trường | So với vốn gốc | Ghi chú                                  |
 | :----------------- | :------------ | :-------------- | :--------- | :----------------- | :------------- | :--------------------------------------- |
 | **T10/26 (15/10)** | **78,262.48** | **111,495,612** | **383.33** | **30,000,000**     | **-73.1%**     | **Thị giá W điều chỉnh về 30tr (15/10)** |
-| T11/26             |               |                 |            |                    |                |                                          |
+| **T11/26 (14/11)** | **86,087.84** | **111,495,612** | **232.37** | **20,003,826**     | **-82.1%**     | Lõi 60,000 W + phần lẻ ~26,088 W lướt · +7,825 W = lãi lướt (không nạp tiền mới) |
 | T12/26             |               |                 |            |                    |                |                                          |
 
 ### 📈 NHẬT KÝ TÍCH LUỸ (DCA HISTORY 03/2024 - 08/2026)
@@ -158,24 +158,33 @@ Nếu có sự cố (ốm, hỏng laptop, mất việc) mà tiền đang kẹt t
 >
 > **Nhận định:** Quá trình DCA 30 tháng (từ 03/2024 đến 08/2026) chứng minh kỷ luật thép (tháng nào cũng trích tiền lương để mua). Đặc biệt từ tháng 04/2025 đến nay (hơn 1 năm rưỡi) hoàn toàn **không bán ra 1 đồng nào (Diamond Hands)**. Tháng gom mạnh nhất là 09/2025 (nạp ròng 26.5tr). Việc dũng cảm ngưng bơm vốn hoàn toàn từ 08/2026 là quyết định "đóng băng rủi ro" cực kỳ đúng đắn để nhường dòng tiền cho mục tiêu Thạc sĩ 70M.
 
+### 🔄 CẬP NHẬT 14/11/2026 - TÁCH LÕI 60,000 W & PHẦN LẺ LƯỚT
+
+> **Quyết định của Hiếu (14/11/2026):** **Lõi cố định 60,000 W** (khóa, chờ target) · **phần lẻ trên 60,000 W** dùng để lướt "ăn thêm".
+> ✅ **Nguồn +7,825 W (78,262.48 → 86,087.84, ≈ 1.8tr theo giá 14/11):** **lãi lướt** trong ví, **không nạp tiền mới** → không vi phạm Vùng cấm 4.
+> ⚠️ **Luật đi kèm việc lướt:**
+> 1. Không nạp thêm tiền khi tiền mặt < 50M · không đụng lõi 60,000 W · không lướt sau giờ ngủ / trong ca NBCU.
+> 2. Chart 14/11: lướt chủ yếu là **mua trung bình giá xuống trong downtrend** (giá TB mua 0.01351 → giá vốn 0.01065 → giá 0.00898) - chỉ mua khi có lý do rõ, không mua theo RSI quá bán.
+> 3. **Target 1/2 bên dưới tính theo lõi 60,000 W** (đồng bộ CLAUDE.md, MASTER_PLAN, HIEU_MINDSET, TAI_CHINH_2026_2028).
+
 ### 🎯 CHIẾN LƯỢC ĐẦU TƯ "NỔ HŨ" & KẾ HOẠCH CHỐT LỜI (EXIT STRATEGY)
 
 > 🎰 **Định vị:** Đây là **khoản đầu tư bất đối xứng (Asymmetric Bet / "Nổ hũ")** dài hạn của Hiếu.
 >
-> - **Kỷ luật cốt lõi (Chốt ngày 11/10/2026):** 🔒 **KHÓA VỊ THẾ - KHÔNG MUA THÊM BẤT KỲ ĐỒNG NÀO**. Cố định danh mục ở **78,262.48 W (vốn 111.5M)**. Chỉ kiên định nắm giữ và chờ chạm target để chốt lời!
+> - **Kỷ luật cốt lõi (Chốt ngày 11/10/2026):** 🔒 **KHÓA VỊ THẾ - KHÔNG MUA THÊM BẤT KỲ ĐỒNG NÀO**. Cố định danh mục ở **78,262.48 W (vốn 111.5M)**. _→ 14/11/2026: đổi thành **lõi 60,000 W** khóa + phần lẻ lướt, vẫn không nạp tiền mới._ Chỉ kiên định nắm giữ và chờ chạm target để chốt lời!
 > - **Lộ trình chốt lời 2 giai đoạn (Target 1 & Target 2):**
 
 | Cột mốc          | Điều kiện giá W | Hành động                 | Số lượng bán | Doanh thu dự kiến (USD) | Quy đổi VND (P2P ~26,112) | Tác động tài chính                                                               |
 | :--------------- | :-------------: | :------------------------ | :----------: | :---------------------: | :-----------------------: | :------------------------------------------------------------------------------- |
-| **🎯 TARGET 1**  |    **$0.70**    | **Bán 50% số lượng**      | **39,131 W** |    **~$27,392 USD**     |   **~715,260,000 VND**    | Thu hồi vốn gốc (111.5M) + Lãi ròng ~603M. Vượt xa học phí Thạc sĩ 90M (2 năm)!  |
-| **🎯 TARGET 2**  |    **$1.50**    | **Bán 100% phần còn lại** | **39,131 W** |    **~$58,697 USD**     |  **~1,532,700,000 VND**   | Chốt lời dứt điểm toàn bộ danh mục W                                             |
-| 🏆 **TỔNG CỘNG** |                 |                           | **78,262 W** |    **~$86,089 USD**     |  **~2,247,960,000 VND**   | **~2.25 TỶ ĐỒNG** (x20 lần vốn gốc 111.5M ➔ Vượt mục tiêu Tự do tài chính 2 tỷ!) |
+| **🎯 TARGET 1**  |    **$0.70**    | **Bán 50% lõi**           | **30,000 W** |    **~$21,000 USD**     |   **~548,350,000 VND**    | Thu hồi vốn gốc (111.5M) + Lãi ròng ~437M. Vượt xa học phí Thạc sĩ 90M (2 năm)!  |
+| **🎯 TARGET 2**  |    **$1.50**    | **Bán 100% lõi còn lại**  | **30,000 W** |    **~$45,000 USD**     |  **~1,175,040,000 VND**   | Chốt lời dứt điểm lõi W                                                          |
+| 🏆 **TỔNG CỘNG** |                 |                           | **60,000 W** |    **~$66,000 USD**     |  **~1,723,390,000 VND**   | **~1.72 TỶ ĐỒNG** (x15 vốn gốc 111.5M; phần lẻ lướt tính riêng) |
 
 > 📌 **KỶ LUẬT THÉP (CHỐT 11/10/2026):**
 >
 > 1. **Dưới giá 0.7:** **KHÔNG MUA THÊM - KHÔNG BÁN CẮT LỖ**. Coi như 111.5M đã khóa trong két sắt, không bơm thêm tiền từ lương, không táy máy bán non.
-> 2. **Chạm giá 0.7:** Kỷ luật chốt đúng 50% số lượng (thu về hơn **715 triệu VND** tiền mặt) để bảo toàn vốn và hiện thực hóa lợi nhuận.
-> 3. **Gồng 50% còn lại tới 1.5:** Để đón trọn nhịp sóng "nổ hũ" lên **1.53 tỷ VND**, hiện thực hóa mục tiêu 2 tỷ.
+> 2. **Chạm giá 0.7:** Kỷ luật chốt đúng 50% số lượng (thu về khoảng **548 triệu VND** tiền mặt) để bảo toàn vốn và hiện thực hóa lợi nhuận.
+> 3. **Gồng 50% còn lại tới 1.5:** Để đón trọn nhịp sóng "nổ hũ" lên **~1.175 tỷ VND** (tổng ~1.72 tỷ), tiến sát mục tiêu 2 tỷ.
 
 ### 🔍 PHÂN TÍCH KHẢ NĂNG "NỔ HŨ" (ĐÁNH GIÁ CHUYÊN SÂU 11/10/2026)
 
@@ -196,8 +205,8 @@ Nếu có sự cố (ốm, hỏng laptop, mất việc) mà tiền đang kẹt t
 | Kịch bản            |      Mức giá      |       Giá trị tài sản của Hiếu       |   Xác suất    | Đánh giá thực tế                             |
 | :------------------ | :---------------: | :----------------------------------: | :-----------: | :------------------------------------------- |
 | **Sóng hồi cơ bản** | **$0.10 - $0.20** |         **~200M - 400M VND**         | **65% - 75%** | Lãi x2 - x3 lần vốn gốc 111.5M               |
-| **Nổ hũ Target 1**  |     **$0.70**     |    **~715 TRIỆU VND** _(bán 50%)_    | **25% - 35%** | **Khả thi cao** trong mùa Uptrend 2026-2027  |
-| **Nổ hũ Target 2**  |     **$1.50**     | **~1.53 TỶ VND** _(bán 50% còn lại)_ | **10% - 15%** | Trúng "Jackpot tuyệt đối" khi về đỉnh cũ ATH |
+| **Nổ hũ Target 1**  |     **$0.70**     |    **~548 TRIỆU VND** _(bán 50% lõi)_ | **25% - 35%** | **Khả thi cao** trong mùa Uptrend 2026-2027  |
+| **Nổ hũ Target 2**  |     **$1.50**     | **~1.175 TỶ VND** _(bán 50% còn lại)_ | **10% - 15%** | Trúng "Jackpot tuyệt đối" khi về đỉnh cũ ATH |
 
 ---
 
@@ -276,5 +285,5 @@ cá nhân của anh. Đã bỏ khỏi bảng tổng tài sản phía trên.
 
 ---
 
-_Cập nhật: 13/11/2026 (Mẹ gửi thêm 3,000,000đ giữ hộ → tiền mẹ giữ hộ trong VCB lên 15,500,000). Trước đó: 02/11/2026 (Mẹ lấy 500k từ VCB 02/11 (chuyển HO THI NHA) → tiền mẹ giữ hộ còn 12,500,000). Trước đó: 01/11/2026 (Đối chiếu sao kê Timo 31/10 & 01/11: chốt sổ 31/10 tiền mặt 22,254,505, Net Worth 57,454,505; ngày 01/11 tiền mặt 22,219,540, tiền tự do 19,419,540, Net Worth 57,419,540). Trước đó: 31/10/2026 (Thanh toán Shopee 1,827,637 qua VietinBank, nợ còn 2.8M). Trước đó: 30/10/2026 (Đóng phí CC; tiền mẹ 13M; Timo + BIT hoàn 578k; đối chiếu 5 NH). Trước đó: 27/10/2026 (Nhận lương BIT 7M vào VietinBank, mạng 125k). Trước đó: 25/10/2026 (Trả vé Tết chiều đi 2.62tr). Trước đó: 24/10/2026 (Đồng bộ số liệu 24/10: quỹ mẹ 10M, tiền mẹ giữ hộ trong VCB). Trước đó: 15/10/2026 (Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027). Trước đó: 13/09/2026 (V2 - Chốt hụi 4tr T08 thuộc quỹ mẹ 500tr, bỏ khỏi bảng tài sản (còn 46.4tr).
+_Cập nhật: 14/11/2026 (W: lãi lướt +7,825 W (không nạp tiền mới) → 86,087.84 W = lõi 60,000 W + phần lẻ lướt ~26,088 W; thị giá 20.0M; target theo lõi 60k: ~548M & ~1.175 tỷ). Trước đó: 13/11/2026 (Mẹ gửi thêm 3,000,000đ giữ hộ → tiền mẹ giữ hộ trong VCB lên 15,500,000). Trước đó: 02/11/2026 (Mẹ lấy 500k từ VCB 02/11 (chuyển HO THI NHA) → tiền mẹ giữ hộ còn 12,500,000). Trước đó: 01/11/2026 (Đối chiếu sao kê Timo 31/10 & 01/11: chốt sổ 31/10 tiền mặt 22,254,505, Net Worth 57,454,505; ngày 01/11 tiền mặt 22,219,540, tiền tự do 19,419,540, Net Worth 57,419,540). Trước đó: 31/10/2026 (Thanh toán Shopee 1,827,637 qua VietinBank, nợ còn 2.8M). Trước đó: 30/10/2026 (Đóng phí CC; tiền mẹ 13M; Timo + BIT hoàn 578k; đối chiếu 5 NH). Trước đó: 27/10/2026 (Nhận lương BIT 7M vào VietinBank, mạng 125k). Trước đó: 25/10/2026 (Trả vé Tết chiều đi 2.62tr). Trước đó: 24/10/2026 (Đồng bộ số liệu 24/10: quỹ mẹ 10M, tiền mẹ giữ hộ trong VCB). Trước đó: 15/10/2026 (Chốt mốc Thạc sĩ: nộp hồ sơ T09-T10/2027, đóng 43tr học phí năm 1 T12/2027). Trước đó: 13/09/2026 (V2 - Chốt hụi 4tr T08 thuộc quỹ mẹ 500tr, bỏ khỏi bảng tài sản (còn 46.4tr).
 Giữ nguyên: tách bạch Tiền mặt/Đầu tư/Phải thu, trần đầu tư 50tr, Bot OKX = dự án cá nhân.)_

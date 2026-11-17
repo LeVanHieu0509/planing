@@ -192,7 +192,7 @@ _Cập nhật: 01/10/2026 - Tích hợp triết lý từ Transcript "The Hidden 
 * **Quy tắc của Hiếu:**
   * **Mô hình tài chính 2 tầng vững chắc:**
     1. *Nền an toàn tuyệt đối từ lương:* Tích lũy đều đặn ~15-17tr/tháng, đạt ~0.75 tỷ vào 2031, bảo vệ tuyệt đối 43tr học phí và Quỹ mẹ 500tr.
-    2. *Kèo đột phá bất đối xứng (Asymmetric Bet):* Danh mục 78,262 W (vốn gốc 111.5M đã khóa vị thế) là "vé số nổ hũ" target $0.70 (~715M) và $1.50 (~1.53 tỷ). Trúng thì về đích 2 tỷ sớm 3-4 năm; không trúng thì nền an toàn vẫn đảm bảo cuộc đời tự do.
+    2. *Kèo đột phá bất đối xứng (Asymmetric Bet):* Danh mục W - **lõi 60,000 W khóa** (vốn gốc 111.5M, không nạp thêm; phần lẻ ~26,088 W lướt) - là "vé số nổ hũ" target $0.70 (~548M) và $1.50 (~1.175 tỷ). Trúng thì về đích 2 tỷ sớm 3-4 năm; không trúng thì nền an toàn vẫn đảm bảo cuộc đời tự do.
 
 ---
 
@@ -502,7 +502,7 @@ _Cập nhật: 01/10/2026 - Tích hợp triết lý từ Transcript "The Hidden 
 
 ---
 
-_Cập nhật: 17/10/2026 — Bổ sung trọn bộ Tư Duy Tự Tin Đúng, Bộ Tam Kiếm Thực Thi (Bắt Đầu - Diệt Trì Hoãn - Kiên Trì) và 7 Chân Lý Tuổi 20 từ chuỗi Podcast Dan Foolish vào HIEU_MINDSET._
+_Cập nhật: 14/11/2026 (W: lãi lướt +7,825 W (không nạp tiền mới) → 86,087.84 W = lõi 60,000 W + phần lẻ lướt ~26,088 W; thị giá 20.0M; target theo lõi 60k: ~548M & ~1.175 tỷ). Trước đó: 17/10/2026 — Bổ sung trọn bộ Tư Duy Tự Tin Đúng, Bộ Tam Kiếm Thực Thi (Bắt Đầu - Diệt Trì Hoãn - Kiên Trì) và 7 Chân Lý Tuổi 20 từ chuỗi Podcast Dan Foolish vào HIEU_MINDSET._
 
 
 
