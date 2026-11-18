@@ -182,14 +182,15 @@ Upload video (S3 presigned URL qua API Gateway)
 ## ✅ 3. CHECKLIST TIẾN ĐỘ (tick khi có OUTPUT)
 
 **Phần 1 - Node.js Serverless (12/11 → 25/11/2026)**
-- [ ] Lambda + API Gateway chạy local
-- [ ] S3 event → Lambda
-- [ ] DynamoDB thiết kế theo access pattern
-- [ ] SQS + DLQ + idempotent consumer
+> 📍 **18/11/2026:** đã cài **LocalStack (Docker) + OpenSearch**, **chạy test thành công source NBCU dưới local**, hiểu sơ luồng overview. Tối 18/11 → 20/11: ôn **Q1–Q25** trong [NBCU_MY_ANSWER_BANK.md](../interview/NBCU_MY_ANSWER_BANK.md) (Q16–Q25 = câu theo JD).
+- [x] Lambda + API Gateway chạy local _(18/11)_
+- [x] S3 event → Lambda _(18/11)_
+- [x] DynamoDB chạy local _(18/11)_ · ☐ thiết kế theo access pattern (PK/SK, GSI)
+- [x] SQS chạy local _(18/11)_ · ☐ DLQ + idempotent consumer
 - [ ] SNS fan-out
 - [ ] Step Functions có Retry/Catch
 - [ ] Toàn bộ stack bằng SAM/CloudFormation
-- [ ] OpenSearch search
+- [x] OpenSearch chạy local _(18/11)_
 - [ ] Debug 1 lỗi bằng log có correlationId
 
 **Phần 1b - Node nâng cao (26/11 → 02/12/2026)**
@@ -211,4 +212,4 @@ Upload video (S3 presigned URL qua API Gateway)
 
 ---
 
-_Cập nhật: 17/11/2026 (Thông tin onboarding: 3 team, meeting team 22:30–23:30, daily 01:00–02:00 (lệch lịch V7.0, chờ chốt); manager nhấn mạnh Lambda/Step Functions/API Gateway/DynamoDB/GitHub Actions; mẫu daily standup 4 ý). Trước đó: 11/11/2026 (Anh Đạt chốt team: Hiếu ở role NodeJS, Java do anh Khôi + Thức → thêm tuần Node nâng cao 26/11–02/12, Java rút gọn mức đọc hiểu 03–09/12). Trước đó: 11/11/2026 (Tạo file - phân tích 2 JD NBCU: Node.js Serverless & Java AWS Microservices/EKS; gap analysis theo CV; bản đồ chuyển đổi kiến thức sang AWS; dự án thực hành Mini Media Asset Pipeline; lộ trình 12/11 → 09/12/2026)._
+_Cập nhật: 18/11/2026 (Tick: Lambda+API Gateway, S3 event, DynamoDB, SQS, OpenSearch chạy local qua LocalStack; chạy test source NBCU local thành công). Trước đó: 17/11/2026 (Thông tin onboarding: 3 team, meeting team 22:30–23:30, daily 01:00–02:00 (lệch lịch V7.0, chờ chốt); manager nhấn mạnh Lambda/Step Functions/API Gateway/DynamoDB/GitHub Actions; mẫu daily standup 4 ý). Trước đó: 11/11/2026 (Anh Đạt chốt team: Hiếu ở role NodeJS, Java do anh Khôi + Thức → thêm tuần Node nâng cao 26/11–02/12, Java rút gọn mức đọc hiểu 03–09/12). Trước đó: 11/11/2026 (Tạo file - phân tích 2 JD NBCU: Node.js Serverless & Java AWS Microservices/EKS; gap analysis theo CV; bản đồ chuyển đổi kiến thức sang AWS; dự án thực hành Mini Media Asset Pipeline; lộ trình 12/11 → 09/12/2026)._

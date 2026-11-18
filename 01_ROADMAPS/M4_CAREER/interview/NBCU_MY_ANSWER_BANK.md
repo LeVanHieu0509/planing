@@ -193,9 +193,9 @@ _(Câu hỏi: "Are you comfortable working the evening overlap hours with the US
 > 10. `Agile/Scrum (2-Week Sprints), Partnering with QA/PM/Ops & Teaching Teammates` $\rightarrow$ **Q25**
 
 ### Q16. What experience do you have with AWS Serverless (`Lambda, Step Functions, API Gateway, S3`)?
-> 🟢 **A:** _"I have strong experience building event-driven Node.js and TypeScript services, and I work with AWS Serverless components like **Lambda, Step Functions, API Gateway, and S3**."_
-> 🟡 **R:** _"Because a Node.js Lambda handler uses the same asynchronous TypeScript and REST logic I write every day, while **Step Functions** coordinates multi-step workflows with built-in retries and error handling."_
-> 🔵 **E:** _"For example, in a media delivery workflow, uploading a file to **S3** triggers a **Node.js Lambda** function, **Step Functions** orchestrates metadata validation and processing, and **DynamoDB** stores the final asset status."_
+> 🟢 **A:** _"My production experience is with **Node.js and TypeScript** backend services. For **AWS Serverless**, I'm ramping up hands-on right now."_
+> 🟡 **R:** _"A Node.js Lambda handler uses the same async TypeScript and REST logic I write every day, so the main new part for me is the AWS services around it."_
+> 🔵 **E:** _"For example, I set up **LocalStack** with Docker and ran the NBCU services **locally** - **Lambda behind API Gateway, S3 events, SQS, DynamoDB and OpenSearch** - and ran the tests successfully. Next, I'm going deeper into **Step Functions** with retries and error handling."_
 
 ### Q17. How do you use `SQS`, `SNS`, and `Kinesis` in an event-driven architecture, and how do you handle failed or duplicate messages?
 > 🟢 **A:** _"In an event-driven system, I use **SNS** for pub/sub fan-out, **SQS** for decoupled task queues, and **Kinesis** for high-throughput data streams, combined with **idempotency keys** and a **Dead-Letter Queue (DLQ)**."_
@@ -203,14 +203,14 @@ _(Câu hỏi: "Are you comfortable working the evening overlap hours with the US
 > 🔵 **E:** _"For example, when an event is published to **SNS**, it fans out to **SQS** queues. In the Lambda consumer, I check a unique `messageId` in **DynamoDB** so it never processes duplicates, and after three failed retries, the message goes to a **DLQ** for inspection."_
 
 ### Q18. How do you optimize `AWS Lambda` performance and deal with cold starts or timeouts in Node.js?
-> 🟢 **A:** _"To optimize Node.js **AWS Lambda** performance, I keep the deployment package lightweight, reuse database connections outside the handler, and offload long-running tasks to **SQS or Step Functions**."_
-> 🟡 **R:** _"Because initializing SDK clients or database connections inside the handler runs on every invocation, while moving them outside the handler lets warm containers reuse them."_
-> 🔵 **E:** _"For example, I bundle TypeScript code with tree-shaking to reduce cold-start time, initialize the **AWS SDK v3** and DB connection in the global scope, and tune the Lambda memory and timeout settings based on **CloudWatch** metrics."_
+> 🟢 **A:** _"To keep a Node.js Lambda fast, I'd keep the bundle small, initialize clients **outside the handler**, and move long-running work to **SQS or Step Functions**."_
+> 🟡 **R:** _"Code outside the handler runs once per container, so warm invocations can reuse SDK clients and connections instead of creating them on every request."_
+> 🔵 **E:** _"For example, I'd bundle TypeScript with **esbuild**, create the **AWS SDK v3** clients in the global scope, and then **tune memory and timeout** based on the duration metrics in CloudWatch or Datadog. I've practiced this locally; in production, I'd follow the team's monitoring data."_
 
 ### Q19. The JD mentions dealing with support requests and troubleshooting in dev, test, and production using `Splunk` and `Datadog`. How do you approach that?
-> 🟢 **A:** _"When handling support requests or production issues, I use **structured JSON logs** and a **correlation ID** to trace requests end-to-end in **Datadog, Splunk, or CloudWatch**."_
-> 🟡 **R:** _"Because in a microservice architecture, one media delivery request can pass through API Gateway, multiple Lambda functions, and Java services, so a correlation ID connects all logs together."_
-> 🔵 **E:** _"For example, when a support ticket or alert comes in, I search the `correlationId` in **Splunk or Datadog** to find the exact failing service and stack trace, reproduce the bug in test, deploy a fix with unit tests, and update the stakeholders."_
+> 🟢 **A:** _"I troubleshoot with **structured logs** and a **correlation ID**, so I can follow one request end-to-end."_
+> 🟡 **R:** _"In a microservice system, one request can pass through API Gateway, several Lambdas and Java services, and a correlation ID connects all those logs."_
+> 🔵 **E:** _"In my projects, I traced production bugs through **Docker container logs** and our log system, reproduced them, fixed them and added tests. I haven't used **Splunk or Datadog** yet, but I'd apply the same approach: search by correlation ID, find the failing service, reproduce, fix, and update the stakeholders."_
 
 ### Q20. The JD requires experience with both NoSQL (`DynamoDB, Elasticsearch`) and relational databases (`PostgreSQL`). How do you use them together?
 > 🟢 **A:** _"I use relational databases like **PostgreSQL** for structured transactions, **DynamoDB** for high-speed key-value access, and **Elasticsearch (OpenSearch)** for full-text search."_
@@ -223,9 +223,9 @@ _(Câu hỏi: "Are you comfortable working the evening overlap hours with the US
 > 🔵 **E:** _"For example, fetching video metadata is a fast synchronous `GET` request through **API Gateway**, while processing a media upload or syncing external platforms runs asynchronously via **SQS and Step Functions**, returning a `202 Accepted` job ID immediately."_
 
 ### Q22. How do you manage AWS infrastructure using `CloudFormation` or the `Serverless Framework`?
-> 🟢 **A:** _"I use Infrastructure as Code tools like **CloudFormation, AWS SAM, or the Serverless Framework** to define all AWS resources in version-controlled YAML templates."_
-> 🟡 **R:** _"Because managing Lambda functions, SQS queues, IAM roles, and DynamoDB tables in code ensures that development, test, and production environments stay 100% consistent and repeatable."_
-> 🔵 **E:** _"For example, instead of creating resources manually in the AWS Console, I define the API Gateway routes, Lambda handlers, and least-privilege IAM policies in a template and deploy them automatically through the CI/CD pipeline."_
+> 🟢 **A:** _"I believe infrastructure should be **code in version control**, not manual clicks in the AWS Console."_
+> 🟡 **R:** _"That keeps dev, test and production consistent and repeatable, and every change goes through review."_
+> 🔵 **E:** _"In my projects, I used **GitLab pipelines** for CI/CD with Docker. For AWS, I'm practicing **SAM / CloudFormation templates** locally - Lambda, API Gateway, SQS and IAM roles - and I'll follow the team's **CloudFormation and GitHub Actions** setup for deployments."_
 
 ### Q23. The JD emphasizes code reviews, unit test writing, Continuous Integration (CI), and automation testing. What is your workflow?
 > 🟢 **A:** _"I treat **unit testing, automation testing, and thorough code reviews** as a mandatory part of every pull request before merging."_
@@ -233,9 +233,9 @@ _(Câu hỏi: "Are you comfortable working the evening overlap hours with the US
 > 🔵 **E:** _"For example, in my Node.js and TypeScript projects, I write **Jest** unit tests mocking external SDK calls and **Playwright** end-to-end tests, run them automatically in the CI pipeline, and check readability, security, and error handling during code reviews."_
 
 ### Q24. Both JDs mention `Java Spring Boot` and deploying containerized services with `Docker and Kubernetes` on `AWS EKS`. How do you work with that stack?
-> 🟢 **A:** _"Alongside Node.js Serverless, I have experience building **Java Spring Boot** microservices and packaging them with **Docker** for container orchestration on **Kubernetes (AWS EKS)**."_
-> 🟡 **R:** _"Because long-running, compute-heavy backend services often run better on **EKS** containers, while event-driven tasks run on **Node.js Lambda**, and both sides communicate through REST APIs or **SQS/SNS** events."_
-> 🔵 **E:** _"For example, I build REST APIs in **Spring Boot**, package the service into a multi-stage **Docker** image, and use **Kubernetes** deployments, health checks, and ConfigMaps so it scales reliably on **EKS**."_
+> 🟢 **A:** _"I've built **Java Spring Boot** REST APIs in earlier projects and I use **Docker** regularly, but I **haven't worked with Kubernetes or EKS in production yet**."_
+> 🟡 **R:** _"On our team, my role is the Node.js serverless side, and the Java teammates own the EKS services - so my focus is understanding how both sides talk to each other."_
+> 🔵 **E:** _"For example, I know the basics - a Docker image, a Kubernetes Deployment and Service, health checks - and I'm learning how our Node.js Lambdas and the Java services on EKS communicate through **REST APIs and SQS/SNS events**."_
 
 ### Q25. NBCU works in two-week Agile/Scrum sprints with a distributed team (PMs, Engineers, QA, Ops) and values mentoring teammates. How do you collaborate?
 > 🟢 **A:** _"I've worked in **two-week Agile/Scrum sprints** for years, collaborating closely with **Product Managers, QA Engineers, and Operations**, and I enjoy sharing knowledge with teammates."_
@@ -441,4 +441,4 @@ Start now: greet me briefly and ask Q0 ("Tell me about yourself").
 
 ---
 
-_Cập nhật: 09/11/2026 (Chốt: over five years, healthcare = Strapi/Node.js, Q12 dùng Enterprise Learning Portal/NestJS, số liệu N+1 & retry đã xác nhận; thêm Phần 6 luyện phản xạ: bảng trigger, quy trình, ôn ngắt quãng, lịch 09–17/11). Trước đó: 09/11/2026 (Tạo file - chép & sửa ngữ pháp 15 câu hỏi + self-intro + câu hỏi ngược + 15 câu cứu cánh từ bản viết tay của Hiếu; thêm prompt fake interview cho ChatGPT)._
+_Cập nhật: 18/11/2026 (Sửa Q16, Q18, Q19, Q22, Q24 cho trung thực: AWS mới chạy local qua LocalStack, chưa dùng Splunk/Datadog, chưa làm Kubernetes/EKS production). Trước đó: 09/11/2026 (Chốt: over five years, healthcare = Strapi/Node.js, Q12 dùng Enterprise Learning Portal/NestJS, số liệu N+1 & retry đã xác nhận; thêm Phần 6 luyện phản xạ: bảng trigger, quy trình, ôn ngắt quãng, lịch 09–17/11). Trước đó: 09/11/2026 (Tạo file - chép & sửa ngữ pháp 15 câu hỏi + self-intro + câu hỏi ngược + 15 câu cứu cánh từ bản viết tay của Hiếu; thêm prompt fake interview cho ChatGPT)._
