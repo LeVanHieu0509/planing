@@ -281,4 +281,34 @@ User Request → Orchestrator Understands Intent → Selects Best Agents
 
 ---
 
-_Cập nhật: 09/11/2026 (Bổ sung bảng lịch sử Quarterly PA 2026: Q2=7.77, Q3=8.43, Q4 dự kiến ~7.68–7.85 khi update TOEIC 535 + đậu NBCU US; tính trung bình năm 2026 đạt ~8.0 với English TB = 7.33 -> Đủ 100% điều kiện nâng bậc từ E-4 lên E-5 cuối năm 2026; lưu bảng quy chuẩn New Career Path 2026 E-4 -> E-5 -> SE-6 và bảng quy đổi TOEIC khối Delivery). Trước đó: 15/10/2026 (Chốt thi TOEIC T06/2027, có điểm nộp TMA luôn; Hạn nộp chứng chỉ TOEIC 700+ cho TMA: 15/11/2027; Thêm yêu cầu TOEIC 700+ để lên Senior năm 2027). Trước đó: 22/05/2026_
+## 📓 NHẬT KÝ SỔ TAY - BÀI HỌC & QUYẾT ĐỊNH SỰ NGHIỆP (chép từ sổ tay, 18/11/2026)
+
+### 28/10/2026 - Học từ anh Tuyến & anh Đạt
+- Anh Tuyến và anh Đạt có buổi demo với khách, **sai đi sai lại nhiều lần vẫn làm tiếp** → tạo động lực cho anh em.
+- **Cách đối xử với dev khác:** cứ "OK" trước, hỏi **root cause** rồi suy nghĩ làm tiếp - **không gây drama trong daily meeting**. PM tự đo được ai làm thật.
+- **Nhận nhiều dự án dù ngắn** → được đánh giá hiệu suất cao: ai giao gì cũng nhận, rảnh thì **chủ động xin việc** → có thăng bậc, và chứng minh bằng TOEIC. Performance PA tốt sẽ giữ được qua các năm.
+- Năm đầu sau khi xong dự án **Nari**, tiếng Anh phải đủ tốt để giao tiếp → sự nghiệp càng phát triển.
+- **Hùng nghỉ thì Hiếu kế thừa task của Hùng** → điểm cộng PA.
+
+### 05/11/2026 - Nhận dự án NBCU US
+- 19:00 chị Nga nhắn riêng: cần gấp Hiếu tham gia **NBCU US**, trao đổi trực tiếp với khách và support **3 tiếng buổi tối**.
+- Lý do hợp lý để **làm remote chính thức mà không bị giảm lương**.
+- Ở TMA, ai cũng phải làm với môi trường nước ngoài - nhưng **nhận lúc PM cần nhất** thì ghi điểm trong mắt PM. Nếu tiếng Anh còn yếu thì đã nói rõ từ đầu.
+- ⇒ **Bước nhảy nâng cấp bản thân** trên thị trường quốc tế: học văn hoá, cách làm việc, **nói tiếng Anh mỗi ngày**, **được lên lương** (như 1 job freelance buổi tối).
+- ⇒ **TOEIC 700 → lên Senior.**
+
+### 18/11/2026 - Lộ trình TOEIC theo quý (TMA tính điểm English theo quý)
+
+| Giai đoạn | Việc chính | English PA |
+|---|---|---|
+| T11/2026 → T01/2027 (14/11 → 14/01, **2 tháng**) | **Onboard NBCU** - nghe/nói tiếng Anh mỗi ngày + lớp L3 | giữ **535** |
+| T02 → T03/2027 | Quen task NBCU · coach TOEIC từ 27/02/2027 | 535 |
+| **Q2 (T04–T06/2027)** | Cày đề nhiều · **đi thi cuối T06/2027**, target 700 | nộp ngay nếu > 535 |
+| Q3, Q4/2027 | Nếu chưa 700 → thi tiếp, hạn **15/11/2027** | 700 |
+
+> 💡 Ý chính: **"Target thi"** (đi thi để có điểm) chứ không phải **"target phải thi"** (áp lực) → **Performance is key.** Nói nhiều ở NBCU + L3 giúp Listening/Speaking, đến lúc học TOEIC sẽ dễ hơn.
+> ⚠️ **Lưu ý từ AI:** NBCU + L3 kéo **Listening** lên, nhưng **Reading (215) là điểm yếu nhất** và không tự tăng nhờ nói chuyện → vẫn giữ **20–30p Part 5/7** đều đặn trong giai đoạn onboard, không đợi tới T04/2027.
+
+---
+
+_Cập nhật: 18/11/2026 (Chép 3 trang sổ tay: bài học 28/10 từ anh Tuyến & anh Đạt; nhận NBCU US 05/11; lộ trình TOEIC theo quý - onboard NBCU 2 tháng, thi cuối T06/2027). Trước đó: 09/11/2026 (Bổ sung bảng lịch sử Quarterly PA 2026: Q2=7.77, Q3=8.43, Q4 dự kiến ~7.68–7.85 khi update TOEIC 535 + đậu NBCU US; tính trung bình năm 2026 đạt ~8.0 với English TB = 7.33 -> Đủ 100% điều kiện nâng bậc từ E-4 lên E-5 cuối năm 2026; lưu bảng quy chuẩn New Career Path 2026 E-4 -> E-5 -> SE-6 và bảng quy đổi TOEIC khối Delivery). Trước đó: 15/10/2026 (Chốt thi TOEIC T06/2027, có điểm nộp TMA luôn; Hạn nộp chứng chỉ TOEIC 700+ cho TMA: 15/11/2027; Thêm yêu cầu TOEIC 700+ để lên Senior năm 2027). Trước đó: 22/05/2026_
