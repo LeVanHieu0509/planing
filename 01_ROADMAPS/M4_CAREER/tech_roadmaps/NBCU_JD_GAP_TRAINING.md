@@ -37,6 +37,29 @@
 **4. Mẹo khi đang nghĩ bằng tiếng Việt**
 > Chèn 1 cụm đệm có chủ đích để mua 2–3 giây: _"**You know**, …"_ · _"**Well**, …"_ · _"**Let me think**…"_ · _"**So basically**, …"_ - rồi nói câu ngắn. **Không** "uh… um…" kéo dài, **không** im lặng.
 
+
+**5. Tổ chức team (sổ tay 17/11/2026)**
+- **Anh Đức** - team leader phía TMA, quản lý & support Hiếu + 1 member nữa. **3 anh em chung 1 quản lý phía US.**
+- **Daily meeting mỗi ngày.** Anh Đức quản lý nhiều domain US/UK, cũng làm buổi tối.
+
+**6. 🚨 Luật làm việc với khách Mỹ (bắt buộc)**
+| # | Luật | Hiếu làm gì |
+|---|---|---|
+| 1 | Trả lời **thực tế, chuyên nghiệp** | Không hứa suông; chưa chắc → _"Let me check and get back to you by [time]."_ |
+| 2 | **Lỗi là phải support** - nhắn là phải có mặt; call có khi **22:00 → 24:00** | Giữ máy & Slack bật trong ca 2; trả lời trong vài phút |
+| 3 | Làm **chỉn chu, test kỹ** trước khi đưa lên | Chạy test local (LocalStack) + tự review diff trước mỗi PR |
+| 4 | **Chuyên nghiệp & overlap đặt lên hàng đầu** - đêm nào cũng support overlap với Mỹ | Ca 2 là giờ của khách - không làm việc riêng |
+| 5 | **⛔ AI coding tools:** dùng Claude Code mà sai → bị mail nhắc · **code sai không được commit** · **commit & push phải TỰ làm, không để AI tự commit/push** → vi phạm là **phạt nặng, có thể bị loại** | AI chỉ gợi ý/viết nháp · **tự đọc từng dòng, tự chạy test, tự `git commit` + `git push`** · không bật chế độ AI tự động commit trong repo NBCU |
+
+
+**7. Giao tiếp thực tế (sổ tay, tiếp 17/11/2026)**
+- Quản lý bên US **thích nhắn tin hơn nói chuyện** - biết team VN tiếng Anh chưa tốt nên chủ yếu **nhắn (chat)**.
+- Tuỳ dự án & văn hoá: thường **chỉ nói chuyện với 1–2 người** làm việc trực tiếp với mình.
+- **Nghe hiểu ~70% là OK** - cứ nói, rồi học thêm **từ vựng của đúng phần mình đang làm**.
+- **Chờ NBCU response** (cấp quyền/access) thì Hiếu mới join chính thức được.
+
+> 👉 Hệ quả: ưu tiên **viết tiếng Anh ngắn, đúng, rõ** (Slack, PR, ticket) ngang với nói · lập **sổ từ vựng domain** (VOD, channel, episode, ingest…) khi đọc code NBCU.
+
 ---
 
 ## 🧭 0. HIỂU DỰ ÁN TRƯỚC KHI HỌC
@@ -212,4 +235,4 @@ Upload video (S3 presigned URL qua API Gateway)
 
 ---
 
-_Cập nhật: 18/11/2026 (Tick: Lambda+API Gateway, S3 event, DynamoDB, SQS, OpenSearch chạy local qua LocalStack; chạy test source NBCU local thành công). Trước đó: 17/11/2026 (Thông tin onboarding: 3 team, meeting team 22:30–23:30, daily 01:00–02:00 (lệch lịch V7.0, chờ chốt); manager nhấn mạnh Lambda/Step Functions/API Gateway/DynamoDB/GitHub Actions; mẫu daily standup 4 ý). Trước đó: 11/11/2026 (Anh Đạt chốt team: Hiếu ở role NodeJS, Java do anh Khôi + Thức → thêm tuần Node nâng cao 26/11–02/12, Java rút gọn mức đọc hiểu 03–09/12). Trước đó: 11/11/2026 (Tạo file - phân tích 2 JD NBCU: Node.js Serverless & Java AWS Microservices/EKS; gap analysis theo CV; bản đồ chuyển đổi kiến thức sang AWS; dự án thực hành Mini Media Asset Pipeline; lộ trình 12/11 → 09/12/2026)._
+_Cập nhật: 18/11/2026 (Giao tiếp thực tế: quản lý US thích nhắn tin, chỉ làm việc với 1–2 người, nghe hiểu 70% là OK, chờ NBCU response để join). Trước đó: 18/11/2026 (Sổ tay 17/11: anh Đức team leader TMA, chung 1 quản lý US, daily mỗi ngày; 5 luật làm việc với khách Mỹ, đặc biệt cấm để AI tự commit/push). Trước đó: 18/11/2026 (Tick: Lambda+API Gateway, S3 event, DynamoDB, SQS, OpenSearch chạy local qua LocalStack; chạy test source NBCU local thành công). Trước đó: 17/11/2026 (Thông tin onboarding: 3 team, meeting team 22:30–23:30, daily 01:00–02:00 (lệch lịch V7.0, chờ chốt); manager nhấn mạnh Lambda/Step Functions/API Gateway/DynamoDB/GitHub Actions; mẫu daily standup 4 ý). Trước đó: 11/11/2026 (Anh Đạt chốt team: Hiếu ở role NodeJS, Java do anh Khôi + Thức → thêm tuần Node nâng cao 26/11–02/12, Java rút gọn mức đọc hiểu 03–09/12). Trước đó: 11/11/2026 (Tạo file - phân tích 2 JD NBCU: Node.js Serverless & Java AWS Microservices/EKS; gap analysis theo CV; bản đồ chuyển đổi kiến thức sang AWS; dự án thực hành Mini Media Asset Pipeline; lộ trình 12/11 → 09/12/2026)._
