@@ -115,6 +115,29 @@ Blockers:  None. / I'm blocked by… - could someone help?
 
 ---
 
+## 🍻 7. LỜI KHUYÊN TỪ GIÁO VIÊN NGƯỜI MỸ (thầy Jake & cô Monique - lớp L3, 19/11/2026)
+
+### 👨‍🏫 Thầy Jake - thái độ làm việc với người Mỹ
+
+| # | Nguyên tắc | Câu nói thực tế |
+|---|---|---|
+| 1 | **Trung thực, nói thật** - không biết thì nói không biết, **không nói dối** | _"I don't know yet, but I'll find out and get back to you by [time]."_ |
+| 2 | **Đúng giờ, tuân thủ quy tắc** của dự án | Vào meeting sớm 2 phút · làm đúng process (ticket, PR, review) |
+| 3 | **Không nói lung tung** - nói đúng trọng tâm | Kết luận trước, chi tiết sau (BLUF) |
+| 4 | **Không hiểu thì nói không hiểu** - nhờ giải thích lại | _"Sorry, I didn't get that. Could you explain it again?"_ |
+| 5 | **Không gật gù cho qua rồi làm sai ý** | Nhắc lại để xác nhận: _"Just to confirm, you want me to…, right?"_ |
+| 6 | **Làm nghiêm túc, có OUTPUT & log time rõ ràng** | Cuối ngày ghi: ticket nào, làm gì, mất bao lâu, đã push/PR chưa |
+
+### 👩‍🏫 Cô Monique - người California không soi ngữ pháp
+
+- Ở **California** người ta đến từ rất nhiều vùng, mỗi người nói một kiểu → **quen nghe giọng & ngữ pháp khác nhau từ nhỏ** → họ **hiểu ý** Hiếu muốn nói dù ngữ pháp chưa chuẩn. ⇒ **Đừng sợ sai ngữ pháp, cứ nói.**
+- **Không hiểu từ nào → hỏi lại từ đó**, nhờ giải thích: _"Sorry, what does '[word]' mean?"_
+- **Không lừa dối bất cứ điều gì.** Luôn **tạo niềm tin với từng task** được giao → sau này họ **tin và giao task quan trọng hơn**.
+
+> 🎯 **Tóm 1 câu:** _Ngữ pháp không quan trọng bằng **sự rõ ràng & trung thực**. Người Mỹ tha thứ câu sai ngữ pháp, nhưng không tha thứ việc gật đầu rồi làm sai, hay nói dối về tiến độ._
+
+---
+
 ## ✅ CHECKLIST TỰ ĐÁNH GIÁ SAU MỖI LẦN NÓI
 
 - [ ] Câu đầu tiên có trả lời thẳng câu hỏi không?
@@ -123,7 +146,8 @@ Blockers:  None. / I'm blocked by… - could someone help?
 - [ ] Mỗi câu trả lời có dưới 60 giây không?
 - [ ] Có xin lỗi về tiếng Anh không? (phải là KHÔNG)
 - [ ] Tất cả những gì đã nói có đúng sự thật không?
+- [ ] Có chỗ nào chưa hiểu mà vẫn gật đầu không? (phải là KHÔNG - hỏi lại ngay)
 
 ---
 
-_Cập nhật: 07/11/2026 (Tạo file - tư duy trả lời kiểu Mỹ: BLUF, A-R-E, STAR, câu đệm, thói quen cần bỏ, áp dụng NBCU, nguyên tắc trung thực)._
+_Cập nhật: 19/11/2026 (Thêm mục 7: lời khuyên thầy Jake (trung thực, đúng giờ, không gật gù, output & log time) và cô Monique (California không soi ngữ pháp, hỏi lại khi không hiểu, xây niềm tin qua từng task)). Trước đó: 07/11/2026 (Tạo file - tư duy trả lời kiểu Mỹ: BLUF, A-R-E, STAR, câu đệm, thói quen cần bỏ, áp dụng NBCU, nguyên tắc trung thực)._
