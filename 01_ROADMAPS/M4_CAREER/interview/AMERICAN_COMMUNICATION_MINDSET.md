@@ -127,6 +127,7 @@ Blockers:  None. / I'm blocked by… - could someone help?
 | 4 | **Không hiểu thì nói không hiểu** - nhờ giải thích lại | _"Sorry, I didn't get that. Could you explain it again?"_ |
 | 5 | **Không gật gù cho qua rồi làm sai ý** | Nhắc lại để xác nhận: _"Just to confirm, you want me to…, right?"_ |
 | 6 | **Làm nghiêm túc, có OUTPUT & log time rõ ràng** | Cuối ngày ghi: ticket nào, làm gì, mất bao lâu, đã push/PR chưa |
+| 7 | **Rõ ràng & trực tiếp (direct)** - nói thẳng vấn đề, không vòng vo, không ngại báo tin xấu | _"This will be late by one day because the API is not ready."_ · _"I think this approach has a risk: …"_ · _"I need help with X."_ |
 
 ### 👩‍🏫 Cô Monique - người California không soi ngữ pháp
 
@@ -150,4 +151,4 @@ Blockers:  None. / I'm blocked by… - could someone help?
 
 ---
 
-_Cập nhật: 19/11/2026 (Thêm mục 7: lời khuyên thầy Jake (trung thực, đúng giờ, không gật gù, output & log time) và cô Monique (California không soi ngữ pháp, hỏi lại khi không hiểu, xây niềm tin qua từng task)). Trước đó: 07/11/2026 (Tạo file - tư duy trả lời kiểu Mỹ: BLUF, A-R-E, STAR, câu đệm, thói quen cần bỏ, áp dụng NBCU, nguyên tắc trung thực)._
+_Cập nhật: 19/11/2026 (Thêm nguyên tắc 7 của thầy Jake: rõ ràng & trực tiếp). Trước đó: 19/11/2026 (Thêm mục 7: lời khuyên thầy Jake (trung thực, đúng giờ, không gật gù, output & log time) và cô Monique (California không soi ngữ pháp, hỏi lại khi không hiểu, xây niềm tin qua từng task)). Trước đó: 07/11/2026 (Tạo file - tư duy trả lời kiểu Mỹ: BLUF, A-R-E, STAR, câu đệm, thói quen cần bỏ, áp dụng NBCU, nguyên tắc trung thực)._
