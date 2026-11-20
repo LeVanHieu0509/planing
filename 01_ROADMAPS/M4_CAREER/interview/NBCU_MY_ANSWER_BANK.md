@@ -19,23 +19,43 @@
 
 ---
 
-## 🧑‍💼 1. BỘ 3 CÂU DUY NHẤT CHO BUỔI `DRY-RUN` 5 NGƯỜI VỚI ANH ĐẠT & `CLIENT MEETING`
+## 🧑‍💼 1. BỘ 3 CÂU DUY NHẤT CHO BUỔI `DRY-RUN` & `CLIENT INTRODUCTION` (DỰ ÁN `NOVA` — GẶP `SNEHAL PATEL` & `ALEX ROSS`)
 
-> 💡 **Hiểu đúng bản chất buổi họp 5 người (`Khôi, Thức, Quí, Hiếu, Trường`):**
-> Đây là **buổi ra mắt theo nhóm 5 Developers (Group Intro / Kickoff Meeting)** chứ **KHÔNG PHẢI** phỏng vấn cá nhân 1-1 đào sâu 30 phút!
-> Trong một cuộc họp có tới 5 Dev + anh Đạt + khách Mỹ (tổng 30 phút), **mỗi anh em chỉ nói khoảng `1 – 2 phút`**. Vì vậy trong buổi **Dry-run**, anh Đạt sẽ chỉ kiểm tra đúng **3 câu cốt lõi** dưới đây (học thuộc đúng 3 câu này trong 10 phút là xong 100%!):
+> 🔥 **CẬP NHẬT THEO EMAIL ANH ĐẠT GỬI (`18/11/2026 10:11` — `"please read your latest CV version to prepare for the introduction"`):**
+> 1. **Tin cực vui:** CV của **Hiếu Lê** là **1 trong 4 CV đã vượt qua vòng duyệt của chị Tuyền và được anh Minh Nguyễn gửi thẳng cho khách hàng NBCUniversal (`Snehal Patel` & `Alex Ross` — Dự án `NOVA`)**! *(Trường bị loại nên TMA đang tìm người thứ 5 thay thế trước Thứ Tư `25/11`)*.
+> 2. **Dòng thông tin chính thức của Hiếu trên bảng gửi khách Mỹ (`Snehal` & `Alex`):**
+>    - **Role:** `NodeJS AWS developer` · **YOE:** `5` · **Level:** `3`
+>    - **Skills trên bảng & trong CV mới nhất:** `Node.js (NestJS, Express), Java/Spring Boot, React, PostgreSQL, Redis, AWS (EC2, ECS, S3, RDS, CloudWatch)`
+>    - **Điểm mới trong CV gửi khách:**
+>      - **Project 1 (Healthcare):** *"Deployed and maintained backend services on **AWS (EC2, S3, RDS)** and monitored them with **CloudWatch**."*
+>      - **Project 2 (Enterprise Learning Portal):** *"Containerized Node.js backend services with **Docker** and deployed them to **AWS (ECS, S3, RDS)** through **GitLab Pipelines**."*
+> 3. ⚠️ **Tại sao anh Đạt dặn phải đọc kỹ bản CV mới nhất trước khi Introduction?**
+>    - Vì khi bạn giới thiệu bản thân, khách Mỹ (`Snehal` và `Alex`) đang mở đúng tờ CV này trước mặt!
+>    - Câu **Short Introduction** của bạn **PHẢI nhắc đúng các dịch vụ AWS ghi trong CV (`EC2, ECS, S3, RDS, CloudWatch`)** cho phần kinh nghiệm dự án cũ, rồi nối thêm 1 câu là **đang chủ động thực hành `AWS Serverless (Lambda, Step Functions, SQS, DynamoDB)`** để sẵn sàng cho dự án **NOVA**!
 
-### ⭐ CÂU 1 (CHẮC CHẮN 100%): `Short Introduction` (30–35 giây — Khớp bảng `#4: NodeJS, AWS, Java`)
-_(Khi anh Đạt hoặc khách gọi: "Hieu, could you introduce yourself briefly?")_
+### ⭐ CÂU 1 (CHẮC CHẮN 100%): `Short Introduction` (30 giây — Từ vựng siêu đơn giản, khớp 100% CV mới gửi `Snehal` & `Alex`)
+_(Khi anh Đạt hoặc Snehal/Alex gọi: "Hieu, could you introduce yourself briefly?")_
 
-> 🟢 **A (Tên + 5 năm KN + 3 từ khóa `Node.js, AWS, Java`):**
-> _"Hi everyone, my name is Hieu, and I have over five years of experience as a software engineer focusing on **Node.js, AWS, and Java**."_
+> 🟢 **A (Bạn là ai + 5 năm kinh nghiệm):**
+> _"Hi everyone, my name is Hieu, and I have **five years of experience** as a backend and full-stack software engineer."_
 >
-> 🟡 **R (Kỹ năng chính khớp bảng của anh Đạt):**
-> _"My main strength is building backend microservices and RESTful APIs using **Node.js with NestJS and Express**, along with **Java Spring Boot**, and working with **AWS** services like **Lambda, API Gateway, S3, and SQS**."_
+> 🟡 **R (Kỹ năng chính khớp 100% bảng gửi khách & mục `Cloud (AWS)` trong CV mới):**
+> _"I mainly build backend APIs with **Node.js, NestJS, and Express**, along with **Java Spring Boot** and **React**, and I run Docker services on **AWS** using **EC2, ECS, S3, RDS, and CloudWatch**."_
 >
-> 🔵 **E (Dự án gần đây + Sự sẵn sàng 100%):**
-> _"In my recent projects, I built third-party integrations, background job queues, and high-performance APIs with **PostgreSQL and Redis**. I'm 100% dedicated and really excited to work with the NBCU team!"_
+> 🔵 **E (Dự án gần đây + Đang thực hành Serverless cho dự án NOVA):**
+> _"In my recent projects, I built external integrations and background job queues with **PostgreSQL and Redis**. I'm also practicing **AWS Serverless** with **Lambda, Step Functions, and SQS**, and I'm very excited to join **Project NOVA**!"_
+
+---
+
+### ⭐ CÂU 1B (CÂU HỎI SOI CV MỚI — TỪ VỰNG SIÊU ĐƠN GIẢN): Nếu anh Đạt / Khách hỏi *"Trong CV anh thấy em dùng `AWS (EC2, ECS, S3, RDS, CloudWatch)` ở Project 1 & 2, em đã dùng chúng làm gì?"*
+_(Câu hỏi: "I see on your CV you used AWS EC2, ECS, S3, RDS, and CloudWatch. How did you use them in your projects?")_
+
+> 🟢 **A (Nói rõ tên 2 dự án đầu tiên trong CV: `Healthcare` [P1] và `Enterprise Learning Portal` [P2]):**
+> _"In my **Healthcare** and **Enterprise Learning Portal** projects, I used **AWS EC2 and ECS** to run our Node.js services, **RDS** for the **PostgreSQL** database, **S3** to save files, and **CloudWatch** to check logs."_
+> 🟡 **R:**
+> _"I really like this setup because using **Docker** and **GitLab Pipelines** to deploy to AWS made the system stable and easy to manage."_
+> 🔵 **E (Ví dụ nối tiếp trực tiếp ý Docker & GitLab Pipeline ở câu R, không lặp lại danh sách câu A):**
+> _"For example, whenever I pushed new code to **GitLab**, the pipeline automatically built the **Docker** image and deployed it to **AWS**, so we could release updates and fix bugs very quickly."_
 
 ---
 
@@ -55,14 +75,82 @@ _(Câu hỏi: "Are you comfortable working the evening overlap hours with the US
 > 🟡 **R:** _"Because I already finished handing over my previous tasks and adjusted my daily routine for this schedule."_
 > 🔵 **E:** _"So I'm 100% dedicated to NBCU and ready to collaborate closely with the US team every day."_
 
-### 📁 4 dự án trong CV
+---
 
-| #   | Dự án                       | Thời gian         |
-| --- | --------------------------- | ----------------- |
-| 1   | Digital Healthcare Platform | 08/2025 → Present |
-| 2   | Enterprise Learning Portal  | 10/2024 → 08/2025 |
-| 3   | Online Learning Platform    | 04/2023 → 10/2024 |
-| 4   | CRM System (Education)      | 06/2021 → 04/2023 |
+## 📁 1B. GIỚI THIỆU 4 DỰ ÁN TRONG CV MỚI NHẤT (TỪ VỰNG SIÊU ĐƠN GIẢN — 30 GIÂY / DỰ ÁN)
+
+> 🎯 **Khi anh Đạt hoặc sếp Mỹ (`Snehal` / `Alex`) hỏi:** *"Can you walk me through your recent project / Project 1 / Project 2 / Project 3 / Project 4?"*
+
+| #   | Tên Dự án trong CV mới (`TMAResume_SWE_HieuLe`)              | Thời gian         | Tech Stack chính ghi trong CV mới                                                        |
+| --- | ------------------------------------------------------------ | ----------------- | ---------------------------------------------------------------------------------------- |
+| **1** | **Digital Healthcare & Caregiver Support Platform**        | `08/2025 → Present` | `Node.js, Express, Strapi, ReactJS, Flutter, PostgreSQL, Redis, AWS (EC2, S3, RDS, CloudWatch)` |
+| **2** | **Enterprise Learning Workflow & Integration Portal**       | `10/2024 → 08/2025` | `Node.js (NestJS), Python, ReactJS, PostgreSQL, Redis, Docker, GitLab Pipelines, AWS (ECS, S3, RDS)` |
+| **3** | **Online Learning & Assessment Platform**                    | `04/2023 → 10/2024` | `Java (Spring Boot), Node.js (NestJS, Express), ReactJS, PostgreSQL, MongoDB, Redis, Multi-tenant` |
+| **4** | **Multi-Branch Education Management & CRM System**           | `06/2021 → 04/2023` | `Java (Spring Boot), Node.js (NestJS), ReactJS, PostgreSQL, SQL Server, Redis Queue`     |
+
+---
+
+### 🔹 Project 1: Digital Healthcare & Caregiver Support Platform (`Aug 2025 – Present`)
+*(Nền tảng chăm sóc sức khỏe & đào tạo người chăm sóc bệnh nhân — Dự án hiện tại)*
+
+> 🟢 **A (Dự án làm gì & Vai trò của bạn):**
+> _"My first project is a digital healthcare platform for caregivers. I built the backend REST APIs using **Node.js, Express, and Strapi** for both the **ReactJS** web app and the **Flutter** mobile app."_
+>
+> 🟡 **R (Hệ thống chạy ở đâu & Bạn giải quyết vấn đề gì):**
+> _"We used **PostgreSQL and Redis** for data and caching, and deployed the backend on **AWS EC2, S3, and RDS** with **CloudWatch** monitoring to keep the system stable."_
+>
+> 🔵 **E (Việc cụ thể bạn đã làm):**
+> _"For example, I refactored old legacy code to fix data tracking bugs, built the authentication and chat APIs, and used AI tools like **Claude Code and Copilot** to write **Jest and Playwright** tests."_
+>
+> 💡 **Nghĩa tiếng Việt:** Dự án 1 là nền tảng y tế cho người chăm sóc. Em làm REST API bằng `Node.js, Express, Strapi` cho web `ReactJS` và app `Flutter`. Dữ liệu lưu ở `PostgreSQL, Redis` và chạy trên `AWS (EC2, S3, RDS, CloudWatch)`. Em đã refactor code cũ để sửa lỗi lưu dữ liệu, làm tính năng đăng nhập/chat và viết test tự động bằng `Jest, Playwright`.
+
+---
+
+### 🔹 Project 2: Enterprise Learning Workflow & Integration Portal (`Oct 2024 – Aug 2025`)
+*(Cổng tích hợp nhiều hệ thống LMS & tạo khóa học tự động bằng AI)*
+
+> 🟢 **A (Dự án làm gì & Vai trò của bạn):**
+> _"My second project is an enterprise learning portal that connects multiple external Learning Management Systems. I built the backend microservices using **Node.js with NestJS and Python**."_
+>
+> 🟡 **R (Tại sao dùng kiến trúc đó):**
+> _"We used **NestJS and Redis queues** to handle background workflows, **Python** for AI course generation, and deployed our **Docker** containers to **AWS ECS, S3, and RDS** through **GitLab Pipelines**."_
+>
+> 🔵 **E (Việc cụ thể bạn đã làm):**
+> _"For example, I used the **Strategy pattern** to integrate different LMS platforms through one common interface, and used **Redis queues** to automatically retry failed jobs up to three times."_
+>
+> 💡 **Nghĩa tiếng Việt:** Dự án 2 là cổng tích hợp nhiều hệ thống LMS. Em làm backend bằng `NestJS` và `Python`. Dùng `NestJS + Redis queue` chạy ngầm, `Python` tạo nội dung AI, đóng gói `Docker` đẩy lên `AWS (ECS, S3, RDS)` qua `GitLab Pipelines`. Em đã dùng `Strategy pattern` để nối nhiều LMS và làm cơ chế `retry 3 lần` khi job lỗi.
+
+---
+
+### 🔹 Project 3: Online Learning & Assessment Platform (`Apr 2023 – Oct 2024`)
+*(Khác biệt hoàn toàn với P4: Dự án 3 là làm **Phòng học ảo, Ngân hàng đề thi trắc nghiệm (`MongoDB`) & Đa ngôn ngữ / Đa trường đối tác (`Multi-tenant`)**)*
+
+> 🟢 **A (Nhấn mạnh: Thi online, Ngân hàng câu hỏi & Lớp học ảo):**
+> _"My third project is an online learning and exam platform with virtual classrooms and a dynamic question bank, where I built shared backend APIs using **Node.js and Java Spring Boot**."_
+>
+> 🟡 **R (Nhấn mạnh: Đa đối tác `Multi-tenant` + Đa ngôn ngữ + `MongoDB` lưu câu hỏi thi):**
+> _"I focused on **multi-tenant data isolation** and stored flexible exam questions in **MongoDB** alongside **PostgreSQL** because many different schools used this platform in multiple languages."_
+>
+> 🔵 **E (Ví dụ: Lọc dữ liệu theo `tenantId` + Hỗ trợ đa ngôn ngữ + Hướng dẫn dev mới):**
+> _"For example, I refactored the modules to filter every query by `tenantId` so each school could only access its own exams, added multi-language support, and guided new developers joining the team."_
+>
+> 💡 **Nghĩa tiếng Việt (Nhớ 3 chữ: `Thi Online + MongoDB + Multi-tenant`):** Dự án 3 là nền tảng học và **thi trực tuyến** có lớp học ảo và **ngân hàng câu hỏi**. Em tập trung làm **cô lập dữ liệu đa đối tác (`tenantId`)** và lưu đề thi linh hoạt trong **`MongoDB`** cùng `PostgreSQL` bởi vì có nhiều trường dùng chung với nhiều ngôn ngữ khác nhau.
+
+---
+
+### 🔹 Project 4: Multi-Branch Education Management & CRM System (`Jun 2021 – Apr 2023`)
+*(Khác biệt hoàn toàn với P3: Dự án 4 là làm **CRM Tuyển sinh, Điểm danh, Thu học phí (`@Transactional`) & Dashboard Báo cáo Tài chính (`SQL Server + Redis Queue`)**)*
+
+> 🟢 **A (Nhấn mạnh: CRM Tuyển sinh, Thu học phí & Báo cáo tài chính bằng `Java Spring Boot`):**
+> _"My fourth project is a CRM and financial management system that handles student enrollment, attendance, tuition billing, and revenue dashboards, mainly using **Java Spring Boot** and **ReactJS**."_
+>
+> 🟡 **R (Nhấn mạnh: Giao dịch tiền bạc an toàn trên `SQL Server` & Gửi nhắc học phí qua `Redis Queue`):**
+> _"In this project, accuracy and speed were critical because the system processed real tuition payments in **SQL Server and PostgreSQL** and sent thousands of payment reminders through **Redis queues**."_
+>
+> 🔵 **E (Ví dụ: `@Transactional` thu tiền + Chống gửi trùng hóa đơn + Tối ưu báo cáo tài chính `10s -> 400ms`):**
+> _"For example, I used `@Transactional` in **Spring Boot** to keep tuition payments safe, used unique keys in **Redis** to avoid sending duplicate reminders, and optimized slow SQL queries to speed up financial reports from 10 seconds to 400 milliseconds."_
+>
+> 💡 **Nghĩa tiếng Việt (Nhớ 3 chữ: `CRM Thu Học Phí + SQL Server + Báo Cáo Tài Chính`):** Dự án 4 là hệ thống **CRM quản lý tuyển sinh, điểm danh, thu học phí và báo cáo doanh thu** bằng `Java Spring Boot` và `ReactJS`. Em dùng `@Transactional` bảo vệ giao dịch thu tiền trên **`SQL Server`**, dùng `Redis` gửi nhắc đóng học phí không bị trùng, và tối ưu SQL giúp báo cáo tài chính chạy từ `10s` xuống `400ms`.
 
 ### ❓ Câu hỏi ngược lại Team Lead (cuối buổi)
 
